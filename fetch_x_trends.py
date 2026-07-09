@@ -148,7 +148,7 @@ class SimpleHTMLParser(HTMLParser):
 
 
 def get_trends24_trends():
-    """从 trends24.in 抓取热门趋势。"""
+    """从 trends24.in 抓取热门趋势（最新一小时）。"""
     url = f"https://trends24.in/{TREND_REGION}/"
     try:
         html = http_get(url, timeout=30)
@@ -156,58 +156,85 @@ def get_trends24_trends():
         print(f"[trends24] fetch failed: {e}")
         return []
 
-    # 提取第一个 trend-card__list 里的趋势
-    match = re.search(r'<ol class="trend-card__list"[^>]*>(.*?)</ol>', html, re.S)
-    if not match:
-        print("[trends24] trend list not found")
-        return []
-
-    list_html = match.group(1)
-    parser = SimpleHTMLParser()
-    parser.feed(list_html)
-
-    trends = []
     seen = set()
-    for href in parser.links:
-        # href 形如 /united-states/Mets
-        m = re.search(rf"/{re.escape(TREND_REGION)}/([^/]+)/?", urllib.parse.unquote(href))
+    trends = []
+
+    # 页面里 <ol class=trend-card__list> 常不带引号，先取最新一个 ol 列表
+    first_ol_match = re.search(
+        r'<ol[^>]*class=["\']?trend-card__list["\']?[^>]*>(.*?)</ol>',
+        html,
+        re.S,
+    )
+    list_html = first_ol_match.group(1) if first_ol_match else html
+
+    for href, text in re.findall(
+        r'<a[^>]*href="https://twitter\.com/search\?q=([^"]+)"[^>]*class=["\']?trend-link["\']?[^>]*>(.*?)</a>',
+        list_html,
+        re.S,
+    ):
+        name = re.sub(r"<[^>]+>", "", text).strip()
+        name = urllib.parse.unquote(name)
+        if not name:
+            name = urllib.parse.unquote(href).replace("+", " ").strip()
+        clean = name.lstrip("#").strip()
+        if clean and clean.lower() not in seen and len(clean) > 1:
+            seen.add(clean.lower())
+            trends.append({"name": clean, "volume": 0})
+
+    # 后备：如果 ol 匹配失败，尝试从 meta description 提取
+    if not trends:
+        m = re.search(r'<meta name=description content="([^"]+)"', html)
         if m:
-            name = m.group(1).replace("-", " ").strip()
-            # 去掉 hashtags 和重复
-            clean = name.lstrip("#").strip()
-            if clean and clean.lower() not in seen and len(clean) > 1:
-                seen.add(clean.lower())
-                trends.append({"name": clean, "volume": 0})
+            desc = m.group(1)
+            if ":" in desc:
+                parts = desc.split(":", 1)[1]
+                for raw in parts.split(","):
+                    clean = raw.strip().lstrip("#")
+                    if clean and clean.lower() not in seen and len(clean) > 1:
+                        seen.add(clean.lower())
+                        trends.append({"name": clean, "volume": 0})
+
+    print(f"[trends24] parsed {len(trends)} trends")
     return trends[:TOP_N]
 
 
 def duckduckgo_search_x_links(query, max_results=5):
-    """用 DuckDuckGo HTML 搜索 X 帖子链接。"""
-    q = urllib.parse.quote(f"{query} twitter")
+    """用 DuckDuckGo HTML 搜索 X 帖子链接，提取跳转后的真实 x.com/twitter.com 链接。"""
+    q = urllib.parse.quote(query)
     url = f"https://html.duckduckgo.com/html/?q={q}"
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Referer": "https://html.duckduckgo.com/",
+    }
     try:
-        html = http_get(url, timeout=20)
+        html = http_get(url, headers=headers, timeout=20)
     except Exception as e:
         print(f"[DDG] search failed for '{query}': {e}")
         return []
 
     links = []
-    parser = SimpleHTMLParser()
-    parser.feed(html)
-    for href in parser.links:
-        # 过滤 X 帖子链接
-        if re.search(r"(?:x\.com|twitter\.com)/[^/]+/status/\d+", href):
-            # 去掉 DuckDuckGo 跳转包装
-            if href.startswith("//"):
-                href = "https:" + href
-            elif href.startswith("/"):
-                href = "https://html.duckduckgo.com" + href
-            if "duckduckgo.com" in href and "uddg=" in href:
-                parsed = urllib.parse.urlparse(href)
-                qs = urllib.parse.parse_qs(parsed.query)
-                if qs.get("uddg"):
-                    href = urllib.parse.unquote(qs["uddg"][0])
-            links.append(href)
+    seen = set()
+    # 匹配跳转链接：//duckduckgo.com/l/?uddg=https%3A%2F%2Fx.com%2F...%2Fstatus%2F...&rut=...
+    for href in re.findall(r'href="([^"]+)"', html):
+        if "uddg=" not in href:
+            continue
+        if href.startswith("//"):
+            href = "https:" + href
+        parsed = urllib.parse.urlparse(href)
+        qs = urllib.parse.parse_qs(parsed.query)
+        real_url = qs.get("uddg", [None])[0]
+        if not real_url:
+            continue
+        real_url = urllib.parse.unquote(real_url)
+        # 只保留 X/Twitter 帖子链接
+        if re.search(r"(?:x\.com|twitter\.com)/[^/]+/status/\d+", real_url):
+            if real_url not in seen:
+                seen.add(real_url)
+                links.append(real_url)
+        if len(links) >= max_results + 3:
+            break
     return links[:max_results]
 
 
@@ -249,7 +276,7 @@ def fetch_fxtwitter(url):
 
 def fetch_tweets_via_web(trend_name, max_results=2):
     """网页 fallback：搜索 + fxtwitter 获取推文。"""
-    links = duckduckgo_search_x_links(trend_name, max_results=max_results + 3)
+    links = duckduckgo_search_x_links(f"{trend_name} twitter", max_results=max_results + 3)
     tweets = []
     for link in links:
         if len(tweets) >= max_results:
