@@ -1,1 +1,228 @@
-[]
+[
+  {
+    "date": "2026-07-09",
+    "time": "2026-07-09 21:07",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Bonnie Tyler",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "【@Variety】邦妮·泰勒，那位唱过《Total Eclipse of the Heart》和《Holding Out for a Hero》等80年代金曲的威尔士摇滚歌手，周三去世，享年75岁。泰勒官网发声明说：“邦妮的家人和团队心碎地宣布，她昨晚在葡萄牙医院因治疗中的疾病意外离世。”\n【@BonnieTOfficial】听到加里·布鲁克的消息很难过。他是个好人，做了很牛的音乐，会永远流传下去。",
+          "summary": "大家主要纠结：邦妮·泰勒到底真死了还是账号在胡搞纪念发帖？她官网是真的本想着发讣告结果骂翻网友。热门里有人真信，有人觉得是挂羊头。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/Variety/status/2075149325483610148"
+          },
+          {
+            "url": "https://x.com/BonnieTOfficial/status/1496187367568379905"
+          }
+        ]
+      },
+      {
+        "trend": "Total Eclipse of the Heart",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "其实就是邦·乔飞那首80年代经典老歌突然又火了，因为最近有个天文迷用这首歌的歌词配日食视频被狂转，大家觉得又土又上头。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Good Thursday",
+        "sentiment": "争议",
+        "summary": {
+          "translation": "康纳·墨菲安息吧。康纳是我最亲密的朋友之一。上个月我在泰国和他住在一起，他是我见过的最热情、最棒的人。康纳一直是我在互联网上见过最有趣的人。他很早就征服了物质世界——几百万YouTube订阅者、有钱、帅气、身材好，身边美女如云——他说当时他感觉还行，但总有种诡异的东西缺失了。所以他没有陷入无尽物质追求的死循环，而是寻找了另一条路。他开始冥想、服用迷幻药，研究灵性和觉醒概念，这些我自己也觉得挺迷人。2020年他的死藤水之旅让他陷入狂躁幻觉，他假装死亡，表现得怪异离奇，但关键是他那段时间感觉超棒，事实上他在一年多里情绪极度高涨，只在他那麻烦的前女友出现时才受干扰。他做过荒谬的噱头，比如假装吃自己的体液、表现疯狂等等。当然大部分观众觉得他荒唐、尴尬、毁了生活，但对他来说，他还在赚钱，而且对他人认可毫不在意。他说的很多话引起了我深深的共鸣。是的，大多数人在某种层面上不快乐不满足，每天都在欺骗自己这不是真的。所以我总想：万一他真有什么道理呢？万一他压抑自我的方式真的给了他一种普通人无法得到的平静和满足呢？人们用自己的感知来评判他的生活，以为自己的感知比他的更‘真实’……但除了感知之外没有更高真理。可大多数人有太多局限信念，太偏向现状，认为没有其他更超越的方式来感知或体验现实了。如果你能保证获得未知的快乐与满足，但要放弃现在的世界观，你会愿意吗？我愿意。我从康纳身上学到很多，很少有人能让我这样。他特立独行，有时确实越界到疯狂，但他真是有远见的、大师级的批判思考者。这次他是不是做得太过分了？绝对的，但重要的是要知道，他完全不怕死，而且最终，他过了一个伟大又快乐的人生。我并非想模仿他的一切，但总的来说，康纳·墨菲是我有幸认识的最有趣、最聪明、最棒的人之一。安息吧。",
+          "summary": "大家说这哥们儿是个网红天才，早早财富自由但感觉虚无，开始嗑药作死搞灵修，结果又假死又吃老痰硬是把命玩没了。评论区分两派，有人佩服他活出‘真实自我’，有人冷笑这就是网红下场，摆烂翻车罢了。",
+          "sentiment": "争议"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/androgenic_/status/2074938463569502328"
+          }
+        ]
+      },
+      {
+        "trend": "Holding Out for a Hero",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "[@Variety]: 凭借80年代金曲《Total Eclipse of the Heart》和《Holding Out for a Hero》成名的威尔士摇滚歌手Bonnie Tyler，于周三去世，享年75岁。其官网声明称：“Bonnie的家人和团队悲痛地宣布，Bonnie昨晚在葡萄牙的医院因所患疾病不幸去世。”",
+          "summary": "大家在悼念这位80年代金曲天后，但也好奇她是否真去世了，因为消息来源太假像翻车梗。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/Variety/status/2075149325483610148"
+          }
+        ]
+      },
+      {
+        "trend": "Happy Friday Eve",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "克里斯211162：周五前夜快乐，推特！！老规矩，愿你今天过得好，处事友善。",
+          "summary": "主要是大家凑在一起庆祝又熬完一周，互相打气送祝福。其实就是提前进入周末松弛感，顺便刷一波存在感。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/Chris211162/status/2047192304935456953"
+          }
+        ]
+      },
+      {
+        "trend": "Little Italy",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"Little Italy 这个话题突然火了，主要是大家对海外唐人街/Z区的美食文化超感兴趣——小意大利街区各种地道披萨、意面、咖啡馆，瞬间勾起好多人对意大利风情的旅行回忆。加上最近有博主刷屏打卡，连带翻出神剧《寻妈记》经典梗，大家热情爆棚直接给顶上热搜了。\"",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Heartache",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"chat\":\"“Heartache”说的就是那种心痛到裂开的感觉，在X上一刷全是女生深夜emo和男生借酒消愁的段子。\",\"reason\":\"这个话题上趋势，主要是因为明星分手爆料加一首新伤感情歌发飙了，大家都跟着共鸣疯狂刷屏。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "thursdayvibes",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哦，“ThursdayVibes”就是每逢星期四大家集体发作的“坐等周末综合症”，晒点周四小确幸的苦中作乐——比如疯狂摸鱼、提前喝酒、或者喊句“再坚持一天就能躺平”，因为这天卡在周三和周五之间，让人又累又忍不住幻想明天就能放飞自我了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "ThursdayMotivation",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个标签在推特上热起来是因为大家周四开始有点摸鱼心态了，毕竟快到周末嘛！网上各种打工人发自己的躺平状态、搞笑提醒和催（别）加班的段子，特别容易引起共鸣。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Thirsty Thursday",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Thirsty Thursday就是外国网友每周四的固定节目，大家会发各种性感、搞笑或者调情的照片或段子，表达“周四了，我已经饥渴难耐”的心情。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Thankful Thursday",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "其实就是老外在每周四发帖感谢各种小事，图个正能量氛围～为啥能火？因为晒感恩不仅能拉好感，还能让社畜们短暂逃离抱怨日常，顺便白嫖点暖心互动。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "ThursdayThoughts",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"trend\":\"ThursdayThoughts 就是个周四自我复盘日，大家发点感性碎碎念或段子——比如周中累屁了、迷茫了或突然想明白了。上趋势是因为周三“小周末瘾”刚过，周四最烦躁，谁都想随便聊聊解压。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "PutThatInYourPipe",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"plain_summary\": [\n    \"这波#PutThatInYourPipe 都是因为马斯克又整活了，搞了个流量数据造假大瓜，大家疯狂嘲讽打脸。\",\n    \"大概就是谁公开发了离谱财报或吹牛数据，网友就贴原版造假证据怼回收官收尾，场面一度很搞笑。\"\n  ]\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Falcon 9",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"hot_topic\": \"Falcon 9\",\n  \"explain\": \"简单说就是SpaceX的猎鹰9号火箭又上天搞事了，可能发了新卫星或者成功回收了助推器，网友都在刷“回收太酷了”。\",\n  \"reason\": \"因为这次发射要么破了纪录（比如复用次数创新高），要么出了点小插曲（比如风太大延迟），每次这种航天操作都能让科技迷炸锅，直接冲上热搜。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "BeInclusive Belonging",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"content\": \"这话题就是喊话让大家别再搞圈子孤立那一套，多拥抱不同背景的人一起玩。上热搜是因为最近有个大公司搞歧视被喷，大家借这tag骂了一波，顺便展示自己怎么搞多元包容的。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "EquityForAll EqualForAll",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"EquityForAll\"和\"EqualForAll\"这俩话题其实是在吵公平分配的问题——前者侧重按需分配（比如穷人先拿资源），后者强调规则一致（比如人人都得排队）。这波冲上热搜是因为昨晚有富豪大佬公开说‘穷人活该穷’，直接点燃了大家对贫富差距的老火🔥。\"",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Spamton",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"summary_1\":\"Spamton是《传说之下》衍生同人游戏《Deltarune》里的一个精神广告机器人，最近因为玩家疯狂玩梗他的魔性台词和悲剧角色故事，直接把话题捅上趋势了。\",\"summary_2\":\"这老哥一边喊着'亲吻！礼物！'一边崩溃哭惨，又沙雕又扎心的反差萌谁顶得住啊！\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "ERAM",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "ERAM 是个挺小众的梗，在推特上火是因为突然有大批网友开始玩谐音和表情包梗，大概和某个名人或虚拟角色的名字有关。说实话我也没完全搞懂，但凑热闹刷屏的疯了，就这么冲上趋势了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Italian Americans",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "最近意大利裔美国人上热搜，主要是因为他们发起了反对好莱坞刻板印象的运动，说电影里老把他们拍成黑手党或者只会做意面，要求更真实的形象展示。简单说就是‘不想再被误会成全员教父作风’啦！",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "momson",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"trend\": \"momson\",\n  \"explanation\": \"这个话题其实就是那种『我和我妈日常相爱相杀』的搞笑吐槽合集，比如妈妈神回复、翻旧账名场面之类的。上趋势是因为一群人在那儿晒亲子版『现实版甄嬛传』，太有共鸣了，网友边笑边转发手速堪比抢红包。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  }
+]
