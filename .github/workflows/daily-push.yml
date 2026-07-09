@@ -1,0 +1,39 @@
+name: X Daily Hot Tweets Push
+
+on:
+  schedule:
+    # 北京时间每天 12:00 = UTC 04:00
+    - cron: '0 4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run fetch script
+        env:
+          PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+          AI_BASE_URL: ${{ secrets.AI_BASE_URL || 'https://api.deepseek.com' }}
+          AI_MODEL: ${{ secrets.AI_MODEL || 'deepseek-chat' }}
+        run: python fetch_x_trends.py
+
+      - name: Commit history and index
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add history.json index.html
+          git diff --cached --quiet || git commit -m "update: daily x trends ${GITHUB_RUN_NUMBER}"
+          git push
