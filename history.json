@@ -1,5 +1,212 @@
 [
   {
+    "date": "2026-07-10",
+    "time": "2026-07-10 15:25",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "RaisingKanan",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "RaisingKanan 正在推特趋势上，是因为大家上头了在看某个剧里的小可怜角色被养成的故事片段，聊得超疯。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "ValkoWasFramed",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“ValkoWasFramed”这个趋势是在说国外主播Valko被人栽赃陷害的争议，网友们都在扒证据声援他。上热搜是因为他团队硬刚平台和黑粉，放出实锤反转剧情，吃瓜群众全炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "yeonjun",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "崂山（Yeonjun）是韩国偶像组合TXT的成员，这个热搜是因为他刚发布的个人单曲MV里造型太帅了，粉丝疯狂刷屏安利，中国站子也在组织空瓶。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "TheRealMe",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "老铁们，\"TheRealMe\"指的是最近欧美网友集体晒自己卸妆前后、精致照片和日常素颜的对比，其实就是反p图美学。上热搜是因为明星也参与进来了，大家忽然发现原来人都有痘印和双下巴，瞬间治好了容貌焦虑！",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "bb28",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "嗯，这个话题bb28听起来像是个神秘代码，其实它跟国内一个科技圈或游戏圈的梗有关（比如某个博主爆料或事件编号），大家突然都在刷这个数字，估计是因为昨天有人扒出了一段离谱录音或是图裂了？懂的自然懂，不懂的搬板凳看热闹就行。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Shakur",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个叫 Shakur 的人要么是歌手里图派克（2Pac，艺名含Shakur）突然又被考古了，要么是一个外国网红整出大活了。反正点进去一圈，就是老粉丝在感慨爷青回，或者瓜来了大家快吃，总之火了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Marvin",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个话题说的是某个叫Marvin的科技大佬/网红搞了个大动作，比如发了新产品或者撕逼了，瞬间刷屏科技圈。上趋势是因为网友一边吃瓜一边站队，讨论到外网都不够热闹了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Wagler",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"Wagler（瓦格勒）这词突然刷屏，主要是在吵一个外国摄影师还是网红的新争议——有人说他拍野生动物时为了出片造假摆拍，甚至害死小动物。上趋势是因为这事儿戳中了大家‘保护自然还是消费自然’的敏感神经，评论区直接分裂成两派骂战。\"  \n\n（仅输出给定格式）",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Rachel",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"title\":\"Rachel是谁？\",\"content\":\"Rachel 这两天上了热搜，主要是因为外网在疯传一个叫 Rachel 的网友发帖爆料自己“被互联网监视”的离奇经历，大家觉得又科幻又细思极恐，真伪自辩但热度确实炸了。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Eye to Eye",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题讲的是那种两个人面对面、互相盯着眼睛看的事，可能就是网友在讨论眼神交流带来的尴尬或者情感冲击。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Pluto",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"title\":\"Pluto为什么上热搜？\",\"main\":\"其实就是一颗被踢出九大行星的可怜小星球又被NASA发奇奇怪怪的新闻带火了，一堆人开始回忆当年被开除的悲惨历史。\",\"why_trending\":\"因为最近有论文或探测器数据分析重新讨论它算不算行星，网友们趁机集体考古童年考点，顺便起哄吵‘为Pluto正名’的韭菜热度。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "ValkoIsInnocent",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哦，ValkoIsInnocent这个趋势是说有个叫Valko的韩国网红被指控做了不好的事，但粉丝团集体刷话题，坚称他是清白的。啊这——其实就是粉丝和路人在吵架。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Shannon",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Shannon 这个趋势在讨论的是信息论奠基人克劳德·香农的传奇人生，还有他那些超前的脑洞，比如终极机器和迷宫老鼠。上热搜可能是因为有帖子扒了他比艺术家还鬼才的八卦，科技圈和文青党都进来磕了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Evil Dead Burn",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "差不多就是《鬼玩人》系列新游戏《Evil Dead Burn》公布啦，一个你操控主角打丧尸的生存恐怖游戏。上热搜是因为粉丝等了好久终于有续作消息了，加上游戏演示看起来又爽又带劲，自然就炸开锅了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Ty Harris",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Ty Harris是美国女篮明星，刚拿了NCAA总冠军还得了MOP，但她更出名的是在球场上那股拼命劲儿和超强防守。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Money Over Everything",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "```json\n{\n   \"hot_topic_description\": \"简单说就是网友在狂凹'钱最重要'的人生观，美国那边rapper拍MV炫富时最常飘这句话，但这回上趋势是因为马斯克、侃爷这类大佬的资产缩水上新闻，大家突然觉得'钱也不是万能的'、但也接受了'没钱万万不能'这种现实毒打。\"\n}\n```",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "AJ Dybantsa",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哥们儿 AJ Dybantsa 刚才狠刷了一把存在感，因为这大哥不仅在篮球场上一顿操作猛如虎，还偷偷透露了自己大学选择的潜在去处。这样一来，刚还在圈子里疯传他要加入 USC 的谣言彻底被掀翻桌了，球迷们全炸了，刷屏等着看他下一步耍啥把戏。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "No Misery",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“No Misery”这个热搜大概说的是大家想摆脱那种日常的丧和焦虑情绪，拒绝被负能量绑架，活出点爽劲儿来。它上趋势可能因为最近网上苦逼事太多，一堆人突然反应过来：与其内耗不如开摆，直接喊句‘不要悲惨’当宣言。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "California Girls",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "加州女生这个话题又上热搜了，主要是在聊那边的女生穿搭和氛围感真的很有辨识度，有种阳光随性的气质。大家可能都在怀念或向往那种自由不羁的加州生活吧，顺便晒晒自己心目中的加州风。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Tre Johnson",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Tre Johnson 是个篮球新秀，最近在 NCAA 比赛里狂砍高分打炸了，推特上都在刷他的集锦。这小孩才大一就被看好明年选秀顺位飞起，大家激动得像看到未来巨星出生现场。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-07-09",
     "time": "2026-07-09 21:07",
     "source": "trends24.in",
