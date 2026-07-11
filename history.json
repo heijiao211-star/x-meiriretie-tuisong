@@ -1,5 +1,212 @@
 [
   {
+    "date": "2026-07-11",
+    "time": "2026-07-11 14:05",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Caleb Wilson",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Caleb Wilson是个美国网红，最近因为一段跟女友吵架后痛哭道歉的视频火了，大家一边吃瓜一边感慨男生道歉的表情太真实。他被顶上热搜主要因为这视频在TikTok上裂变传播，又被搬到X上引发情侣相处模式大讨论。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "bb28",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"bb28\" 是个短视频平台的暗号梗，最近网友们在扒一个疑似跟风洗脑的付费课程。大家发现这标签下全是吐槽和避雷帖，估计又是割韭菜翻车现场，就冲上趋势了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "SmackDown",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "SmackDown 其实就是WWE（美国职业摔角）的招牌节目之一，跟《RAW》轮流播出，各种剧情、打架、狠话秀到飞起。今天上趋势八成是因为新一期节目里爆了什么大新闻，比如某个超人气选手回归，或者对手之间突然搞偷袭之类的狗血戏码。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "TheLastDriveIn",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n\"topic\": \"TheLastDriveIn（最后一程汽车影院）\",\n\"reason\": \"这其实是电视节目主持人乔·鲍勃·布里格斯（Joe Bob Briggs）的深夜B级片解说秀，粉丝们每周守在屏幕前看他边叨逼叨边放血浆片。\",\n\"trending\": \"因为最近一季上演了奇奇怪怪的cult片（比如20年前的冷门屎尿屁恐怖片），加上活久见的未删减版和主持人各种荤段子吐槽，导致影迷集体发",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Mallory",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Mallory这话题突然火，主要是因为有个妹子发帖吐槽男友把猫粮当零食吃，结果网友炸了，都在扒她家猫吃啥牌子的粮。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Haley",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "大家伙都在聊‘Haley’，其实就是美国共和党那场初选的事儿，黑利又拿出来跟特朗普battle，结果网上一堆人分成两派吵起来了。蹭这个上热搜，纯粹是选举热点加推特网友爱看热闹呗！",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Baron Corbin",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Baron Corbin是WWE摔角手，今天上热搜是因为他在Raw节目里突然转正派（变成好人角色），还当众怼了反派经理，粉丝直接炸了，都在刷“厚待巴伦”。老粉都知道他之前当“独狼”反派太久了，这一反转让人又惊又爽。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jay Z",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哦对了，Jay Z最近上热搜是因为他在新歌或公开场合又cue到了跟某些人的经典恩怨，可能还顺带提了几句行业大瓜，吃瓜群众又开始翻旧账了。反正每次他张嘴，要么是音乐圈地震，要么是回忆杀上线，大家赶紧搬小板凳围观当年那些神级beef。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Adou",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "最近大家都在玩‘Adou’这个梗，基本是用来调侃那些扶不起来的猪队友，比如游戏里疯狂掉线的兄弟。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Gonzalez",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Gonzalez 是今天 X 上的热门话题，具体讨论内容待补充。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "OPLive",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个OPLive其实是海外博主们搞的直播段子合集，算是乐子人天堂，大家边看边吐槽创作者整活翻车，主打真实野生派互动。之所以上榜——毕竟人类对围观网线对面的朋友敢不敢公开发疯这事毫无抵抗力。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Melody",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"刚看了眼趋势，Melody突然冲上来了！她是不是以前的那个中国台湾Melody（殷悦）？可能是有新动态或者又被考古提起，总之大家突然在刷她哈哈哈~\"",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "MutantFam",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n\"科普内容\": \"MutantFam 又是币圈和画手圈的一场狂欢，说白了就是 NFT 圈的某慈善救助项目翻车了，大家接力刷 MutantFam 屠版吐槽加吃瓜。\",\n\"趋势原因\": \"一是项目官号被毒舌外网博主打假，粉丝炸了；二是吃瓜群众在 AI 画画赛道上又发现个惊天大瓜，围观猛蹭造词蹭上趋势咯。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Tim Hill",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Tim Hill这名字在X趋势上榜，可能是某个新闻事件里的关键人物，或者突然被扒出来爆料的素人。大概率是某个行业内的丑闻、争议发言出了圈，又被网友们拱上了热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Eisert",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Eisert 是今天 X 上的热门话题，具体讨论内容待补充。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Emergency",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个热搜谈的是突然发生的危险事件，比如火灾、地震或者某国突发状态，全球网友突然集中刷屏了。一般是因为突发大新闻或者政府发预警，让大家都赶紧关注动态。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Tristan Peters",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"Tristan Peters 是个老哥，好像是国外某个争议事件的主角，被网友扒出来疯狂吃瓜。它上趋势是因为这事儿太抓马，评论区直接吵成了流量密码。\"",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Melanie and Sincere",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "```json\n{\n  \"topic_summary\": \"Melanie和Sincere是国外网友吵翻天的情侣瓜，主要是这对网红夫妻疑似分手又复合的抓马剧情。\",\n  \"trend_reason\": \"因为双方在社交媒体上互骂然后又秀恩爱，瓜多到吃不完，大家就边吃瓜边冲上热搜了。\"\n}\n```",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Blue Ivy",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这说的是碧昂丝和Jay-Z的大女儿，才12岁就在超级碗中场秀、格莱美上露脸，最近因为跟老妈同台演出镜头感爆棚上了热搜。小姑娘台风稳得一批，网友都在夸她星二代天花板，继承爹妈音乐基因实锤了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Koa Peat",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Koa Peat是个美国大学生篮球运动员，因为比赛里突然超神发挥或者有什么劲爆数据，在推特上刷了一波存在感。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-07-10",
     "time": "2026-07-10 15:25",
     "source": "trends24.in",
