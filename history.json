@@ -1,5 +1,212 @@
 [
   {
+    "date": "2026-07-12",
+    "time": "2026-07-12 14:24",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "McGregor",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这哥又上热搜了，估摸着是又在那儿喊要打UFC复仇战，或者跟某人撕逼放狠话了；懂哥都知道他就是靠嘴炮和拳头轮流营业，每次嗨起来都能刷屏几个月。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "UFC329",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "UFC329就是最新一场格斗大赛，张伟丽又赢了，中国拳迷直接刷爆热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Argentina",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Argentina上热搜了，大概是因为阿根廷最近通胀炸裂，老百姓疯狂吐槽经济要崩了，或者梅西又圈粉了被大家狂转。反正不是足球赢了就是穷人哭了，南美老铁的日子太有梗了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Paddy",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Paddy这事突然上热搜，主要是大家猜测暗指某个明星或者梗，加上网友们疯狂玩梗猜测才刷上去的。具体是啥我也不全懂，反正跟着吃瓜就对了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Switzerland",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{  \n  \"trend\": \"Switzerland\",  \n  \"situation\": \"瑞士因为宣布对某些‘非主流’加密货币实施新监管措施，或者一场雪山意外事件，突然在外网炸了锅。（也可能是因为某个名人去滑雪被拍到表情包）。\",  \n  \"reason\": \"不然就是这些人平时太安静，一有点风吹草动——比如银行政策调整或是暴雪封路——大家就疯狂转发，显得像‘突发大事’似的。\"  \n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Embolo",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Embolo 是瑞士前锋恩博洛的昵称，突然上趋势是因为他在欧冠打进关键球，引爆了球迷的狂欢讨论。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Swiss",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Swiss 是今天 X 上的热门话题，具体讨论内容待补充。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Holloway",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Holloway是一个英文词，最近在X上突然爆火是因为一个叫'Just Stop Oil'的环保组织搞事情——他们冲着名画《向日葵》泼了番茄汤，而Holloway据说是案件相关的地名或人物代号。大家一边吃瓜一边吵：这算行为艺术还是真·多管闲事？反正热搜是蹭蹭涨了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Paredes",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Paredes 是今天 X 上的热门话题，具体讨论内容待补充。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Dana White",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“今天热搜上的Dana White（UFC老板）又整活儿了——要么是嘴炮康纳复出被他一顿吐槽，要么他又在镜头前爆粗力挺自家选手。反正这大哥一开口，拳迷和吃瓜群众就自动搬小凳子围观，老段子手了。”",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Alvarez",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Alvarez 是今天 X 上的热门话题，具体讨论内容待补充。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Norway",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "挪威这话题上热搜，大概率是神秘极光或者哪个网红跑去拍vlog了。也可能是全球宜居榜出来，他们又用高福利和公共设施甩全世界一脸。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jake Paul",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"explanation\": \"Jake Paul又整活儿了，他在拳击赛里用犯规KO了网红选手Mike Perry，结果惹毛了所有人，热搜直接炸了！\",\n  \"reason\": \"因为他本来就是个自带争议的网红哥斯拉，这次比赛还疑似打假拳，观众和圈内人都骂疯了，不火才怪。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Suiza",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Suiza其实就是西班牙语里对瑞士的叫法。这会儿上热门可能是因为某国网友看到瑞士的风景或福利又在发酸，要么就是有个梗在刷，喷了几句中立的吐槽火起来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Inglaterra",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "英格兰上热搜要么是足球赛赢了/输了，要么是王室又搞大新闻（比如女王/国王的八卦），英国人一激动全球跟着吃瓜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "UFC239",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "简单说就是格斗迷们炸了，因为那晚有‘骨灰级狠人’骨头琼斯和‘母狮’努涅斯的封神大战，双双卫冕金腰带，打得超刺激还有意外爆冷！这水平一晚上就刷爆票圈科普界和格斗圈。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Scaloni",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"summary1\":\"Scaloni就是阿根廷国家队那个教练，带梅西他们拿世界杯后直接在Twitter炸了，今天突然刷屏是因为他续约或者比赛阵容啥的又被大家惦记上了。\", \"summary2\":\"球迷一边吹他战术牛掰，一边担心他走人，评论区吵得跟我朋友圈抢红包群里一样热闹。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Aaron Rodgers",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "兄弟们，Aaron Rodgers又上热搜了，主要是因为他最近表示可能不接种疫苗就回归NFL打球，这波操作在美国网友里炸开了锅。支持他的人说是“个人自由”，反对的人骂他“对团队不负责”，争议拉满自然就冲上趋势了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "ARGSUI",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "ARGSUI其实是个挺魔性的词，Argo和SUI两个项目搁这儿融合玩梗呢，等于币圈玩家自封的谐音梗土狗——瞬间就像当初的BONK那样冲上热搜了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Toonami",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Toonami 是今天 X 上的热门话题，具体讨论内容待补充。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-07-11",
     "time": "2026-07-11 14:05",
     "source": "trends24.in",
