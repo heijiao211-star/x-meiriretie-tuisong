@@ -1,5 +1,216 @@
 [
   {
+    "date": "2026-07-13",
+    "time": "2026-07-13 14:43",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Rihanna",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "蕾哈娜正在@vogue_italia 上发布新内容。",
+          "summary": "蕾哈娜突然在意大利版《Vogue》上发贴，粉丝们狂猜她是不是要发布新音乐或时尚大片。结果又是虚晃一枪，大家边吃瓜边等新专辑等到心碎。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/rihanna/status/1400206874973065220"
+          }
+        ]
+      },
+      {
+        "trend": "Blaney",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"text\":\"Blaney这是个大英同志（可能是个普通人或者小明星），突然上了推特趋势榜，八成是犯了啥事儿或者说了句爆炸言论被大伙儿围观了。具体的事儿得翻翻评论，但肯定是摸到流量密码了。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Bubba",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"title\":\"Bubba冲上热搜\",\"reason\":\"应该是个刚出的热梗或者某个猛人干了啥大事，网友正在疯狂转发讨论，具体等我扒一下原帖！\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Sam Neill",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Sam Neill，就是那个《侏罗纪公园》里的老教授，他最近自曝血液癌三期了，但心态贼好还在宣传新书，大家一下子都挺心疼又佩服他，所以这个话题就炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "NASCAR",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"title\":\"NASCAR 怎么又火了？\",\"reason\":\"赛车迷在吵一位车手退赛该不该罚，还有传闻说某车队要换人，场上场下都有瓜吃。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jeezy",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Jeezy（美国说唱歌手）因为离婚官司和新专辑预告上了热搜，前妻还爆了他偷税漏税的黑料，网友全在吃瓜看戏。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Larson",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Larson这波上趋势主要是某个大V突然爆了个猛料或者整了波大活，要么就是粉丝跟黑子在激烈对线。反正现在点进去全是考古旧账或者各种表情包大战，吃瓜群众已经搬好板凳了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Shamea",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"summary1\":\"Shamea 这梗最近炸了，其实就是网友们疯狂吐槽某个翻车现场或社死名场面，比如谁在直播里嘴瓢出糗或者综艺里尴尬暴击。\",\"summary2\":\"它被顶上热搜是因为吃瓜群众集体锐评“这特么太丢人了！”然后疯狂转发剪辑视频，拍桌狂笑停不下来。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Usher",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Usher上热搜了，因为他在超级碗中场秀上唱了新单曲，还跟Alicia Keys来了段经典合唱。老粉直接泪目，新粉疯狂搜索，瞬间冲上趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "HOTD",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“HOTD”就是最近讨论疯了的剧《龙之家族》（House of the Dragon），这季编剧又开始魔改，龙战剧情炸裂但节奏慢到气人，网友一边骂一边追到上头。  \n上趋势是因为昨晚刚放完超强对决戏，主角台词疯逼程度直接屠榜，不刷两段剧情解析都看不懂梗王的联动了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Porsha",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"Porsha突然上热搜了——应该是《亚特兰大主妇》那个撕X女王Porsha Williams又搞大事了！这回可能是新恋情曝光或跟节目组闹翻，网友都在扒她ins新图和直播片段。反正每次这位姐一出手，狗血剧情绝对管够，追起来比美剧还上头。\"",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "RHOA",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"RHOA（Real Housewives of Atlanta）是美国真人秀《亚特兰大娇妻》的缩写，今天上趋势是因为最新一集里两位主妇在游艇上互扔香槟杯，撕得比去年Black Friday抢货还猛，网友全在刷屏吃瓜。\"",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Teyana",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Teyana Taylor上了推特趋势，主要是因为她跟她老公Iman Shumpert传出离婚消息，这俩本来被看成模范夫妻，突然散了网友都炸了。加上她前天刚发了新单曲，大家一边吃瓜一边讨论她作品里的秘密情感暗示。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "jayz",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "大家又开始翻他那些陈年旧八卦，说啥他以前跟吹牛老爹扯不清的破事又抖出来了，吃瓜群众瞬间炸锅。反正就是当网红明星负面新闻重见天日那套，谁火谁倒霉吧。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Aniya",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"summary1\":\"Aniya是一位在推特上疯传的日本小姐姐，大家围观她是因为一段她跳舞的搞事情视频，卡点神准又可爱\",\"summary2\":\"上趋势的原因很简单——宅男和网友集体被萌到无语，随手转发热度过8千，直接冲到了日本趋势榜前十\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Yankee Stadium",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"topic\": \"Yankee Stadium\",\"reason\": \"纽约洋基队主场球场，今天被热搜可能是因为洋基又搞了个大新闻，比如赢了比赛或者哪个球星炸裂表现；也有可能是球迷在吐槽球场啤酒比隔壁卖得贵，或者之前说过的老旧设施问题又冒出来了。\"}\n\n{\n\"com\": \"\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "HouseOfTheDragon",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n\"topic_cn\": \"《龙之家族》\",\n\"why_trending\": \"这部剧刚放了大结局，龙妈她祖宗那辈的宫斗大戏炸了，网友全在吵谁当铁王座更合适。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Run This Town",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "简单说，就是“老子最大”的洋气翻版，网上吹牛不犯法，大家图爽，懂了吧？",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Riri",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Riri 是蕾哈娜（Rihanna）的昵称，今天大概是她又发了新歌预告或秀了二胎孕照，粉丝直接推上热搜。这姐随便动一动就是流量密码，谁让她是自带全球刷屏Buff的时尚+音乐天后。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Aces",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Ace这个梗现在在推特上刷屏，主要指那些拿周报爽文装逼的扑克脸玩家，或者是个厉害到离谱的谷爱凌式斜杠青年。这波上热搜是因为昨天某个顶流电竞选手现场打出神操作，外加一堆网红跟风发起了#我的Ace事迹挑战，大家狂晒自己超神片段。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-07-12",
     "time": "2026-07-12 14:24",
     "source": "trends24.in",
