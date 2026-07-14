@@ -1,5 +1,226 @@
 [
   {
+    "date": "2026-07-14",
+    "time": "2026-07-14 14:02",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Jordan Walker",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"Jordan Walker突然上热搜，主要是因为这位圣路易红雀的棒球新秀最近表现炸裂，好到让球迷疯狂转发他的本垒打视频。大家都在议论他是不是要冲击年度最佳新秀，所以话题直接爆了。\"",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "HRDerby",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "[@MLB]: 小卡米内罗宣布他将成为第一位参加@TMobile #全垒打大赛的选手！比赛将于美国东部时间7月13日晚8点在Netflix直播，特别报道从晚7点开始⚾ 来自卡米内罗的Instagram\n\n[@MLB]: 第一轮超神发挥，随后上演更炸裂的甩棒。😮‍💨 #全垒打大赛",
+          "summary": "全垒打大赛今年的参赛名单出炉了，小卡米内罗第一个官宣入局，大家主要关注选手阵容和Netflix直播的排面大不大。另外那个甩棒操作太嚣张了，球迷们一边看一边乐。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/MLB/status/2071993143700906458"
+          },
+          {
+            "url": "https://x.com/MLB/status/1678580530680348672"
+          }
+        ]
+      },
+      {
+        "trend": "WWERaw",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "[@WWE]：额。哦。🫢 #WWERaw\n[@WWE]：别错过让名字出现在#WWERaw赛场画布上的机会，3月30日周一@TheGarden见！https://bit.ly/40F1VyI",
+          "summary": "第一个帖子就是纯纯表情包式的悬念制造，大家在猜WWE要整什么大活。第二个是比赛现场互动活动的宣传，给粉丝一个露脸机会，饭圈味拉满。总的来说，WWE又在用这种小幽默加实质活动炒热度。",
+          "sentiment": "中性"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/WWE/status/1853611246207021452"
+          },
+          {
+            "url": "https://x.com/WWE/status/2028572315232141798"
+          }
+        ]
+      },
+      {
+        "trend": "Schwarber",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"description\":\"Schwarber火了，因为MLB棒球手希尔瓦最近在季后赛连着轰出变态本垒打，粉丝疯狂刷他名字喊‘爹’，加上争议性庆祝都炸了\",\"reason\":\"这家伙一怒挥三垒就打出了历史级数据，球迷热血上头直接送他上热搜\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Philly",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哎呀，Philly（费城）又上热搜了！大概率是因为76人队或者老鹰队的比赛搞出大新闻，要么就是城市里发生了什么让人眼前一黑的社会事件或者艺术节（比如“芝士牛排”挑战赛？），总之本地人嗨翻，吃瓜群众狂转。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Olivia Miles",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"Olivia Miles这名字今天刷屏了——这个篮球妹今晚NCAA比赛超神表现，各种极限操作直接把对手打蒙，全场数据炸裂到让网友跪着喊‘新生代女版库里’！本地球迷跟媒体直接把她刷上热搜，话题区已经变成吹彩虹屁大赛现场了。\"\n\n```json\n{\"topic\": \"Olivia Miles\", \"summary_chinese\": \"女篮新星今晚大学比赛里杀疯了，连进神仙球+砍下生涯新高，网友全在",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Roman",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哎，Roman又在X上炸了，其实是因为一个长得很帅的模特小哥、或者某个网红突然爆红（具体指谁说不准），大家疯狂刷他帅照嗨到停不下来，好像还跟什么新剧、新广告有关——总之就是在互联网上“靠脸吃饭”惹的祸。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "STLCards",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "STLCards话题在讨论圣路易斯红雀队的棒球卡或球迷周边，肯定是卡片交易、球员珍藏或者什么限量版卡出了新东西，才突然火上了趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Seth",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "不是某个明星惹事，就是经典IP带节奏，老粉和新观众都在刷梗添热度。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Contreras",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"Contreras这个词今天突然刷屏，其实是国外某位体育明星（也可能是政治人物）的姓氏，相关新闻或争议瞬间引爆了讨论。简单说就是有人搞事情被骂上热搜了，或者是个刷屏的梗，外网吵翻了咱们看着乐就行。\"",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Phillies",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"title\":\"Phillies球迷又整活了，费城人队在MLB季后赛冲得猛，粉丝嗑CP（看球vs追星）直接把#Phillies送到热搜第一，热度炸了。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Lyra",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Lyra 主要是说一个神秘美女账号在推特上火了，因为发了些性感到让人脚趾抠地的照片和暧昧文字，加上有人扒她以前是AV女优，吃瓜群众集体炸了锅。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Caleb Wilson",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“Caleb Wilson 这哥们儿因为对某件事的魔性吐槽/神操作（具体得看版本，大概是搞了个离谱挑战或者言论翻车？）直接被网友送上热搜，一堆人围观他到底是真勇还是真虎，吃瓜吃到飞起。”",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "SummerSlam",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"summerslam_desc\":\"SummerSlam是WWE年度最炸的摔角大赛之一，今年的这场估计又整了什么活，比如谁干翻了老对手或者搞了个惊天反转。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Bayley",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"title\":\"摔角小姐姐Bayley火了\",\"reason\":\"大家发现她新造型超帅，还被传要搞大事，粉丝直接刷屏顶上了热搜\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Brayden Burries",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个热搜说的是一个篮球小将Brayden Burries在全国赛上打疯了，高中生爆砍50+搞得全网炸了窝。大家嗑颜又馋球技，嫌他未来可能比现在的NBA保安还火，就一股劲冲到趋势上了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Michael Buffer",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"title\":\"Michael Buffer是谁？\",\"content\":\"Michael Buffer就是那个每次拳击比赛开场喊Ladies and Gentlemen的大爷，他喊一句赚几百万美金那种。\",\"reason\":\"最近他可能又有新动作或者被老视频翻出来玩梗了，这人每次上热搜都跟钱和花活离不开。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Cardinal",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"Cardinal\"突然上趋势，其实是在聊美国大选里的“红雀”标志——这玩意儿被网友玩出了花，有人说是某位候选人的暗号，也有人吐槽媒体过度解读。总之就是吃瓜群众开始狂欢，把政治梗当段子刷屏。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "James Franco",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "James Franco突然上热搜了，他因为在2014年性侵指控后又吃了更多官司，最近被人扒出来当初装模作样的道歉根本没诚意。大家直呼这老哥人品翻车不止一次，早该凉透了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Tzuyu",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "台湾歌手周子瑜最近在推特上热搜，主要是因为她的新动态或者舞台表现又圈粉了。粉丝们疯狂转发她的美图或者行程，所以话题一下子冲上趋势榜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-07-13",
     "time": "2026-07-13 14:43",
     "source": "trends24.in",
