@@ -1,5 +1,216 @@
 [
   {
+    "date": "2026-07-15",
+    "time": "2026-07-15 14:05",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "AllStarGame",
+        "sentiment": "争议",
+        "summary": {
+          "translation": "美国联盟#全明星赛首发阵容（周二晚8点，MLB福克斯直播）：Semien二垒、大谷翔平指定打击、Arozarena左外野、Seager游击、Díaz一垒、García右外野、Hays中外野、Jung三垒、Heim捕手，Cole投手。",
+          "summary": "吵啥呢？球迷又在撕阵容偏心不偏心，大谷凭啥当先发DH。看点在投手Cole面对这堆暴力打线，指望明天别翻车成喜剧。",
+          "sentiment": "争议"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/MLB/status/1678468648376082449"
+          }
+        ]
+      },
+      {
+        "trend": "Alvin",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"Alvin啊，其实就是推特上突然火了的一个标签，大概率是某个叫Alvin的人搞了大新闻，比如奇葩发言、翻车事件或者神级操作，大家一窝蜂开始吐槽或者玩梗。上趋势原因嘛——吃瓜群众就爱看这种有戏剧性的小故事，一键转发加上疯狂吐槽，热度自然就炸了。\"",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Miguel Vargas",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "最近关于这老哥的热搜主要是因为他在MLB打出了一波神操作，或者跟转会相关的大新闻。反正棒球迷们直接炸了，评论区都在喊‘这才是真·美洲豹’。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Standard Time",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "唉你们刷推看到的“Standard Time”（标准时间）啊，就是网友们突然开始吐槽冬令时那脑子转不过来的作息，顺便调侃要调整生物钟好几天才能适应天黑这么早。  \n这话题能上热搜呢，纯粹是因为每年调时间总有一堆人困得直骂娘，再加上有人吐槽傻逼制度都旧时代遗留问题了赶紧废除吧。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Cody Bellinger",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Cody Bellinger 是今天 X 上的热门话题，具体讨论内容待补充。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "National League",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "National League今天冲上热搜，主要是在讲美国国家联盟的季后赛激战正酣，勇士和道奇这些强队又到了抢戏的时候。球迷们为了谁进世界大赛吵得热火朝天，顺带还把“山羊”之争扯出来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Cameron Carr",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哦 Cameron Carr 刚刚在Twitter炸了，好像是某位有争议的人物或事件引爆的讨论。上趋势可能是因为大家吵得特别凶，或者他的新动态戳中了吃瓜群众的共鸣点。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "GPT-5.6 Sol",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"overview\": \"GPT-5.6 好像是OpenAI开发的一个在聊天里自带’自我纠正’功能的新版，官方说能降低胡说八道的概率，听上去像在悄悄修bug。\",\n  \"reason_for_trending\": \"最近AI讲瞎话的负面案例频繁上热搜，这版本刚好撞上风口，加上有科技博主提前试用溢美之词，吃瓜群众要么震撼要么吐槽，直接冲上趋势浪尖。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Cam Carr",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "其实就是英国有个叫 Cam Carr的16岁台球天才小伙，刚拿了冠军但颁奖时拒绝和对手握手，被骂‘没教养’直接吵上趋势了。老外吵的点就俩：一边说他年纪小气盛正常，一边咬死这是缺乏体育精神。😅",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "American League",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哥们，‘American League’通常是美职棒（MLB）的美国联盟比赛上了热搜，很可能今天有焦点战（比如扬基打太空人）或者常规赛排名突变。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "NDAA",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "NDAA是美国国防授权法案的缩写，每年国会都要吵一嘴最新版本的军费怎么花，今年又因为碰上了要不要卡对中国搞黑科技合作、立陶宛跟台湾咋搞这些敏感事儿，直接冲上热搜吃瓜了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Dave Roberts",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "今天推上大家都在刷Dave Roberts，因为他作为道奇队主教练带队赢了世界大赛，这波操作把宿敌洋基队压得死死的，被人夸成关键时刻永远不手软的大心脏教头。所以热搜基本就是球迷狂欢加梗图轰炸，顺带吵吵他明年能不能再续个狠合同。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Ray Charles",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "大概是因为有人翻出他的经典名曲《Georgia on My Mind》或者某个纪录片片段，突然炸出一堆回忆杀。网友感慨这老哥又盲又厉害，灵魂乐鼻祖的地位让这话题自然刷上趋势了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Klay",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“Klay”上热搜跟勇士队的克莱·汤普森（Klay Thompson）有关，估计是因为他转会独行侠或者最近状态爆棚又被怀念了。总之球迷都在刷“佛光普照”，老粉懂自懂。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "WWENXT",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"topic\":\"WWENXT\",\"summary1\":\"简单说，就是WWE旗下的一个年轻选手品牌节目，类似“职场新人赛”，各种打打杀杀特别刺激。\",\"summary2\":\"上趋势是昨晚有新赛果或者某位大神回归了，摔迷们在疯狂刷屏刷出来的热度，堪比过年放鞭炮！\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Bovino",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Bovino好像是个国外网友梗，最近在推上疯狂刷屏，大概跟某个离谱的憨憨行为或动物搞笑视频有关吧。能上趋势八成是因为太沙雕或太魔性，大家忍不住跟着一起玩梗吃瓜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jack Smith",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Jack Smith是负责调查特朗普案件的特别检察官，最近他提交了新起诉书，针对特朗普2020年大选干预案。话题火是因为这案子法律上很劲爆，特朗普团队又怒吼‘政治迫害’，两边粉丝直接干上热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Blue Beetle",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"topic\":\"关于DC超级英雄《蓝甲虫》电影的热议。\",\"reason\":\"主要是电影上映后口碑炸了，好多网友狂赞这是年度最佳超级英雄片，加上拉丁裔主角和神似钢铁侠的酷炫战甲，直接冲上热搜。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Daylight Savings Time",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哎呀，大家今天都在聊“夏令时”，就是因为美国加拿大又双叒叕调钟了！这破规矩每次变来变去都让人生物钟乱套，网上全是骂“谁发明的这玩意儿”和抱怨今天少睡一小时的朋友圈，所以一早上就冲上趋势了呗。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Dame",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Dame 这词这几天突然在X上刷屏了，原本是英式俚语里对女士的尊称，现在被玩成梗，活像朋友视频里看到帅哥猛女直接喊“女王驾到”。势头这么猛，估计是欧美圈又出了什么搞笑的王婆卖瓜，比如辣评迪斯科女王行为，大家跟着刷乐子的。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-07-14",
     "time": "2026-07-14 14:02",
     "source": "trends24.in",
