@@ -1,5 +1,219 @@
 [
   {
+    "date": "2026-07-16",
+    "time": "2026-07-16 14:08",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Messi",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"topic\": \"Messi拿世界杯了还成趋势？主要是他代言的那款手游被扒出套路玩家氪金，大家一边骂一边笑他恰烂钱。不过也有人趁机刷他历史夺冠时刻，暖场加撕扯混着来。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "ESPYs",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "ESPYs就是体育界的“奥斯卡”颁奖典礼，现在上热搜基本是因为又有人拿了年度最佳运动员，或者谁在台上整活儿搞笑呢。简单说，这就是体育迷们一年一度集体高潮的大瓜源头！",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "AEWDynamite",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "「#AEWDynamite #新年盛典 本周三晚8点ET/7点CT，@TBSNetwork 直播！在丹佛的朋友，一起来跨年！购票→AEWTIX.com」「👀 ??? #AEWDynamite」",
+          "summary": "大家追的是AEW新年特别节目的直播预告，有人看时间地点，有人被官方那句“👀???”整懵了——明显是在吊胃口卖关子，评论区估计都在猜到底是啥大惊喜或选手回归。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/AEW/status/1607557001495592961"
+          },
+          {
+            "url": "https://x.com/AEW/status/1585425899389952002"
+          }
+        ]
+      },
+      {
+        "trend": "Blue Angels",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"蓝色天使\"是美国海军飞行表演队的阔气外号，最近在推特上刷屏是因为他们刚刚揭晓了2025年新涂装，那珍珠蓝配金色简直帅炸天际，惹得航空粉和军迷狂刷屏。毕竟这种自带BGM的空中杂技班，随便飞个编队就能让网友疯狂存图存视频，上趋势不奇怪啦~",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Vance",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "J.D. Vance（《乡下人的悲歌》作者，参议员）最近被热传要当川普的副总统搭档，话题炸了是因为大家吵他是能帮川普多拉票还是纯属有毒队友。\n为啥上热搜？俄亥俄州集会他放了句狠话“要是副总统不顾国会就能跳过认证选举”，保守派狂喜，自由派骂翻，媒体疯狂截图。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "ValkoIsValuable",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"topic\": \"ValkoIsValuable\",\n  \"intro\": \"这话题主要是在说一个叫Valko的人或东西特别值钱、有价值，像在骂资本圈钱但莫名成梗了。上趋势可能因为Valko粉丝疯狂刷屏，或者有争议性事件引发围观。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "NextGenNYC",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"about\": \"NextGenNYC 是纽约一群年轻人搞的线下活动+线上运动，讨论该怎么让这座城市变得更好玩、更公平。\",\n  \"why_trending\": \"啊主要是这帮人搞了个“未来纽约”口号特别火，吸引了一堆网红和大V转发，加上纽约本地新闻疯狂报道，直接冲上热搜了。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Kaitlyn Chen",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这姐们好像是干了件离谱的事，被网友疯狂扒皮，讨论热度直接炸了。具体细节不清楚，但看趋势感觉像是翻车现场，大家都在吃瓜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Bellingham",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Bellingham火了主要还是因为他在皇马踢得太猛，最近一场比赛又carry全场破门，让球迷嗨翻了。加上他下一场要对阵老东家多特蒙德，话题一下就炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Tuchel",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"图赫尔这是要回英超搞事情啊！😂 因为切尔西近期战绩拉胯、主帅波特被骂成筛子，突然传出前主帅图赫尔可能回归的流言，老球迷直接炸了——毕竟他是带车子拿欧冠的男人，吃瓜群众都在猜这是救火还是埋雷。\"",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Streamer University",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哈哈，Streamer University 就是讲现在网红博主们开办的各种“培训课”，教人怎么搞流量、直播带货，结果被网友扒出好多是割韭菜的，笑死！能上趋势八成是因为最近又有大主播翻车，吃瓜群众都在围观“学霸”变“学渣”的故事呢～",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Pensacola",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n\"topic\": \"Pensacola\",\n\"intro_zh\": \"Pensacola突然上了趋势，八成是美国佛罗里达那个海滨城市出了啥热闹事——要么是飓风又来了、要么是军舰又在那边整活儿，或者就是网红整了个海滩跳伞翻车视频，赶紧点进去看吧！\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Rogan",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "说的是推特用户最近猛刷‘Rogan’，大概率是指北美顶流播客主Joe Rogan，他要么是请了啥重磅嘉宾，比如马一龙或者政治人物，要么是说了个大瓜引发全网撕扯，热度直接窜上趋势榜。就是吃瓜群众又找到乐子了！",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Coppertone",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"trend\":\"Coppertone这老牌防晒霜突然上了推特趋势，大家都在疯狂吐槽它的配方没诚意——说好的防水升级呢？成分表跟十年前一模一样！\",\"reason\":\"起因是网红扒出它新广告吹的牛和实际成分对不上，网友开始玩梗#年度最坚强配方#，直接给骂上了热搜。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "lana",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Lana（Lana Del Rey）上热搜大概是因为她突然发了新歌预告或展示了新造型，粉丝们直接炸开锅。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Ashley",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Ashley是国外短视频平台上突然爆火的一个女生名字，起因是她在直播里一段非常真实扎心的情感吐槽被疯狂剪辑转发。太多人觉得她说的就是自己，直接顶上热搜了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Kevin Knight",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Kevin Knight 是美国一位AI界卷王，最近突然上了推特趋势，因为他用人工智能搞了个疯批实验——把莎士比亚和现代梗混着写诗，效果又骚又好笑。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Massie",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "你搜“Massie”就知道了，10个帖子里9个在骂他，剩下的笑他滑稽。上趋势是因为他又整了个迷惑操作，把网红当救命稻草抱，结果把自己坑成了全网笑柄。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jim Abbott",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "啊Jim Abbott，一个天生没右手的棒球投手，却靠着超强意志单臂杀进大联盟还投过无安打比赛——今天他突然上热搜，大概率是哪条励志片段又被疯转了，或者有人扒他当年逆天跟腱断裂还在丢好球的猛料？",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Ospreay",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Ospreay在推特上刷屏是因为他刚打完一场炸裂的摔角赛，英国小伙自从离开NJPW后关注度拉满。粉丝都在吹他的高空技和硬核职业精神，哪怕你平时不看摔角，也被这波热度轰到一脸懵。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-07-15",
     "time": "2026-07-15 14:05",
     "source": "trends24.in",
