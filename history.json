@@ -1,5 +1,212 @@
 [
   {
+    "date": "2026-07-17",
+    "time": "2026-07-17 14:07",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "China",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "中国又上热搜了，主要是最近华为新机、芯片自主和海外旅行热度炸了，老外也在刷屏讨论。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Friendly",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Friendly这词上热搜是因为好多网友在晒自己偶遇路人主动帮忙/微笑的暖心小故事，突然就刷屏了。大概就是一股正能量突然爆火，大家想给社畜日子加点糖。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "The Odyssey",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"《奥德赛》突然上热搜，主要是特朗普在演讲里引用奥德修斯回家打坏蛋的梗，来骂政敌堵他路😂 大伙儿一边复习史诗一边玩梗，中二浓度拉满。\"",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "TrumpSpeech",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "特朗普又整活了呗，刚发了个激情演讲拉票，内容那叫一个火药味十足，直接炸上推特热搜。大家都围观看他这回又骂了谁、吹了啥牛，外加一堆人站队掐架。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "steve lacy",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"topic\": \"Steve Lacy\",\n  \"summary_cn\": \"Steve Lacy 最近因为一首老歌翻红加上新搞的节奏吉他伴奏有点毒，全网都在翻唱他的《Bad Habit》；这哥们本来是个冷门独立音乐人，突然因为抖音/B站的二创爆了，大家疯狂扒他那些骚气的和弦，简直一夜之间成了编曲老师的新晋男神。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "BTS_NORMAL",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个话题其实没多大意思，就是一堆混子在那儿刷屏带节奏，差不多算是一波人自己强行玩梗的狂欢吧。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "gracie abrams",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"explanation\": \"Gracie Abrams的粉丝在刷她的歌和巡演信息，因为她刚发了新作品或者演唱会有新动静，这姑娘的歌挺走心，吸引了一堆人上X吵吵着要听。\",\n  \"reason\": \"上趋势主要是因为她最近推了新歌或宣布了巡演，加上她爸是著名导演J.J. Abrams，自带流量，而且粉丝爱在X上安利她的歌词截图。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "zzzSpecialProgram",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哎呀就是那个被吹爆的动画短剧《ZZZ》（绝区零）的特制节目啦！因为制作组突然放大招，放出了超炫酷的战斗新片段和搞怪彩蛋，玩家们直接嗑疯了，一下就刷上了热搜~",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "ABC and NBC",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哈？ABC和NBC这两家美国大电视台最近在推特上吵翻天了，原来是因为ABC在辩论中暗戳戳拉踩NBC，说人家报道不公正，结果两边粉丝就杠上了🔥。这事儿冲上趋势纯属吃瓜群众爱看媒体互撕，顺便聊聊哪家报道更靠谱，挺像咱们选“湖南卫视vs浙江卫视”的套路（不过火药味更呛点）。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Devens",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Devens是个科技圈的调侃梗，讲的是用威士忌酒名替换公司经理这种看起来炫酷但实际没啥用的创新点。这词能火起来就是因为大家憋久了，逮着黑色幽默狂吐槽职场内卷。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Deep State",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "‘深层政府’这词儿现在推特火得不行，主要是一堆人觉得幕后有看不见的官僚集团在操控国家大事，比明面上的总统还牛。最近又因为某机构泄密或者换届扯皮，大家又开始怀疑他们在暗中使绊子，直接炸了话题榜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Astra",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Astra在X上是个科幻/太空相关的梗，大概是指一家差点成功的火箭公司或者一部AI主题电影。上热搜估计是因为他们又搞了个新花样，比如火箭炸得很漂亮，或者有人拿它跟ChatGPT比谁更会撩。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Nolan",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"summary_1\": \"Nolan 上热搜是因为诺兰新片《奥本海默》横扫奥斯卡，大家又聊起他的烧脑神作。\",\n  \"summary_2\": \"其实就是电影圈炸了，一群人在复盘诺兰用时间碎片虐观众底智商的操作，顺便膜拜下大神。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Sounders",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n\"topic\": \"Sounders\",\n\"intro\": \"大家刷到 #Sounders 热搜了吗？这其实是美国西雅图海湾人足球队的绰号，今天他们刚赢了关键比赛冲进季后赛，球迷嗨成这样，就把话题顶上来了。\",\n\"reason\": \"因为赢球太燃，加上官方趁势发了一波庆祝视频，粉丝和路人直接刷屏了，妥妥的本土体育狂欢啊。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "RCTID",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "RCTID其实是“RCT ID”或者某个梗的缩写，今天突然火起来可能是因为魔兽世界/腾讯游戏圈有大事发生。具体为啥上趋势？大概率是玩家搞的集体玩梗或者内部吐槽被炸出圈了，懂的都懂哈。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Ryan Hurst",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Ryan Hurst 突然上趋势是因为他发了一条关于美国银行业稳定性的大胆推文，引发了争议和广泛讨论。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "NORMAL MV",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哦，聊的是“NORMAL MV”啊，就是粉丝吐槽某明星或者团体的新MV拍得太普通、不够惊艳，结果反而因为吐槽太多冲上趋势了。说白了，就是大家觉得你家蒸煮努力了但作品像“高考交白卷”，于是集体上线玩梗刷出了存在感。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Pass the Save America Act",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"text1\":\"简单说，《拯救美国法案》是美国保守派提出的一堆选举改革措施，核心就是堵“漏洞”：加选民ID、限制邮寄选票之类的。\",\"text2\":\"上热搜是因为川普那帮人狂推它，加上共和党媒体疯狂造势，搞得两边人又开始站队互喷了。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "FACT CHECK RATING",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这玩意儿其实是个给社交媒体上那些真假难辨的消息打分的系统，比如让网友投票或者第三方机构来给谣言贴个' fake' 或者 ' real ' 的标签。上趋势主要是因为最近有个大新闻被疯狂传假消息，大家吵着要个靠谱的检验机制，顺便吐槽平台以前的老糊弄式审核。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Chuck",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"topic\": \"Chuck\",\n  \"summary_cn\": \"这波是网友在玩‘Chuck’的谐音梗或者角色梗，可能是某个电影或者沙雕表情包又火了。具体原因是国外网友突然抢着发‘Chuck’相关的内容，就冲上趋势了。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-07-16",
     "time": "2026-07-16 14:08",
     "source": "trends24.in",
