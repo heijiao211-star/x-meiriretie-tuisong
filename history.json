@@ -1,5 +1,212 @@
 [
   {
+    "date": "2026-07-18",
+    "time": "2026-07-18 13:55",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "PerthSantaConcertD1",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"PerthSantaConcertD1 就是澳大利亚珀斯那个圣诞音乐会第一天，现场嗨翻啦！直接冲上趋势是因为粉丝们晒出超多偶遇明星、舞台炸裂的瞬间，还有王嘉尔他弟当圣诞老人送惊喜？直接整活到热搜～ 🤯🎅\"",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "SmackDown",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"topic\":\"SmackDown\",\"description\":\"SmackDown是WWE（世界摔角娱乐）的一个超火电视节目品牌，相当于摔角界的“周五夜狂欢”，每周都有各种疯狂剧情和猛男互殴。\\n这次上趋势是因为昨晚播出的最新一期里有顶级恩怨对决，或者某位明星突然宣布回归/受伤，粉丝们直接炸锅刷屏了。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jimothy",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Jimothy这哥们儿其实是个搞笑meme账号，专门发那种一本正经的'普通白人老哥'日常吐槽，突然上了趋势；大概是有人翻出他一条怼天怼地的神帖笑翻全网，大家觉得太真实就硬给他刷上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Marte",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n\"topic\": \"Marte\",\n\"intro\": \"Marte最近在推特上刷屏，主要是说这个西班牙语名字竟然跟某个火星计划或网红关联上了，大家疯狂@和发梗图。\",\n\"reason\": \"上趋势是因为有人扒出某个明星/项目叫这个名，吃瓜群众开始瞎聊宇宙梗和名字梗，结果越聊越热闹。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Caitlin Clark",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哈哈哈这个Caitlin Clark直接火遍全网，差不多是2024年NCAA女篮的超新星妹纸，她在疯狂三月的比赛打得像个战神一样。之所以上热搜，是因为她以一己之力把女篮关注度拉到新高度，甚至抢了男篮的风头，全美国都在讨论这位现象级新秀！",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "OPLive",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "OPLive就是那个二次元直播平台啦，最近因为神曲《嘉宾》现场版炸了，一堆人跑去围观偶像吃瘪，直接刷上热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Grisham",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Grisham突然上热搜，估计是某个叫Grisham的大佬又搞事了——可能是作家约翰·格里森姆的新书争议，也可能是某个网红/黑客（Oliver Grisham？）的瓜熟了。反正在推特上突然刷屏，不是新书被喷就是翻车现场！",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Bryson",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Bryson 这名字最近窜上热搜，大概率是说加拿大小天王 Bryson Tiller 发新歌或公开恋爱了，粉丝疯狂刷屏带节奏。要么就是某个网红或者素人因为奇葩经历突然火了，大家围观吃瓜看戏。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Yates",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Yates这个词一上趋势，八成又是有个叫Yates的足球或者电竞选手搞出了名场面，大家聊得热火朝天，具体哪件事还得看是谁突然爆了。就像上次某个Yates绝杀带飞，直接刷屏，凑热闹的人一多就自然冲上来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Boardwalk Empire",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Boardwalk Empire 是今天 X 上的热门话题，具体讨论内容待补充。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Logan Paul",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哦这个Logan Paul啊，最近又在搞事情——他发了个视频嘲讽拳击对手Dillon Danis的女友，被全网喷成筛子，加上之前那个争议不断的\"自杀森林\"旧账被翻出来，直接冲上热搜了。反正就是顶流网红翻车，键盘侠集体狂欢呗。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Rome",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "在X上热门讨论罗马，主要是因为最近有网友发现古罗马的混凝土配方超级牛，比现代的建筑还耐用，大家忙着感叹老祖宗的智慧。还有个搞笑点是各种假装“罗马公民”的段子突然爆火，比如吐槽今天上班迟到的借口是“罗马的驴车又堵了”。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Sewald",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"这个Sewald是讲的有个救援队救了个被困在灾难里的倒霉蛋，结果救援过程拍得跟大片一样，网友都看哭了。因为这段视频传开后大家觉得又感动又震撼，直接被冲上了热搜。\"",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Stammen",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个Stammen在X上热搜，大概是因为一个欧洲博主带头吐槽某些东南亚旅游坑钱的骚操作，结果炸出一堆受害者疯狂分享自己血泪史，评论区直接变维权现场。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Kyle Hart",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哎呀，这人啊，Kyle Hart是个棒球运动员，最近突然火了是因为他投球特别猛，一场比赛几乎把对手打自闭了。老外觉得这哥们太牛了，就嗷嗷上热搜了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Sean Pedulla",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哎呀你问对人了！Sean Pedulla是一位美国安滴（类似于吐槽文化小能手），最近他因为一锅乱炖调侃社会百态的视频在Reddit和Twitter疯传，大家笑到头掉就把他送上了趋势——就是那种把你身边吐槽朋友搬上网的那种幽默感，你懂的。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Tom Brady",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "简单说就是NFL传奇四分卫布雷迪又双叒叕上热搜了，这回是因为他在福克斯体育的解说首秀被网友疯狂截图吐槽表情包，还有人挖他离婚后秒换新女友的瓜，吃瓜群众连夜建了话题#BradyCam。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "The Game",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "#TheGame指的是马斯克要搞的那个暗黑破坏神直播，跑去播了30秒《流放之路》直接炸出11万在线，带梗带账号崩盘一锅端。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "tjpw",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"plain_intro\": \"tjpw 其实是东京女子职业摔角（Tokyo Joshi Pro Wrestling）的缩写，最近她们在推特上因为一场超精彩的比赛火出圈了。\",\n  \"reason\": \"主要是比赛画面太炸裂，摔角迷们疯狂转发讨论，加上有明星选手动态刷屏，就冲上趋势了。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Hao-Yu Lee",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哦这事儿啊，Hao-Yu Lee 就是那个台湾来的棒球小将李灏宇，最近在MLB小联盟直接炸裂表现打出生涯最佳赛季上热搜了。大家猛转发因为这小子才20岁就全垒打助攻全飞起，台湾球迷都在喊“下一个大联盟巨星”！",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-07-17",
     "time": "2026-07-17 14:07",
     "source": "trends24.in",
