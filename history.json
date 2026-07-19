@@ -1,5 +1,216 @@
 [
   {
+    "date": "2026-07-19",
+    "time": "2026-07-19 14:21",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Usman",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"Usman刚在UFC比赛里挨了一记重拳直接被打懵，粉丝都在吵裁判是不是掐表慢了——也就是大家熟悉的‘眼看他起高楼，眼看他楼塌了’剧情，顺便围观一下格斗圈撕逼新素材（这次该站谁呢）。\"",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "SNME",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "🚨🚨🚨 @_trickwilliams 将在今晚的 #SNME 倒计时节目中与 @Laredokidpro1 正面交锋！▶️直播链接",
+          "summary": "摔角粉狂喜：WWE今夜要上演一场重量级对决，Trick Williams大战Laredokidpro1，看热闹的已经搬好小板凳蹲直播。这节奏就是：粉丝在吹彩虹屁，骂战暂时没起来，大伙儿就等着看谁能把对手按在地上摩擦。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/WWE/status/2078498427483164674"
+          }
+        ]
+      },
+      {
+        "trend": "UFCOKC",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个趋势说的是美国超滤咖啡协会的一个活动，挺硬核但意外火了。估计是大家无聊想找点冷门梗凑热闹，结果好像都在用它调侃高端咖啡迷的滑稽操作。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Tate",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"Tate 哥又上热搜了，就是那个拽得二五八万的 Andrew Tate，之前因为人口贩卖案被关，最近又出庭搞新闻。一堆人吵他到底是洗白还是继续卖毒鸡汤，梗图和站队刷得飞起。\"",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "PerthSantaConcertD2",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这是珀斯圣诞音乐会第二天（Day 2）的现场实况——有人拍到明星边唱边洒满舞台的雪花特效，或是突然忘词被粉丝尖叫救场，大家火速把抓马瞬间刷上热搜，讨论“最意外的小插曲”或“今晚超值回票价”。简单说，不是官方高冷发海报，而是观众自嗨剪辑的Live车祸或温情彩蛋太带感了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "PERTHSANTA NEVER ENOUGH",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n\"explanation\": \"这个热搜说的是日本那个珀斯圣塔的零食，大家永远吃不够，囤货都嫌少。为啥火？因为味道魔性，网友晒空袋和补货狂刷梗，馋得人集体破防。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Toonami",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"content\":\"Toonami在X上火了，就是小时候动画频道的硬核回忆杀！今晚好像要播怀旧特辑或者新番预告，老粉们集体高潮了。😎\",\"style\":\"朋友圈科普，两句人话，不啰嗦\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "TokyoRevengers",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哦，TokyoRevengers（东京复仇者）是讲主角穿越回去救小伙伴的热血番，最近上趋势可能是新一季动画或电影刚爆出猛料，粉丝们集体炸锅了吧！",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Santana",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"Santana突然上热搜了？不是吉他大神就是歌名，大概率是有人刷老曲子带怀旧风，或者某某复刻了《Maria Maria》炸场了。反正这波流量吃着挺有品味的，评论区肯定一堆‘爷青回’召唤术！\"",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Colby",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Colby 这话题突然冲上趋势，刚跑去看了一下，估计是某个欧美明星或者网红叫这名，最近有啥新瓜了——比如新歌空降、曝光恋情或者直播翻车那种事儿。反正类似这种名字热搜，基本逃不开“大家吃瓜迅速围观”或者“粉丝集体控评搞氛围”这俩套路。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jennifer Finch",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Jennifer Finch 最近上了欧美区趋势，主要是因为她曾是90年代朋克乐队L7的贝斯手，突然发推吐槽现在音乐圈太包装化、怀念地下摇滚时期，结果把老粉和新路人炸出一堆共鸣和争论。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Bayley",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哦，Bayley刚在WWE的比赛中爆冷夺冠，直接杀上热搜了！大家估计都在发“女版冠军回来了”这种感叹，毕竟她之前伤退挺久，这次彻底复出逆袭大戏太有梗了～",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Ojay",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Ojay好像是出了个什么事儿被扒皮了，具体是啥我也没完全搞懂，反正就是有人放锤了。大家一下子都炸了，喷他割韭菜或者人品有问题。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Lyra",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Lyra估计是某个歌星或者影视作品里的角色，突然在X上爆火，可能是有新歌发了或者剧集出圈了。反正大家突然开始疯狂讨论她，可能是颜值或者作品戳中大家了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "chivas",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哈哈“Chivas”上热搜？其实是指“芝华士”威士忌啦！可能是品牌搞了波大动作，或者又有网红拿着它拍照炫富，结果大家一顿猛刷，直接冲上来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Kelsey Mitchell",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"summary1\":\"Kelsey Mitchell是那个在WNBA打球特别猛的加拿大妹子，今天因为她带队赢了个大场子，全网都在夸她数据逆天。\",\"summary2\":\"大家突然刷屏热议，纯粹是她表现炸裂到把对手打懵了，加上女篮在国外关注度本来就高，一石激起千层浪呗。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Cartoons",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"Cartoons上热搜啦！主要是最近某部经典动画的重制版或者童年回忆杀片段被疯转，老粉们边哭边刷情怀，新观众被画风和魔性BGM笑到头掉，大家一窝蜂开始考古搞梗。感觉全世界网友突然集体变回小学生，连上班摸鱼都在偷偷重温猫和老鼠！\"",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Romania",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "罗马尼亚突然上了热搜，好像是当地出了个大新闻——可能是政治丑闻或者什么奇葩事件被网友疯狂吐槽了。总之全世界都在刷，凑热闹的人比看春晚还多。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Pacheco",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Pacheco大概率是个翻车名场面或者争议事件，要么是哪个博主整活翻车要么是运动员拉胯，建议直接冲原话题吃瓜。这玩意儿上趋势纯属因为人民群众喜闻乐见，或者又双叒叕有人锤塌房了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Nick Aldis",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Nick Aldis上热搜是因为这位WWE老哥在摔角圈整了个大活，可能是剧情反转或比赛名场面炸了，直接让全球粉丝刷屏刷到趋势榜。简单说就是：摔跤人忙着打破第四面墙，咱看热闹的顺手点了个赞。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-07-18",
     "time": "2026-07-18 13:55",
     "source": "trends24.in",
