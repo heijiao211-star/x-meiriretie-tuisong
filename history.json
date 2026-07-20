@@ -1,5 +1,212 @@
 [
   {
+    "date": "2026-07-20",
+    "time": "2026-07-20 14:37",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Spain",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"topic\":\"Spain\",\"chinese_summary\":\"简单说，西班牙最近在X上炸了锅，主要因为首相桑切斯可能因为调查他老婆的腐败案而辞职，这事儿激起了政治海啸；加上加泰罗尼亚独立话题持续发酵，欧洲杯夺冠后全国狂欢的热乎劲儿也被带进讨论里。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "HOTD",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "《龙之家族》（House of the Dragon）第二季预告片炸了，粉丝狂刷龙抬头和血龙狂舞的名场面。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "GrandConcert",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "GrandConcert这个热搜全在说一个牛逼到炸的大型音乐会，像是线上大趴集体炸场那种阵仗，搞到外网全都嗨翻了。因为这个活动阵容离谱+现场直播效果神了，推特上全都是粉丝截图尖叫声，直接刷成全球趋势了还挺合理",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "HouseOfTheDragon",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "有网友整活聊《龙之家族》S2雷妮拉和戴蒙的恋情狗血发展，有人分析绿党黑党的权游内部撕逼，二创又嗨了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Umamusume",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"trend\":\"大家都在聊《赛马娘》（Umamusume）最新活动或角色爆料，粉丝们炸开锅了。\",\"reason\":\"因为刚更新了一波新马娘剧情或者联动皮肤，引起老玩家集体狂欢和新玩家疯狂追问‘这是谁家闺女’。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Logano",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哦，Logano 就是纳斯卡车手里那个开22号福特的家伙，最近又因为赛道上的硬核操作冲上热搜了！大家主要在吵他到底算技术好还是太莽撞，毕竟每次他撞车保名次都能让评论区炸出几万个键盘车神。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "RHOA",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"RHOA_topic\": \"RHOA 是《亚特兰大娇妻》的缩写，这是一档 Real Housewives 系列真人秀，最近因为新一季开播或撕逼戏码炸场，直接被网友聊上了趋势。估计又搞出了什么离婚、互殴或闺蜜反目的大瓜，欧美八卦圈直接当场高潮。\", \"reason\": \"该剧常年靠狗血剧情和抓马人际关系维持热度，这次可能是因为某个选手爆出惊天私生活丑闻，或经典名场面台词引发全网二创，吃瓜群众集体",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "España",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波西班牙上热搜主要是因为他们在欧洲杯上猛得一塌糊涂，直接杀进了决赛，球迷们嗨疯了。还有人在聊当地40度高温咋过，两种热度一起炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Rodri",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这位叫罗德里（Rodri）的曼城中场刚拿了2024金球奖，球迷和媒体直接吵翻了，有人觉得他凭实力该拿，但更多人吐槽皇马和巴西帮的球星‘被狙了’，这波热度全靠足球圈撕逼涨起来的。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Yaxel",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Yaxel是个游戏圈的狠角色，刷屏是因为他一波操作太亮眼，直接干翻了几个大佬，粉丝们激动得上蹿下跳，这事就成了推特热搜。简单说就是#牛逼战绩刷屏了#。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Criston Cole",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哎呀，Criston Cole 这货啊，就是《龙之家族》里那个御林铁卫队长，这两天因为他在第二季里又开始作妖（比如跟雷妮拉和王后抬杠），网上吵翻了天，大家要么骂他双标要么赞他可怜，结果直接就刷上趋势了。反正就是这角色太能惹事，粉丝和黑子都来凑热闹，热度就给顶上去啦！",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Paredes",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"explanation\":\"Paredes这话题突然跑上热搜，主要是因为昨天UFC比赛里有个叫帕雷德斯的墨西哥拳手打出了一场超级狠的KO，全场直接炸了，西方拳迷一顿刷屏把tag顶上来了。\",\"reason\":\"其实就是格斗圈内的大新闻，国外吵完国内也跟着围观，毕竟这种暴力美学谁不爱看热闹呢。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Alicent",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"summary1\": \"Alicent这波上趋势是因为《龙之家族》第二季预告片炸了，她跟雷妮拉的姨（？）甥对决又要升级，粉丝疯狂嗑悲剧女王的人设。\", \"summary2\": \"简单说就是绿党太后Alicent在新剧情里更惨更疯，权游迷们一边心疼一边刷#TeamGreen，讨论她是不是全剧最惨工具人。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Fania",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Fania这梗在聊一个叫​@fania101​的女博主（也可能是某个网红事件），她有些离谱发言或者线下操作被扒出来嘲讽了。热搜是网友吃瓜起哄开的，跟明星八卦一个味儿。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Giant Eagle",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Giant Eagle是美国一家连锁超市，突然上推特热搜是因为有人爆出它家卖的超贵圣诞树质量辣鸡，树都歪了还掉针，网友炸了开始疯狂吐槽。加上之前它家员工抱怨低工资和差福利的旧账被翻出来，大家凑热闹一起骂着骂着就冲上趋势了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Aemond",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Aemond是《龙之家族》里那个独眼龙王子，最近剧情里他骑着大龙瓦格哈尔放火烧河间地，战力爆表但人也狠得一批，粉丝们吵翻了天，直接把他顶上趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "North Wilkesboro",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "啊，North Wilkesboro 突然火了是因为那边有个历史悠久的 NASCAR 赛道刚完成重建，一堆车手和粉丝在嗨；老赛道重新开张加上情怀滤镜，直接刷屏趋势了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Usha",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "搞半天是印度裔的Usha Vance（万斯的老婆）被推上热搜了，她老公被特朗普提名为副总统候选人后，很多人扒她的背景和形象在刷屏讨论。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Smart Falcon",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Smart Falcon 是一个AI动态视频生成模型，今天在推特上炸锅是因为它生成的视频效果超逼真，直接把竞品卷飞了！大家狂转发那些以假乱真的片段，看得人头皮发麻，科技圈和路人都在惊叹‘AI进化太快了’。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Mihono Bourbon",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "米霍诺波本（Mihono Bourbon）是个日本赛马网红，最近因为在一场关键比赛里跑出逆天成绩+退役前疯狂刷存在感，直接让赛马粉和乐子人集体高潮刷上趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-07-19",
     "time": "2026-07-19 14:21",
     "source": "trends24.in",
