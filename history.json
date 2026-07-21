@@ -1,5 +1,216 @@
 [
   {
+    "date": "2026-07-21",
+    "time": "2026-07-21 14:20",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Ryan Clark",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哦，Ryan Clark就是那个ESPN的毒舌球评，最近喷联盟死保收视率、裁判偏袒球星，结果自己被推上热搜！说白了，又是他拿萨格斯三分绝杀说事，砸了NBA裁判饭碗呗。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "WWERaw",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "别错过机会让你的名字出现在3月30日周一麦迪逊广场花园#WWERaw的巨幅画布上！",
+          "summary": "WWE在吆喝粉丝买票上墙，其实就是花钱让你的ID在摔跤比赛背景板露个脸，钱和存在感二选一。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/WWE/status/2028572315232141798"
+          }
+        ]
+      },
+      {
+        "trend": "ESPN",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"topic\":\"嗯就是👀ESPN那个著名体育频道搞了个什么操作，比如评最伟大的运动员/合同争议或者转播翻车，这事儿直接被推特网友骂上热搜了，体育迷们都在抠细节讲梗呢。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Bregman",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Bregman最近在X上火了，主要是因为有人考古挖出他早年说过的大实话——比如指责主流经济学规则都是精英拿来拐弯抹角维护特权的，大家觉得这话现在听来依然一针见血。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Riley O&#39;Brien",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Riley O'Brien是个专注于心理健康的博主，最近因为发了一段超走心的视频教人如何调整内耗心态，结果直接炸了，推特上全是转发和讨论。很多人觉得这观点特戳人，没那么多鸡汤又实用，就一股脑顶上趋势了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Cal Raleigh",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"topic\": \"Cal Raleigh\",\n  \"summaries\": [\n    \"就是棒球圈那位西雅图水手队的明星捕手，今天靠一记再见本垒打把比赛翻了盘，外号‘大雷利’的哥们直接封神。\",\n    \"推特上炸了主要是因为他这最后一击太燃了，季后赛希望瞬间拉升，球迷都在喊‘雷神降临’，瞬间刷上趋势。\"\n  ]\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Cubs",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哎呀，“Cubs”突然上热搜，可能有两件事——要么是芝加哥小熊队又赢球了（毕竟棒球季），要么是动物幼崽小视频大乱炖（比如萌熊、虎崽啥的）！反正大概率是萌或者战报炸了，你刷到的那些带爪子的东西基本都是流量密码。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Seiya",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"trend\":\"《圣斗士星矢》的主角Seiya突然上趋势，可能因为老粉又翻出经典片段或者新玩家（比如游戏圈）在玩梗。\",\"reason\":\"这个IP毕竟是一代人的童年回忆，偶尔会有情怀党或者赛亚人梗带节奏，加上新内容联动（比如手游）就能刷起来。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Kenley Jansen",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Kenley Jansen是道奇队的终结者，最近在比赛中投球状态火得不行，连续救援成功。上趋势是因为他刷新纪录，球迷疯狂讨论他的滑球有多恐怖。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Kaitlyn Chen",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"Kaitlyn Chen这事吧，是推特上好多人突然开始刷她的表现或者某条动态，大概率不是开撕就是出圈了——具体为啥火，还得看底下贴的是翻车现场还是绝杀瞬间。\"",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Ian Happ",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Ian Happ 是芝加哥小熊队的棒球明星，刚打出一个超关键的安打帮助球队赢球，瞬间刷爆推特，粉丝直接把他送上热搜，厉害炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Trea Turner",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Treasure Turner（棒球运动员）今晚打了神仙球，单局两次上垒直接带走比赛，这表现谁看了不喊一声“真有你的”！球员自己都发推说今天手感烫得不行，这下全网都在刷他的逆天操作。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Caleb Ferguson",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"天哪，Caleb Ferguson 这人最近在X上炸了！原来是个超有料的体育圈大神，一堆人突然开始狂扒他的猛料和背后故事，直接把帖子刷上趋势——据说是因为他干了件超劲爆的事，具体有多猛你得自己搜搜才知道！\"",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Azzi",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Azzi 这个话题在 X 上火了，主要是大家围观一个叫 Azzi 的素人撕逼经历，吐槽她跟朋友闹翻的细节太抓马了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "LA Knight",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“LA Knight最近在WWE里特别火，因为他那股嚣张又自带光环的劲儿实在太吸粉，动不动就能带节奏上热搜。这老哥现场发言就跟开大似的，观众就爱看他怼天怼地怼一切，自然讨论度爆炸。”",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Arike",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "就是个叫Arike的网红/艺术家突然发了个新作品或者整了个大活，粉丝们疯狂转发刷上来的。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Matt Walsh",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个老哥是个靠喷左派出名的保守派大V，今天在X上又因为吐槽美国校园性别教育翻红，一堆人吵着说他破坏孩子三观，也有人鼓掌叫好说他痛骂政治正确。总之两边闹麻了，直接把他送上热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Valkyries",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Valkyries 是今天 X 上的热门话题，具体讨论内容待补充。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "CALEB DURBIN",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哈哈，CALEB DURBIN 这哥们最近在 X（原推特）上炸了，主要是因为他跟某人公开撕逼或者发了条劲爆 tweet，直接点燃了网友的吃瓜热情。这话题能上趋势，说白了就是内容够狗血、够劲爆，大家闲得慌一头扎进去看热闹呗。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Flau&#39;jae",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"Flau'jae 最近在X上炸了，因为她不仅是个超炸的女rapper，还是篮球圈新星，发了首新歌顺便签了Nike代言，粉丝和路人全在喊‘这姐跨界玩明白了’。趋势起来纯属大家被她的双栖能力震撼了，外加新歌MV里全是她球场逆天操作的混剪，直接封神讨论度拉满。\"",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-07-20",
     "time": "2026-07-20 14:37",
     "source": "trends24.in",
