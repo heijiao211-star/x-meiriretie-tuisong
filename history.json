@@ -1,5 +1,223 @@
 [
   {
+    "date": "2026-07-23",
+    "time": "2026-07-23 14:22",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "holodori",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "【holodori 倒计时发布🎉 🏰🎶还有10天就发布啦！🎶🏰】来看看二代成员们一起完成梦幻乐园的样子📸 跟着主线剧情片段一起进入倒计时！holodori将于7月23日（周四）JST上线✨ 不同地区上线时间可能有差异。▼现在预注册 https://www.hololive-dreams.com/en/ #holodori",
+          "summary": "大家就是在等老熟人hololive的大逃杀新作预售解禁，顺便看二代成员画饼搞乐园预告；一条纯官宣中二企划，没啥可吵的，粉丝们在算日子等冲。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/holo_dreams_en/status/2076501882995171519"
+          }
+        ]
+      },
+      {
+        "trend": "AEWDynamite",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "[@AEW]：《AEW炸药：新年狂欢》本周三晚8点ET/7pm CT在@TBSNetwork直播！如果你在丹佛地区，跟我们一块儿跨年吧！🎟 http://AEWTIX.com\n\n[@AEW]：“你们所有人都创造了这个怪物。”@realrubysoho 毫不留情！《AEW炸药》在TBS直播中！",
+          "summary": "大家主要在吵AEW的摔角明星Ruby Soho爆狠话怼人，观众都嗨翻了，说她放话太猛。另一方面，新年特别演出票也卖得很热闹，大家笑看“跨年不带假动作”。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/AEW/status/1607557001495592961"
+          },
+          {
+            "url": "https://x.com/AEW/status/1633643121354641409"
+          }
+        ]
+      },
+      {
+        "trend": "Hippo",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Hippo是最近网上疯传的一个梗，源自一个长得像大狗的河马搞笑视频，大家笑到停不下来。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "JanaNayagan",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "《JanaNayagan》大概是印度某部新电影的名字，或者跟明星有关，突然推特上有人刷话题，可能因为预告片、演员新闻或啥争议让粉丝嗨起来了。这类投票没官方解释只能猜，但肯定是社交平台闹的动静，热得莫名其妙。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "End of Evangelion",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "《终》就是《新世纪福音战士》那个让人又爱又恨的豆瓣9分剧场版，当年结局意识流到让无数观众原地裂开，至今还在被各种解析。这次上推特趋势估计是网飞突然搞了啥或有大佬在晒经典台词/表情包，触发大家集体回忆杀。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Kyrie",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Kyrie Irving的谐音梗又炸了，大家玩着玩着变成了表情包狂欢。没啥大事，就是网友们看到拼写就想玩凯里·欧文和红酒的梗，顺便吐槽他的百变人设。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "SDCC",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "SDCC（San Diego Comic-Con）就是动漫迷和影迷的超级狂欢节，今年又因为各种重磅电影和剧集预告，像《死侍3》彩蛋直播，直接冲上热搜。吸引吃瓜群众疯狂刷屏。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Vanney",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Vanney 好像是哪个网红或者吃瓜事件的主角，具体闹得挺大，但没实锤清楚。大家都在刷可能是出了什么争议截图或者翻车现场，骂得可凶了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Masters of the Universe",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "《Masters of the Universe》（宇宙巨人）是Netflix新出的动画电影，最近上X热搜是因为预告片炸了，怀旧党狂刷回忆杀。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "fishtanklive",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"topic\": \"fishtanklive\",\n  \"chinese_summary\": \"“鱼缸直播”是个整蛊真人秀，把一群人关在鱼缸一样的房间里24小时直播，最近因为嘉宾搞事或翻车上了X热搜。\",\n  \"why_trending\": \"有嘉宾突然整活撕逼或者节目组搞幺蛾子刺激剧情，吃瓜群众全在围观，老外刷屏玩梗就炸上趋势了。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Clue",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"Clue 这边就是说《Clue》要出新电影了，老IP复活的消息突然炸出来，好多人在微博和推特疯狂讨论自己最爱的角色和经典台词。这波热度纯粹是童年回忆杀加导演编剧有新点子，怀旧党和新粉全冲过来凑热闹了！\"",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Mike Lindell",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哈哈哈，Mike Lindell又上X趋势了——就是那个卖枕头的MyPillow老板，这次估计是又在喊啥选举作弊或者推销新阴谋论了，网友边骂边刷他梗，搞笑热度直接炸裂！",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Don Kelly",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Don Kelly这话题冲上热榜，是因为网友扒出他作为美队特技替身，又酸又帅还成了美队超英片的老·熟脸，结果发现这老哥又偷偷在暗影蜘蛛侠里当动作导师，全网狂赞他才是‘漫威打工皇帝’。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "NDAA",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"intro\": \"NDAA全名叫《国防授权法案》，是美国每年必须通过的一个大包法案，管军队咋花钱、买啥武器、搞啥军事项目，今年因为夹带了一些敏感条款，比如涉华条款或变性人医疗限制，直接把争议推上了热搜。\",\n  \"reason\": \"大家围绕这个吵翻天了——有人骂它又给军火商送钱，有人担心它针对中国的部分过火会惹麻烦，还有些网红发现它暗削军人福利借机开喷，吃瓜群众跟着嗨起来了。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "LAFC",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“LAFC”上热搜是因为美国洛杉矶FC足球队又搞大新闻了，可能是赢了场关键比赛，或者球星（比如基耶利尼、贝尔那种）又秀了波操作，球迷都炸了所以在X上狂刷。简单说就是北美足球迷在狂欢，跟欧洲联赛那味儿不一样，人更嗨更街头。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Sarah Ashlee Barker",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Sarah Ashlee Barker 上趋势是因为大家又在讨论她拍的青春剧里的名场面穿搭，她本人长得好看性格圈粉，网友一边舔屏一边催她出新作品。总之就是欧美明星的老铁粉和新颜控集体发力，热度瞬间起飞。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Tisha B&#39;Av",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Tisha B'Av是犹太教的一个悲悼日，纪念耶路撒冷圣殿被毁等历史灾难，今天上热搜估计是因为宗教活动或冲突新闻带起的。反正就是犹太人哭墙前集体哀悼，顺便回忆一波祖宗挨揍史。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Orlando City",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Orlando City 今天上热门是因为当地又搞了个大新闻，可能是新球场、球队签了大牌球员，或者发生了什么突发事件。大家晒现场图和吐槽都比平时多了一倍。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Griezmann",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "老将格里兹曼宣布退出法国国家队了兄弟们，14号球衣和格子军团回忆杀刷屏，因为他为国家队鞠躬尽瘁终于决定让位新人，这波情怀直接把足球迷刀傻了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jessica Shepard",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "好像是美国大学生女篮的明星球员，最近因为在场上跟对手干架或者有啥争议性言论，直接冲上热搜了。简单说就是篮球圈又吵起来了，吃瓜群众看得挺嗨。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-07-22",
     "time": "2026-07-22 14:19",
     "source": "trends24.in",
