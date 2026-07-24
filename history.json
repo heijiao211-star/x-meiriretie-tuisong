@@ -1,5 +1,216 @@
 [
   {
+    "date": "2026-07-24",
+    "time": "2026-07-24 14:17",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Verzuz",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"explanation\": \"Verzuz其实是两位歌手或制作人在Instagram上搞的音乐对战直播，像即兴battle一样放金曲让网友投票谁更强，最近又上了热搜。\",\n  \"reason\": \"主要是新策划的阵容太争议了，比如把跨代艺人凑一起比，粉丝吵翻天，加上有人现场忘词直接成梗，热度自然就爆了。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "The Game",
+        "sentiment": "玩梗",
+        "summary": {
+          "translation": "@957thegame：史蒂夫·科尔评价斯蒂芬·库里和勒布朗·詹姆斯的最新季后赛对决：“这和老对手魔术师约翰逊与拉里·伯德的年代不完全一样，但也差不多了。”",
+          "summary": "科尔这番话就是说库里和詹姆斯的宿敌感已经接近传奇水平了，球迷们都在争——到底是现在这俩人对抗更刺激，还是当年魔术师对伯德更有味道？笑点在于科尔作为他俩的队友/教练，居然跟个吃瓜群众一样认真地排辈分，弹幕一堆人喊“你搁这儿蹭回忆杀呢？”",
+          "sentiment": "玩梗"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/957thegame/status/1653555690370392064"
+          }
+        ]
+      },
+      {
+        "trend": "RaisingKanan",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "简单说这是一个关于二次元或游戏角色的同人创作话题，大家正疯狂产出相关图文或者剧情讨论，估计是官方有新动作或者某个画师神作刷屏了，粉丝们直接给抬上热搜。总之就是圈内人狂喜，圈外人一脸懵的日常操作。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Tyla",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个南非小妹妹的歌在TikTok洗脑，大家疯狂刷她#Tyla#，打歌视频破亿还引发非洲节奏热舞挑战🔥 今晚欧美圈和Kpop粉都在转发她的《Water》,这波流量够她吃两年！",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Korra",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Korra突然上趋势，主要是《降世神通》粉在吵Corra传奇续作或Netflix新改编的争议。大概是因为新消息或老粉吵架又戳到大家神经了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Charli",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "就那个做超洗脑电子流行歌的妹子Charli XCX，最近因为新歌跟专辑被疯狂讨论。加上她跟其他歌手梦幻联动，粉丝们直接刷上热搜了！",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "questpit",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Questpit这词儿最近在游戏圈炸了，大概是指某个游戏里疯狂刷任务找隐藏宝箱的邪道玩法。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Shiloh Hendrix",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个叫 Shiloh Hendrix 的女生成为了X/Twitter热搜榜的主角，主要是因为一段视频或者爆料被疯传，好像跟情感纠纷或者争议言论有关，让网友集体炸锅去扒她的背景。\n简单来说就是她的某个‘瓜’突然爆火，引发大家围观和讨论，荣登趋势可能是事件本身太抓马，或者持续发酵的原因。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "APOP",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "APOP好像是韩国女团的新歌或者打歌节目相关的关键词，粉丝刷话题刷上来了。一看就是粉丝们嗨了在狂欢，普通路人可能一脸懵。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jamie Foxx",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "大概是大家在讨论Jamie Foxx最近在康复后首次公开露面，或者他在访谈里说了什么爆料，比如跟电影、音乐相关的趣事。这股热度大概是因为他之前经历健康危机，大家都关心他现在的状态，加上他平时就超会整活儿，一有动静就炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Mr. Nonchalant",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"explanation\": \"Mr. Nonchalant 这哥们儿人设是在各种紧张场景下硬装淡定，比如失恋、面试或者世界末日前还在刷手机，那股子假洒脱劲儿戳中了大家又贱又爽的笑点。\",\n  \"trend_reason\": \"最近推特上疯传他面对离谱事件时的超然表情包，正好打工人们用来自嘲生活里绷不住的瞬间，跟风玩梗的人多了就直接冲上热榜了。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "gwen stefani",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "起因是她和新老公（Blake Shelton，对，那个乡村歌手）突然在IG发了一堆十年前的老图，评论区直接炸了，粉丝吐槽她怎么越变越像芭比娃娃。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Tyga",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n\"hot_topic_summary\": \"Tyga突然上热搜了，主要是他上周在迈阿密商演时被拍到跟一姐们互动特亲密，新歌featuring传闻又满天飞，粉丝全在扒细节。这人时不时搞点事儿，这次流量又蹭蹭涨了。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "How We Do",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个标签主要是在讨论‘我们的做事风格’或者‘我们这波操作怎么来的’，多半是网友在秀生活态度或者吐槽某个圈子的默认规则。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Allahu Akbar",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Allahu Akbar（真主至大）突然炸上推特趋势，主要是中东局势一有风吹草动（比如巴以冲突升级），海外网友就会狂刷这句阿拉伯语祈祷词。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Nipsey",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这事儿就是说，纪念归纪念，别整太夸张，不然还容易招黑。说真的，这么多年了这话题还能吵起来我也是没想到。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "DOUBLE BLIND",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"topic\": \"DOUBLE BLIND\",\n  \"summary_cn\": \"这说的是一种科学实验方法，比如药物测试里，病人和医生都不知道谁吃了真药还是安慰剂，防止心理作用影响结果。上趋势是因为有博主爆出某重大研究发现用了这个设计，结果意外翻车或打脸了，网友开始狂喷“双盲暗藏玄学”，还吐槽自己各种被忽悠的经历。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Bosa",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "```json\n{\n  \"hot_topic\": \"Bosa\",\n  \"brief\": \"Bosa 是硅谷新火起来的AI编程助手，网友发现它能自动完成一堆代码语法错误，还能把老代码翻译成新语言。可能又是某些程序员在这话题下晒Bug复活文，或者撕它跟我们国内Copilot谁会先倒霉。\"\n}\n```",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Reacher",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"Reacher这剧第三季新预告炸了，应该是掉线网飞热搜，估计是老爷子又在用拳头解决问题吧，硬汉剧粉都得来磕一波。\"",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Chef Boy",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"topic\":\"Chef Boy\",\"introduction\":\"Chef Boy 是最近X上火起来的一个梗，讲的是一个叫“厨师小哥”的做饭视频意外爆笑，因为他在厨房手忙脚乱还疯狂翻车，网友笑到打鸣。\",\"reason\":\"本质上是因为内容太真实了，谁家做饭不是一团糟？大家边笑边吐槽：这演的明明是我啊！加上之前某个明星转发后直接炸了。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-07-23",
     "time": "2026-07-23 14:22",
     "source": "trends24.in",
