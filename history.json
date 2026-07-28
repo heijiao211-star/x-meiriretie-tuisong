@@ -1,5 +1,212 @@
 [
   {
+    "date": "2026-07-28",
+    "time": "2026-07-28 14:16",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "WWERaw",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "WWERaw 今晚又要开打了，粉丝们都在刷屏聊剧情和选手，直接冲上了热搜。都是因为整活的剧情太抓马，加上突然爆冷门的比赛结果，把大家炸出来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Steve Lacy",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Steve Lacy 是个搞音乐的黑人小哥，靠那首扫弦超魔性的《Bad Habit》刷屏 TikTok，最近他发的新歌或者现场整活又火了。上趋势是因为歌太洗脑或者他又在台上演了什么名场面，粉丝狂刷片段。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "jungkook",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "釜山男团BTS的黄金忙内田柾国又搞事了，不是刚发了新歌就是粉丝又在冲榜刷世趋。反正这位哥一发动态，粉丝连夜就能把楼盖到全球天花板，老规矩了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Raquel",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Raquel 目前是个莫名其妙冲上趋势的名字，好像跟某位西班牙网红或者明星有关，一堆人在刷她整容或者分手的新瓜。估计又是粉丝和吃瓜群众吵起来的节奏。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Barrett",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"topic\": \"Barrett\",\n  \"introduction\": \"就是一家叫Barrett的公司（可能跟狙击枪那家有关？）突然在X上炸了，有人晒了个怪订单引发全网玩梗。\",\n  \"why_trending\": \"主要因为评论区一群人编段子说‘下单买枪送红脖认证’，B站和抖音搬运后国内网友也乐了，直接笑上热搜。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Fauci",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Fauci 是今天 X 上的热门话题，具体讨论内容待补充。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "SpiderManBrandNewDay",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题指的是《蜘蛛侠》要整新动画电影了，好像叫《蜘蛛侠：新生代》还是啥的，据说是个新系列。上趋势是因为粉丝看到预告片发现画风和剧情跟之前几部不太一样，直接炸锅了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Yash",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "【加密梗王再就业？】Yash突然刷屏是因为个币圈老哥把自己推特号卖了套现，结果新金主开始疯狂刷推把话题怼上热搜。说白了就是有人砸钱买榜，但吃瓜群众都在等这个曾经的技术大V账号后面到底要发什么仙乐。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Billy the Kid",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Billy the Kid 是个美国西部传奇枪手，最近上推特趋势可能是因为有新剧或纪录片讲他的故事，或者有人翻出他的旧照争议。就跟咱聊古惑仔电影突然又火了似的，西部牛仔那点事儿现代人还爱看热闹。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Volpe",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"Volpe 是意大利语‘狐狸’的意思，最近是因为有人发了个啥狐狸的梗图突然火了，大家开始疯狂玩梗刷屏。上趋势就是因为国内网友跟风速度比外卖还快，莫名其妙就冲上热搜了。\"",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Flint",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Flint这个关键词突然炸了，主要因为一部叫《Flint》的医疗纪录片被疯转，讲的是美国密歇根州弗林特市自来水铅污染事件，揭露政府隐瞒13年的内幕。真相太触目惊心，全球网友一边怒骂一边转发，直接推上热搜发酵了政治话题。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Hannity",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Hannity是福克斯的右翼嘴炮大佬，他节目的口号就是怼左派、挺川普，今天上趋势要么是他又爆了什么猛料，要么就是评论区网友吵翻了。反正他每次开口都能掀起一场口水战。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Cardi",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "大概就是卡迪B和她老公Offset的离婚大戏又出新番，粉丝们疯狂吃瓜。上趋势主要是因为俩人在社交媒体上撕得火热，围观群众都在等下一集。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Frank Mason",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "讨论的是前NBA球员Frank Mason最近在海外联赛的一些争议表现和态度问题，国内篮球圈粉丝又在撕他了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Imai",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n\"topic\": \"Imai\",\n\"reason\": \"Imai 是个日本视频博主，最近因为在街头用中文采访路人聊敏感话题（比如核废水、中日关系），视频被搬运到国内平台后火了。网友一边看他的真实街头问答乐子，一边吐槽‘这老外问的问题比记者还猛’，所以直接冲上趋势成了热点聊天素材。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Sadie",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"话题简介\": \"Sadie是最近X上刷屏的一个女孩，有人晒她可爱照片、有人吐槽她假笑，各种二创段子炸了锅。\",\n  \"上趋势原因\": \"其实就是一张热门梗图出圈了，网友开始疯玩她表情包，还延伸出了#sadiejokes这种造词大战，结果就被顶上热搜了。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "X Money",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"hot_topic\": \"X Money\",\n  \"explanation\": \"X Money就是外国网友吵的马斯克要把推特变成一个‘超级支付app’，跟咱们微信钱包似的能转账买东西。这不是鹅厂刚花钱把推特私有化了嘛，逮着机会就吹要搞整合，结果一半人喊好用一半人觉着是画饼。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Ali Sanchez",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Ali Sanchez好像是拉美那边的网红，最近因为一段搞笑视频或者争议发言在外网爆了，国内网友也跟风吃瓜讨论上了。估计是内容太有梗或者太雷人，直接冲上了趋势榜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Morgan Freeman",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哎呀，大家最近狂聊 Morgan Freeman 是因为他又在 Instagram 上发了个震撼的“播音腔”视频，聊点人生大道理，直接让网友集体上头！为啥上热搜？因为这老叔声音自带仙气，随便说句“早安”都能让人觉得今天得好好活，谁不爱听呢！",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Sol Ruca",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"hot_topic\": \"Sol Ruca\",\n  \"summary_cn\": \"Sol Ruca是美国职业摔角界的新星，最近在NXT比赛里搞出了个超帅的‘弹簧刀高踢’动作，引爆推特热搜！摔角迷全在刷屏，因为这妹子又飒又敢拼，人气直接起飞。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-07-27",
     "time": "2026-07-27 14:53",
     "source": "trends24.in",
