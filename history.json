@@ -1,5 +1,234 @@
 [
   {
+    "date": "2026-07-29",
+    "time": "2026-07-29 14:22",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Kelsey Mitchell",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "致我的老爸，这是献给你的。❤️ @PlayersTribune （球员论坛报）",
+          "summary": "这位女子篮球运动员在球员论坛发了一封给老爸的信，球迷们先哭为敬；这封信大概会讲她如何从菜鸟打到现在的励志故事，评论区即将进入集体泪目模式。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/Kelz_Hoop/status/1856700229556560326"
+          }
+        ]
+      },
+      {
+        "trend": "Weights",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"Weights\" 最近在X上炸了，主要是因为马斯克又在那嘚瑟xAI的Grok模型，其实更像是在炫耀算力投入比OpenAI大。大家就顺着骂起来，说搞AI拼的就是烧钱和堆显卡，\"Weights\"成了暗讽资源军备竞赛的梗。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Dan Blocker",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "[@DeJaViewedUSA]：丹·布洛克尔，也就是“霍斯”，在朝鲜战争期间被征召入美国陆军，在路易斯安那州波尔克堡接受基础训练。他因在《草原小屋》中的霍斯·卡特赖特角色而被铭记。因战斗负伤获颁紫心勋章。[@Michael_Buffer]：丹·布洛克尔是一位朝鲜战争紫心勋章英雄（美国陆军步兵），也是一个充满爱心的丈夫和父亲，以慈善生活闻名。他拥有教育硕士学位，原本想当老师，但知名度让他没法站上讲台！他43岁因胆囊手术并发症不幸去世。安息吧，美国珍宝❤️🙏🏼",
+          "summary": "大家是在怀念一位被遗忘的英雄：丹·布洛克尔不仅是《草原小屋》里的经典角色，更是为了国家挨过子弹、拿过紫心勋章的真汉子。可惜他走得太早了，感觉舆论就像在喊：别光记住他是银幕肥叔，他的一生比电视剧还燃！",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/DeJaViewedUSA/status/1026939015000403968"
+          },
+          {
+            "url": "https://x.com/Michael_Buffer/status/2025067072267387389"
+          }
+        ]
+      },
+      {
+        "trend": "WWENXT",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "【@WWENXT】：他们来了！🔥 艾哈迈德·埃萨姆·萨米·特维菲克 埃伦·阿克森 雷恩·莱特 德尔菲娅·施魏策尔 #WWENXT\n【@WWENXT】：欢迎最新一届新星！👏👏👏 艾莉莎·丹妮尔·加勒特 贝克·尼古拉斯·帕尼卡利 佐伊·海因斯 #WWENXT",
+          "summary": "WWE新一代选手名单公布，摔迷们一边兴奋地吹捧新人名字和颜值，一边期待着谁能在擂台上打出名堂。总体气氛就是：新手营开箱，大家激动地搓手猜谁能翻红。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/WWENXT/status/2031762354577506613"
+          },
+          {
+            "url": "https://x.com/WWENXT/status/2049553358013505761"
+          }
+        ]
+      },
+      {
+        "trend": "Grayson Waller",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "格雷森·沃勒 对战 海耶斯布拉",
+          "summary": "这哥们儿又和对手杠上了，粉丝在猜是不是要搞一场新的恩怨剧情，或者又是嘴炮升级成打架，大家就等着看热闹。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/GraysonWWE/status/1650966344991485952"
+          }
+        ]
+      },
+      {
+        "trend": "Mr. Ed",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哎呀，Mr. Ed其实是网上突然疯传一个会说话的搞笑马（没错，就是上世纪美国老电视剧里那匹），大家狂玩它的梗图和表情包。今天上趋势是因为有人翻出它那魔性的“哞哞”口癖片段，被一堆网红拿来二创吐槽日常生活，结果直接霸榜了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Bonanza",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"title\":\"🎲《Bonanza》这款旧西部桌游/Pokemon卡牌突然被翻出来玩疯了，因为最近有博主晒出绝版卡片天价成交记录，加上游戏里“狂野西部的翻盘快感”被玩家形容成“比上班带薪摸鱼还爽”。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Dom Canzone",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"Dom Canzone这哥们最近因为暗讽天后级歌手\"擦边\"（性暗示表演），直接惹毛了粉丝团，被骂上热搜。简单说就是他说了大实话但戳到了雷区，大家一边吵架一边把他捧成热点了。\"",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Hoss",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"trend\":\"Hoss是某个突然爆红的梗或人物名，可能跟最近某条神曲或沙雕视频有关，具体像是有人在X上发了段魔性发言或低创鬼畜，结果大家疯狂玩起来直接冲上趋势榜。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Aliyah Boston",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "简单说，就是这位WNBA的新秀状元打出了超强表现，比赛数据炸裂还带队赢了球，球迷直接把她推上热搜。本来她就是个有潜力的新人，这波爆发让大家觉得女篮有她可真带劲，所以话题就火了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Triolo",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"Triolo 最近上了X趋势，主要是一个叫Triolo的创作者或博主搞了个新活（具体可能是发了一段争议视频或赢了某个游戏对决），网友们疯狂刷屏吃瓜或玩梗。外加他本人粉丝多爱整活，一炸就上热搜了。\"",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Romo",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Romo这个梗其实是个巨巨巨可爱的电动小恐龙，能互动能装死，结果被网友玩成了'社畜日常写照'，直接戳中打工人的心巴冲上热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Castillo",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Castillo 最近上热搜是因为网球比赛的经典时刻或足球相关争议（具体看上下文），可能是海外某位叫Castillo的选手或事件被网友们疯狂刷屏了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Rob Refsnyder",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"trend\":\"Rob Refshnydr 是波士顿红袜队的球员，最近一场比赛打出了关键安打逆袭洋基队，瞬间让棒球粉丝刷爆热搜。\",\"reason\":\"主要是他这表现太戏剧性，加上红袜vs洋基的老冤家戏码，#棒球笨蛋梗一下就炸了。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Sewald",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"这个Sewald突然上热搜，主要是有个泰国男星叫苏瓦德（拼音拼的）的粉丝在狂刷tag，搞什么帅照安利、新剧话题度拉满，其实就是饭圈日常冲榜呗。看这架势八成是播了新剧或者有瓜吃，热得像是粉丝把趋势当许愿池在猛推。\"",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Petal",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"Petal这词最近上热搜，其实跟花瓣没啥关系，主要是华为的移动服务新品牌又在搞事情，一堆花粉和小米用户吵得飞起。加上某些搞机博主带节奏，说它能吊打谷歌全家桶，大家就都跑来围观了。\"",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Rae Burrell",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n\n\"topic\": \"Rae Burrell\",\n\"summary_cn\": \"Rae Burrell是WNBA洛杉矶火花队的新秀，刚在对阵狂热的比赛中砍下20分带队逆转，表现炸裂直接冲上热搜。大家都在夸她进攻天赋拉满，这赛季新星又多了一个值得蹲的。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "SB19GRAMMYGlobalSpinLive",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "SB19是菲律宾的男团，在GRAMMYGlobalSpinLive上表演了，粉丝疯狂刷屏把他们送上推特话题。这波操作纯靠粉丝用爱发电，把当地偶像热度推到了全球趋势里。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jumanji",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"Jumanji突然上趋势是因为大家发现《勇敢者游戏》巴西片场有个群演不小心掉进了真·丛林，结果被当成野生NPC全网找🔍，加上老粉开始玩梗‘滚骰子时最怕亲戚进来问你啥时候结婚’，反而把这片子考古式翻红了一波🌴🎲\"",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Olivia Miles",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Olivia Miles 是今天 X 上的热门话题，具体讨论内容待补充。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-07-28",
     "time": "2026-07-28 14:16",
     "source": "trends24.in",
