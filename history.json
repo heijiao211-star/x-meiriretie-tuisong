@@ -1,5 +1,219 @@
 [
   {
+    "date": "2026-07-30",
+    "time": "2026-07-30 14:16",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "AEWDynamite",
+        "sentiment": "玩梗",
+        "summary": {
+          "translation": "1.【@AEW】👀 ??? #AEW炸药节目\n2.【@AEW】本周三晚上8点/7点CT，TBS直播《AEW炸药：新年狂欢》！丹佛附近的快来现场跨年！购票→ http://AEWTIX.com",
+          "summary": "AEW又在用神秘符号钓粉丝胃口了，网友都在猜下周剧情会搞什么幺蛾子。摔角迷们一边吐槽AEW票价真会玩，一边兴奋得像过年抢红包。",
+          "sentiment": "玩梗"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/AEW/status/1585425899389952002"
+          },
+          {
+            "url": "https://x.com/AEW/status/1607557001495592961"
+          }
+        ]
+      },
+      {
+        "trend": "Ali Sanchez",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Ali Sanchez 是个可能因为突发新闻或争议言论冲上X趋势的人名。目前大家主要在刷屏讨论他做的事，跟某个社会事件或八卦瓜有关，具体细节还得点进去看。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Romy",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"topic\": \"Romy\",\n  \"intro\": \"Romy突然上趋势，大概率是那个音乐人或乐队成员又有新动作了，要不就是粉丝刷榜搞的。总之，这名字一火十有八九和发新歌、巡演或者撕逼沾边。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Boone",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"topic\":\"Boone\",\"content\":\"“Boone”突然上热搜，八成是游戏《辐射》里的那个经典狙击手队友又有人考古了，要么就是哪个大明星外号叫这个被抖出同款名场面了。反正就是老梗新玩，网友又开始组团“还记得那个该死的Boone吗？”然后疯狂截图玩梗，缅怀一下年少时的那一枪爆头。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Hoppe",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Hoppe就是那个德国枪型博主，最近拍了把加装三脚架的步枪挑衅控枪法案，直接引爆了美国自由派的愤怒和保守派的狂欢。因为这波争议闹太大，直接攻上X趋势了，反正又是上网看人吵架的一天🤷‍♂️",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Eric Lauer",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"explanation\": \"Eric Lauer 这哥们上了X热搜，主要因为他是《忍者神龟》的联合创作者之一，最近过世了，大家集体怀旧刷屏。\",\n  \"reason\": \"不仅是哀悼，更因为不少人刚知道他和原著漫画的黑白硬核风格，童年回忆杀加冷知识揭秘直接冲上趋势。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "LaCasaDeLosFamososMx",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这是一个墨西哥版《老大哥》真人秀的热搜，明星们在封闭豪宅里撕逼、恋爱、吵架，粉丝每天围观吃瓜。上趋势是因为最近一集有情侣互殴加联盟内讧，剧情太抓马，全网都在骂或者磕CP。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Thornton",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题突然爆了，好像是因为有个叫Thornton的哥们干了件特离谱或者特暖心的事，网上都在吵翻天了。具体为啥上趋势，你跟风刷几个视频就懂了，吃瓜群众表示剧情太刺激。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Edwin Diaz",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Edwin Diaz是纽约大都会队的终结者投手，今天比赛里他投出离谱的控球送分，还把对手帅到笑场，结果直接炸上热搜了。球迷都在调侃他是不是偷吃了赛前餐，这失误太抓马了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Andruw Monasterio",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这人是个棒球手，今天可能是因为打出了关键安打或者有啥炸裂的表现，直接冲上了X趋势。球迷们激动得跟过年似的，纷纷刷他名字，就这么火了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "brandnewday",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Brandnewday 这个话题是在庆祝某个挺特别的日子，大概跟一部老歌或品牌活动有关，大家在晒自己的新开始，结果一堆人跟风玩起来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Silseth",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哥们儿，Silseth这会儿上趋势，大概率是MLB新秀投手上演了神级救援或者翻车名场面，毕竟他每次炸场都能让球迷熬夜刷屏。要么就是他刚交易到新球队，粉丝吵起来了，这小伙子在中西区话题度贼高。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Doval",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "大概率是说印度国家安全顾问阿吉特·多瓦尔（Ajit Doval）最近搞了啥骚操作或谈判大新闻，或者网友在玩他的表情包梗。上趋势可能是因为中印边境话题又热了，也可能是他在国际会议上说狠话被传开了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jordan Hicks",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "乔丹·希克斯（Jordan Hicks）这位老兄要么是干了件大事，要么是闹了个大新闻，反正大家突然都在刷他——估计是他新发的推文炸了锅，或者比赛/投资整出啥惊人操作了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Arike",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“Arike上了趋势，是个好猛一女的——她刚在WNBA扔了个超远三分绝杀，直接把对手心态打崩。篮球圈都在刷她，因为这球太特么不讲理了，像玩游戏开了挂。”",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "WWHL",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "WWHL 指的是美剧《守望者》的缩写，粉丝们最近都在聊这个剧，因为某一集神转折直接冲上热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Edgar Quero",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{  \n  \"hot_summary\": \"Edgar Quero是个21岁的小联盟球员，在MLB圣诞颁奖礼被当成笑话送上热搜，因为网友疯狂刷他世界大赛夺冠照片当P图素材。简单说就是“大赛还没打，赛前先火成梗”——菜鸟靠离谱命运和无厘头祝贺喜提国际团建。这波热度完美演示了年度“如果他是受害者那网速都得看他眼色”式整活现场。\"  \n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Angels",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Angels（天使）这个话题最近在X上刷屏了，主要是因为有个关于天使👼的神秘视频疯传，加上有人瞎猜见到“真天使”的撞见八卦，搞得大家吵得不亦乐乎。其实它就是个好玩凑热闹的事儿，让你笑着感叹下互联网多能瞎嗨。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "WhiteSox",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "WhiteSox就是芝加哥白袜队，MLB里那支搞笑的菜鸡队，最近可能又输球了或者整了什么骚操作被大家疯狂吐槽，所以上了热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Valkyries",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "你刷到的‘Valkyries’话题，其实是网友在疯狂刷漫威新剧《女武神》或者亚马逊女战士相关新闻，要么是特效大片打架要么是权游风剧情预告曝光。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-07-29",
     "time": "2026-07-29 14:22",
     "source": "trends24.in",
