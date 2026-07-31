@@ -1,5 +1,212 @@
 [
   {
+    "date": "2026-07-31",
+    "time": "2026-07-31 14:35",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "ariana",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"summary1\":\"A妹（Ariana Grande）新专辑或巡演又有动静了，欧美饭圈集体过年，热搜直接被她家粉丝刷爆。\",\"summary2\":\"简单说就是她发歌或官宣了什么大动作，路人看热闹、粉丝发疯，外加各种造型和同款二创也冲上趋势，属于典型的内娱外娱联动吃瓜现场。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Spain",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "西班牙这几天在推特上炸了，主要是因为国家足球队在欧洲杯上踢得超猛，还有加泰罗尼亚那边搞独立游行闹得挺大。这两件事一撞，热搜直接起飞了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "RaisingKanan",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "RaisingKanan 这个话题主要是粉丝在追一部剧或者虚拟人物剧情，喊话角色成长线太虐或者太燃，大家边哭边刷话题求编剧给个好结局。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "LIKE I DO",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"explanation\": \"这话题八成是欧美网红圈又整活了，在玩‘像我这样爱你’的情感梗，粉丝和路人都来凑热闹刷屏。\",\n  \"trend_reason\": \"大概是有明星发了相关视频或帖子，配合情人节氛围，加上互动转发量爆炸，直接把词条顶上趋势了。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "BIG FEELINGS",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题就是说有人突然情绪大爆发，或者憋了很久终于把心里话喊出来，一堆网友在分享自己崩溃或解压的瞬间，刷起来特真实。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Spider-Man",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题就是漫威蜘蛛侠新片预告炸了，粉丝们疯狂讨论荷兰弟的台词和隐藏彩蛋，还有人拿它跟《英雄无归》对比。上热搜纯粹是因为预告信息量太大，评论区已经吵成战区了，路人都被勾进来凑热闹。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Morocco",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "摩洛哥突然上热搜，大概率是地震救援进展或者世界杯申办又整新活了，反正都是那种让全网跟着揪心或嗨一把的大事。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Duran",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Duran这波上热搜，主要是某个DuranDuran乐队突然官宣跟某顶流明星合作新歌，粉丝直接炸锅，话题量飙升。简单说就是老牌乐队蹭了新流量，两边粉丝互怼加狂欢，把词条顶上了趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "BAD THING",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个趋势大概是指某个明星或网红干了一件特别拉胯的事，被全网吐槽，带节奏喷到上热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "BUNNY HOP",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "BUNNY HOP 就是最近 X 上疯传的兔子跳挑战，一堆人录自己像兔子一样蹦跶的视频，动作越沙雕越火。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "KISS ME",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "KISS ME 这话题吧，其实是个很纯情的梗，网友在刷屏各种亲亲图跟表白段子，大多是因为有明星或剧集突然撒糖了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "OH WELL",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题就是欧美网友在吐槽那些‘嘴上说没事，心里MMP’的破事，比如队友坑了、外卖迟到还摔了，只能憋出一句‘OH WELL’装洒脱。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "NEVER GET OVER ME",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“NEVER GET OVER ME”这话题最近在X上刷屏，大概是指某些粉丝或网友对某个明星、前任或逝去偶像的“戒断失败”，拼命发旧照和回忆杀，把自己整成琼瑶剧主角，别人看着都替他们心酸。  \n上趋势嘛，八成是某个大V突然分享了自己“多年走不出来”的经历，引发一堆人共鸣开刷，或者有明星出了新作品/丑闻，让旧情又炸了一波——总之，人间清醒是不可能了，痴情总在互联网，哈哈。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Deebo",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Deebo 这名字一上热搜，多半是跟球（NFL）或者说唱圈沾边，要不就是哪个杠精明星又整活了。这次大概率是比赛里又上演神操作或者嘴炮互怼，老外一激动就给顶到趋势榜了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Ceuta",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Ceuta这地方是西班牙在北非的飞地，最近因为移民闯关和边境冲突突然刷屏，欧洲和非洲的签证难题又摆台面上了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "AH HA",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题其实就是被某综艺里一个魔性'啊哈'表情包带火的，配上沙雕剪辑直接出圈。大家图一乐疯狂玩梗，顺便吐槽生活里那些突然想通的'灵光一现'瞬间。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "WARNING SIGNS",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题就是说你身边那些不对劲的苗头，比如恋爱里对象突然冷淡、同事老推锅、甚至身体老犯困，全是该警惕的暗号。为啥上热搜？因为最近一堆博主和评论区集体吐槽“当初没听劝”，加上有帖子自曝翻车经历，大家一看“哎呀我也遇到过”，就冲上去共鸣转发，直接把话题顶爆了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Tom Holland",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Tom Holland 突然上热搜是因为他最近在采访里透露要暂别演艺圈，原因是拍戏压力大到快顶不住了，还承认自己酗酒成瘾，粉丝都炸了。大家一边担心他身心状况，一边疯狂刷祝福和讨论他，这话题直接就被顶上了趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Stewie",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Stewie 这名字突然刷屏，是因为《恶搞之家》里那个毒舌宝宝又有新梗了，可能是新一季预告或者名场面被网友翻出来恶搞。反正就是老粉狂喜，新粉一脸懵，但大家点进去一看乐子就停不下来。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Moroccan",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波趋势基本是摩洛哥又在世界杯预选赛上踢疯了，全网刷屏庆祝他们冲进2026世界杯，还有一堆人转发当地球迷炸街的壮观场面，看着像过年一样。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-07-30",
     "time": "2026-07-30 14:16",
     "source": "trends24.in",
