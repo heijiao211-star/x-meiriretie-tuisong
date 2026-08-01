@@ -1,5 +1,247 @@
 [
   {
+    "date": "2026-08-01",
+    "time": "2026-08-01 14:19",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Giulia",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "这个冠军只是开始。我是NXT女子冠军！#WWENXT",
+          "summary": "这帖就是Giulia在摔角界官宣夺冠，感觉她在放狠话立flag，粉丝肯定在刷屏庆祝或者调侃她下一步要挑战谁。大家主要看热闹，顺带猜测她接下来剧情怎么走，毕竟摔角就是看谁嘴炮够狠。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/giulia0221g/status/1876841990022672722"
+          }
+        ]
+      },
+      {
+        "trend": "SmackDown",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "我讲两句：SmackDown是WWE的周五品牌秀，老摔跤迷的青春回忆，新观众看个乐子。这次上趋势多半是明星回归或者剧情整了个大活，粉丝不爽或嗨翻，刷屏讨论起来了呗。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "MLBS6Spoilers",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "🚨 最终剧情反转 - #瓢虫少女第六季 🚨 以下是第六季结尾的新变身 - #瓢虫少女 将在第22集与蕾娜交换奇迹，黑猫诺尔将与甲壳虫在6×23交换。 #mlbtwt #MLB #MLBS6Spoilers",
+          "summary": "大家正在疯狂讨论角色奇迹交换的设定，感觉编剧又要搞大动作，粉丝们一边兴奋期待新变身，一边担心剧情会不会崩，同时也有人吐槽情报像在挤牙膏，忍不住吃瓜看乐子。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/MLB_Shadybug1/status/2025123498889244723"
+          }
+        ]
+      },
+      {
+        "trend": "MySpace",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"MySpace突然上趋势，主要是老外们开始集体怀念那个能自定义页面、放非主流音乐的‘远古社交网站’，顺便嘲讽一把现在的算法推送。说白了就是一波复古情怀+互联网考古，外加有人翻出当年黑历史页面引发围观。\"\n\"这波上热搜纯属‘赛博追悼会’，大家边笑自己当年火星文和闪图审美，边感叹现在社交平台太‘精致’没内味了。\"",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "OPLive",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "是的，米歇尔，我们下周五和周六会直播。感谢你的提问。#OPLive #OPNation #OnPatrolLive",
+          "summary": "官方账号亲自下场确认直播时间，粉丝们总算松了口气，准备蹲点追更。大家一边兴奋搓手，一边调侃这周没直播怕是要戒断反应了。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/OfficialOPLive/status/1642365103923400704"
+          }
+        ]
+      },
+      {
+        "trend": "Cole Irvin",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "道奇队球员科尔·欧文回忆了他感动的道奇首秀，说俄克拉荷马城队友的送别几乎让他落泪。这位橘子郡本地人还解释了帮助他重返大联盟的调整。https://www.youtube.com/watch?v=QG_sEs8qSdU",
+          "summary": "大家是在看一个本地小伙儿实现梦想的温情剧本，他差点被队友送别整哭了，这波眼泪是真实情感不是演戏。还有就是他靠什么调整重新杀回大联盟，吃瓜群众等着看他这次能不能站稳脚跟。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/DodgersBeat/status/2083429262326202497"
+          }
+        ]
+      },
+      {
+        "trend": "Bo Jackson",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Bo Jackson这名字突然上热搜，估计是又有人翻出他当年橄榄球+棒球双栖神兽的逆天集锦，要么是啥纪录片或老访谈又火了一把。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "thewaltenfiles",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题是个恐怖游戏《The Walten Files》的粉丝圈狂欢，大家在看新发布的诡异录像带，吓得睡不着又停不下来。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Max Clark",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"summary1\": \"Max Clark这哥们是棒球界的超级新星，刚签了大合同，全网都在刷他的炸裂扣篮和神级防守。\",\n  \"summary2\": \"上趋势是因为他打破了青年联赛纪录，加上转投新东家，老美球迷集体高潮了，咱们吃瓜看看就行。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Nomar",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Nomar本来是个老棒球球星，最近突然被一帮梗图博主翻出来玩梗，还配上乱七八糟的“大叔回忆杀”，结果莫名其妙冲上趋势榜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Mitch Garver",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "记者Jeff Passan报道，捕手Mitch Garver与西雅图水手队达成小联盟合同协议，消息源告诉ESPN。35岁的Garver过去两个赛季效力水手队，将竞争主力捕手、美联MVP亚军Cal Raleigh的替补位置。",
+          "summary": "这波操作就是水手队给老将一个再就业机会，毕竟35岁了还愿意打小联盟，挺励志的。吃瓜群众主要看热闹：Garver能不能靠这把年纪挤进大联盟名单，以及和Raleigh的搭档会不会有化学反应。",
+          "sentiment": "中性"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/JeffPassan/status/2024277135997706497"
+          }
+        ]
+      },
+      {
+        "trend": "Bello",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "朋友们，我一到家就反思了一下，想跟你们分享：我问科林蒂安主教练维托尔·佩雷拉的那个问题真的太烂了。本来想轻松点，结果搞得很冒犯。在这里我正式道歉 1/2",
+          "summary": "这事儿就是巴西记者马科·贝洛在采访里问崩了，回家后自己发帖道歉认怂，网友一边吐槽他业务能力拉胯，一边调侃主教练的反应有多绝。吃瓜群众看的是尴尬和事后补救的戏码，乐子全在社死现场。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/marcobellojr/status/1585502970757742593"
+          }
+        ]
+      },
+      {
+        "trend": "Lash",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Lash话题在X上火了，主要是因为最近好莱坞明星和网红们集体晒出自己种睫毛和日常护理的对比照，评论区全在问‘这效果咋整的’，把#lashlash顶上了趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "DMDSportsDay2026",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "[@Diotickets]: DMD 运动会 2026\n[@DomundiTV]: 公告：《DMD 运动会 2026 - 高中氛围》的关键词和标签更新啦！所有粉丝可以通过下面这些关键词和标签来参与聊天、加油打气哦 🙇🏻‍♀️ 🔑：DOMUNDI SPORTS 2026 #️⃣：#.DMDSportsDay2026 #domunditv",
+          "summary": "官方在整活式预热运动会，粉丝忙着认领关键词和喊口号，气氛跟学校动员大会一样热烈但纯属自嗨。没啥吵点，就是粉丝在等自己偶像所在队伍分组的细节，顺便吐槽官方玩“高中梗”有点土又有点上头。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/Diotickets/status/2070711654833332434"
+          },
+          {
+            "url": "https://x.com/DomundiTV/status/2083402239239188505"
+          }
+        ]
+      },
+      {
+        "trend": "Klein",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Klein这波上趋势是因为欧洲老铁又拿他玩梗，说他是‘净网先锋’，实际是吐槽他删帖快得离谱。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Triple Double",
+        "sentiment": "争议",
+        "summary": {
+          "translation": "魔术师约翰逊说：凯特琳的40分三双之所以特别，是因为这么多球员都没拿过，包括我、乔丹还有拉里·伯德！",
+          "summary": "大家吵的是，魔术师这波夸人是不是变相自夸，顺带把乔丹伯德也拉下水了；看点是老派巨星和新生代数据之间的碰撞，有人觉得时代不同没法比，有人觉得这成就确实炸裂。",
+          "sentiment": "争议"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/MagicJohnson/status/1640818048759402496"
+          }
+        ]
+      },
+      {
+        "trend": "Stephanie White",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题是美国女篮教练Stephanie White，刚被曝出跟WNBA球员有恋情瓜，国内外篮球论坛炸锅了。因为她是公开的LGBTQ+身份，加上新赛季执教强队，大家一边吃瓜一边讨论体育圈出柜的生态。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Dan Wilson",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这位老哥是玩独立音乐和制作人圈子的，突然上趋势是因为他新发的一首歌被网友扒出来疑似嘲讽某顶流歌手，评论区直接炸了。反正就是音乐圈又开撕了，吃瓜群众赶紧跟上。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Pirro",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哎呀，“Pirro”这名字一上热搜，十有八九又是美国那位大姐大Jeanine Pirro在搞事情——她平时不是喷检察官就是怼民主党，今天估计又对哪个案子或者政治人物开炮了，网友吵成一团。\n\n总之就是美国右翼媒体又整活了呗，要么是她的节目片段被疯狂剪辑传播，要么是这位“法官姐姐”又发表了什么炸裂言论，让两派粉丝在评论区互撕。反正上趋势不奇怪，她每次开口都能自带流量。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "DOMUNDI SPORTS 2026",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "DOMUNDI SPORTS 2026就是那个全球体育品牌大会，最近因为曝出要跟中国几个大厂搞联名款，加上明星代言阵容提前流出，瞬间被刷上热搜了。说白了，就是品牌蹭热度+粉丝磕糖，大家图个乐子。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-07-31",
     "time": "2026-07-31 14:35",
     "source": "trends24.in",
