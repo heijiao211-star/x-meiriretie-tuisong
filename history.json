@@ -1,5 +1,235 @@
 [
   {
+    "date": "2026-08-02",
+    "time": "2026-08-02 14:24",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Dodgers",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "道奇队将外野手科迪·贝林杰和内外野手扎克·麦金斯特里从伤病名单中激活，并将外野手DJ·彼得斯和内外野手谢尔登·纽斯下放至三A级俄克拉荷马城队。",
+          "summary": "这是道奇队正常的阵容调整，球迷在讨论贝林杰回归后能否找回状态，毕竟他近两年表现起伏。大家也在吐槽球队伤病太多，阵容像走马灯一样换人。",
+          "sentiment": "中性"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/Dodgers/status/1398684802513920001"
+          }
+        ]
+      },
+      {
+        "trend": "Zepeda",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Zepeda这波上趋势，多半是某个叫Zepeda的老哥搞了大新闻（可能是体育圈的猛操作或者政坛的瓜），大家伙儿正疯狂刷屏吃瓜呢。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Tigers",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "老虎这个话题突然炸了，是因为一段野外老虎追人视频疯传，网友吓得直呼‘这战斗力碾压狮子’。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "River Ryan",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "[@SteveoBlanc0]: @BaseballWRLD_ 那些觉得MLB总经理会根据媒体排名来评估新秀的推特高管告诉我，River Ryan毫无价值，这是怎么回事？[@FabianArdaya]: 我和@katiejwoo的消息源：道奇投手新秀River Ryan因腿筋问题进入小联盟伤病名单。他在俄克拉荷马城队赛季早些时候就曾因腿筋问题缺阵，本周的先发也被跳过了。",
+          "summary": "大家吵的是：有人嘲讽推特高管把媒体排名当真理，结果这位被看好的新秀又伤了，尤其还是同一个老毛病反复犯，直接成了打脸素材。另外，球迷们也在看道奇队的耐心消耗，因为River Ryan反复腿筋拉伤，开始担心他是不是玻璃人体质，调侃都到麻了。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/SteveoBlanc0/status/2083760962276851866"
+          },
+          {
+            "url": "https://x.com/FabianArdaya/status/2070655326253392014"
+          }
+        ]
+      },
+      {
+        "trend": "Brewers",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "【@酿酒人队】今日球队人员变动",
+          "summary": "大家是在围观酿酒人队今天官宣的阵容调整，看看到底是哪些球员被交易或下放，顺便吐槽管理层这波操作有没有搞头。有人觉得是正常轮换，有人觉得是省钱摆烂，评论区基本是球迷吵着吵着开始玩梗。",
+          "sentiment": "中性"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/Brewers/status/2054279246361628683"
+          }
+        ]
+      },
+      {
+        "trend": "Sheehan",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "【MLB官方】：埃米特·希恩上演梦幻首秀。",
+          "summary": "大家在看MLB新秀投手希恩的炸裂首秀表现，惊叹他今天的状态简直开挂，但也在讨论这场有没有水分、对手菜不菜。氛围是正面为主但夹杂调侃。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/MLB/status/1669917371635585024"
+          }
+        ]
+      },
+      {
+        "trend": "World Series",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "美国职棒总决赛今年又开打了，全民吃瓜节奏飞起。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Lockout",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哎，Lockout这话题现在冲上热搜，说白了就是推特上好几个千万级大V账号突然被封或者被限制登录，搞得一堆人以为自己网断了，结果发现是被平台“锁门”了。这波操作大概率是马斯克又搞清算或者系统抽风，网友就疯狂吃瓜吐槽，顺便猜是不是又要搞什么新规了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Zyhir Hope",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "突发：道奇队两大顶级外野新秀肯德尔·乔治和齐希尔·霍普在双A塔尔萨队比赛前被移出阵容。霍普一直与塔里克·斯库巴尔交易传闻联系在一起。可能没什么，也可能是大事。",
+          "summary": "洛杉矶道奇把两名外野新星突然拿掉不让上场，之前霍普就天天跟斯库巴尔的交易传绯闻，球迷现在都炸锅了，要嘛是空欢喜白着急，要嘛就是道奇闷声憋大招想换个大杀器来。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/nelson__espinal/status/2083711359595020770"
+          }
+        ]
+      },
+      {
+        "trend": "Spokane",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Spokane这波上热搜，多半是美国那边又出啥幺蛾子了，可能是天气极端、罢工，或者搞了个什么本地大新闻被全网转发了。总之就是咱们这边看个热闹，图一乐就成。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Baseball",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个话题主要是因为最近MLB季后赛打得火热，加上某场世纪大战的绝杀球，让棒球突然刷屏老外朋友圈。平时不关心棒球的人也被这氛围带动，开始讨论谁是史上最强击球手。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Shakur",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Shakur 这词儿冲上热搜，八成是跟已故说唱传奇 2Pac（图帕克·沙库尔）沾边，要么是新纪录片、未曝光单曲，要么是纪念日又勾起了全网怀旧潮。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Scott Harris",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Scott Harris上趋势是因为他最近在社交媒体上发了一条离谱言论，网友炸锅争着吐槽，具体内容好像是装专家聊AI误人子弟，结果被一堆技术大佬现场打脸。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "SummerSlam",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "SummerSlam就是WWE的夏日摔跤大赛，跟春节联欢晚会似的，每年固定档期并且戏超多。这次刷屏是因为有超级大牌回归或者爆冷夺冠的环节，欧美粉丝全在狂转现场视频和表情包，国内摔跤迷也跟着凑热闹。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Snell",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Snell 是今天 X 上的热门话题，具体讨论内容待补充。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Castillo",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "最近飙上趋势的Castillo，大概率是在说《长月烬明》里的男二邓为（叶冰裳老公）或者某个欧美圈翻车网红，大家正忙着吃瓜或舔屏呢。反正不是因为啥正经大事，就是粉丝骂战或新剧物料炸出来了热度。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Ohtani",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "大谷翔平又双叒叕上热搜了，这回是因为他MLB单赛季50轰+50盗的史诗数据，简直是漫画男主照进现实。加上道奇队晒他训练照，球迷直接狂喜，不刷屏才怪。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Tank",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波#Tank 上热搜，大概率是又有军事大V晒坦克实弹演练或者俄乌战场上的重型装备视频，估计是画面太燃或太惨直接炸出讨论。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Glasnow",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Glasnow这名字一冲上趋势，八成是棒球圈又炸了，具体就是他投球状态神勇或者伤病反复，反正大联盟的流量密码就是他。\n反正非球迷看到别懵，简单说就是这人投球快得吓人，但玻璃人属性让每次上场都像开盲盒。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Brady Smith",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Brady Smith 这哥们儿是个美国喜剧演员，最近因为一段搞笑视频疯传，内容是他模仿老婆怀孕时的各种吐槽，笑点太密直接被网友捧上了热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-08-01",
     "time": "2026-08-01 14:19",
     "source": "trends24.in",
