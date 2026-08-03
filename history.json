@@ -1,5 +1,245 @@
 [
   {
+    "date": "2026-08-03",
+    "time": "2026-08-03 14:50",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "HOTD",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "[龙之家族官方]: 火起暗生。#HOTD 第三季。明天放预告。 [龙之家族官方]: 胜或死。#HOTD 第三季6月21日HBO Max上线。",
+          "summary": "这波就是官方直接扔炸弹，第三季定档+预告片预告，粉丝们已经在脑补龙战和血火剧情了。没撕逼没玩梗，纯纯热血沸腾等着开播，顺便数着日子盼明天预告片出更狠的料。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/HouseofDragon/status/2024151996429894047"
+          },
+          {
+            "url": "https://x.com/HouseofDragon/status/2052010497537413479"
+          }
+        ]
+      },
+      {
+        "trend": "NoValkoNoMoney",
+        "sentiment": "玩梗",
+        "summary": {
+          "translation": "[@steelarangel]: 她们是我最喜欢的模板！如果你还在玩《恋与深空》的话随便用 🤍 #Valko被爱 #Valko有价值 #没有Valko就不花钱 #把Valko带回来 #带Valko回家 #Valko\n\n[@pttybby]: 我们每天都在坚持 💗 不管是不是他的生日。VALKO就要回家了 #没有Valko就不花钱 #Valko被爱 #Valko #奥因 #我们爱Valko #Valko是第六位男主",
+          "summary": "说白了，就是玩家在联合抗议游戏《恋与深空》不出那位叫Valko的角色，放话说不把他加进游戏就不掏钱，刷话题刷存在感。有人觉得这纯属玩家用爱发电的胡闹，也有人看热闹不嫌事大，一边吃瓜一边看官方会不会真被闹烦了就端上来。",
+          "sentiment": "玩梗"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/steelarangel/status/2082601208540287082"
+          },
+          {
+            "url": "https://x.com/pttybby/status/2082073560554856659"
+          }
+        ]
+      },
+      {
+        "trend": "HouseOfTheDragon",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "龙之家族：绝对权力近在咫尺。#HOTD 第三季将于六月在HBO Max回归。",
+          "summary": "巨龙、权谋、烧钱特效要回来了，大家一边流口水一边担心这季又得等一周才憋出个屁大的冲突。剧粉和原著党已经开始互怼，吵要不要按小说拍死几个人。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/HouseofDragon/status/2024514345536016785"
+          }
+        ]
+      },
+      {
+        "trend": "SummerSlam",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "SummerSlam就是WWE的年度摔角大赛，相当于摔角圈的春晚，明星打架剧情全憋大招在这天爆发。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Roman",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Roman 霸榜是因为最近有个叫《Roman》的独立游戏疯狂刷屏，一堆人熬夜打它然后被虐哭，连主播都在标题上写“年度催泪神作”。简单说就是游戏圈集体上头，导致全网都在讨论这剧情到底是不是神作，还顺带掀起一波“罗马式美学”二创。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "AUTUMN LEAVES",
+        "sentiment": "玩梗",
+        "summary": {
+          "translation": "[@Somerandomguyn2]: 秋天的落叶（离开推特哈哈）#宝可梦 #叶伊布 #伊布进化\n\n[@54lovelybts]: ~每日分享一首防弹歌~第365天 “秋叶~演示版” 🎧 2016年1月在推特上发布的“秋叶”又名“枯叶”的演示版。🍂",
+          "summary": "有人在玩双关梗，把秋天的落叶和“离开推特”凑一起，还扯上宝可梦的叶伊布，轻松搞笑。另一波是BTS粉丝在坚持打卡每日歌曲分享，搞到第365天翻出旧爱“秋叶”，满满都是怀旧和执着。",
+          "sentiment": "玩梗"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/Somerandomguyn2/status/1847142732399268316"
+          },
+          {
+            "url": "https://x.com/54lovelybts/status/1734233554689634440"
+          }
+        ]
+      },
+      {
+        "trend": "Sheepstealer",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Sheepstealer这词儿这两天在X上炸了，说白了就是有个叫‘偷羊人’的网络梗突然火了，起因是有人拿它编了个离谱的AI生成片段，说羊群被无人机抢走，结果网友全在玩梗。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Aegon",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Aegon这话题主要是在聊《龙之家族》里的那个铁王座继承人，网友在吵他到底是蠢还是被编剧坑了，加上剧集最近开播热度直接拉满。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "BaddiesUSA",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题就是一档美版撕逼真人秀《Baddies》在X上炸了，节目里一群姐们儿喝酒打架、骂街撒泼，比八点档还抓马。  \n上热搜是因为新一季预告片放出来，里面有个女选手直接抡酒瓶爆头，网友一边疯转一边吐槽剧情比剧本还敢写，撑的撑、骂的骂就给你顶到趋势了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Mario Lopez",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "简单说就是Mario Lopez突然上热搜，是因为他早年主持综艺时的争议发言被网友翻出来狂喷，外加最近又摊上节目制作纠纷，两边一叠加就炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Sunfyre",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "[@SunfyreTV]: 收工了👏 第一季《音乐人豪宅》收官啦👀",
+          "summary": "大家主要是在围观这个叫《音乐人豪宅》的第一季收官，看看里面的搞笑骚操作和反转关系；另外就是看网友对下一季怎么整的期待和吐槽，气氛还挺乐呵的。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/SunfyreTV/status/1682847418336026624"
+          }
+        ]
+      },
+      {
+        "trend": "Rhaenyra",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "好吧，但还有谁能在电视上给我们这样的瞬间？丹妮莉丝·坦格利安至今无人能敌。她的力量!!!!!",
+          "summary": "大家还是在吹龙妈的巅峰表现，觉得现在剧里没人能复制她的高光时刻。顺便阴阳了一下新剧角色，觉得Rhaenyra跟龙妈比还是差点意思。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/i/status/1423011594821271553"
+          }
+        ]
+      },
+      {
+        "trend": "Syrax",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波是因为《龙之家族》第二季里Syrax那条龙终于有大戏份了，粉丝们集体嗨翻，热搜直接被刷爆。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Ciroc",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Ciroc这个法国伏特加牌子突然上趋势，估计又是哪位明星（比如Diddy）在派对或新闻里cue了它，或者被网友玩起了梗。反正就是酒圈或娱乐八卦的热度又起来了，甭管真假，大家先嗨就对了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Infold",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "小众玩家圈的狂欢又来了，Infold大概是手游或游戏公司的新动作，大家突然开始狂刷这个话题。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Emily",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哦你说Emily啊，就是欧美那边突然刷屏的一个女孩，好像是某位顶流网红（或者球星）的新女友曝光，粉丝和吃瓜群众直接把她推上热搜了。\n\n说白了就是“八卦+颜值+恋情”三件套，大家一边扒她IG一边站队，热度自然就炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Rhaena",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "龙之家族里那个骑龙的小姐姐，今天因为剧里突然变惨又变强，全网都在心疼和尖叫。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Mariana",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Mariana这话题火起来，大概率是哪个明星或网红突然搞点大瓜，要么是恋情要么是翻车，吃瓜群众一拥而上把它顶上了热搜。反正咱不是当事人，就搬个小板凳看热闹，顺便感叹一句：互联网的瓜，永远比电视剧精彩。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Gausman",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Gausman突然上热搜，多半是棒球圈的事——这哥们是蓝鸟队的王牌投手，要么投了场神比赛，要么被交易传闻给炸出来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Aemond",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "《龙之家族》里那个独眼龙王子又上热搜了，主要是剧里他砍他侄子那段太狠，网友吵他到底是反派还是被逼的。反正就是欧美剧粉的日常撕逼，外加一堆人刷他帅（虽然只有一只眼）。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-08-02",
     "time": "2026-08-02 14:24",
     "source": "trends24.in",
