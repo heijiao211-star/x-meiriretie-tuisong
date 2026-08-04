@@ -1,5 +1,223 @@
 [
   {
+    "date": "2026-08-04",
+    "time": "2026-08-04 14:18",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "WWERaw",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "[@WWE]: 惊喜来了！#WWERaw\n[@WWE]: 不会吧！#WWERaw",
+          "summary": "今晚的RAW感觉要搞大新闻，官方连发两条带惊叹号的预告，粉丝肯定在疯狂猜测谁回归或者谁被偷袭。说白了就是吊胃口，大伙儿一边喊“来了来了”一边等正片，氛围跟过年似的。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/WWE/status/1676048993875382273"
+          },
+          {
+            "url": "https://x.com/WWE/status/1911969040605606026"
+          }
+        ]
+      },
+      {
+        "trend": "Becky",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Becky这波上趋势八成是日本那个网红女星又有新瓜，要不就是新剧或者恋情曝光，反正粉丝和吃瓜群众都嗨了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Telegram",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题就是聊 Telegram 创始人杜罗夫在法国被抓，顺带把“加密通讯到底安不安全”和“平台管不管得住”老底又翻出来炒了一遍。上趋势纯粹是因为吃瓜群众一边看“大佬翻车”的乐子，一边琢磨自己那些小秘密是不是也要完蛋。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Thanksgiving",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "肯尼迪部长：感恩节快乐！",
+          "summary": "这帖子就是个大白话节日祝福，没什么可吵的。网友要么跟着刷节日快乐，要么吐槽这部长在搞什么幺蛾子。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/SecKennedy/status/1994099827861241862"
+          }
+        ]
+      },
+      {
+        "trend": "Oriade",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Oriade这名字突然窜上热搜，大概率是某个海外明星或网红突然搞了个大新闻，要么是作品爆了要么是嘴瓢翻车了，前排吃瓜群众全在扒他的黑历史。反正现在大家伙儿不是在搜‘Oriade是谁’，就是在骂‘这人怎么又出来了’……热搜就这么被顶上去了！",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Chivilli",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"summary1\":\"Chivilli，简单说就是个老外在网上爆了个瓜，具体是啥我先卖个关子，反正就是那种一看就让人想转发的破事，跟八卦或者离谱操作有关。\",\"summary2\":\"这玩意儿能上趋势，主要是大家看热闹不嫌事大，加上吐槽和玩梗的太多，直接给顶到热搜了，说白了就是围观群众的力量。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "App Store",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题就是说苹果应用商店被各国监管锤得够呛，外加开发者骂抽成太黑，用户吐槽审核慢。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Volpe",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Volpe（意大利语‘狐狸’）最近上了X趋势，主要是因为意大利球星费德里科·基耶萨的昵称‘Volpe’和他转会传闻一起炸了——球迷在刷他要去哪家豪门。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Robert",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波是马斯克那个AI聊天机器人Grok的老爸Robert，因为发推怼了儿子几句，结果被网友扒出来原来是个科幻作家，瞬间冲上热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Big Cass",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哎呀，Big Cass上趋势主要是因为他那条“回不去了”的推文被全网疯转，",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Red Cross",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Red Cross（红十字会）这两个字冲上热搜，十有八九是又出了什么大事儿——不是自然灾害就是战争冲突，大家一边转发求助信息一边催着捐款。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Lombard",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哦你说Lombard啊，这词儿今天突然刷屏是因为推特上有人在晒加州那条超弯的“九曲花街”，配上电影感滤镜，一堆人转发求定位。其实就是旧金山那个网红景点，春夏天花开了美到炸，大家看得心痒，顺便吐槽自家城市路太直没意思。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Aaron Farinacci",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Aaron Farinacci这哥们儿今天上热搜是因为一段视频火遍全网，内容是他用匪夷所思的方式拆解了个科技产品，评论区直接炸了，连大V都转发了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Eli Roth",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题就是那个拍血腥恐怖片的老哥Eli Roth又整活了，估计是新片子或者啥惊悚发言被网友疯狂转发。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Aaron Rodgers",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"美国橄榄球大佬Aaron Rodgers又上热搜了，这次估计不是打比赛，而是他那张嘴或者场外戏又整活了。简单说就是这人平时爱得罪人，加上最近可能有大瓜或者甩狠话，吃瓜群众和球迷就吵起来了。\"",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Cashman",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个话题主要在吐槽一个叫Cashman的人或梗，网友疯传他翻车或者奇葩操作的截图，看着像是什么圈子的乐子人聚会，热闹得不行。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Roman",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Roman这波上热搜，主要是欧美那边在聊一部叫《Roman》的剧或者某个网红的新瓜，具体咱也没细看，但看这架势十有八九是又有人搞出大动静了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "ESTChicago",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "ESTChicago 就是芝加哥那边一群玩「Eastern Standard Time」梗的网民，最近在疯狂吐槽当地交通和天气，靠自黑上热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Boone",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Boone这话题突然刷屏，八成是某个海外网红或事件炸了，可能跟欧美娱乐圈或者体育圈有关，具体咱没细扒但评论区已经吵疯了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Afrobeats",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Afrobeats 是非洲流行音乐的最新爆款，最近上趋势是因为一堆欧美大牌歌手都在疯抢合作，比如 Drake 和 Beyoncé 都蹭过这波律动。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-08-03",
     "time": "2026-08-03 14:50",
     "source": "trends24.in",
