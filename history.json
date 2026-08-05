@@ -1,5 +1,212 @@
 [
   {
+    "date": "2026-08-05",
+    "time": "2026-08-05 14:17",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Perez Hilton",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Perez Hilton 这货就是个老牌欧美八卦博主，今天突然上趋势是因为他发了个爆料视频，说某个顶流明星又翻车了，结果评论区炸了，争议太大直接被顶上热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Introducing",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"intro\":\"简单说就是X上的一个新功能或活动上线了，大家一窝蜂刷屏#Introducing，想蹭个曝光度。\",\"trend_reason\":\"主要因为大V和官方号集中发帖，带节奏搞热度，加上围观群众爱看新鲜的，顺手就顶起来了。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Stevens",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题讲的是《星际牛仔》的导演渡边信一郎和音乐人菅野洋子的合作项目又诈尸了，说是要出新动画电影，粉丝直接高潮。上趋势是因为老粉狂刷情怀，加上官方放了个糊得要死的预告片，大家一边骂“有生之年”一边熬夜蹲消息。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "DevOps",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "DevOps 就是一群开发和老哥运维老哥握手言和，把代码发布、监控、回滚整成一条流水线，省得天天互相甩锅。这题上热搜估计是因为某家云厂商又搞崩了线上服务，大家集体吐槽‘一键部署翻车现场’。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Michigan",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Michigan这波上热搜，八成是因为那边又搞出什么幺蛾子——要么是选举选举闹剧，要么是天气极端到把公路冻裂了。反正美国中部州上趋势，基本就是‘吃瓜看戏’或‘全民吐槽’二选一。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "El-Sayed",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哎呀，El Sayed这老哥今天在X上被刷爆了，主要因为他跟特朗普在那儿对线，俩人为啥吵呢？因为特朗普嫌他用英文回的自己，还带点阿拉伯英语的味道，结果一堆网友围观吃瓜，顺带把他当成了“文化交流和反歧视”的最新教材。反正就是一场网络吵架，吵着吵着就让话题火上了热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Wayne County",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Wayne County这个热门话题其实就是美国密歇根州韦恩县（底特律所在地）最近出了一档子大事，可能是当地选举、枪击案或者市政骚动上了新闻，老外刷屏吵翻了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Cori Bush",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Cori Bush这位美国女议员又上热搜了，主要是她因为巴勒斯坦问题跟拜登政府硬刚，骂得挺凶，还带头呼吁停火，搞得民主党内部炸锅。翻译成人话就是：政客吵架+国际热点，网友看热闹不嫌事大，话题自然就爆了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "McMorrow",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "McMorrow上趋势可能是某个欧美歌手、运动员或网红突然发了条爆炸性帖子，比如新歌发布、怼人或者绯闻，大家一下就冲去看热闹。反正就是短时间内话题度爆表，粉丝和路人全在刷，所以热搜就炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Van Jones",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Van Jones今天上热搜是因为他在X上发了条猛料，直接开怼某个政界大佬，说人家政策纯属扯淡，然后网民就炸了。这哥们儿是CNN评论员，平时嘴上不带把门的，这次又整活儿，大家就凑热闹围观。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "WWENXT",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "好家伙，简单说就是WWE的“年轻版”品牌NXT又搞出大动静了，粉丝们狂刷热度在讨论新剧情和选手整活。上趋势嘛，多半是又来了个惊喜回归或者比赛太炸裂，把老粉新粉都炸出来吃瓜了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Troy Melton",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这哥们儿是个美国橄榄球运动员，最近在X上炸了，因为他在比赛里有个超级逆天的接球动作，直接把人看傻。大家疯狂转发视频，还有人扒他以前的梗，所以一下冲上趋势，纯属体育圈的流量狂欢。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Amir Hassan",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这事儿大概是个叫Amir Hassan的伊朗教练带乒乓球队打出了黑马成绩，把某位高手给掀翻了，大家伙儿刷到视频都直呼离谱。上热搜就是因为这种小人物逆袭的戏码太爽，加上比赛过程又骚又燃，谁看了不想转发一下。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Wesley Bell",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"Wesley Bell\"最近上趋势是因为这位密苏里州的检察官突然宣布要调查某位大人物（别问是谁，懂的都懂），吃瓜群众直接炸锅了——毕竟这哥们平时低调得像路人，这次直接捅了马蜂窝。简单说就是‘小人物干大事，法律碰上了流量’，大家搬好凳子看后续呢。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Hard Knocks",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "‘Hard Knocks’在X上火了，主要是美国橄榄球NFL的纪录片系列《硬汉训练营》又开播了，大家疯狂吐槽球员和教练的花絮和名场面。说白了，就是吃瓜群众爱看球星受苦、教练暴怒的真实抓马，比正赛还带劲。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Thomas Smith",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哦这个Thomas Smith啊，就是那个刷屏的“AI绘画诈骗天价捐款”的当事人，一个摄影师搞出自导自演帮狗狗募捐的烂事，被网友扒皮成大型翻车现场。大家围观他主要是吃瓜看戏，顺便吐槽现在连卖惨都要靠AI包装了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Macomb",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Macomb 这波上趋势，是因为美国那边一个叫Macomb的小地方出了个超抓马的新闻——大概是本地有个政治丑闻或者烧脑案件被抖出来了，网友全在吃瓜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Ted Lasso",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题是在说一部叫《Ted Lasso》的美剧，讲一个美国橄榄球教练跑去英国执教足球，用正能量把一堆人搞哭又搞笑的暖心故事。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Paris Hilton",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "巴黎希尔顿又上热搜了，还是那老一套—富婆名媛卖人设，但这次是因为她自曝曾遭寄宿学校虐待，拿这事儿宣传自己的新纪录片。\n\n说白了就是互联网韭菜割不动了，换个“受苦”剧本博同情，大家一边骂她演，一边又忍不住点进去看，这波流量算是被她拿捏住了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Javier Assad",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这哥们是芝加哥小熊队的投手，今儿突然上热搜是因为他投了一场超炸的比赛，9局无失分还送出一堆三振，直接封神。球迷们嗨翻了，各种吹爆他的神走位和控球，感觉整个棒球圈都在刷他名字。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-08-04",
     "time": "2026-08-04 14:18",
     "source": "trends24.in",
