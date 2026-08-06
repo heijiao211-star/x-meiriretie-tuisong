@@ -1,5 +1,219 @@
 [
   {
+    "date": "2026-08-06",
+    "time": "2026-08-06 14:20",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "OLANDRIA VARIETY",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哈哈，这话题火起来是因为某个外语视频博主搞了个“OLANDRIA VARIETY”的梗，结果被国内网友翻译成“奥兰德里亚杂货铺”，疯狂玩谐音和梗图，莫名戳中笑点。说白了就是互联网没准儿随时给你整一出文化混搭，谁蹭上谁就爆了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "AEWDynamite",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "[@AEW]: 本周三晚上8点（东部时间）/7点（中部时间），TBS电视台直播《AEW Dynamite：新年狂欢》！🎟 如果你在丹佛地区，和我们一起迎接新年吧！http://AEWTIX.com\n\n[@AEW]: 👀 ？？？ #AEWDynamite",
+          "summary": "大家在猜测AEW到底在搞什么神秘预告，是惊喜还是套路，评论区一片问号和兴奋，感觉要搞大事但又不明说，吊足胃口。丹佛的线下活动也成了热门话题，粉丝们一边抢票一边吐槽票价，氛围热热闹闹的。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/AEW/status/1607557001495592961"
+          },
+          {
+            "url": "https://x.com/AEW/status/1585425899389952002"
+          }
+        ]
+      },
+      {
+        "trend": "Toby",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波趋势大概率是某个外国人叫Toby又搞了波离谱操作或者整活儿视频爆了，吃瓜群众看乐子顺便造梗。反正不是啥正经新闻，就是全网跟着哈哈的程度。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "AniyaxVariety",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "AniyaxVariety这话题说白了就是外国网友在晒各种奇葩的二次元角色混搭变装梗图，从宝可梦串到高达，脑洞开到没边了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Chivas",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哎呀，Chivas这话题冲上热搜，估计又是因为威士忌圈的某某搞事情，或者某位明星拿它当道具晒生活了。反正十有八九是酒没喝多少，逼格先拉满，评论区已经开始吵“这瓶到底值不值”了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "TrinityxVarietyYH",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个趋势主要是在讨论某个游戏相关的梗或争议事件，具体内容我还在看，但感觉是玩家们在疯狂玩梗或吵设定，热度高是因为粉丝多+话题有搞头。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Weights",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题是在聊AI模型的‘体重’——参数越大越聪明，但也更吃算力，像健身增肌一样烧钱。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Billy the Kid",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Billy the Kid上热搜是因为网飞新剧《比利小子》第二季开播了，大家又开始考古这位19世纪美国传奇枪手。这话题能火主要靠西部片滤镜+真人真事改编的狗血剧情，网友一边磕颜值一边吵历史到底靠不靠谱。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "GrandSlamMéxico",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "GrandSlamMéxico 好像是墨西哥那边的一个网球大满贯级别赛事或者表演赛，最近有人爆冷或者打出神球，搞得全网刷屏。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Paradise",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哎呀，朋友，“Paradise”这两天在X上炸了，主要是老外们在玩梗——有人贴自己梦里的天堂（要么是沙滩美女，要么是上班摸鱼时刻），还有人借“天堂”讽刺现实太卷，结果话题就一路狂奔上热榜了。说白了，就是大伙儿借这词发泄一下“理想生活”和“没钱没闲”的落差，顺便回忆游戏《Paradise》的玩家也来凑热闹。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Mitch Bratt",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Mitch Bratt 是个在X上突然窜红的高中球手，大家狂转发他一段甩球视频，臂力快到像开了挂，美媒都喊他“下一个大谷”。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Miles Mikolas",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "简单说就是圣路易斯红雀队的投手Miles Mikolas今天比赛突然爆炸，被轰得生活不能自理，球迷直接把他骂上热搜，顺便吐槽他这赛季状态像坐过山车。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "LAFC",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题就俩字：梅西。LAFC（洛杉矶FC）跟迈阿密国际踢球，票秒空、场边全是明星，Twitter上全是球迷晒现场和梅西动作集锦，感觉全LA的人都去追星了。上趋势纯粹是因为“梅西效应”太猛，连不看球的都凑热闹问一句“他上没上”。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Dan Crenshaw",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哦，这个Dan Crenshaw是个美国共和党众议员，最近在X上炸锅是因为他又在搞些“政治正确”的骚操作，比如怼移民或者跟民主党互撕，嘴炮打得飞起。所以上趋势纯粹是他那张嘴又惹事了，美国网友集体吃瓜看戏呢。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jesus is King",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个话题其实就是欧美圈子和宗教圈又在刷屏，主要是因为坎耶·韦斯特（Kanye West）的福音专辑《Jesus Is King》又被人翻出来讨论，加上他最近频繁搞各种神叨叨的宗教活动，粉丝和黑子一起把话题顶上了热搜。说白了就是明星效应加信仰营销，一半人喊阿门，一半人看乐子。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Bazardo",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题多半是某个海外网红或梗突然被搬进中文互联网，大家一边吃瓜一边玩梗，跟风的速度比地铁抢座还快。上趋势嘛，要么是整活太逆天，要么是有人塌房，反正总有理由让网友集体嗨起来。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Hanifee",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Hanifee 这名字现在冲上趋势，多半是哪个明星或网红又搞大新闻了，要么是恋情曝光要么是舞台翻车，网友全在吃瓜刷屏。总之就是一群人突然开始疯狂转这个标签，跟风围观+情绪上头，热度不炸才怪。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Mark Davis",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题主要是NBA球星马克·戴维斯最近在社交媒体上跟网友互怼，还晒了张自己光脚踩在合同上的照片，搞笑又带点挑衅，所以一下就冲上热搜了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "ONEPIECE1190",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题就是海贼王漫画第1190话的情报和讨论炸锅了，因为尾田又搞了个大新闻，剧情直接起飞。上热搜是因为这波操作让粉丝集体高潮，要么吹爆要么开喷，不讨论都对不起这神展开。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Speier",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题是德国那个叫Speier的老哥，因为一家子搞了只不会飞的猛禽当宠物被网友扒出来，现在全网都在笑他，还有人挖出他以前装逼说自己养的是‘纯血猎鹰’的黑历史。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-08-05",
     "time": "2026-08-05 14:17",
     "source": "trends24.in",
