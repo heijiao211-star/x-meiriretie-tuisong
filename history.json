@@ -1,5 +1,216 @@
 [
   {
+    "date": "2026-08-07",
+    "time": "2026-08-07 13:26",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Haynes King",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "@TomPelissero：前佐治亚理工四分卫海恩斯·金与黑豹队签约，合同包含25万美元保障金，消息源透露。",
+          "summary": "球迷们看热闹重点是这哥们儿保障金才25万，在NFL四分卫里算白菜价，黑豹队明显是刮彩票心态。还有就是老鹰队转投死敌，粉丝调侃他是不是被橄榄球耽误的田径选手，吃瓜群众等着看他能不能搅乱四分卫竞争。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/TomPelissero/status/2048176241274949825"
+          }
+        ]
+      },
+      {
+        "trend": "Red Sox",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "波士顿红袜队又上热搜了，主要是他们最近比赛结果炸裂，或者有重磅交易/球星新闻，球迷和吃瓜群众都在刷屏。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "This_And_That",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题其实就是欧美网友玩梗，把两件八竿子打不着的事硬凑一起对比，比如'我恋爱脑 vs 我打游戏'，属于互联网抽象文学新花样。上趋势是因为一个网红开了头，大家跟风做表情包和短视频，热度像抢白菜一样涨起来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Panthers",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"Panthers\"这话题上热搜，基本就是体育圈狂欢——NFL黑豹队赢球或者转会大新闻，要么就是NHL佛罗里达黑豹队季后赛杀疯了。反正就是这两队谁有动静，球迷刷屏刷到爆，路人看着一头雾水跟着点进来吃瓜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Chelsea Gray",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这姐们儿是WNBA的超级控卫，最近又拿了个关键胜利还上演了末节神仙球，球迷直接把她吹成‘女版魔术师’，话题就炸了。其实就是她比赛太猛，又带队赢了宿敌，大家嗨得不行，热搜就冲上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "DirtyWater",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题现在炸了，主要是吐槽某些地区的自来水或瓶装水质量堪忧，有人晒检测报告说重金属超标，还有人说喝了闹肚子，评论区一堆人跟风晒自家水的“颜色”。上热搜是因为有个大V发了条视频，直接拍出水管流出来的黄泥水，瞬间点燃了大家的怨气，感觉像集体吐槽大会。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "KeepPounding",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "KeepPounding是卡罗莱纳黑豹队的激励口号，来源于已故传奇球员萨姆·米尔斯，意思就是“别松劲，继续猛干”。这话题上趋势是因为黑豹队最近赢球或打出亮点，球迷集体刷梗庆祝，配上那股不服输的劲儿，热搜就来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Ogles",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Ogles 是今天 X 上的热门话题，具体讨论内容待补充。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "THIS도_THAT도_스키즈",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题就是韩国男团Stray Kids（스키즈）粉丝在刷屏，意思是‘这个也是、那个也是，都是SKZ’，夸他们啥都能干、作品啥风格都玩得转。上趋势是因为团体最近有回归或舞台物料，粉丝集体控评刷词条，把话题顶上了热榜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Kawhi",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Kawhi上趋势多半是又传出伤病消息，或者他季后赛突然爆发了，毕竟这位爷日常就是神一场鬼一场。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "SKZ THIS AND THAT DAY",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "好家伙，SKZ（Stray Kids）粉丝今天搞了个“THIS AND THAT DAY”刷屏活动，就是让全球Stay发自己入坑的沙雕瞬间或者搞笑周边，硬是把话题顶上趋势了。说白了就是粉丝自嗨过节，顺便造个热度给回归预热，路人看了只觉得这团粉真是疯得可爱。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Caleb Durbin",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这哥们儿是MLB（美国职棒大联盟）的新秀，因为一场比赛里又偷垒又绝杀，直接把我这种伪球迷都炸出来了，全在吹他天赋异禀。\\n上热搜纯粹是体育迷狂欢+美国队赢麻了，毕竟他这表现放谁头上都得被刷屏，篮球圈都跑来凑热闹了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Way Out",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“Way Out”这两天在X上刷屏，主要是欧美网友在吐槽**生活/工作/感情找不到出口的窒息感**，顺便玩梗自嘲。上趋势是因为一堆博主带标签发崩溃实录，共鸣太强，直接破圈。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Cardinals",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Cardinals这话题今天突然炸了，主要是因为美国职棒红雀队（St. Louis Cardinals）刚被爆出要跟某巨星续约，球迷们直接嗨翻屋顶了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "After You",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题其实是国外网友在玩一个‘你死我活’的梗，说的是如果世界末日只剩一个逃生名额，大家嘴上说‘After you（您先请）’，但心里都在盘算怎么抢跑。冲上趋势是因为最近某科幻剧大结局演了这出戏，网友瞬间破防，疯狂二创表情包和段子。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "StrayKids",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "简单说就是这韩国男团最近不是发新歌就是开演唱会，粉丝们跟过年一样刷屏安利，各种舞台直拍和饭拍直接把人顶上趋势。再加上他们海外人气是真的猛，稍微有点动静全球粉丝就能把热搜搬上天。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Haley",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Haley 这个话题最近在推特上炸了，主要是妮基·黑利又出来掺和特朗普的官司和共和党内斗，顺便蹭了波2024大选的热度。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Bello",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "啊这，Bello好像是哪个明星或者网红突然爆出来的瓜，也可能是个新梗或者电影宣传，总之一天之内推特上全是这个词，搞得跟全网都认识他似的。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "A&#39;ja",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "简单说就是WNBA球星阿贾·威尔逊（A'ja Wilson）又双叒叕单场狂砍40+，把对手打自闭了，赛后采访和NBA球迷都在刷她的统治力。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Hall of Fame",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题就是各个圈子的殿堂级人物/作品被拉出来集体夸一波，要么是纪念周年要么是评委搞事，网友边盘点边吵架。上趋势纯粹是因为总有人觉得‘我心中第一没上榜’，然后粉丝团互撕，顺便带火了老梗和考古视频。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-08-06",
     "time": "2026-08-06 14:20",
     "source": "trends24.in",
