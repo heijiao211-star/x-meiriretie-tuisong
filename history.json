@@ -1,5 +1,212 @@
 [
   {
+    "date": "2026-08-09",
+    "time": "2026-08-09 12:53",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "UFCVegas120",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "就是UFC这周末在拉斯维加斯的格斗夜，一堆人熬夜看比赛顺便吐槽裁判和选手的表现，打得太上头了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Sophie",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Sophie这波上热搜大概是因为某个明星或网红带火了这名字，刷屏的都是晒娃或晒宠物叫Sophie的。其实没啥大事，就是大家凑个热闹，跟风玩梗而已。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Edwin Diaz",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Edwin Diaz 是大都会队的明星终结者，这回上热搜是因为他又受伤了，还正好赶上球队关键时刻，粉丝心疼加心碎。简单说就是：棒球届的“玻璃人”又躺了，这次搞得纽约球迷集体emo。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Salkilld",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Salkilld 其实是韩国女团 NewJeans 的粉丝名谐音变体，网上突然热闹是因为她们宣布要换新团名或重出江湖。简单说，粉丝圈疯传的小道消息引发了大规模讨论，就像朋友间突然传“她们要搞大事”一样。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "AdventBoundbyFate",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题大概是游戏圈在吵一个新出的独立作品《AdventBoundbyFate》，因为玩法缝合了不少神作而且宣传片炸裂，很多人一边吹一边骂“又是个换皮生存建造”。上趋势纯粹是发行商砸了推广+大主播集体开播带节奏，加上玩家吵数值平衡吵出了火。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "WNBA",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "WNBA这波上热搜，是因为状元秀克拉克（Caitlin Clark）打疯了，首秀就破纪录，加上女篮比赛收视率暴涨，大家才发现原来女篮也这么好看。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Carrington",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Carrington这话题突然上热搜，是因为有人考古挖出1859年那场超强太阳风暴的旧闻，配上现在AI恐慌，大家开始瞎担心“电网瘫痪”和“网线着火”。简单说，就是历史冷知识+现代末日焦虑凑一起，搞得像科幻片预告。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Gamrot",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Gamrot这词儿刷上趋势，其实是UFC轻量级那个波兰摔跤手Mateusz Gamrot又搞事了，大家伙儿正看他跟别人打成一团或者吵吵呢。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "AEWCollision",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "AEW Collision是WWE的死对头AEW摔角联盟的周六晚节目，今晚有个超重磅的冠军赛和剧情反转，粉丝直接炸锅刷屏了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "OPLive",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "OPLive 大概是OPPO的发布会直播，大家蹲着看新机或者系统更新，顺便吐槽价格和颜值。上趋势是因为数码圈集体吃瓜，要么新品真香要么又整活翻车，反正比追剧刺激。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Stake",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波“Stake”上热搜，说白了就是币圈又在玩质押赚利息那套，但这次是因为某个大V或者平台搞了个超猛的年化，搞得一堆人冲进去想薅羊毛。结果嘛，要么是大户割韭菜，要么是平台跑路，反正每次都是同一个剧本换件马甲再演一遍。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "White Privilege",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题说白了就是国外网友又在吵白人到底有没有系统性特权，起因是美国那边一波关于就业、教育和执法的争议事件被翻旧账，再加上一些名人下场开撕，直接炸了趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "LironLockheart3D",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题是3D艺术圈一场“神仙打架”，一位叫LironLockheart的大佬晒出超逼真的机械模型渲染图，直接把网友看跪了。上趋势是因为大佬的作品细节炸裂+免费放出源文件，圈内圈外全在疯转“原来这技术是真能拍出来的”。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Billy Q",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Billy Q这哥们儿突然冲上热搜，是因为他刚放了个大瓜，跟某顶流塌房有关，吃瓜群众直接炸锅了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Chloe",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波Chloe上热搜大概率是欧美圈哪个网红又搞事了，可能是发癫发言或者撕逼新瓜，吃瓜群众直接给顶上去的。反正就是那种你打开首页全是她，但三天后没人记得的破事儿。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Chivas",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Chivas这个话题上趋势，大概率是因为威士忌品牌搞了个大活动或者有名场面出圈了，别的不说，这波营销挺会挑流量点。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Alvarado",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Alvarado这名字在X上刷屏，主要是外国网民在讨论一个叫彼得·阿尔瓦拉多的美国小哥，因为他在视频里搞了些骚操作被群嘲，或是某地方姓Alvarado的政客又整活了，反正就是吃瓜群众围观的破事。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jack Dreyer",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这哥们儿是个推特上的狠角色，因为发了条关于美国通胀和加息的暴论，直接引爆了金融圈和阴谋论爱好者的互怼现场。反正就是一边骂美联储一边夸黄金，结果大家吵上热搜，顺便把马斯克都卷进来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Sports Illustrated",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "简单说就是美国老牌体育杂志《体育画报》最近整了个大活，要么是换了老板搞裁员闹上热搜，要么是发了篇爆炸性爆料惹网友吵翻天。反正就是体育圈+媒体圈双重瓜，大家一边吃瓜一边骂管理层，顺便怀念一下以前的纸质时代。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Suspend",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题就是欧美那边又在搞账号封禁大戏，谁又因为言论翻车被平台暂停了，吃瓜群众全在围观。因为每次这种封号都牵扯到言论自由和双标争议，骂战一开，热搜就立刻顶上来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-08-08",
     "time": "2026-08-08 12:44",
     "source": "trends24.in",
