@@ -1,5 +1,235 @@
 [
   {
+    "date": "2026-08-10",
+    "time": "2026-08-10 13:14",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "HOTD",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "从烈火中诞生黑暗。#HOTD 第三季。明天发布预告片。",
+          "summary": "龙之家族第三季憋大招，明天放预告直接把粉丝胃口吊到天花板。大家一边喊着等疯了，一边吐槽这剧拖更比龙还难产，坐等看血龙狂舞怎么收场。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/HouseofDragon/status/2024151996429894047"
+          }
+        ]
+      },
+      {
+        "trend": "HouseOfTheDragon",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "龙之家族：绝对权力近在咫尺。#HOTD 第三季六月回归HBO Max。",
+          "summary": "大家在吵权游宇宙烂尾后能不能靠这剧翻身，第三季预告片出来又炸出一波“特效值回票价”和“剧情别拉胯”的拉锯战。有人已经在猜谁先领盒饭，有人纯看龙打架图个爽，笑点全在网友吐槽绿党vs黑党像小学生抢玩具。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/HouseofDragon/status/2024514345536016785"
+          }
+        ]
+      },
+      {
+        "trend": "Haiti",
+        "sentiment": "争议",
+        "summary": {
+          "translation": "国际移民组织海地办事处：自9月19日以来，已有超过1万名海地人从多个国家被遣返。IOM团队正在当地为所有返回海地的移民提供急需的支持。最新数据：http://bit.ly/3FAzQga",
+          "summary": "海地这波被大规模遣返，人数过万且还在涨，大家主要吵的是遣返政策太狠，还是海地自己扛不住。吃瓜群众更多在围观这烂摊子怎么收，顺便吐槽国际组织只能补漏不能根治。",
+          "sentiment": "争议"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/IOMHaiti/status/1447594766754066438"
+          }
+        ]
+      },
+      {
+        "trend": "Jeongyeon",
+        "sentiment": "争议",
+        "summary": {
+          "translation": "【@yjyworld】：关于Jeongyeon被JYP娱乐公司不公平对待（2023年）的帖子合集……因为这事现在变得越来越离谱和可疑了。转发扩散一下吧。\n\n【@readytobetour】：今天是Jeongyeon自2019年以来在韩国的首场演唱会，请大家给她加油💚 一起为九位成员欢呼👏 #RTBinSeoul #TWICE_5TH_WORLD_TOUR",
+          "summary": "粉丝一边心疼Jeongyeon之前被公司安排得奇奇怪怪，一边又为她终于能在韩国开唱而激动，心情像坐过山车。现在就是粉丝又气又爱，一边吐槽公司一边刷演唱会热度，忙得很。",
+          "sentiment": "争议"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/yjyworld/status/1636365638523564034"
+          },
+          {
+            "url": "https://x.com/readytobetour/status/1647149156069154817"
+          }
+        ]
+      },
+      {
+        "trend": "Rhaenyra",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "好吧，但还有谁能在电视剧里给我们这样的时刻？丹妮莉丝·坦格利安至今无人能敌。她的力量！！！！",
+          "summary": "网友在疯狂怀念龙妈的高光时刻，觉得现在的剧都没内味了。也有人借此对比Rhaenyra，争论谁才是真正的龙家女王。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/i/status/1423011594821271553"
+          }
+        ]
+      },
+      {
+        "trend": "Daemon",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Daemon 这词儿在推特上突然炸了，主要因为技术圈大佬们又在吵有没有必要搞这种常驻后台的程序，加上某知名开源项目更新带火了它。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "RHUGT",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"topic\": \"RHUGT\", \"intro\": \"RHUGT其实是美国真人秀《The Real Housewives Ultimate Girls Trip》的缩写，就是一帮贵妇凑一起撕逼旅行。\", \"why\": \"这周新一季开播，加上某集里几个姐们儿当场翻脸扯头发，吃瓜群众直接把它刷上趋势，比综艺本身还热闹。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "DemDragons",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "DemDragons这波上趋势，就是国外网友在玩梗吐槽极端‘进步的’政治正确，比如爱给自己加戏的小众身份标签和生活里啥都能扯上‘特权’那套，整得跟驯龙高手似的。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Aegon",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这名字一上热搜，八成是《龙之家族》第二季又整大活了，Aegon（伊耿）作为铁王座继承人大戏开演，观众正吵他到底配不配当王。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Helaena",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哦这个Helaena啊，就是《龙之家族》里那个神神叨叨的绿党王后，因为剧里她总说谜语预言、跟龙关系还特好，结果这周她那些台词全被粉丝挖出来对上了原著结局，直接给冲上热搜了。\n\n简单说就是大家一边疯狂论证她早看透命运，一边心疼她被迫当政治工具人，顺便吐槽编剧这伏笔埋得比韦赛里斯王座上的铁王座还硬。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "RHOA",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "RHOA是美剧《亚特兰大娇妻》的缩写，最近又因为新一季狗血剧情和撕X名场面冲上趋势，网友都在围观豪门恩怨和抓马日常。加上节目里几位主妇的离谱操作被截图疯转，所以这阵子刷屏了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Donell",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哎呀，Donell 这两天在推特上刷屏，主要是因为欧美那边有网友扒出他的旧歌和现场视频被疯狂转发，大家感慨“这嗓子真是被低估的宝藏”，顺带回忆一波千禧年R&B黄金时代。热度一上来，连他20年前的老粉都诈尸出来考古，评论区直接变成怀旧现场。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Roddy",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这趋势十有八九是哪个叫Roddy的歌手/网红又整活了，可能是发新歌、被拍到大瓜或者跟人撕逼冲上热搜的。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Ormund",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"话题\": \"Ormund\",\n  \"简介\": \"这阵子欧美推上突然刷屏的Ormund，其实是一个叫'阿尔蒙德'的奇幻角色/梗，大概率是网友在玩某个游戏或剧集的新梗，配上魔性表情包就冲上趋势了。\",\n  \"原因\": \"因为正好碰上某某玩意上线/周年庆，一堆人带着#Ormund狂欢，人一多就成了趋势，跟咱国内微博热搜一个道理，就是老外版的'爷青回'+玩梗大赛。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Tumbleton",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哎呀，“Tumbleton”上热搜了？其实这就是《龙之家族》第二季里那场超惨的血腥大乱斗——坦格利安家内讧炸锅，龙骑互喷火，平民被烧成渣的那种。之所以突然刷屏，估计是大家被剧里那场“龙版911”震懵了，集体在推特上哀嚎“编剧你够狠”！",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Woke 1",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "老铁们，这个话题就是海外左翼“觉醒文化”闹腾到太魔怔了，现在连外国人自己都受不了，开始上网群嘲；所以它上热搜纯粹是大家想吐槽“政治正确”过头，连学校搞春祭、彩虹色牙刷都能吵翻天。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Mysaria",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这姐们儿是《龙之家族》里小指头的情妇兼情报头子，最近剧集里她戏份开大，直接掀了君临城的底裤。大家要么在嗑她疯批人设，要么在骂编剧给她加戏太多，吵得不可开交，直接顶上趋势了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Aemond",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Aemond突然上热门，是因为《龙之家族》第二季里他那条疯批龙和独眼美男的人设杀疯了，尤其是骑龙放火的狠戏让CP粉和颜粉集体狂欢。大家一边骂他瞎折腾，一边又被他丧心病狂的A气圈粉，讨论度直接爆表。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Ximena",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波Ximena上热搜，八成是哪个网红或明星又搞出大瓜了，要不就是突然刷屏的梗，反正就是大家吃瓜吃嗨了。具体是啥我也不太确定，但热度能爆成这样，估计背后有猛料或争议，不然不会这么多人凑热闹。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Geraldo",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哦你说这个Geraldo啊，就是个老牌美国主持人（Geraldo Rivera），最近又在推特上开炮怼人惹争议了，估计是说了什么政治或者社会话题的“暴论”。  \n反正这种老网红一开口，美国人立马开吵，推特趋势自然就冲上去了——人家自带流量，黑红也是红嘛。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-08-09",
     "time": "2026-08-09 12:53",
     "source": "trends24.in",
