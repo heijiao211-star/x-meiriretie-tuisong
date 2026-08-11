@@ -1,5 +1,219 @@
 [
   {
+    "date": "2026-08-11",
+    "time": "2026-08-11 12:56",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "WWERaw",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "[@WWE]: 搞什么鬼？！#WWERaw\n[@WWE]: 惊喜！ #WWERaw",
+          "summary": "大家被WWE官方连着两条没头没尾的推文整懵了，不知道是剧情反转还是选手回归，粉丝们一边刷屏猜测一边期待爆点。总之就是官方吊胃口，网友跟着瞎兴奋，热闹得很。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/WWE/status/1660812953224900609"
+          },
+          {
+            "url": "https://x.com/WWE/status/1676048993875382273"
+          }
+        ]
+      },
+      {
+        "trend": "Max Muncy",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Max Muncy 现在上趋势是因为他在道奇对教士的季后赛里一局轰出两发全垒打，直接打爆对手，球迷嗨到刷屏。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Bloodline",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Bloodline冲上热搜，其实是在聊家族血统、血脉传承那点事儿，有些脑洞大开的网友在扒名人或网红的祖上背景，顺便带火了一波家族史考古。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Rangel",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波Rangel上热搜，大概率是某位叫Rangel的网红/球星/政客搞了个大新闻，要么是整活翻车要么是神操作被全网围观。反正就是他一发动态，吃瓜群众立刻冲进来，把话题顶上来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Massachusetts",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题主要是美国麻州那边出了个大新闻，好像是有个啥政策或者大事件把全网炸出来了，大家都在刷。反正就是那边一有点风吹草动，美国网友就爱往死里聊，咱们吃瓜看个乐子就行。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Solo Sikoa",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"overview\":\"Solo Sikoa是WWE摔角巨星，最近在剧情里搞了个大动作，把部落酋长罗曼·雷恩斯给踢出家族了，还硬要抢“部落酋长”这称呼，粉丝们直接炸锅，纷纷刷屏站队。\",\"why_trending\":\"因为WWE剧情突然高潮，他跟亲兄弟吉米·乌索现场干架，加上血脉家族内讧的戏码太抓马，推特上全是撕逼预测和表情包，热度直接顶到天灵盖，不看摔角的都被热搜刷懵了。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Drew Gilbert",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "好的，这就给你唠唠：\n\n**“Drew Gilbert”上趋势，是因为这位棒球新星在今天的MLB比赛里打出了超级关键的逆转全垒打，直接把赛场点燃了，美国那边球迷全在刷屏。**\n\n简单说，就是一个小伙子在关键时刻靠一棒打出名场面，比赛赢了他瞬间封神，所以全网都在讨论他的暴击时刻，跟我们看世界杯突然来个绝杀一样上头。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Maura Healey",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哎呦，Maura Healey上热搜完全是因为她作为麻省女州长，最近在移民和堕胎政策上疯狂开炮，怼得共和党网友破防，两边粉丝直接吵翻天了。\n\n简单说就是，这位姐今儿又扔了个重磅决定，评论区瞬间变成“自由派VS保守派”的真人快打现场，吃瓜群众一围观，她就霸榜了呗。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Timms",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哦，Timms这话题主要是说某游戏主播被锤开挂，实锤视频满天飞，粉丝和黑子吵成一锅粥，活生生把热度顶上去了。简单讲就是“人设翻车+粉丝护主”的经典戏码，吃瓜群众看个乐子就行。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jackson Merrill",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Jackson Merrill就是那天MLB比赛里一个年轻人打出神级本垒打，直接让对手傻眼，现场解说都喊破音了。他这波操作实在太秀，加上球迷疯狂刷梗，所以就把话题顶上趋势了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Air Force One",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Air Force One 上热搜，是因为拜登总统专机最近被拍到机身上印着新版涂装，闪瞎眼的那种，网友都在吐槽白宫审美跑偏。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jey Uso",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "好的，老铁们，今天推特上炸锅的“Jey Uso”，其实就是WWE那个超带感的萨摩亚摔角手！他今儿要么是赢了重大比赛，要么就是整了个大活或者官宣了大事，所以粉丝们全在疯狂刷屏致敬，直接给顶上热搜了。\n\n一句话总结就是：这哥们儿的人气和话题度直接把推特当成了自家擂台，只要是跟他沾边的剧情，下回照样能冲上全球趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Madden27",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"Madden27\"其实就是美式橄榄球游戏《Madden NFL》系列新作被提前泄露了，玩家发现封面球星、模式改动甚至bug截图都在网上疯传，弄得官方被迫下场挤牙膏式式官宣。这游戏每年都是流量密码，加上这代号称要改版转型，吃瓜群众和核心玩家全炸了，才冲上趋势榜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Dragon Lee",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这哥们儿是墨摔角手里的顶流，长相凶但技术骚，最近在WWE擂台上整了个惊天大回环，直接把对手给摔懵了，视频疯传。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Congratulations Kennedy",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题主要是美国网友在庆祝小肯尼迪（RFK Jr.）被任命为卫生部长，觉得他敢跟疫苗和食品工业硬刚，算是一波“为民请命”的集体点赞。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Senga",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Senga 是今天 X 上的热门话题，具体讨论内容待补充。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "BOY IN LUV",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "BOY IN LUV这话题其实就是一堆人在磕某男团的新歌MV，或者跟着刷搞笑恋爱脑梗，反正就是年轻粉圈集体上头冲上来的。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Dean Kremer",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哦，Dean Kremer是个金莺队的投手，今天他投了场无安打比赛直接封神，全棒球圈都在刷他。大概就是“这小哥一夜从替补变王牌”的爽文剧情，粉丝直接把他#顶上热搜了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "gooner",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这词儿现在在X上特火，指的是那种沉迷动漫/游戏纸片人老婆、疯狂上头甚至有点魔怔的宅男群体，跟‘二次元舔狗’差不多意思。上趋势是因为有个英国足球梗图博主突然用‘gooner’嘲讽阿森纳球迷，结果被网友玩成了线上线下双关梗，两边粉丝互喷带节奏，直接给拱上热搜了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Elder",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Elder这个词突然上热搜，其实是在讨论一群外国老人街头摆烂的视频，主打一个“我晚年的自由你想象不到”。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-08-10",
     "time": "2026-08-10 13:14",
     "source": "trends24.in",
