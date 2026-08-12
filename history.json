@@ -1,5 +1,212 @@
 [
   {
+    "date": "2026-08-12",
+    "time": "2026-08-12 13:22",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Crowley",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Crowley这哥们在X上突然刷屏，是因为他直播里嘴瓢把自家产品参数说错了，结果被全网玩梗做成表情包，连竞品账号都来蹭热度，一晚上阅读量干到5000万。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Hong",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波#Hong 上热搜，八成是哪个明星或网红又整活儿了，粉丝和吃瓜群众直接吵上热搜，热度炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "taekook",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "taekook就是防弹少年团成员田柾国和金泰亨的CP名，粉丝嗑他们俩的互动嗑疯了。这次上趋势是因为有粉丝扒出两人最近同款饰品和暗戳戳的互动，加上团综里黏糊的镜头被放大，搞得热搜跟过年一样。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "WWENXT",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哦这个趋势就是WWE的NXT品牌节目又炸场了，粉丝们在刷屏讨论新剧情和选手大招，多半是哪场比赛太顶或者有人搞事上热搜了。简单说就是摔角迷的狂欢夜，不懂的以为是打架直播，其实人家是演技加肉搏的综艺。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Zilla Fatu",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这哥们儿是摔角圈的新星，他爸是传奇人物Umaga，最近他在独立赛事上打得贼猛，加上社交媒体上跟粉丝互动超嗨，所以一下子冲上趋势。简单说就是——摔角界星二代+暴力美学表演，吃瓜群众和粉丝都被圈粉了，热搜安排！",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Evan Phillips",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这哥们儿是道奇队的救命牛棚，最近季后赛投得跟开了挂似的，美媒一顿吹，球迷直接把他刷上热搜了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Flanagan",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"Flanagan\"这词突然刷屏，主要是大家发现这位爱尔兰导演的恐怖片（比如《鬼入侵》）藏了一堆隐藏彩蛋，粉丝扒细节扒到集体高潮。加上他最近被传要接手某个大IP（你懂的），吃瓜群众直接狂喜乱舞，明里暗里都在赌他会不会搞出个神作。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Wisconsin",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Wisconsin这波上热搜大概率跟美国大选有关，毕竟威斯康星是摇摆州里的关键票仓，两党最近都在那儿疯狂拉票。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Blake Snell",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "简单说就是这哥们刚拿了赛扬奖，但自由市场没人签他，大家正吐槽MLB球队抠门呢。加上他前天突然透露可能去日本打球，消息一出棒球圈直接炸了，跟咱们看隔壁班学霸突然说要转学一个效果。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Lindell",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Lindell 这波上趋势，是因为美国那个‘MyPillow’老板 Mike Lindell 又在推特上整活了，要么是疯狂喊冤说自己被大选作弊坑了，要么是推销他那些离谱的‘翻盘证据’（还总是被打脸）。这东西能火，全靠他自带流量体质和一群信他的死忠在那儿刷屏，吃瓜群众也乐得看热闹。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Alex Call",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这哥们是华盛顿国民队的外野手，今天比赛打出了生涯首个再见安打，直接带队赢球，太燃了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "JUST ONE DAY",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个热搜好像是韩国男团防弹少年团（BTS）的某次活动或粉丝纪念日，因为一句“哪怕只有一天”的歌词或者签名被刷爆了，粉丝在集体怀旧或者搞线上应援。说白了就是一堆阿米喊“哥哥们回来吧”或者帮新歌刷存在感，结果把话题唠上了欧巴榜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "DWCS",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "DWCS就是那个格斗选拔赛《Dana White's Contender Series》，相当于UFC的海选面试，赢了就有合同，最近一期出了个打满三回合的疯批选手，全场血呼啦的，直接把热搜干上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Dane County",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "好家伙，Dane County 上趋势是因为美国威斯康星州那边儿的麦迪逊市（就是那个地方）最近闹了个大新闻，要么是选举投票出幺蛾子，要么是环保暴走或校园冲突，反正本地人炸锅了。\n\n说白了，这地方平时挺闷的，一上热搜准没小事儿，不是政治对轰就是奇葩天气，大家当吃瓜别急着站队，先看看到底是啥雷吧。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Rucker",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波趋势大概是因为某个叫Rucker的公众人物（可能是网红或体育圈）突然爆出大瓜，比如翻车、互撕或者搞了个骚操作，大家疯狂吃瓜刷屏。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Angie Craig",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这姐们儿是明尼苏达州的民主党众议员，突然上趋势是因为她公开喊话拜登退选，还成了第一个这么干的民主党议员。简单说就是党内大佬们憋不住要换人了，她当出头鸟引爆了话题。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Tafoya",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Tafoya这个热趋主要是在说美国演员Ashley Tafoya，因为她最近在剧里演技炸裂加上场外表态争议，网友从安利她一路吵到人设翻车。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Taylor Walls",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Taylor Walls这名字突然刷屏，是因为坦帕湾光芒队的游击手又用逆天防守上了热搜，球迷和媒体都在疯转他的极限传球。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Kornacki",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波主要是在讲NBC那个戴卡其裤的统计大神Steve Kornacki，美国大选夜他又在屏幕上疯狂比划各种数据地图，观众看high了直接把他送上热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Lisa Demuth",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这姐是明尼苏达州的共和党新星，刚被选成州众议院议长候选人，直接打破当地政治平衡，大家才疯狂刷她。因为民主党在州议会丢了多数席位，她这一上位相当于给红党打了个强心针，全网都在赌她下一步会不会怼民主党大佬。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-08-11",
     "time": "2026-08-11 12:56",
     "source": "trends24.in",
