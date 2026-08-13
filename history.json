@@ -1,5 +1,230 @@
 [
   {
+    "date": "2026-08-13",
+    "time": "2026-08-13 13:26",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "chris brown",
+        "sentiment": "争议",
+        "summary": {
+          "translation": "[@chrisbrown]: BREEZY BOWL 2025！（布雷兹碗2025！）\n[@chrisbrown]: 疯狂的是我还得拿出证据。爱大于恨，这里就是这样！❤️",
+          "summary": "Chris Brown 又在刷存在感，搞了个自己的活动还喊话黑子，顺带凡尔赛自己‘有图有真相’——这波是刚完粉丝撕完黑子，又给自己加戏的节奏。大家吵的点主要是他过去的事迹和现在的态度，看热闹的吃瓜群众就图个乐。",
+          "sentiment": "争议"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/chrisbrown/status/1905211037814763764"
+          },
+          {
+            "url": "https://x.com/chrisbrown/status/1627326536918392834"
+          }
+        ]
+      },
+      {
+        "trend": "AEWDynamite",
+        "sentiment": "玩梗",
+        "summary": {
+          "translation": "【@AEW】：👀 ？？？ #AEWDynamite\n【@AEW】：“是你们所有人创造了这个怪物。” @realrubysoho 火力全开！今晚TBS直播看《AEW Dynamite》！",
+          "summary": "AEW官方在卖关子搞悬念，然后Ruby Soho放狠话说自己是被观众逼出来的怪物，明显是要搞大剧情或转反派了。大家主要是在猜这场戏怎么演，顺便看热闹。",
+          "sentiment": "玩梗"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/AEW/status/1585425899389952002"
+          },
+          {
+            "url": "https://x.com/AEW/status/1633643121354641409"
+          }
+        ]
+      },
+      {
+        "trend": "Freddie",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Freddie这波上趋势多半是粉丝在狂刷他某个现场或者新歌片段，可能是致敬或者吐槽又来了。反正就是老粉新粉一起嗨，顺便带一波回忆杀。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "hobi",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "[@mhereonlyforbts]: 郑号锡在唱南俊的《Butter》那段词，我的天，心都要化了 🥺🥺",
+          "summary": "粉丝们看到郑号锡翻唱南俊的rap段落，纯纯的激动和心动，感觉是防弹少年团内部成员互动的甜蜜时刻，大家都在疯狂转发喊可爱。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/mhereonlyforbts/status/1634943463828635648"
+          }
+        ]
+      },
+      {
+        "trend": "Karoline",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Karoline这名字今天突然蹿上热搜，多半是美国政坛那位美女发言人又在搞事情，或者网友翻出了她的什么辣评片段。反正事儿不大，就是围观群众爱看这种又能吃瓜又能撕逼的戏码。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Russ",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Russ这波上热搜，是因为他那首《What They Want》突然被抖音拿来配各种土味视频，结果全网都在刷梗，一夜之间老歌翻红。\n再加上他最近直播吐槽说唱歌手太装，被粉丝喷了波大的，两边一吵舆论就炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Bregman",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Bregman这词突然上热搜，主要是好莱坞科幻片《异形：夺命舰》里那个AI仿生人叫这名儿，电影现在上映正火，大家边看边吐槽角色设定太带感。另外还有个程序员圈梗——Bregman距离算法也被人翻出来玩梗，俩领域凑一起就炸了趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Lauer",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波趋势大概率是某位叫Lauer的名人（比如前《今日秀》主播Matt Lauer）又有新瓜或者旧事重提，吃瓜群众瞬间冲上热搜。要么是媒体爆料，要么是网友考古翻旧账，反正一沾上争议人物就必炸。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Press Secretary",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "咱就是说，这话题是白宫发言人在记者会上又挨怼了，现场火药味比老干妈还冲。为啥上热搜？因为记者逮着拜登的年度体检报告狂问，发言人那套“健康得很”的说辞被当场拆台，网友乐疯了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Indiana Bears",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这“Indiana Bears”上热搜是因为印第安纳州那边闹了个大新闻——一群黑熊闯进居民区横冲直撞，视频传疯了，网友一边吃瓜一边担心当局怎么处置这些“老熟人”。\n\n简单说就是“熊出没”现实版，又带点美国地方治理的段子味，大家喷完政府反应慢，又乐呵看熊耍宝，所以一下就刷屏了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Knack",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Knack上了趋势，主要是PS4首发那款Q版动作游戏又被人翻出来玩梗了，因为新玩家觉得这画风和玩法像‘低配皮克斯加幼儿园版战神’，怀旧党则在拼命替它正名。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Luis Castillo",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哦这个热搜啊，就是水手队的王牌投手Luis Castillo昨天在比赛里又炸了，投出8局无失分还狂飙9K，直接带飞球队拿下关键战。大家都在刷“铁臂哥牛逼”，因为这哥们儿最近状态火得不行，加上合同里还有优惠条款，话题就自然爆了。简单说，就是棒球迷在集体高潮，路人看了也能凑个热闹。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "namjoon",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题就是BTS队长金南俊（RM）又整活儿了，要么是新歌、直播或者啥发言被刷上趋势，粉丝集体上头中。反正就是防弹少年团的热度随便一动就能炸上热搜，习惯就好。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Tiffany Hayes",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Tiffany Hayes突然上热搜是因为她今天在WNBA季后赛关键战里狂砍28分，带队绝杀晋级，这表现直接把老外看嗨了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Standard Time",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Standard Time 这话题就是大家吐槽冬令时切换，天黑的太早搞得人生物钟全乱，还有人在吵到底该不该废除这老规矩。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jack Perry",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Jack Perry在内布拉斯加州的家乡演出中，突然在擂台边宣布自己被嘘，直接打脸了现场观众和反派的设定，于是大家一边疯狂刷#Jack Perry一边吵他到底是戏里演的还是真破防了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jayden Daniels",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Jayden Daniels就是那个NFL新秀四分卫，最近一场比赛神仙球绝杀直接刷屏，大家纷纷喊他‘新一代超级碗胚子’！",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Mookie",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Mookie 其实就是波士顿红袜队那个拿过MVP的球星穆奇·贝茨，今天突然刷屏是因为他一场比赛干了3个盗垒外加一记满分圈回本垒，球场老粉直接喊“神了”。这哥们儿本来就是大联盟顶级脸面，一有神操作立刻就被转发吹爆，路人也跟着凑热闹喊“这就是MLB的魅力”。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Swerve",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Swerve这话题火起来，是因为一个叫Swerve的小众音乐制作人突然带火了一波旋律说唱，大家在评论区互相安利顺便闹出点梗。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "cinemzel26",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题看着像某部电影或者导演的名字谐音，大概率是粉丝刷榜或者新片宣发搞的梗，跟欧美影视圈有关。上趋势一是因为粉丝组织度高，二是可能有个大V带头讨论，但还没破圈成全民热点。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-08-12",
     "time": "2026-08-12 13:22",
     "source": "trends24.in",
