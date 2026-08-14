@@ -1,5 +1,216 @@
 [
   {
+    "date": "2026-08-14",
+    "time": "2026-08-14 13:23",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Edwin Diaz",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Edwin Diaz上趋势是因为他作为大都会队的终结者又搞砸了一场关键比赛，赛季状态烂得离谱，球迷直接心态崩了。大家都在刷‘Diaz又炸了’，估计是忍了他一整年的失误，终于集体吐槽上热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "phoebe",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "@MananKhizar 好吧，显然我在用Twitter。你可以在这里关注我。",
+          "summary": "这帖子其实就是个超简短的回复套餐，没营养但有种莫名的“社交营业”感，像是在说‘哥就是这么高冷但还得完成任务’。大家看这趋势主要是调侃这种任务式互动，顺便围观博主如何用一句话展示存在感。",
+          "sentiment": "中性"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/phoebe_wm/status/1128632081473523712"
+          }
+        ]
+      },
+      {
+        "trend": "Drew Allar",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题说的是美国大学橄榄球明星四分卫Drew Allar，他在关键比赛里带队翻盘，直接把对手打自闭了，球迷刷屏吹他“神级操作”，所以冲上热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Max Muncy",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Max Muncy这哥们儿今天上热搜，是因为他在道奇对教士的比赛里轰出一记超远三分炮，直接把球送上看台，还顺手刷新了队史季后赛本垒打纪录，球迷直接嗨炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Rafayel",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个热搜其实是《恋与深空》里那个叫黎深的纸片人老公，因为新出的互动卡和配音片段太撩了，把一堆玩游戏的姐妹冲得嗷嗷叫。所以一上线就被刷上趋势，歪果仁看到词条还以为是什么霸总新剧，其实是天朝乙女玩家在集体发疯。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Howard",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Howard这哥们儿突然刷屏，大概率是某个科技圈大佬或明星搞了个大新闻，要么官宣要么暴雷，网友全在围观吃瓜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jackie Young",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Jackie Young是WNBA拉斯维加斯王牌队的球员，今天因为她在比赛中砍下超级数据（比如30+10+5这种）或者投进关键绝杀，直接把话题顶上了趋势。说白了就是她今天打得太炸了，球迷和媒体都在刷屏吹她，顺便讨论她能不能进国家队或者拿MVP。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "NoValkoNoTrust",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个Tag主要是国外玩家在冲暴雪和微软，因为《守望先锋》最近搞了波迷之操作，把新手强行绑到PVE模式里，不看新手教学就踢出队伍，搞得大家觉得官方不把玩家当人看。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Mendoza",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Mendoza突然上热搜，大概率是阿根廷那个门多萨省出了啥大事，要么是葡萄酒节翻车要么是球星/政客整活被全网围观，具体啥事还在发酵。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Power Rangers",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"trend\":\"《恐龙战队》又回春了！因为官方放了个2026年新电影预告，各种彩蛋夹杂情怀杀，北美爷青回疯转\",\"why\":\"老粉边骂边哭，新粉被复古机甲潮吸引，加上网友疯狂玩“美版奥特曼”梗，直接顶上趋势\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Steelers",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Steelers上了趋势，多半是因为匹兹堡钢人队又搞出大新闻了，要么是赢球绝杀，要么是明星球员受伤或交易闹剧，球迷直接炸锅刷屏。简单说，就是NFL球迷的年度情绪过山车又来了一趟，咱们吃瓜看戏就行。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Titans",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Titans这个词突然刷屏，是因为AI圈一个叫Titans的新架构模型火了，号称能跟Transformer掰手腕，大家疯狂转技术帖和演示效果。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Stribling",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Stribling 最近突然上热搜，主要是因为有个叫 Stribling 的家伙被曝出在公开场合说了几句翻车大实话，直接惹毛了一波网友，评论区直接炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Raiders",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波趋势主要是NFL拉斯维加斯突袭者队（Raiders）的比赛或者交易新闻炸了，球迷和吃瓜群众都在实时刷屏，毕竟这队每次搞事都能整出大动静。反正就是体育圈的热闹，赢球输球都能吵上热搜的那种。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "troye",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "就是Troye Sivan（戳爷）突然在内网刷屏了，多半是发了新歌预告或者跟粉丝互动整活的事儿。反正欧美圈一有动静，咱们这儿的乐子人就得跟着热闹一波。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "YEONJUNxDodgers",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题就是韩国男团TXT的崔然竣（YEONJUN）跑去洛杉矶道奇队主场开球，还跟大谷翔平同框了，粉丝直接疯掉。上趋势是因为他颜值和人气太顶，加上棒球圈和K-pop圈破次元壁，两边粉丝一起刷票，就冲上热搜了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Shakira Austin",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这姐们儿是奇才女篮的内线猛将，最近因为伤病复出打出了生涯代表作，然后社交媒体上疯狂刷屏讨论她的防守和篮板统治力。简单说就是她靠实力硬生生把自己顶上热搜，球迷都在喊她该进全明星了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Joey Slye",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Joey Slye是NFL的踢球手，今天突然上热搜是因为他在比赛里一脚踢飞了绝平球，队友和教练当场裂开，全网都在看他的表情包刷屏。说白了就是一位“关键先生”用最离谱的方式把胜负悬念踢没了，吃瓜群众一边哈哈哈哈一边心疼他，话题就这么炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "mcrnashville",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题是My Chemical Romance在纳什维尔的演唱会刷屏了，粉丝们疯狂晒现场视频和歌单，因为乐队好久没开嗓了大家都激动得不行。\n上趋势主要是全员状态爆棚+老歌回忆杀，加上美国那边巡演刚启动，路人也被这个Y2K文艺复兴氛围带着转发。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Will Levis",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Will Levis上热搜是因为这老哥在NFL季前赛又整活儿了，传球像扔手榴弹但成绩辣眼睛，球迷直接开喷。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-08-13",
     "time": "2026-08-13 13:26",
     "source": "trends24.in",
