@@ -1,5 +1,238 @@
 [
   {
+    "date": "2026-08-15",
+    "time": "2026-08-15 12:17",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "SmackDown",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "啥都能来！😂 #SmackDown",
+          "summary": "大家就是在看WWE整活，各种无规则乱斗和离谱剧情让人笑到打滚。粉丝一边吐槽编剧脑洞，一边又看得停不下来，热搜全是乐子人。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/WWE/status/1915961892041863450"
+          }
+        ]
+      },
+      {
+        "trend": "Kingdom Hearts",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "《王国之心》合集[I~III]包含1.5+2.5、2.8以及III + Re Mind（DLC）！10月8日登陆Nintendo Switch 2、PlayStation 5、Xbox Series X|S和Xbox PC平台。 致我们的《王国之心》社区：我们目前正在全力开发《王国之心IV》，并将继续全身心投入游戏开发。我们致力于打造一段不负你们期待的体验！",
+          "summary": "大家在吵的无非就是冷饭合集又端上来了，NS2版到底香不香；另外IV代口嗨说“全力以赴”但没啥实料，老粉被吊胃口，新粉看热闹。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/KINGDOMHEARTS/status/2064362651036369250"
+          },
+          {
+            "url": "https://x.com/KINGDOMHEARTS/status/1922819231965696436"
+          }
+        ]
+      },
+      {
+        "trend": "Coco",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "伸出双手，去抓住你的梦想。#皮克斯寻梦环游记",
+          "summary": "大家看到这句话都在回忆电影里那个追梦的小男孩，有人说看哭了，也有人接着玩梗说梦想哪有那么容易抓。总之一片温馨感人，顺便带点怀旧滤镜。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/pixarcoco/status/978662983571255296"
+          }
+        ]
+      },
+      {
+        "trend": "Candace",
+        "sentiment": "争议",
+        "summary": {
+          "translation": "我消化不了这件事。💔 别担心查理·柯克那案子的禁言令了。我打算替全世界违反它。我过去一周发现的东西足以烧掉整栋房子。是的，查理被背叛了——被所有人背叛。",
+          "summary": "坎迪斯发了哀怨推文，暗示手中爆料能掀翻大局，还说要无视禁言令硬刚。核心争议在于她指控查理被关键人物出卖，吃瓜群众在猜她手里的炸弹究竟是什么，有人信她真敢爆，有人觉得她又在表演。",
+          "sentiment": "争议"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/RealCandaceO/status/1965872035491659909"
+          },
+          {
+            "url": "https://x.com/RealCandaceO/status/1980112064216711408"
+          }
+        ]
+      },
+      {
+        "trend": "Sora",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "我们告别Sora应用了。致所有用Sora创作、分享并围绕它建立社区的人：谢谢你们。你们用Sora做出的东西很重要，我们知道这个消息让人失望。我们很快会分享更多，包括应用和API的时间表以及如何保存你们的作品。——Sora团队",
+          "summary": "大家心情复杂：一边吐槽Sora说关就关，像个说走就走的朋友；一边担心自己辛辛苦苦做的视频会不会说没就没，毕竟官方只说会分享保存细节，没个准信儿。总之，这是一场“情怀+焦虑”的混合吃瓜现场。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/soraofficialapp/status/2036546752535470382"
+          }
+        ]
+      },
+      {
+        "trend": "OPLive",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "OPLive就是OPPO的发布会直播，今晚全网都在刷，因为新机配置和价格都有点炸，网友边看边吐槽边种草。上趋势主要是热闹加真香，尤其性价比党吵翻了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Falcons",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波Falcons上热搜主要是《英雄联盟》S14总决赛上，他们战队一波逆天翻盘把观众看傻了，愣是靠着极限运营和团战把夺冠热门干回家了。说白了就是电竞圈的“黑马逆袭”剧本，全网都在喊“剧本都不敢这么写”，热度就这么炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Miguel",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Miguel 这个标签火是因为又一个欧美明星的私生活瓜被爆了，网友全在吃瓜考古他以前的歌和舞台，顺便站队吵哪边更占理。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Paige",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Paige这名字这两天突然刷屏，主要是因为摔角圈那档子事——WWE女星Paige（真名Saraya）的私密视频又被人翻出来疯传，还连带说她跟谁谁谁恋爱。\\n现在推特上一边是吃瓜群众狂刷‘心疼姐’，另一边是粉丝骂平台审核双标，热度就蹭蹭上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Disney",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"text\":\"最近Disney上热搜是因为乐园门票又要涨价了，吐槽声一片，网友一边吐槽一边抢着发攻略，生怕自己去亏了。“童话里都是骗人的”这话题又翻红了。实话说就是，公司穷得叮当响，于是把镰刀伸向去圆梦的情侣和带娃的家庭，但骂归骂，大家还是乐意掏钱就当换个童年債。“\"}\n",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Late 2027",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题其实就是网友在狂猜2027年底会发生啥大事，比如科技、社会、政经格局的变动，感觉像全网一起脑洞未来。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Incredibles 3",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"topic\": \"Incredibles 3\",\n  \"intro\": \"《超人总动员3》官宣立项了！皮克斯在D23上甩了个大招，粉丝们直接炸锅，毕竟等了14年才等到第二部，第三部居然这么快就安排上了。\",\n  \"why_trending\": \"因为大家又爱又怕——爱的是情怀，怕的是皮克斯续集翻车，再加上配音演员和导演阵容还没官宣，各种猜测直接冲上热搜，聊疯了。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Andrew",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这热度大概率是某个叫Andrew的网红或素人搞出了大瓜，要么是翻车视频要么是逆天言论被转疯了。反正现在全网都在扒他，连他十年前的黑历史都被人挖出来当段子传。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Christian Walker",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这哥们儿是MLB钻石backs的一垒手，今天打出了生涯首个单场三轰，直接把棒球圈给炸了。大家不光吹他手感火热，还都在刷他这合同年爆发会不会值个超级大合同，所以话题就顶到趋势上了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Percy Jackson",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哦，《Percy Jackson》突然上趋势是因为迪士尼+的新剧第二季马上开播了，粉丝们正在疯狂刷预告和选角争议，老书粉和新观众吵得不可开交。加上原作者Rick Riordan最近在推上亲自下场怼键盘侠，话题直接引爆了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Oswald",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波Oswald上热搜，八成是某个游戏/动画新作又拿他当反派了，大家一边骂一边刷梗。反正要么是官方整活，要么是粉丝吵剧情，跟咱普通网友关系不大，看个乐子就完事了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "annabeth",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波趋势是因为《珀西·杰克逊》剧版里的安娜贝丝（Annabeth）演员 Leah Jeffries 演得太灵，网友疯狂刷屏夸她还原度满分，顺便磕了一波她的帅照和剧情剪辑。说白了就是粉丝上头了，把角色送上热搜，顺带把原作回忆杀也炸出来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Munoz",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Munoz这事儿上了热搜，主要是因为一位同名的体育明星或者企业大佬搞出了大新闻，具体是啥得看内容，反正够劲爆。大家一边吃瓜一边吐槽，加上营销号一推，就冲上趋势了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Pixar",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "屁克萨这次上热搜，估计不是新片炸场，就是有人拿它情怀刀网友，反正又是靠催泪动画把大家整破防的一天。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Ghost Market",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题就是说一档叫“鬼市”的地下交易黑幕被挖出来了，涉及偷卖账号和灰产信息，吃瓜群众看得又惊又爽。上热搜是因为有大V实名开撕，加上平台流量助推，大家一边喊“绝了”一边蹲后续。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-08-14",
     "time": "2026-08-14 13:23",
     "source": "trends24.in",
