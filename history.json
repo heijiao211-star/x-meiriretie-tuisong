@@ -1,5 +1,227 @@
 [
   {
+    "date": "2026-08-16",
+    "time": "2026-08-16 12:23",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "UFC330",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "官方UFC账号：飞往费城，两场冠军战开打！🦅 马哈切夫对阵伊恩·加里，麦肯齐·邓恩对阵萨维奇·UFC。【UFC330 8月15日ParamountPlus独家直播】",
+          "summary": "这帖子就是在官宣8月15号UFC330的看点火药味拉满，两场冠军赛直接锁定费城，大家吵得全是预测谁会赢，还有吐槽官方把比赛藏剪辑里不直接说完整对阵的。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/ufc/status/2067314202478542957"
+          }
+        ]
+      },
+      {
+        "trend": "Dern",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "【@LauraDern】：这事儿真发生了？谢谢@GMCLA、@filmindependent和@JTfirstman，让我意识到我走到哪儿都得随身带个唱诗班！🤯♥️ #独立精神奖2020\n\n【@LauraDern】：写给意大利母亲们——以及所有母亲的情书。这是对那些激励我们的人致敬，不是因为她们像伟大的索菲亚那样是传奇，而是因为她们是真实纯粹的女性。她们提醒我们生活中的馈赠，让我们在共同承诺去爱的过程中变得平等。",
+          "summary": "这波主要是劳拉·邓恩在颁奖礼上感叹自己需要唱诗班加持，有点搞笑自嘲，后面又煽情表白母亲们，网友一边笑她夸张，一边被她的真诚触动，其实没啥大吵，就是围观明星发癫和走心。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/LauraDern/status/1226356152625057793"
+          },
+          {
+            "url": "https://x.com/LauraDern/status/1351710876852772867"
+          }
+        ]
+      },
+      {
+        "trend": "Camden Brown",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "一个叫Camden Brown的狠人突然火了，好像是干了件特别离谱或者特别牛的事，外网一堆人疯狂转发。具体啥事咱也没细看，反正现在推特都刷屏了，估计是吃瓜群众又找到了新乐子。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Robertson",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "【@AngusRobertson】：连接苏格兰全球侨民：苏格兰政府发布了一项新框架，以加强苏格兰与全球联系。链接如下👇🏴󠁧󠁢󠁳󠁣󠁴󠁿🌍 #苏格兰 #侨民 https://www.gov.scot/news/connecting-scotlands-worldwide-diaspora/",
+          "summary": "这帖子是官方发通告，说政府要搞个新计划把海外苏格兰人聚起来，无非是想借侨胞的资源和人脉给苏格兰办事儿。底下评论估计有人觉得是画大饼，也有人觉得是好事儿，但整体吵不起来，属于政策发布+轻度围观。",
+          "sentiment": "中性"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/AngusRobertson/status/1645759640469217282"
+          }
+        ]
+      },
+      {
+        "trend": "Jalin Turner",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Jalin Turner 是个UFC轻量级拳手，今天突然上热搜是因为他刚打完一场超级燃的比赛，KO对手那下直接把整个格斗圈看嗨了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Ray J",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"rays_j_topic\":\"Ray J又整活了，这回是他和名人夫妻的旧账被翻出来，还扯上巨款和离婚案，网友吃瓜吃出连续剧。\",\"why_trending\":\"因为当事人在X上连发爆炸性爆料，加上社交平台玩梗，瞬间冲上热搜，属于经典的美娱撕逼日常。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Big Lex",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哎呀，Big Lex这话题其实是欧美娱乐圈常青树Alexa Demie（《亢奋》里的Maddy）突然登上X趋势，大家发现她像个时间管理大师，从出道到现在脸和状态永远冻龄，被网友吐槽“是不是偷偷开了会员”。再要么就是她新剧造型惊艳全场，粉丝疯狂刷屏怀旧，结果把话题顶上热搜了，吃瓜群众顺路考古她的名场面罢了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Edson Barboza",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Edson Barboza上热搜是因为他刚在UFC一场硬仗里打出了超帅的飞膝KO，直接把对手干懵了，全场和网上都炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Tesehki",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Tesehki是最近推特上疯传的一个神秘账号名，一堆人跑去围观TA的“加密发言”和各种抽象梗，结果越玩越嗨直接冲上趋势。其实就是网友集体造梗+吃瓜凑热闹，跟之前那些“神秘ID”一个套路，没啥大事但看乐子挺上头。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Massie",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Massie这名字突然刷屏，估计是某个科技大佬或者网红搞了个大新闻，大家疯狂围观。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Cowboys",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Cowboys这话题突然上趋势，多半是达拉斯牛仔队又搞出什么离谱操作，或者有球员转会/比赛炸了，毕竟这队粉丝多到能自成一方势力。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "zeus",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": " Zeus这波上趋势，大概率是LOL圈又炸了——T1上单选手Zeus要么是转会期搞出大新闻，要么就是比赛里打出神仙操作或者拉了坨大的。总之，只要是这个ID刷屏，不是夺冠就是被喷，懂的都懂。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "GCWHomecoming",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "GCWHomecoming 就是美国独立摔角联盟 GCW 搞的返乡特别赛，一堆硬核、无规则的血腥大战，粉丝就爱看这种不按套路出牌的疯批表演。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Joey Logano",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Joey Logano 是 NASCAR 赛车手，最近因为拿下赛季关键分站冠军或激怒对手上了趋势，车迷在吵他的驾驶风格太拼还是运气好。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "AEWCollision",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哎呀，AEW Collision又上热搜了，说白了就是美摔联盟AEW的周五招牌节目，今晚估计又是老戏骨们神仙打架，或者哪个剧情搞炸了。毕竟粉丝都疯魔，刷话题比吃饭还准时，这热度不带怕的。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Dustin Stoltzfus",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这哥们儿是个美国阿米什小哥，在网上晒自己离开传统社区后的生活，反差感拉满，大家看得一愣一愣的。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "OPLive",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "OPLive 就是那个做手机和耳机的 OPPO 搞的发布会直播活动，主要是他们新旗舰和一票新配件。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Orlando Brown",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这哥们在迪士尼长大，后来嗑药打架进局子，最近又发疯式直播喊话，网友一边吃瓜一边担心他精神状态。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Spaceship Earth",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Spaceship Earth 其实是个老梗翻红，讲的是把地球当一艘宇宙飞船，资源有限得精打细算，大家别老想着薅地球羊毛。这次上趋势可能是因为某大V或纪录片又提了一嘴，加上环保话题热度叠加，网友就集体回忆杀了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Riku",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Riku这波上热搜，大概率是日本那边又有神操作或者翻车现场了，二次元和科技宅都在围观。反正不是发新歌就是整活，反正咱们吃瓜就行。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-08-15",
     "time": "2026-08-15 12:17",
     "source": "trends24.in",
