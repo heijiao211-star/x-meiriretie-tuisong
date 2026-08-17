@@ -1,5 +1,216 @@
 [
   {
+    "date": "2026-08-17",
+    "time": "2026-08-17 12:29",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Hayden Panettiere",
+        "sentiment": "争议",
+        "summary": {
+          "translation": "@haydenpanettier：请向Hoplon International捐款，为乌克兰带来改变！谢谢！https://www.hoplonintl.org/",
+          "summary": "这帖子看着像明星喊话捐款，但底下评论区估计吵翻了：有人觉得是真慈善该支持，有人怀疑是不是蹭热度或者钱到底去哪儿了。反正就是一场“好心vs套路”的围观大战。",
+          "sentiment": "争议"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/haydenpanettier/status/1501800948385165312"
+          }
+        ]
+      },
+      {
+        "trend": "Lanterns",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "简单说就是国外网友最近疯狂刷屏晒各种灯笼，尤其是中国风的那种，配上夜景拍得贼有氛围感。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Heroes",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题今天突然爆了，主要是大家被各种现实里的普通人挺身而出的视频刷屏了，从救人到帮扶都有。老外那边尤其中二，还在刷各种超级英雄梗，搞到全球都跟着嗨了起来。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Remember the Titans",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题是说一部老电影《冲锋陷阵》，讲美国70年代黑白球员组队打橄榄球、化解种族矛盾的故事，最近因为某球队纪录片引用又火起来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "South Korea",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "其实就是韩国又出大新闻了，网上吵得火热，要么是娱乐圈塌房，要么是政坛又搞事。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Von Miller",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Von Miller 这哥们儿上趋势是因为他又在场上搞事了，好像是把对手撞成脑震荡，直接被 NFL 禁赛四场，网友都在骂他'打人狂魔'。说白了就是体育圈又出丑闻，吃瓜群众看热闹不嫌事儿大。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "RHOA",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "RHOA这回刷屏是因为《亚特兰大娇妻》最新季开播，里面撕逼剧情太炸了，网友一边吃瓜一边吐槽。,就是真人秀里的抓马日常，隔着屏幕都能闻到火药味，所以大家疯狂讨论冲上热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Ice Princess",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波是欧美圈和KPOP粉在撕新女团概念，顺便圈内人趁机玩冰雪公主穿搭梗。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Angel Reese",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Angel Reese上趋势是因为她最近在WNBA赛场和社交媒体上又搞事情了，不是绝杀就是怼人，球技和嘴炮都拉满，直接让球迷和黑子吵疯了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Hal Jordan",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Hal Jordan上热搜了，因为DC新片《绿灯侠》预告曝光，这哥们儿的绿灯侠造型和嘴炮风格直接引爆了粉丝群，大家都在感慨爷青回。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Beth Cooper",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Beth Cooper是推特上突然蹿红的一个美国妹子，大家都以为是与她同名电影或什么八卦，结果点进去才知道是她在视频里表演‘我天生就这样，别管我死活’的日常，笑疯了一堆人。上趋势纯粹是吃瓜群众被她那种‘我们活着就为瞎折腾’的沙雕态度给戳中了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "BaddiesGoneWild",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "BaddiesGoneWild 是今天 X 上的热门话题，具体讨论内容待补充。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Until Dawn",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哎呀，《直到黎明》这游戏突然上趋势啦！简单说就是PS5高清重制版今天发售了，老玩家集体上头，一边怀念当年被吓到摔手柄，一边吐槽新版本画面牛了但恐怖感有点“科技感太强不吓人”。\n\n为啥刷屏呢？因为游戏里“蝴蝶效应”选择让每个人玩出的剧情都不一样，直播圈和短视频博主为了证明“我的结局最惨”狂更片段，吵得像选秀综艺决赛，直接给话题顶爆了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Save the Cheerleader",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Save the Cheerleader 是 X 上突然炸锅的一个梗，源自老剧《英雄》里的经典台词，现在被网友拿来玩梗吐槽各种救不回的破事。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Kyle Chandler",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Kyle Chandler突然上趋势，是因为他确定要出演DC新《超人》电影里的绿灯侠，粉丝和路人都炸了，觉得这选角绝了。毕竟他演过《胜利之光》和《哥斯拉》，老牌硬汉加叔味魅力，直接让推特首页变成大型怀旧现场。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Shamea",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Shamea 上了趋势，大概是因为一位外国网红妹子又整活了，大家围观看她到底能有多抓马。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Michelle Trachtenberg",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这姐们儿就是《吸血鬼猎人巴菲》里那个小吸血鬼，还有《绯闻女孩》里的坏姐姐，突然上热搜是因为她最近晒了张照片，状态看着有点吓人，网友都在担心她是不是病了或者咋了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Scream",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "大概是某明星或者大片搞了个尖叫挑战，网友疯狂转发自己的破音鬼哭，或者啥恐怖游戏联动上线了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "John Stewart",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "John Stewart（囧司徒）又冒泡了，这次是他回怼某些政治人物和媒体的争议言论，网友觉得他嘴太损太爽了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "90DayFiance",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这节目就是美剧版'跨国相亲大作战'，一堆老外跟对象搞签证婚恋，撕逼比八点档还抓马。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-08-16",
     "time": "2026-08-16 12:23",
     "source": "trends24.in",
