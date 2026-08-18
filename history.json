@@ -1,5 +1,219 @@
 [
   {
+    "date": "2026-08-18",
+    "time": "2026-08-18 12:23",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "WWERaw",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "【WWE官方】：惊喜！#WWERaw\n【WWE官方】：#WWERaw 选秀签下了 @EdgeRatedR！#WWEDraft",
+          "summary": "WWE官方突然扔出选秀炸弹，把老将Edge抽到Raw品牌，粉丝直接炸锅——有人尖叫情怀回归，有人吐槽剧本离谱。关键是大家都在猜这波操作到底给谁铺路，评论区已经吵成摔角版宫斗剧。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/WWE/status/1676048993875382273"
+          },
+          {
+            "url": "https://x.com/WWE/status/1444100918140620802"
+          }
+        ]
+      },
+      {
+        "trend": "Cubs",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Cubs这词儿上了趋势，主要是芝加哥小熊队（MLB棒球队）最近状态炸裂，比赛打得跟剧集似的，球迷狂刷梗图。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Pete Crow",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Pete Crow这话题是外国网友在狂刷一个叫皮特·克劳的篮球新星，因为他昨天一场比赛投进了10个三分，直接打破了NCAA的纪录，视频疯传得跟病毒似的。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "MVPete",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "MVPete这事儿翻译过来就是有位大佬在篮球圈搞了个刷分争议操作，硬把自己堆成最年轻MVP候选人，结果数据太好被球迷扒出全是喂球加刷弱队。大家对这种包装式牛逼特别上眼，连夜把话题冲上趋势开始玩梗和吵真实力到底咋算。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jacob Webb",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Jacob Webb 这哥们儿是美国一个棒球投手，今天因为在对阵某队时一个离谱的救援表现（好像挨了对手两发全垒打）突然被推特网友狂刷，直接冲上热趋。其实就是场球赛翻车现场，大家看热闹不嫌事大，顺便玩梗吐槽他工资和表现不成正比。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Venable",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Venable 这词儿突然挂上热搜，估计是某个国际大瓜炸了，要么是哪个名人在打官司，要么是政府在整什么大新闻。反正现在全网都在吃瓜，各种猜测满天飞，咱就搬好小板凳看戏吧。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "FlyTheW",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哦，这话题是芝加哥小熊队（Cubs）球迷刷的梗，意思是“让旗帜飞起来（Fly the W）”，庆祝球队赢球或季后赛希望的。今天突然刷屏，大概率是小熊队刚赢了一场关键比赛，或者官方搞活动带节奏，反正就是粉丝集体嗨起来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Gable",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Gable这波上趋势，主要是因为有个大V发了条关于它的小众产品（好像是做无头电商的）的吐槽或安利帖，网友瞬间炸锅开始玩梗。说白了就是圈内人觉得新鲜，圈外人看个热闹，跟风刷了一波存在感。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Keenan Allen",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "NFL老将外接手Keenan Allen刚被交易到芝加哥熊队，这瓜让球迷直接炸了，毕竟他之前一直待在闪电队。大家主要是在讨论他新赛季能不能带飞熊队年轻四分卫，顺便吐槽一下这个交易值不值。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Kyle Tucker",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这哥们是MLB太空人队的强打外野手，最近大概率是被交易了，而且交易传闻闹得沸沸扬扬，引起棒球圈粉丝和球队管理层疯狂吃瓜。上趋势多半是因为交易细节曝光，或者他某场比赛打出身价，直接让球迷炸锅讨论队伍亏不亏。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Rey Mysterio",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "简单说，就是墨西哥传奇摔角手雷尔·神秘人又搞事情了，可能是在WWE比赛里秀了个高空飞扑或者宣布退役战，全球摔迷直接炸锅刷屏。反正他每次上热搜不是要复出就是整活，粉丝一边喊‘爷青回’一边担心他这身板还能扛几次。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Amaya",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Amaya突然上热搜，多半是某位明星或者网红（比如有韩国女团成员叫这名）搞了个大新闻——要么是舞台造型炸了，要么是恋情被拍到，粉丝黑子吵成一团。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Bloodline",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题最近因为《继承之战》爆火，讲豪门家族里权力撕逼和血统继承的破事，大家追剧顺便八卦真实富豪家庭的狗血剧。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "LA Knight",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"trend\":\"LA Knight这哥们是WWE的嘴炮摔角手，最近又整活上了X趋势，因为他在擂台上怼人和赢得比赛的样子太有梗，粉丝疯狂刷他标志性的'YEAH！'。\",\"why\":\"上趋势主要是他最近剧情线炸裂，跟大牌选手撕逼还赢了一场关键赛，加上他自己那段仿佛健身教练带抖音热度的摔角采访，路人看了也想转发乐一下。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "WhiteSox",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "WhiteSox上热搜主要是因为芝加哥白袜队又打出了史诗级烂战绩，粉丝们一边自嘲一边刷#SellTheTeam，结果把话题顶上了趋势榜。说白了就是美国棒球圈的一场大型集体emo，跟咱国足输球上热搜一个味儿。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Ossoff",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"summary1\": \"Ossoff是美国民主党参议员，今天上热搜是因为他最近公开怼了马斯克和特朗普的政府效率部，说他们在乱砍政府数据，怕影响国家安全。\", \"summary2\": \"这哥们儿算是年轻政客里的刺头，敢跟大佬硬刚，所以网上吵翻了，左右两派都在拿这事刷存在感。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Zeferjahn",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Zeferjahn 好像是某个国外科技圈的大佬或者产品突然爆火，大家可能在讨论他的新项目或者翻车名场面。总之就是吃瓜群众一夜之间全涌进来，话题就冲上趋势了，具体细节你自己刷两下就懂了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jordan Hicks",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Jordan Hicks这名字上热搜，是因为他今年在MLB投手自由市场签了份肥约，从蓝鸟去红袜，合同细节炸裂到连体育区都刷屏了。大家讨论点就是这价钱值不值，毕竟他伤病史堪忧但现在投得真心猛。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Lyra",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Lyra 上了趋势，主要是苹果的 iOS 18 更新里把 Apple Music 的歌词界面和杜比全景声玩法整得更炫了，再加上 iPhone 16 发布让大家都去试新功能。说白了就是科技圈在晒新玩具，顺便吐槽一下老机型跑不动。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Ketel",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Ketel 突然窜上热搜，大概率是某个政要或明星的婚姻/绯闻瓜，或者跟某个大事件（比如世界杯或电影节）扯上了关系。具体是啥得点进去看，反正欧美圈吃瓜群众已经疯传了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-08-17",
     "time": "2026-08-17 12:29",
     "source": "trends24.in",
