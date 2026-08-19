@@ -1,5 +1,223 @@
 [
   {
+    "date": "2026-08-19",
+    "time": "2026-08-19 12:24",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Florida",
+        "sentiment": "争议",
+        "summary": {
+          "translation": "[@GovRonDeSantis]: 现在观看：州长罗恩·德桑蒂斯召开新闻发布会，宣布一项旨在废除佛罗里达州标准评估的法案——这是结束佛罗里达州共同核心标准的最后一步。 https://thefloridachannel.org/",
+          "summary": "佛罗里达州州长一边说要废除标准化考试，一边又要砍掉大学里的多元平等与包容和批判种族理论资金，这波操作是想把教育从应试里解放出来，还是想把言论自由也一起打包带走？大家吵翻了，有人拍手叫好说终于不用被政治正确绑架，有人担心这是要搞一言堂。",
+          "sentiment": "争议"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/GovRonDeSantis/status/1437783143990415363"
+          },
+          {
+            "url": "https://x.com/FLVoiceNews/status/1620441971436457986"
+          }
+        ]
+      },
+      {
+        "trend": "Vindman",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Vindman上趋势是因为他跳出来骂川普又是通乌门那套，加上他弟弟也掺和，共和党那边直接开火。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jolly",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波是外国网友在玩谐音梗，把“Jolly”（欢乐、节日感）和最近某明星/游戏/ meme疯狂刷屏连一起，主打一个喜庆又魔性。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Angie Nixon",
+        "sentiment": "争议",
+        "summary": {
+          "translation": "请看我关于佛罗里达州教育委员会新黑人历史标准的声明，这些标准拒绝教授准确的黑人历史。",
+          "summary": "大家在吵佛罗里达的新教育标准居然敢把黑人历史当‘修正版’来教，这波操作简直离谱到让人想骂街。网友一边嘲讽‘历史还能这么魔改’，一边心疼那些被糊弄的学生，争论核心就是这到底算教育还是政治洗白。",
+          "sentiment": "争议"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/AngieNixon/status/1682074016796885014"
+          }
+        ]
+      },
+      {
+        "trend": "Fishback",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Fishback 突然上了趋势，主要是网友在讨论一条关于钓鱼佬的梗图，说有人把鱼钩甩到电线杆上结果触发了短路，当地电网直接发公告求别再钓了。这破事儿太离谱又好笑，所以大家疯狂转发玩梗。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "WWENXT",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "WWENXT今天上热搜是因为摔角界当红节目NXT这几期剧情爆了，选手互殴加重磅回归，粉丝直接刷疯了。简单说就是美式摔角综艺出圈，路人看热闹，铁粉磕剧情，话题就炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Donalds",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"summary1\": \"Donalds今天上热搜，主要是一堆人在吵美国那边有个叫Donalds的黑人议员，被喷成是‘黑人版懂王’，因为他死挺川普，搞得两边网友疯狂对线。\", \"summary2\": \"这话题能爆，说白了就是美国大选预热战，大家拿他当靶子吵政治正确和种族站队，咱就当吃瓜看个热闹，别太当真。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "DWCS",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题是UFC的《白大拿挑战者系列赛》，一堆没签约的格斗新人拼了老命打一场，赢了白大拿可能直接给UFC合同。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Dan Wilson",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Dan Wilson这名字今儿在X上炸了，因为大伙儿突然发现他既不是唱《Free Fallin'》那位老哥，也不是演《活死人黎明》的，而是一堆账号把他跟歌坛那点破事搞混了，吵成了一锅粥。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Becky",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波Becky上热搜，大概率是某位网红或爱豆的争议事件又被扒了，粉丝和路人在评论区吵成一锅粥。反正现在但凡叫这名儿的，不是塌房就是整活儿，围观吃瓜就完事了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "mcrdc",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "mcrdc这话题就是Minecraft玩家在疯狂晒自己花N小时肝出来的红石科技，看得人怀疑自己玩的是不是同一个游戏。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "DeSantis",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": " DeSantis最近在X上刷屏，主要是因为他跟川普互撕的新瓜又来了，加上他可能作为共和党后备人选被拱火，吃瓜群众都在看谁能扛住川普的嘴炮。 另一个是他最近在移民和性少数政策上猛踩油门，搞出一波争议操作，惹得两派网友疯狂对线。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Cory Mills",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哦这个Cory Mills是美国佛州那个暴躁老哥议员，最近在X上刷屏是因为他直接跟人线上对线骂川普家事，还放话说要查拜登家族，网友全在围观他发疯。  \n反正就是政治版“吃瓜放狠话”，一堆人凑热闹转他吵架和造谣式发言，眼一闭就是流量密码，难怪顶上热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Grant Taylor",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个Grant Taylor是个玩极限滑板的狠人，他最近在X上晒了个超炸的视频，直接把话题顶上了热搜。大家搓着手机膜拜他那些不要命的高难度动作，顺便感叹这人技术是真的神，看得人膝盖疼。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Ashley Moody",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哦你说这个啊——就是佛州那个美女总检察长Ashley Moody，最近不是在怼拜登政府边境政策嘛，直接放话要求联邦给说法，热搜上全是她硬刚的视频切片，吃瓜群众直呼“州长位子稳了”。\n\n简单说就是她靠“骂华盛顿”刷脸，共和党这边又把她当2026州长热门推手，一来二去，全美网友都来围观这波政治对线了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Natasha Cloud",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这姐们儿是真敢说，把联盟双重标准的事儿全抖出来了，大家一边吃瓜一边站队，热度自然就爆了。简单说，就是女篮球员硬刚男权篮球圈，妥妥的舆论核弹。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Brito",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Brito最近在X上刷屏，好像是某个欧美明星或者球队教练突然整了个大新闻，粉丝们直接炸锅了。再加上一堆段子手跟进，热搜就自然飙上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Javier Assad",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哎呀，这个Javier Assad是个芝加哥小熊队的墨西哥投手，最近一场比赛投得跟开了挂似的，6局零失分狂刷三振，直接把对面打懵了。所以推特上大家疯狂吹他“新一代王牌”呗，加上小熊队正要冲季后赛，这兄弟一火就上了趋势榜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "DESOLATION ROW",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波就是关于澳大利亚那个邪教家庭离奇失踪案的纪录片《荒原之街》上线了，大家都被里头诡异反转整懵了。热搜纯粹是因为剧情比编的还离谱，加上流媒体一播，吃瓜群众连夜刷完了就赶紧来唠嗑。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Tatis",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Tatis这波上热搜，大概率是因为他又是棒球场上那个又能打又能秀的‘神童’，要么刚砸出个超级本垒打，要么又整了点网红庆祝动作。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-08-18",
     "time": "2026-08-18 12:23",
     "source": "trends24.in",
