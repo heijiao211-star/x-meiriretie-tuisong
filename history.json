@@ -1,5 +1,212 @@
 [
   {
+    "date": "2026-08-21",
+    "time": "2026-08-21 12:26",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Verzuz",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Verzuz 就是两个歌手或制作人线上PK，轮流放自己的经典歌，粉丝投票看谁更炸，有点像音乐版的“battle”，但主要图个情怀和热闹。\n\n它上趋势一般是因为有超大牌对局，比如Mariah Carey怼上Missy Elliott这种，或者哪场直播出了名场面、争议判罚，大家就疯狂刷屏吃瓜了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Donell",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Donell这名字突然冲上热搜，八成是某个欧美歌手或网红搞出了大动静，不是发新歌撕逼就是直播翻车了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Raiders",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "朋友圈科普版来了👇  \n**Raiders**这词在X上刷屏，主线是“突袭/奇袭”类的话题炸了——不管是游戏圈组团抢装备、粉圈组团刷榜，还是吃瓜吃到某品牌连夜删帖，反正都是一群人突然冲进去搞事，看得人血压都上来了。  \n上趋势的真相就是：有人整活整出圈了，要么是“爷青回”的联动刺激，要么是“暴打资本”的爽文剧本，大家都爱看热闹，不点进来手痒。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Paige",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Paige这个话题现在冲上热搜，主要是因为一位叫Paige的网红/博主发了条爆炸性动态，要么是撕逼、要么是官宣恋情，粉丝瞬间炸锅。反正每次这类话题挂趋势，基本都是当事人搞事情，吃瓜群众蹲后续。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Big Rich Town",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题是因为那首魔性洗脑神曲《Big Rich Town》最近又翻红，网友疯狂用它剪各种脑洞视频，从炫富搞笑到打工人的呐喊全都能配上。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Mendoza",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Mendoza这波上热搜是因为阿根廷门多萨省的山火烧得挺大，NASA卫星图都拍到了烟柱，大家一边担心灾情一边刷屏祈祷。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jacob Cowing",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Jacob Cowing 这名49人外接手靠连续两次出色接球火出了圈，球迷都在夸他是被低估的宝藏。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Where I Wanna Be",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个话题是看别人秀恩爱/生活方式引发的柠檬精大合唱，意思是‘我也想那样生活’没跑了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Stribling",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Stribling这词儿突然上热搜，大概率是跟一个外国实验室或科技大佬有关，具体可能是发现了什么新东西或者搞了波大新闻。反正不是咱普通打工人日常会碰的词，纯属看个热闹。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Trey Lance",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Trey Lance 这波上趋势，应该是因为他作为 49 人的前高位秀，被交易到牛仔后突然有消息说要竞争首发，或者传出训练赛大爆发啥的，球迷和黑子都出来站队吵起来了。简单说就是“昔日榜眼输给伤病被甩，现在想翻身卷土重来”，一有风吹草动，美式橄榄球圈就爱炸。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Stutter",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "简单说就是大家在刷屏聊口吃这事儿，起因是某大V自曝说话卡壳被网友群嘲，结果反而炸出一堆人分享自己或身边人的口吃经历，话题直接冲上趋势榜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Big Pun",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哎呀Big Pun突然上热搜，八成是又因为他的rap金句被网友翻出来玩梗了，毕竟这位胖哥歌词狠到能让人DNA乱动。再加上最近可能有人翻唱或致敬他的flow，大家就集体回忆童年，顺势把老OG顶上来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Texans",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题大概就是休斯顿德州人队（NFL橄榄球）又在搞大新闻了，要么是赢球太猛要么是球星受伤闹心，球迷们集体刷屏吃瓜。上趋势主要是因为这队最近比赛太刺激，加上美式橄榄球在美国本来就跟过年一样热闹，想不火都难。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Love Scene",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个话题Love Scene现在在X上炸了，全是因为明星或者网红们最近在晒各种甜蜜吻戏或舞台演出，粉丝们狂转冲上了趋势。说白了，就是吃瓜群众爱看这种撒糖名场面，一波热点就这么杀出来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Avant",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Avant 突然上趋势，主要是因为最近有个叫 Avant 的 AI 创业项目融资和产品截图被扒了，圈内人觉得它技术路线很野，都在赌它能不能火。简单说就是科技圈在围观一个可能改变 AI 玩法的新东西，跟风吃瓜顺便看看有没有机会。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "G-Unit",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "G-Unit突然上热搜，就是50 Cent那帮人说唱团体要搞重组回归，老粉狂喜开始刷情怀。加上最近他们跟人撕逼有新瓜，大家就冲进来围观了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Left Eye",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题聊的是美国说唱女团TLC已故成员Lisa Lopes，大家叫她Left Eye，最近因为某段旧视频或纪念日被翻出来，歌迷集体回忆杀，就冲上热搜了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Lala",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Lala这词儿突然刷屏，八成是哪个明星绯闻或者新梗爆了，热搜跟风。就是那种你还没看懂啥情况，全网已经在玩梗的日常。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Mac Jones",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Mac Jones上热搜是因为他这赛季在爱国者队打得像过山车，刚被喷得体无完肤又突然爆发赢球，球迷和媒体都看懵了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "JK Scott",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "JK Scott其实是个NFL弃踢手，但突然上趋势是因为一段他在场上“表演型踢球”的搞怪视频被疯转，动作夸张得像在做瑜伽。大家纯粹是看他乐子，顺便吐槽这活儿比上班摸鱼还带感，结果就刷上热搜了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-08-20",
     "time": "2026-08-20 12:24",
     "source": "trends24.in",
