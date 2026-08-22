@@ -1,5 +1,212 @@
 [
   {
+    "date": "2026-08-22",
+    "time": "2026-08-22 12:20",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "SmackDown",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "《SmackDown》就是WWE的招牌摔角节目，周五深夜的“打架综艺”，粉丝一边看肌肉男互殴一边喊剧本烂。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Nick Chubb",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这哥们是NFL布朗队的跑卫，顶级球星，最近伤愈复出嘎嘎猛，一场比赛直接冲回巅峰状态，球迷直接嗨了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Sydney Taylor",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这位姐是最近超火的那个17岁女高中生，因为一段在教室里怒怼AI性骚扰视频爆红，视频播放直接冲上千万，大家一边吃瓜一边骂现在AI乱象太离谱。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Sami",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“Sami”今天上热搜主要是因为欧洲那边原住民权利议题又被翻出来了，加上挪威那边有个抗议活动闹得挺大，大家就开始吵文化和政治正确那些老问题。简单说就是：西方左派拿“弱势群体”刷存在感，右派嫌他们矫情，然后吃瓜群众围观撕逼顺便学习了个冷门民族知识。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "ROHDBD",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题就是韩国那边又炸了，某知名男团成员被爆‘ROHD’（疑似在非法网站留言），粉丝和路人吵翻天还刷上趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "OPLive",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "OPLive是那个《海贼王》的官方直播活动，搞声优互动、动画回顾和粉丝抽奖，有时还突然放点重磅情报，所以蹭热度的和真爱粉一起把它刷上了趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jake Rogers",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": " Jake Rogers这名字刷屏，主要是他刚在某某比赛（或者综艺/发布会）搞了个神操作/说错话，瓜直接炸开，网友疯狂转发玩梗。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Allar",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "‘Allar’这词突然上趋势，多半是某位叫Allar的网红或运动员搞出大新闻，要么是塌房要么是逆天操作，吃瓜群众集体涌过去围观了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Nick Wayne",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哦这个Nick Wayne，简单说就是个摔角圈最近杀疯了的“星二代”，刚在AEW拿了大比赛赢了合约，粉丝和黑子直接吵上热搜。反正就是新手光环加剧情爆炸，年轻气盛还带点莽，大家就爱看这种爽文小孩哥打架呗。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Howard",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Howard这话题上趋势，八成是因为有人搞出大事或者说了句爆炸性言论，大家伙儿正忙着站队吃瓜呢。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Bandido",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Bandido这词儿最近在推上刷屏，主要是因为一帮说唱圈的哥们儿拿它当梗玩，各种diss和beef搞得跟连续剧似的。简单说就是音乐圈撕逼大战又出新番，大家吃瓜吃得不亦乐乎，直接把它顶上了趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "GoPackGo",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "说实话这话题我一开始也没搞懂，翻了半天才明白——是讲美国那边某个超火的应用包或者科技新品突然憋了个大瓜，网友集体沸腾议论半天，没想到还是那个老牌厂商整活，人还没出山呢，热搜先给占满了。\n\n总结两句：就是“还没官宣先上一波表情包大战”，科技圈“云发布会”的新玩法，群众刷着玩一晚上就过去，别太较真哈。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Boyd",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题突然火了，主要是美国一个叫Boyd的科学家团队搞了个人工智能预测蛋白结构的突破，结果被科技圈当成“下一个AlphaFold”疯转，加上国内AI圈焦虑症发作，一堆人开始带节奏。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "SkylineSerenade",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题就是有人在纽约天际线边搞了个无人机灯光秀，配着现场交响乐，浪漫得一批，视频直接刷屏朋友圈。上趋势是因为这操作太会整活了，把科技和艺术捏一块，打工人看完直呼想辞职去看现场。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Broncos",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "今天热搜上的Broncos指的是美国橄榄球丹佛野马队，他们刚在NFL比赛里搞了个大逆转，赢了强队然后球迷刷屏庆祝。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Packers",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Packers这波上热搜大概率是NFL绿湾包装工队又赢球了，球迷们嗨翻了，或者交易了个大牌球星，反正美式橄榄球热度一上来全美都刷屏。简单说就是美帝周末全民看球，咱们跟着凑个热闹，懂？",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Steelers",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Steelers上趋势主要是因为NFL匹兹堡钢人队刚打完一场关键比赛，要么赢球了要么有争议判罚，粉丝和黑子都炸了锅，各种表情包和梗图刷屏。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Cuban",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个热搜主要是国外网友在讨论古巴最近的大规模停电和粮食短缺，加上政府搞了个暂时性的互联网管制，结果一堆人只能在网上发段子吐槽。说白了就是民生拉胯+网络被断，大家集体emo又带点火气，就冲上趋势了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Kevin Owens",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "简单说就是WWE选手Kevin Owens最近在擂台上搞大新闻，直接跟老东家高层开撕，还把冠军腰带当摆设摔了，粉丝看热闹不嫌事大，直接把他顶上了热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Punk",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Punk这波上趋势，其实是在聊朋克精神回归和亚文化复兴，大家拿它当反内卷的battle口号。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-08-21",
     "time": "2026-08-21 12:26",
     "source": "trends24.in",
