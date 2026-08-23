@@ -1,5 +1,219 @@
 [
   {
+    "date": "2026-08-23",
+    "time": "2026-08-23 12:25",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "UFCSacramento",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "[@ufc]: 萨克拉门托，我们回来了🙌 8月22日UFCSacramento见！点这里登记兴趣：http://ufc.com/sacramento\n\n[@ufc]: UFC格斗俱乐部门票预售现已开启！购票点这里：http://UFC.ac/4ve1x75【8月22日ParamountPlus直播】",
+          "summary": "大家主要围观UFC重返萨克拉门托，兴奋劲儿还没过，纷纷讨论怎么抢票、看谁出场。也有老粉吐槽每次官宣都搞得像倒计时悬念，实际阵容还没影，笑称“又是一轮饥饿营销”。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/ufc/status/2070930631190806660"
+          },
+          {
+            "url": "https://x.com/ufc/status/2074901576591007784"
+          }
+        ]
+      },
+      {
+        "trend": "Joe Milton",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Joe Milton 现在上趋势是因为他在NFL季前赛里一顿猛秀，传球像发射火箭，直接把球迷看高潮了。大家疯狂刷屏，就因为他这种天生神力的臂力太罕见，纯纯视觉震撼。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Robocop",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Robocop这两天突然上热搜，是因为老片翻新引发的怀旧潮+AI机器人执法热点撞一块儿了，网友一边回忆经典台词一边在吵现在的警用机器人到底像不像电影里那么猛。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Canada",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "加拿大这波上热搜，主要是因为特鲁多又双叒被爆出度假丑闻，加上国内经济数据拉胯，网友都在骂‘这国家还能不能行了’。连带着美国那边也跑来凑热闹，说‘枫叶国’现在就是‘北方大怨种’，评论区全在玩梗阴阳怪气。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Mingo",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Mingo这波上趋势大概率是某个梗或者新梗图突然被转疯了，跟最近的互联网热点或者某个明星/网红动态有关。具体是啥我刚刷到也是一脸懵，但反正就是纯纯的吃瓜围观现场。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Hernandez",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这哥们儿大概率是某个球星或网红，突然因为比赛爆种、绯闻或者离奇操作被全网围观，推特上瞬间刷屏。\n反正不是啥正经新闻就是大型吃瓜现场，咱就跟着凑个热闹，等会儿看看谁又破防了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Camden Brown",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题火是因为有个叫Camden Brown的哥们儿在X上发了条爆炸性言论，直接踩中欧美网友的雷区，评论区一夜之间变战场。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Carson Steele",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Carson Steele 这哥们儿是 NFL 的跑锋，今天突然上热搜是因为他在比赛里一个神仙级达阵，直接把对手防守球员撞飞了，动作太暴力太燃。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "AEWCollision",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "AEW Collision是WWE的'美摔'对手AEW在周六办的摔角秀，上热搜是因为昨晚又有猛料（比如超级巨星回归或恩怨大战），粉丝们边看边刷屏吐槽+吹爆。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Barham",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Barham这名字突然刷屏，是因为网上爆出一段跟英国政客或中东地区相关的离谱发言或冲突，网友调侃他比剧本还会演。大家一边吃瓜一边玩梗，顺带讨论“这操作是不是想上热搜”，话题就被拱上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Butker",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这几天推特上Butker上热搜，主要是因为NFL球星哈里森·巴特克在毕业典礼上喷了一通关于女性角色和性别议题的保守言论，直接引爆了全网骂战。简单说，就是有人觉得他说得对，有人觉得他脑子有泡，两边吵得不可开交。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Get Smart",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题主要是在聊一部老剧和‘聪明人’的梗，网友们在回忆经典台词或者玩高智商吐槽。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Malik Davis",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这哥们是个美国橄榄球跑卫，最近因为一场比赛里一个逆天达阵直接冲上热搜，大家都在刷他的爆发力和速度，感觉像在看田径比赛。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Randy Arozarena",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "美国职棒大联盟（MLB）外野手、古巴裔墨西哥人Randy Arozarena昨儿在世界大赛（总决赛）里轰出关键三分炮+偷垒成功，直接点燃全场热搜，大家除了喊“最强外卡战神”外，还在刷他那个标志性的“甩手套庆祝”表情包。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jalon Daniels",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Jalon Daniels是堪萨斯大学橄榄球的四分卫，今天因为在对阵强队时打出了天神下凡级的表现，直接冲上热搜。说白了就是这哥们今天扔出好几个神仙球，带队爆冷赢球，让全美球迷都看嗨了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "OPLive",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "OPLive是哔哩哔哩搞的线上直播综艺活动，请一堆UP主整活儿，流量大得把B站服务器都搞崩了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Rodrigues",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题最近突然炸了，大概率是某个球星/网红或者政治人物叫Rodrigues搞了个大新闻，要么比赛逆天操作要么整活儿翻车，吃瓜群众直接给顶上趋势。反正就是西方那种持续一天的爆点，过两天就没人记得了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Nick Sogard",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这哥们儿是美国职棒红袜队的新秀，今天打出生涯首支大联盟全垒打，直接把球轰上看台，现场球迷嗨翻了。因为这事儿太带感，加上是罕见的新人爆冷时刻，所以X上瞬间就冲上趋势了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Veron",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"Veron\"这话题突然上趋势，大概率是足球圈又炸了——那个阿根廷老将贝隆（Juan Sebastián Verón）要么是又说了啥爆炸性言论，要么是拉普拉塔大学生队跟他搞了个大新闻，球迷们连夜吵翻天了。反正就是老炮儿一开口，热搜跟风",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Chivas",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波Chivas上热搜主要是因为芝华士威士忌搞了个挺炸的联名或活动，具体细节还在发酵，但已经有不少人开始晒图和玩梗了。反正就是酒圈和潮流圈凑一块，老牌子突然学会整活了，吃瓜群众自然就冲上去看热闹了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-08-22",
     "time": "2026-08-22 12:20",
     "source": "trends24.in",
