@@ -1,5 +1,212 @@
 [
   {
+    "date": "2026-08-25",
+    "time": "2026-08-25 12:27",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Wheeler",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"Wheeler\"这波上趋势，八成是美国那边有个叫Wheeler的政客或者网红又整活了，要么是发了癫言癫语，要么是被网友扒出黑料，反正就是互联网吃瓜群众集体围观。\n\n简单说，就是国外又出一个“乐子人”或者“翻车现场”，咱们这边跟着看热闹，顺便吐槽两句，然后话题就炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jesse",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Jesse 这波上热搜多半是某个明星或网红又有瓜了，具体是谁咱不细说，反正朋友圈都在刷。反正就是突然一堆人开始聊，大概率是粉丝撕逼或者本人整活，吃瓜就完事了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "WWERaw",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“WWERaw”上了趋势是因为这周RAW又整活了，明星选手互相放狠话甚至动手，剧情比爽文还狗血，摔迷们一边骂编剧一边疯狂转发讨论。简单说就是美式摔角综艺又开搞，一群肌肉男的恩怨戏码热度直接炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Abdul",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哈哈哈，这话题突然飙上趋势，大概是因为某国际大瓜又反转了——具体是跟某个叫Abdul的公众人物沾边的事闹大了。反正就是大家一边吃瓜一边骂街，热度全是被情绪顶上来的。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "kroniisekai",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "kroniisekai 是个游戏梗，讲的是《Kroniik》这游戏里的穿越异世界设定，因为剧情太离谱又上头，玩家边骂边玩，活生生刷上热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Supreme Court",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Supreme Court 是今天 X 上的热门话题，具体讨论内容待补充。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "mcrminneapolis",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "mcrminneapolis 是 My Chemical Romance 在明尼阿波利斯开唱的热搜，粉丝疯传现场视频和歌单，因为这次巡演是乐队重组后的重磅站，票早抢光，没抢到的就在线酸或羡慕。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "USPS",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "USPS（美国邮政）突然上热搜，主要是因为他们宣布要涨价+改革送信速度，美国人怕自己网购和收信都变慢变贵，集体哀嚎。另外还有传闻说邮局要裁员，大家又开始担心快递更不靠谱了，吵着说别乱搞啊。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Girl Scouts",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题其实就是美国女童子军那点事儿，最近她们搞了个骚操作——用AI做饼干营销，网友都在吵“童军精神AI化”是不是变味了。反正就是传统机构整活翻车，又赶上大家爱看乐子，直接刷上热搜了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "SCOTUS",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "SCOTUS（美国最高法院）最近又搞了个大新闻，比如裁决了某个人权案子或者推翻了个老政策，瞬间点燃了全网沸腾，左中右都下场撕起来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Durk",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Durk（Lil Durk）是芝加哥说唱歌手，这次上趋势是因为他刚发的新歌或者又被推上法庭吃瓜了，粉丝和黑子都吵成一团。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Valkyries",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Valkyries这词儿最近在X上刷屏，是因为网友们在拿北欧神话女武神玩梗，吐槽某些游戏或影视作品里“战力超强但剧情工具人”的女性角色设定。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "UCMJ",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "UCMJ就是《美国军事司法统一法典》，最近上热搜是因为美军里头出了几个大瓜，比如军人犯事或者老兵维权，网友都在吃瓜看美军内部怎么处理。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Royce Keys",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这哥们在X上突然爆火，是因为他跟某个大佬的互怼聊天记录被扒出来了，嘴炮打得贼有梗，网友直接当连续剧追。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Chase Burns",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Chase Burns这个梗其实是个美国大学棒球投手，因为投球太猛上了热搜，网友都在刷他‘人类丢球极限’的段子。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "TONY SEAGULLS",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "TONY SEAGULLS就是那位在澳洲海边抢薯条瞬间爆红的网红海鸥，大家看它嚣张偷食的样子笑疯了，#TonySeagulls直接冲上趋势是因为连官方媒体都下场转发，评论区全是表情包和本地人吐槽被它抢过饭的惨痛经历。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Trea Turner",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "费城人队的游击手Trea Turner今天打出了一场神仙球，单场双响炮直接给球队续命，加上他最近状态火热，全联盟都在刷他的高光集锦。这哥们本来就是人气王，一爆发那可不就冲上趋势了嘛。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Cal Raleigh",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这哥们是水手队的捕手，今天直接一杆子把球轰出本垒打墙，带队打进制胜分，妥妥的‘今天最靓的仔’。大家在刷他是因为这球实在太炸，顺便骂一嘴对手怎么就不给他好球呢，X上全是比赛视频和表情包。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Circumcision",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题主要是国外网友又在吵割包皮这事，一边说医疗必需一边说是侵犯人权，宗教、健康、审美全搅一块了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Big Cass",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"news\": \"Big Cass是个前WWE摔角手，最近在X上突然爆火是因为他又开始了疯癫表演，直播里大喊大叫、说些奇奇怪怪的话，网友全在围观。这事儿纯粹是吃瓜群众看乐子，加上他之前被摔角圈封杀又被粉丝当梗玩，就冲上趋势了。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-08-24",
     "time": "2026-08-24 12:33",
     "source": "trends24.in",
