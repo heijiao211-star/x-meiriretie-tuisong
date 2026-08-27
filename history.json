@@ -1,5 +1,216 @@
 [
   {
+    "date": "2026-08-27",
+    "time": "2026-08-27 22:50",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "$CHUMP",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "$CHUMP 现在是 X 上的头号热搜，发个真币吧，别让那些路人被割韭菜了。",
+          "summary": "大家现在都在围观这个叫 $CHUMP 的币冲上热搜，但心里都门儿清——怕又是一波空气币炒作，喊话让项目方发点有实际价值的东西，免得普通人进来当接盘侠。气氛就是一半看热闹一半吐槽，谁都不想真被当韭菜割。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/jncquant/status/2092976039962054914"
+          }
+        ]
+      },
+      {
+        "trend": "Good Thursday",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题就是周四啦，大家在网上搞点轻松自嘲，顺便晒晒‘熬过周三’的成就感，放松一下。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Hinges",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Hinges 这波上热搜是因为一款叫胡歌的 AI 视频工具搞了个大活，能把照片里的人说得活蹦乱跳，网友玩疯了，直呼技术炸裂。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Amish",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Amish这个话题上趋势，是因为最近有博主拍了他们不用手机、不开车的日常，反差感拉满，纯纯流量密码。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Happy Friday Eve",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "就是周四晚上大家集体发疯庆祝明天不用早起，顺便提前进入周末躺平模式。这玩意儿能上趋势全靠打工人的怨念和摸鱼精神，毕竟周四是希望最大的一天，离周末只差临门一脚，谁不想嚎一嗓子呢。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Peter Cullen",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Peter Cullen就是变形金刚里擎天柱的配音老爷爷，大家突然刷他是他宣布退休了，粉丝都炸锅了，童年回忆又少一块。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "BeautyInBlack",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个标签是国外时尚圈突然集体玩‘黑色美学’梗，一堆博主晒全黑穿搭整活，从明星红毯到街头风刷屏。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Boosie",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Boosie这货就是个行走的流量包，每次出事儿都自带热搜体质，说白了就是他的嘴比他的歌还带劲，网友就想看他怎么作妖。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Shapiro",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波上趋势大概率是Ben Shapiro又开炮了，要么怼左派要么怼校园抗议，反正嘴炮一响流量拉满。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "BrinityxCosmopolitan",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"summary1\":\"BrinityxCosmopolitan 其实就是个牌子联名整活儿，把高端时尚杂志Cosmo和网红品牌Brinityx搞了个合作系列，一堆博主晒单品和价格，看着贼像甲方砸钱买的热搜。\",\"summary2\":\"上趋势主要是粉丝和时尚圈KOL在撕设计‘高级感’还是‘土味营销’，吵着吵着就上热搜了，说白了就是流量蹭得挺准。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "SFxPerthSantaDomiia",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "SFxPerthSantaDomiia 是今天 X 上的热门话题，具体讨论内容待补充。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "ORMCentralBeautyAwards",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "ORMCentralBeautyAwards 是社交媒体上某个美妆/模特圈的年度颜值PK大赛，网友疯狂刷屏投票，因为入围选手颜值争议大、数据离谱，还牵扯饭圈撕逼，所以直接冲上趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "ThankfulThursday",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "ThankfulThursday就是每周四晒感恩，外国人爱在这天发感谢帖，配上#话题报团取暖。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "PERTHSANTADOMIIA DOG STARS",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题其实是在聊一个叫PERTHSANTADOMIIA的赛级犬（好像是澳大利亚那边的）最近在狗展上拿了大满贯，配上它那毛色和站姿照片，网友全在刷“狗中贵族”。  \n会上趋势主要是因为那张“狗生赢家”的侧面照太有喜剧感了，加上评论区一堆玩梗的，硬是把冷门犬赛顶成了全民围观。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Samuel Monroe Jr.",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这哥们儿是个美国橄榄球运动员，最近因为一段球场上的硬核冲撞视频火了，全网都在刷他的狠人操作。上趋势纯粹是因为大家看嗨了，觉得这种热血瞬间比剧本还带劲。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Bovino",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题其实就是意大利一个叫Bovino的小镇，突然因为某张离谱的风景照或段子火了，网友开始疯狂玩梗和对比自家村口。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Barcola",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Barcola 这哥们儿是巴黎圣日耳曼的边锋，最近踢球跟开了挂似的，还在欧冠整了个关键进球，球迷直接嗨翻。 大家疯狂刷他是为了吹爆他“新亨利”的人设，结果热搜就这么被踢上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Suarez",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "苏亚雷斯突然冲上趋势，八成是又进球了或者搞了个大新闻，比如训练场暴击队友或者宣布退役时间表。反正乌拉圭人一上热搜，要么是场上秀操作，要么是场下整活儿，横竖都是足球圈的老熟人刷存在感。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "ORM FRIEND OF DECORTÉ",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个趋势大概说的是日本高丝集团旗下的DECORTÉ（黛珂）搞了个叫“ORM FRIEND”的AI美妆顾问，能根据你的肤质和喜好免费推荐产品，推特上全是晒聊天记录和种草贴，感觉像身边多了个懂护肤的闺蜜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Thirsty Thursday",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Thirsty Thursday就是每周四大家借着‘渴了’的借口，光明正大晒酒、晒身材、晒约会，其实是给周末提前开个荤。它能上趋势，全靠网友一到周四周五前夜就集体发疯，梗图+自拍+暧昧文案刷屏，把朋友圈当KTV，不炸才怪。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-08-26",
     "time": "2026-08-26 12:28",
     "source": "trends24.in",
