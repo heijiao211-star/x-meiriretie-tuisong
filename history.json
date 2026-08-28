@@ -1,5 +1,220 @@
 [
   {
+    "date": "2026-08-28",
+    "time": "2026-08-28 23:44",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Warsh",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "【美联储官方账号】凯文·沃什宣誓就任美联储理事会主席及理事，联邦公开市场委员会一致推选沃什担任主席：链接略。",
+          "summary": "大家主要盯着这位新主席的鹰派背景，猜他上台会不会立刻加息、跟特朗普政府掰手腕。评论区一半在玩‘美联储终于换自己人’的梗，一半在哭通胀要完蛋，反正火药味和段子齐飞。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/federalreserve/status/2057918499432046831"
+          }
+        ]
+      },
+      {
+        "trend": "MansBestFriendAwards",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题其实是国外在搞‘年度最佳狗狗’评选，网友疯狂晒自家狗子的神操作或者感人瞬间，纯粹是来骗人云吸狗和投票的。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "KlingAI",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "KlingAI就是快手那款叫“可灵”的AI视频生成工具，最近国外推特上突然爆火，因为老外们用它生成的视频质量高得离谱，直接惊艳全场。上趋势是因为国外网友疯狂晒片，连带中国AI技术又被吹了一波，话题自然就炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Good Friday",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "市长说到：今天，在耶稣受难日，我们纪念一个牺牲的日子。一些纽约人会禁食，另一些会长时间沉默。圣经告诉我们，信仰是对未看见之事的坚信。那份信念将引导我们许多邻居进行庄严的反思与敬畏。我祝愿所有纪念耶稣受难日的人度过一个安宁的祝福之日。",
+          "summary": "这帖子表面是官方式祝福，但大家暗地里在吐槽市长又蹭宗教热度，顺便争论信仰到底该不该跟政治挂钩，还有人调侃“日常祈祷不如解决点实际问题”。整体氛围就是群众看官员作秀，一半人无感，一半人阴阳怪气。",
+          "sentiment": "中性"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/NYCMayor/status/2040022452995043573"
+          }
+        ]
+      },
+      {
+        "trend": "วาดฝันวันวิวาห์EP11",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题是泰国一部甜到齁的同性婚礼剧《วาดฝันวันวิวาห์》第11集刚播，粉丝直接磕疯了，热搜全是讨论剧情发糖和预告刀子的。  \n简单说就是“今天又为别人的爱情哭爆”，但架不住画面美、CP感足，大家一边骂编剧一边蹲下周更新，所以冲上趋势了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "LINGORM ILF EP11",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题其实就是 LINGORM 演唱会 EP11 的直播片段被剪出来了，粉丝集体沸腾在刷屏，感觉像过年。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "GAME DAY",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个趋势主要是球迷和电竞粉在刷屏，各种比赛直播截图、吐槽裁判和庆祝胜利的梗图满天飞，看着像集体狂欢。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "PRIME Act",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "PRIME Act大概就是说要简化肉类加工监管，让小农户和本地屠宰场能更容易合法卖肉，听着挺美但争议很大。上趋势是因为美国那边农民和自由派吵翻了，有人觉得能救小农场，有人担心食品安全回退，加上大选前政治站队，话题直接炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Al Michaels",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Al Michaels 是NFL传奇解说员，最近因为直播中嘴瓢或者吐槽太狠，被网友疯狂截表情包，直接冲上趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "FursuitFriday",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哦，FursuitFriday就是国外兽迷圈每周五晒毛毛装自拍的固定活动，大家穿兽装出门或摆拍，刷屏秀可爱，顺便抱团取暖。上趋势多半因为欧美周五流量大+话题标签统一，加上偶尔有明星或梗图破圈，路人觉得“哇好怪再看一眼”就点进来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "LastFourWatched",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个趋势基本是网友在晒自己最近最后追的四部片或剧，主打一个互相安利和吐槽，氛围比豆瓣小组还热闹。会上热搜是因为大家追剧口味千奇百怪，一晒出来就各种共鸣或互怼，加上现在流媒体平台太多，都想看看别人是不是也‘榨干’了会员。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Happy Friyay",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题就是周五下班前的集体发疯，老外把‘Friday’故意拼成‘Friyay’来庆祝终于熬到头了，配上各种派对emoji和摸鱼梗图。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "RED Friday",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "RED Friday其实就是美国那边为了支持驻外美军搞的‘穿红色星期五’活动，大家穿红衣发帖表敬意，跟咱们朋友圈转国旗一个感觉。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Norway",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "挪威突然上趋势，大概率是因为北欧极光季到了，一堆人晒照拉仇恨，或者又出了什么‘最幸福国家’榜单，老外开始集体羡慕。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Donald Ducks",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个热搜其实是在玩梗，因为迪士尼那个唐老鸭英文就是Donald Duck，但大家突然刷Donald Ducks（多一个s）主要是因为某个网红或梗图把迪士尼动画里唐老鸭的黑帮版或暴走版表情包翻出来疯转，配上各种离谱台词。真正上趋势的原因就是外国网友集体脑洞，把唐老鸭P成硬汉或乱入各种电影场景，纯粹是娱乐解压的梗狂欢。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Rod Wave",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Rod Wave 是今天 X 上的热门话题，具体讨论内容待补充。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Glenn Beck",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Glenn Beck 这哥们儿又上热搜了，是因为他在X上喷了一通关于美国政治或者某大事件的阴谋论，粉丝和反对者直接吵翻天；这话题火起来纯属他自带流量加立场极端，总能戳中网络喷点。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Yosemite",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波Yosemite上热搜，是因为最近火山上那片著名的酋长岩（El Capitan）有人搞徒手攀岩直播，吓死全网的同时也炸出一堆云爬山党；加上那边秋季红叶正好到巅峰，朋友圈晒图大赛也带了一波流量。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Runch",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Runch（午饭+晚餐的混搭）突然火了，主要是欧美打工人晒自己下午3、4点吃的那顿“早午饭+晚饭二合一”，还配上#Runch标签，看着就饿。\\n这波趋势全靠社畜们集体共鸣+恶搞表情包，毕竟谁不想把两顿饭省成一顿，省时省钱还适合减肥呢？",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Neen",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Neen是个超火的带货网红，最近因为被爆出带货翻车+人设崩塌，骂声和吃瓜群众一起把话题顶上去了。简单说就是：粉丝觉得被当韭菜割了，路人看戏看得津津有味。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-08-27",
     "time": "2026-08-27 22:50",
     "source": "trends24.in",
