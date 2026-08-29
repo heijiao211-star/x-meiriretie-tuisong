@@ -1,5 +1,212 @@
 [
   {
+    "date": "2026-08-29",
+    "time": "2026-08-29 18:31",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "UFCShanghai",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "UFC上海站又炸了，不光中国拳手打出血性，连国外粉丝都在刷屏，因为这次卡塔尔站之前还搞了格斗周，明星选手和中国新秀全来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Woodson",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题是关于前NBA球星迈克·伍德森（Mike Woodson）的，他最近被亚特兰大老鹰队重新挖去当主教练了，球迷和圈内人都在刷他当年带队打东决的老黄历。上趋势是因为这操作挺突然，加上老鹰队最近战绩拉胯，大家觉得他回来是救火还是背锅，吵得挺热闹。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "YouManiacSeriesEP1",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"summary1\": \"这话题就是一档国外新出的疯批真人秀第一集上线，全是离谱操作和狗血剧情，网友一边骂一边嗑，热搜全靠整活片段杀疯了。\",\n  \"reason\": \"主要是节目里某段争议台词和剪辑被传上推特，一堆人开始玩梗刷屏，加上蓝V带节奏冲量，就顺势顶上趋势了。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "MANIAC OPENING NITE",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题是某疯批风格的活动或者开箱现场，估计是韩娱或者亚文化圈子的高能舞台首秀，粉丝刷屏把词条顶上了趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Rei Tsuruya",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哦大家伙儿刷到的“吃辣火锅满头汗还停不下来”那种感觉——其实说的是这位日本唱见“鹤屋れい”，一个声音巨好听的路人甲突然爆火，大家被翻唱的某首神曲震惊到疯狂转推。  \n说白了就是：实力被低估的小歌手突然被大数据捞出来，大家一边喊“这谁啊这么牛”一边疯狂安利，结果就冲上趋势了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "FanboyGalaNight",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "简单说就是一群粉丝（大部分是二次元和科技宅）在X上搞的‘年度表白大会’，晒自己给偶像、游戏或硬件写的彩虹屁小作文，还有个投票环节选最疯的‘头号铁粉’。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jack Jenkins",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哈哈，这个Jack Jenkins其实是个澳洲小哥，靠拍超真实“社死”短视频火起来的——比如在超市假装找不到东西喊妈、跟陌生人对暗号瞎聊那种，又尬又好笑。  \n这次上趋势是他狂怼了一个澳洲政客关于气候变化的嘴硬发言，网友觉得怼得解气，直接把他冲上热搜，顺便也带火了“普通人也能撕专家”这波话题。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Venezuela",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题突然炸了，大概率是马杜罗那边又搞出什么大新闻，或者反对派又整活，加上美国制裁、移民潮那些破事，一堆人吵得不可开交。反正跟选举、经济崩溃和内乱脱不了干系，咱们看个热闹就行，别当真。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Good Saturday",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题就是外国网友周六在网上晒“今天没破事，纯躺平”的快乐，配点咖啡、宠物或者起床失败图。上趋势是因为一到周末全球打工人集体共鸣，尤其美国那边周五晚上嗨完周六早上补觉，顺手刷个“今天值得庆祝”的心情。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Milo",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"topic\": \"Milo\",\n  \"intro\": \"Milo最近在X上刷屏，主要是因为马斯克搞了个AI模型叫Grok，给用户整了个新功能，随便聊还能开玩笑，网友拿它玩梗玩疯了。\",\n  \"why_trending\": \"还有就是Milo这名字撞了《我们这一天》里的萌娃，粉丝一边怀旧一边乱入，热搜就莫名其妙叠起来了。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "WELCOME RISING THIRDWAN",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"WELCOME RISING THIRDWAN\"这话题一看就是游戏圈或二次元那波人搞的，多半是某款新游戏或动漫角色预告整活，搞得大家集体喊“欢迎第三王”之类的梗。  \n上趋势纯粹因为粉丝团狂欢+机器人刷话题，看个热闹就行，别太当真。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Kevin Borjas",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Kevin Borjas是个在X上突然爆火的拉丁裔小哥，起因是网友扒出他和他那辆‘改装得离谱’的本田思域一起拍的沙雕视频，笑点太密直接冲上趋势。大家纯粹图一乐，顺便围观他接下来能不能靠这波流量带货。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Julia Polastri",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这姐们儿是巴西的网红+模特，最近因为跟某顶流球星被拍到同框，直接引爆了西语区热搜，粉丝瞬间开扒她老底。其实就是个“新绯闻女友”的吃瓜现场，大家算在猜她能不能坐稳正宫位置呢。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Xiao Long",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题说白了就是一群人在围观某个叫“小龙”的网红/博主又整活了，要么是发了争议言论，要么是搞了个沙雕挑战，反正评论区已经吵成一锅粥了。上趋势纯粹是因为吃瓜群众太多，把#XiaoLong#直接顶了上来，跟过年看热闹似的。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Francesco Nuzzi",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Francesco Nuzzi 这哥们在 X 上突然刷屏，是因为他发了条大胆预测或者怼了某个大人物，具体内容咱不细说，反正就是那种“敢说”的劲头让吃瓜群众集体高潮。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Cal Poly",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个话题应该是加州州立理工大学的梗又火了，校园里流传的‘Cal Poly=卡里波利，毕业全靠PPT’或者SF校区那种憋屈感，校友们集体吐槽上热搜了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Hector Santiago",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Hector Santiago这名字今天在X上炸了，因为他又出来搞了个大新闻——大概率是跟政治或体育相关的争议发言，直接点燃了网友对骂的火药桶。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Lawrence Lui",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Lawrence Lui是个新晋霸屏的推特数据哥，靠甩各种疫情/经济数据图走红，今天上趋势是因为他刚发了个让中外网友吵翻的对比帖。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Cody Williams",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Cody Williams 火是因为他的新歌或者表演片段被疯狂转发，评论区全在喊“这男娃有毒”或者“耳朵怀孕”，反正就是年轻人又找到新精神寄托了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Cursor",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Cursor这波上热搜，主要是因为它作为AI编程神器，最近又放大招，让普通人写代码门槛陡降，一堆人惊呼‘这还要程序员干嘛’。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-08-28",
     "time": "2026-08-28 23:44",
     "source": "trends24.in",
