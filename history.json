@@ -1,5 +1,219 @@
 [
   {
+    "date": "2026-08-30",
+    "time": "2026-08-30 17:31",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "GemRadar",
+        "sentiment": "负面",
+        "summary": {
+          "translation": "\"把谢泼德带回来！\" 🗣️\n\n《马拉松》的战斗通行证被批为\"最不值钱的东西\"，因为皮肤限制让人想起Bungie过去的失误：\"欢迎回到命运2首发时的着色器时代\"",
+          "summary": "大家在吐槽《马拉松》的战斗通行证性价比太低，皮肤限制让人秒回《命运2》首发时的坑爹设定。同时有人玩梗喊话让谢泼德回归，把Bungie的老底又翻出来嘲讽一遍。",
+          "sentiment": "负面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/GamesRadar/status/2032381319582531653"
+          },
+          {
+            "url": "https://x.com/GamesRadar/status/2029977614342050189"
+          }
+        ]
+      },
+      {
+        "trend": "UNLV",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "UNLV这波上热搜是因为赌城拉斯维加斯的内华达大学突然传出枪击案，4个人没了，连带之前校园安全警告一起炸了。大家一边刷消息一边在地图上找学校位置，顺便担忧美国大学这枪击频率也是没谁了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jackson Arnold",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Jackson Arnold是俄克拉荷马大学的美式橄榄球四分卫，最近因为带队大胜对手+传出关键球，表现炸裂，直接被球迷吹上热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Memphis",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Memphis这波上热搜是因为美国那边又爆了个事儿，好像是关于孟菲斯当地的枪击或者警察执法相关的新闻，传得特别快。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Melody",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Melody这波上热搜，大概率是某个明星、网红或者新歌的瓜被网友翻出来了，要么就是谁在节目里现场翻车或者秀恩爱了。反正就是吃瓜群众一窝蜂冲进去看热闹，不知不觉就把它顶上趋势了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Good Sunday",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题就是周日大家集体发疯晒日常，要么躺平追剧要么出门浪，主打一个‘周末不浪费’。上趋势是因为周日晚上大家焦虑周一，用这个话题抱团取暖顺便制造点欢乐氛围。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Charles Huff",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Charles Huff 这哥们儿是美国共和党一个竞选顾问，最近火是因为他搞了个“只给民主党支持者抽血”的骚操作，结果被全网喷上热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Dan Mullen",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这老哥是美式橄榄球教练，突然在推特上火了，估计是带队赢球或者说了句爆梗，体育迷和网友都在刷他。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Squadra",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题跟一支足球队伍有关，大概率是意甲球队比赛翻车或者神操作被网友刷上来的，球迷正疯狂吐槽呢。反正不是啥正经新闻，就是大家看热闹不嫌事大，顺便玩梗的那种热度。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "DaisyChainFields",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "DaisyChainFields 这话题看着像某个圈子的梗突然爆了，其实就是大家拿“链条式协作”开玩笑，说有些人工作摸鱼像串一串儿。  \n上趋势八成是因为某大V或事件带了一波节奏，网友觉得“太真实了”就疯狂玩梗转发。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Toshi",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Toshi 最近在 X 上刷屏，主要是因为某个科技圈大佬放了个烟雾弹，说要在 Solana 生态搞个新项目，结果大家一窝蜂去猜是不是和 Toshi 这个 memecoin 有关，热度直接拉满。其实就跟以前马斯克发个狗狗币表情一样，纯属炒作，但韭菜们就吃这套。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "MOBA",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "MOBA这个热词又冲上趋势了，因为今天《英雄联盟》和《王者荣耀》都搞大版本更新，一堆玩家在吵平衡性和新皮肤。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "KOLs",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波KOL热潮说白了就是大V们集体刷存在感，要么蹭热点带货，要么互撕引流。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Stanford",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波斯坦福上趋势，大概率是又搞出什么炸裂的AI研究或者科技圈大新闻，网友都在围观吃瓜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Messi",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "梅西又上热搜了，基本是他又带队赢球或者拿了啥新纪录，大家伙儿都刷疯了。还有可能是他转会或公开讲话惹的讨论，粉丝和黑子都吵成一团。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Toonami",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Toonami就是那个成年人的深夜动画频道，最近因为经典动漫马拉松和怀旧情怀被顶上热搜，一堆人在回忆青春。说人话就是：老二次元集体诈尸，刷一波“爷青回”顺便吐槽新番拉胯。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Gypsy",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波Gypsy上热搜，主要是欧美那边吵翻天了：一边说这是对罗姆人族群的歧视词，坚决要抵制；另一边又觉得就是个文化符号，比如吉普赛风格穿搭、音乐，没必要上纲上线。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "MrFanboyEP1",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "MrFanboyEP1 是个沙雕动画/表情包挑战话题，一堆网友在晒自己或宠物模仿那个满脸写着'无语'的卡通角色，笑点全靠表情崩坏和脑洞。上趋势是因为这个梗太容易二创，加上有博主带头整活，大家玩着玩着就冲上榜了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "doomsdale",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题其实讲的是最近有个叫《Doomsday》的游戏或者模组太离谱，玩家挖出各种隐藏彩蛋和残酷剧情，搞得全网都在集体考古。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Ryan Preece",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这哥们是NASCAR赛车手，最近在比赛里翻车了，车直接飞起来转了几圈，人居然没事儿自己爬出来了，全世界都在刷他命硬。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-08-29",
     "time": "2026-08-29 18:31",
     "source": "trends24.in",
