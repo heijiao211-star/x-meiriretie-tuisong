@@ -1,5 +1,212 @@
 [
   {
+    "date": "2026-08-31",
+    "time": "2026-08-31 18:11",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Lanterns",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "感觉就是一群外国人突然迷上了中国灯笼，各种晒图打卡，从ins风民宿到庙会灯笼墙，连带着汉服和国风滤镜都跟着涨热度。至于为啥上趋势，八成是某个明星或网红发了张灯笼下拍的神图，直接带火了这波东方美学，大家就都跟着凑热闹了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Good Monday",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Good Monday是个打工人互相打气的梗，周一早上刷一波‘加油熬过这周’的鸡汤，配上咖啡或堵车图，看了让人又哭又笑。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "GemRadar",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "GemRadar 好像是这两天游戏圈突然炸出来的新梗，一堆人刷屏讨论某个隐藏玩法或者彩蛋，感觉像官方藏了个大瓜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "John Stewart",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "\"John Stewart又杀回来了，这回是因为他怼了谁或者说了啥大实话，把推特网友整沸腾了。大家疯狂转发他的片段，估计又是拿政治或媒体开涮，戳中了不少人的爽点。\"",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Kharg Island",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Kharg Island上热搜主要是因为伊朗在那搞石油出口和军事活动，最近有船被袭击或者油田出事，大家就躁动起来了。简单说就是中东又冒烟，油价和地缘政治牵动全球神经，吃瓜群众顺便看戏。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Hal Jordan",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Hal Jordan 这哥们儿是DC的绿灯侠，最近突然上热搜是因为新动画电影里他换了个黑人造型，老粉直接炸锅，评论区吵翻了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Djokovic",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "今天热搜上炸锅的是德约科维奇（Djokovic）疑似又搞了个大新闻，可能是场边怼观众或者赛果爆冷，反正外网球迷吵疯了。原因无非是他永远自带“流量体质”，赢球输球都能整出话题，加上美网这种大满贯舞台，推特当然不放过他。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Venus Williams",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波热搜是因为网坛传奇大威（Venus Williams）突然官宣要打2025年澳网，44岁还在拼，直接把老球迷的青春回忆炸出来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "mcrsandiego",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题是圣地亚哥那边一个叫MCR的地方突然火了，好像是因为当地出了个大新闻或者某件事被网友疯转。大概率是跟本地人生活或者某个争议事件挂钩，不然不会冲上趋势榜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Gema",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Gema这波上热搜主要是欧美网友在刷一个叫Gema的AI音乐生成工具，逼真到能模仿歌手声音，整活视频传疯了。加上有人用它搞了首diss歌曲，争议直接拉满，吃瓜群众全来围观了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "KOLs",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "KOLs 是今天 X 上的热门话题，具体讨论内容待补充。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "USOpen",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "USOpen（美网）是每年一度的网球大满贯赛事，最近开打所以刷屏，各种爆冷和名场面让球迷疯狂讨论。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "mcrsd",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"topic\": \"mcrsd\",\n  \"intro\": \"mcrsd火起来是因为最近有个游戏（可能是《我的世界》相关衍生或某个跳票作品）突然放出实机演示，玩家狂刷这个缩写。\",\n  \"reason\": \"加上一堆吃瓜路人和黑粉在吵是不是抄袭或噱头，直接冲上趋势榜，跟当年那个‘偷吃鬼’话题一样，情绪拉满。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Navone",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Navone这波上趋势是因为他赢了个ATP巡回赛冠军，挺有戏剧性的，毕竟这哥们之前排名挺靠后，算是黑马逆袭。大家主要是被他的比赛风格和突然爆发圈粉了，顺便调侃下他那个有点随性的发型。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Miku",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Miku又上热搜了，基本是初音未来开演唱会或者新歌发布之类的活动，粉丝们集体发疯刷屏。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Singapore",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "新加坡突然上热搜，大概率是又有什么新政或者奇葩新闻了，比如房价、税、或者哪家美食店排队排到马来西亚。反正就是小而美的国家一折腾，全球网友都爱围观一下。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Gizelle",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Gizelle 这个话题主要是在聊《家庭主妇》真人秀里的 Gizelle Bryant，网友们在吃她感情和闺蜜撕逼的瓜。上趋势是因为新一集里她怼人太猛，被骂绿茶又有人挺，吵着吵着就上热搜了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "RHUGT",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "RHUGT就是《Real Housewives Ultimate Girls Trip》的缩写，一帮豪门怨妇真人秀明星凑一起度假撕逼，剧情比宫斗剧还抓马。今天上趋势是因为新一季又爆出当场掀桌+闺蜜反目名场面，网友边骂边嗑，热搜直接炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Trey Gowdy",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Trey Gowdy 是美国前检察官和国会大佬，最近又出来刷存在感，带着他那副‘我啥都懂’的扑克脸在电视上怼天怼地，主要是在谈拜登和川普那些破事。之所以上热搜，是因为他放话要调查特别检察官哈里·梅根（Hunter Biden）的案件，美媒和吃瓜群众都等着看戏呢。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Episode 3",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "就是某个剧（大概率是美剧或韩剧）第三集上线了，粉丝集体炸锅，一边刷剧一边发疯。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-08-30",
     "time": "2026-08-30 17:31",
     "source": "trends24.in",
