@@ -1,5 +1,212 @@
 [
   {
+    "date": "2026-09-01",
+    "time": "2026-09-01 16:57",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Melanie",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波上趋势大概率是某个叫Melanie的姐们儿搞了个大新闻，要么是唱歌的出新歌，要么是网红整活儿炸了评论区，反正现在全网都在搜她。具体是啥事儿建议直接点进趋势看看，保准比我这瞎猜刺激。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "loveislandusa",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题就是美国版《爱情岛》综艺开播了，一堆人嗑CP和吐槽剧情呢。 上热搜是因为最新一集出了撕逼名场面，观众直接炸锅，全是表情包和吃瓜评论。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Titi",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题大概率是巴西球星蒂亚戈·席尔瓦（外号Titi）又整活了，要么是比赛骚操作要么是退役八卦，球迷一激动就把他顶上热搜了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Amora",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Amora这波上热搜主要是因为幕后大佬和某个顶流八卦被扒，全网都在吃瓜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Kayda",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Kayda 是个突然窜上趋势的 tag，大概率是有个叫这名的网红/歌手又整活了，粉丝和黑子一起把话题刷爆了。反正你看趋势列表里十个有八个不认识，但点进去全是段子手在玩梗就对了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Kenzie",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Kenzie这名字突然冲上热搜是因为一个叫Kenzie的女歌手新歌爆了，再加上她跟某顶流男星传绯闻，粉丝直接炸锅。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jaiden",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Jaiden这波上趋势是因为她新发的视频又拿自己那点黑历史和ADHD开涮，粉丝们疯狂共鸣转发，直接把她顶上了热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Corbin",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Corbin这名字突然刷屏，八成是北美那边又出啥破圈事件，搞的大家集体在线吃瓜",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Colton Cowser",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Colton Cowser今天突然刷屏，是因为他在金莺对洋基的比赛里轰出两发全垒打还秀了把光速跑垒，直接带队逆转赢球，热血镜头被疯转。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Aniya",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Aniya 是某位海外网红或爱豆的昵称，今天突然上了热搜，主要是因为一段争议视频或者直播片段被疯传，粉丝和路人吵得不可开交。大家现在都在吃瓜看戏，顺便扒她的黑历史，所以话题就炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "GemRadar",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "GemRadar这话题其实就是一群人瞎传谷歌要发新AI模型Radar，结果官方没影儿，全是网友拿老截图和假预告在狂欢。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Happy New Month",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题就是每月一号大家集体刷屏的仪式感，跟过年似的，换个日期就换种心情，图个吉利和重新开始。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Trinity",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Trinity 这波上热搜主要是因为《黑客帝国》新作提上日程，老粉集体开香槟，都在刷那个经典的“红药丸蓝药丸”梗，搞得跟赛博文艺复兴似的。另一个原因是英文里Trinity还指代“三位一体”，被拿来玩各种玄学、游戏甚至加密货币的梗，讨论度直接拉满。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Tupac",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哈？Tupac都上热搜了？大概率是又有人拿他AI生成新歌，或者某纪录片又翻出他当年没死的阴谋论，大家又开始回忆西海岸说唱黄金时代了。\n\n说白了，就是这哥们儿人不在江湖，但江湖一直有他的传说，一发新“作品”或致敬啥的，全网的爷青回和悬疑粉就集体上头。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Wendell Berry",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个话题是关于美国作家Wendell Berry的一些言论被翻出来，他谈农业、环保和生活哲学，突然在推特上火了。\n大概是因为最近大家都在聊粮食安全和简化生活，他的老观点反而成了'清醒发言'，引起共鸣上了趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Dylan",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Dylan这大哥最近在X上刷屏，估计又是因为新歌或者搞事情被网友疯狂转发，反正跟娱乐圈这摊子事儿脱不了干系。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "WWERaw",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "WWERaw 上热搜是因为摔角迷们在聊本周 Raw 的剧情爆炸点，比如谁突然反转或者冠军赛的惊天冷门。简单说就是 WWE 周播节目又搞事情，粉丝吵得热闹，直接把话题顶起来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Rampage",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哦，“Rampage”上热搜啦？大概就是游戏圈又整活儿了，或者某个明星突然发疯式营业，网友疯狂刷梗带起来的。反正就是要么新作炸场，要么名人翻车，气氛组直接拉满，吃瓜群众嘴都笑裂了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "2pac",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个话题主要是大家突然又开始怀念2pac了，可能因为他的某首歌又被翻出来循环，或者有关于他的未发布素材/纪录片的消息传出来。反正每次hiphop圈有什么大瓜或者谁发了新歌被质疑抄袭，2pac就会被拉出来当‘神’供一遍，顺便感叹现在没有这种有骨气的说唱了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Keefe D",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Keefe D就是上次被指控参与谋杀2Pac的那位前黑帮成员，最近他正式被逮捕候审了，这案子在嘻哈圈炸了锅。这波上趋势純属因为网友们都在等着看他会不会供出更多内幕，毕竟这瓜又大又陈年。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-08-31",
     "time": "2026-08-31 18:11",
     "source": "trends24.in",
