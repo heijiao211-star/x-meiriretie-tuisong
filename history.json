@@ -1,5 +1,212 @@
 [
   {
+    "date": "2026-09-02",
+    "time": "2026-09-02 16:11",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "jungkook",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "田柾国又上热搜了，这次八成是他新歌或者演唱会片段被粉丝刷爆了，毕竟防弹少年团的流量摆在那儿。反正就是阿米们集体发疯，把话题顶上趋势，路人点进去就被他的舞台魅力或颜值收割一波。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Zverev",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Zverev上趋势估计是又打出了神级比赛或者爆冷出局，网球圈都在刷他这波操作。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "MAGIC SHOP",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "MAGIC SHOP 这话题在推特热起来，主要因为防弹少年团（BTS）的粉丝们又在集体“还愿”了——这是他们用来表达对偶像感恩、治愈心情的一个情怀梗，跟歌曲和演唱会有关。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Aldo",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Aldo这波上热搜大概率是跟时尚圈或品牌大动作有关，比如新品发布或联名翻车，要么就是某个明星穿他家鞋子被拍到带火了。反正就是突然大家都开始聊这个鞋牌子，跟风刷个存在感呗。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Sonego",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波趋势是意大利网球选手Sonego在比赛里搞了个神操作，现场观众直接看嗨了，然后外网球迷疯狂刷屏玩梗。主要是他那波逆转太抓马，加上赛后采访又整活，吃瓜群众就推上热搜了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "BTS_WORLDTOUR_ARİRANG_LA",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个话题其实就是BTS在洛杉矶办的‘阿里郎世界巡回演唱会’引发的大热搜，粉丝们在X上疯狂发视频和尖叫，直接刷到全球趋势。#BTS世界巡演LA场居然加码了超燃的韩服混搭舞台，路人看了也忍不住转发。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "เดินสายไปกับแฟนบอย",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题说的是跟着偶像粉丝团到处追星跑现场，一群人打飞的追行程的那种疯狂劲儿。突然上热搜是因为某个泰国顶流忽然晒出和粉丝团一起坐大巴的私照，粉丝直接炸了，全网都在羡慕那群能‘贴身追星’的人。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "BOY IN LUV",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“BOY IN LUV”这话题今天炸了，主要是因为某个当红男团回归或者成员绯闻，粉丝疯狂刷tag去冲热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "MR FANBOY PRESS TOUR",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个热搜是说国外一群自称MR FANBOY的骨灰级影迷兼科技宅，最近搞了个媒体巡回宣传，到处吹他们用AI和脑洞复刻老爷子的神作，结果被网友群嘲‘社死现场’。上趋势是因为有个整活视频扒出他们现场演示翻车，加上官方账号下场阴阳，吃瓜群众就瞬间涌进来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Collection",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个趋势大概是在聊某个新出的数字藏品或者社交平台上的精选内容合集，网友都在晒自己收藏的稀罕玩意。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Lauer",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Lauer这波上趋势是因为前NBC主持人Matt Lauer又被人翻出旧账，说他当年性侵指控后的八卦细节被网友拿来考古加破案。大伙儿一边吃瓜一边吐槽媒体旧账本，怀疑是不是有什么新纪录片或采访要放料。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "LASIK",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "LASIK就是那个近视眼激光手术，最近因为明星做手术翻车和医院打价格战冲上热搜，大家一边心动一边怕瞎。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "KOLs",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"explanation\": \"这波KOL上热搜，说白了就是一堆大V突然集体下场爆料或互撕，吃瓜群众看热闹不嫌事大，感觉像在追连续剧似的。\",\n  \"reason\": \"点上去主要是因为几个顶流博主为了流量和广告费互相开火，加上平台算法的推波助澜，大家一边骂一边忍不住刷屏看后续。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Tyler Robinson",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题跟一个叫Tyler Robinson的老哥有关，好像是某段视频或发言突然爆了，网友疯狂转发开扒，属于那种吃瓜群众比当事人还上头的戏码。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Mario Kart World",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Mario Kart World其实就是任天堂刚公布的新马里奥赛车，主打开放世界和多人联机，画面贼炫。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Markey",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波是因为美国参议员Ed Markey又整活了，大概率是在推上呼吁加强科技监管或者怼大厂，被网友顶上趋势。反正每次他开口，就是一波‘美国政治版怼人现场’，吃瓜群众看热闹不嫌事大。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Fable 5.1",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Fable 5.1这事儿我瞅了下，就是说微软暗示《神鬼寓言》新作要在5月1号放个大招，可能不是简单的实机演示，而是憋着劲儿要公布发售日期或者新预告片。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "sofi",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"summary1\":\"Sofi这个热搜其实是美国家居巨头破产清算，一大批洋垃圾家具正在骨折价甩卖，吃瓜群众都在抢着看能不能捡漏。\",\n\"summary2\":\"会上趋势是因为破产优惠力度太大，加上网友疯狂搬运表情包和段子，感觉像在看一场美版双十一翻车现场直播。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Spencer Jones",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这哥们是个搞笑的运动博主，老发些沙雕视频，这次估计又整了个大活，把网友逗疯了。可能是因为太抽象或者太离谱，大家疯狂转发，直接给他顶上热搜了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Bite by Night",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "```json\n{\n  \"topic\": \"Bite by Night\",\n  \"summary_1\": \"这话题就是个深夜放毒现场，一群夜猫子晒自己半夜吃的各种罪恶美食，从炸鸡到泡面看得人直流口水。\",\n  \"summary_2\": \"上趋势纯粹是因为打工人白天太累，晚上报复性吃喝解压，加上网友互相艾特‘你懂的’，直接带节奏冲上热搜。\"\n}\n```",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-09-01",
     "time": "2026-09-01 16:57",
     "source": "trends24.in",
