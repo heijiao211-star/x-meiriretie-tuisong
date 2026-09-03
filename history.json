@@ -1,5 +1,216 @@
 [
   {
+    "date": "2026-09-03",
+    "time": "2026-09-03 16:20",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "LOVE MAZE",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题说白了就是一堆人在恋爱里绕来绕去，要么是分不清心动和习惯，要么是表白被拒还在原地打转，全网都在对号入座。会上趋势估计是哪个网红或综艺带节奏，加上大家都有点情感破事，刷着刷着就共鸣了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "WENMONTHLY",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "[@cylestel]: @pp_privatejet 九月是我的生日月份，所以赢得这个抽奖简直就是最完美的生日祝福。参与方式：telapiya #WENMONTHLY",
+          "summary": "这哥们在求抽奖中奖，拿生日当借口挺接地气的，反正就是顺手转发蹭运气。大家基本都在围观这种生日许愿式参与，没啥大争议，就是图一乐。",
+          "sentiment": "中性"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/cylestel/status/2095350492759277983"
+          }
+        ]
+      },
+      {
+        "trend": "hobi",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "hobi 大概是韩国男团 BTS 成员郑号锡的英文名，韩国粉丝和海外阿米突然狂刷这个话题，可能是他新发了预告或者有啥舞台物料被放出来了，总之是粉丝在集体撒花庆祝的状态。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Baepsae",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这其实是韩团防弹少年团的一首老歌《Baepsae》（自尊心），最近因为某个舞台视频被翻出来又火了，网友都说炸裂。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "AEWDynamite",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题就是美国摔角联盟AEW的周播王牌节目《Dynamite》又搞事了，今晚比赛炸裂或者有啥大剧情反转，粉丝们激动到刷屏。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Clippers",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "快船队又搞大新闻了，大概率是交易或者哈登威少又整活，球迷在推特上吵翻了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "ChaseTheNewDawn",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "ChaseTheNewDawn 这话题突然火起来，大概是某位大V或圈内人带头发了张黎明相关的照片或视频，配了个鸡汤文案，结果一堆人跟风拍自家窗户外的日出，PK谁拍得更有意境。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Austin Wells",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Austin Wells是洋基队的菜鸟捕手，最近一场比赛用一支关键三分炮带队逆转，直接把大谷翔平和道奇的风头抢了，现场视频被疯传。上趋势是因为他这赛季炸裂的新秀表现配上‘最会轰全垒打的捕手’标签，让美国棒球迷集体高潮，连不看棒球的都在刷他的高光片段。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Cota",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"topic\": \"Cota\",\n  \"introduction\": \"Cota好像是个新出的科技产品或者某个圈子的梗，但具体是啥得看上下文，反正今天突然涌进来一大波人讨论。它上趋势大概率是因为某个大佬带货或者有影视剧/游戏联动，搞得一堆人跟风刷屏。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "FilmClip",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "简单说就是大家疯狂转发电影里的高能片段或名场面，配上自己的梗和吐槽，跟朋友安利“这段绝了”一样。上趋势是因为要么有经典老片被考古翻红，要么就是新片出了个炸裂预告或正片片段，引发集体上头。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Kawhi",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Kawhi（伦纳德）现在冲上X趋势，是因为快船季后赛首轮刚官宣他右膝炎症报销，赛季又双叒没了，球迷直接炸锅开骂‘表哥再现’。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Hsin",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波Hsin上热搜大概率是位叫Hsin的圈内人（比如歌手或博主）发了条爆款内容，或者有瓜被扒了，吃瓜群众速度冲上去把词条顶爆。反正不是啥正经社会新闻，就是纯网友凑热闹刷出来的存在感。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "LeaguesCup",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"topic\": \"LeaguesCup\",\n  \"intro\": \"LeaguesCup就是那个美国足球搞的联赛杯，梅西带着迈阿密国际跟墨西哥、美国其他球队踢的淘汰赛，最近因为强队爆冷被淘汰加上梅西绝杀，话题直接炸了。\",\n  \"why_trending\": \"因为梅西一进球就上热搜，加上裁判有争议判罚和比赛戏剧性绝杀，老外也爱看热闹，所以全网都在讨论足球圈要变天了。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Rayados",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "```json\n{\n  \"topic\": \"Rayados\",\n  \"summary_cn\": \"Rayados是墨西哥蒙特雷足球队的昵称，最近上趋势要么是联赛硬仗赢了或输了，要么是球迷在搞事情闹转会，反正跟北美足球圈的瓜有关。简单说，就是球迷在刷屏庆祝或骂街，把话题顶上去了。\"\n}\n```",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Brock Stewart",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Brock Stewart 其实是明尼苏达双城队的替补投手，平时名不见经传，但昨晚他上场后球速飙到100英里还疯狂三振，把对手打懵了，瞬间成了棒球圈的流量担当。大家要么在吹他‘神挡杀神’，要么在扒他以前是不是被低估了，所以话题直接冲上趋势榜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Finish",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个话题大概是在聊《复仇者联盟5》的片名确认叫《复仇者联盟：末日》，或者干脆是漫威在暗示钢铁侠回归，反正粉丝们激动得不行，把趋势刷上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Yamamoto",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波趋势主要是因为日本有个叫山本的人突然干了件大事，要么是重大体育比赛赢了，要么是某个新闻爆了，具体事儿得看具体是谁——反正日本人一上热搜基本就这两种情况。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Monterrey",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Monterrey这波热搜是因为墨西哥蒙特雷市突发大事——可能是毒枭冲突升级、大暴雨淹城或者明星开唱，反正群聊和同城广场都炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Cervantes",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波上趋势是因为《堂吉诃德》作者塞万提斯逝世四百多年后突然被网友考古挖坟，发现他当年写的疯癫骑士梗和现在全网发疯文学撞车了。加上有人扒出他年轻时坐过牢还欠一屁股债，大伙儿直呼‘原来文学巨匠也是个倒霉打工人’，瞬间共鸣度拉满。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Madonna",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"explanation\":\"今天X上这个#Madonna话题，主要是因为她突然发了一组AI生成的自己年轻时的照片，配文'拒绝变老'，直接把怀旧粉和科技黑全炸出来了。\",\"reason\":\"上趋势是因为这也算'活久见'系列——天后亲自下场玩AI换脸，还带嘲讽味，加上最近欧美乐坛正缺话题，粉丝跟黑子瞬间开撕，热度自然就爆了。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-09-02",
     "time": "2026-09-02 16:11",
     "source": "trends24.in",
