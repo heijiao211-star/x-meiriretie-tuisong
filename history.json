@@ -1,5 +1,212 @@
 [
   {
+    "date": "2026-09-04",
+    "time": "2026-09-04 16:16",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Colorado",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "```json\n{\n  \"topic\": \"Colorado\",\n  \"summary_cn\": \"美国科罗拉多州最近又上热搜了，多半是因为那边不是极端天气（暴雪/山火）就是出了什么奇葩法律或社会新闻，总之老外刷屏刷得飞起。反正每次这州名上趋势，基本都是“活久见”型事件，看个热闹就好。\"\n}\n```",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Rutgers",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Rutgers这波上热搜是因为罗格斯大学又整活了，要么是学生搞事被全网围观，要么是学校出了啥数据或新闻踩中了美国人神经。简单说就是这校名自带流量，芝麻小事都能被凑成热点。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Beyoncé",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "碧昂丝这回上热搜，多半是又甩出啥新专辑或者超级碗中场秀的惊天演出，粉丝直接集体高潮刷屏。要么就是IG突然发条动态暗示行业潜规则，网友立马开扒，流量这不就来了嘛。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Boo Carter",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "最近的瓜就是他名字带Boo但人气是真不虚，一群人冲进他的评论区疯狂刷梗，因为这兄弟的奇葩发言先是被网友喷成筛子，后来又反向圈粉成了乐子人大本营。总之就是经典“黑红也是红”，喷着喷着发现这人有点可爱，现在热度全是争议加沙雕二创堆出来的。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Julian Lewis",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波Julian Lewis上热搜，主要是因为新西兰政坛出大瓜，这位国防部长被曝跟同事有不当关系还涉嫌泄密，逼得总理直接让他辞职走人。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "$MEME",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题就是一堆人拿各种表情包和段子刷屏，聊最近某个爆火的奇葩事件或网红梗，大家一边玩梗一边锐评。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Zverev",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "紫薇（Zverev）这波上热门是因为他在澳网男单决赛打满五盘惜败给辛纳，赛后哭得稀里哗啦，球迷都在心疼他大满贯魔咒还没破。另一说是他最近和女友分手传闻闹得沸沸扬扬，吃瓜群众把网球和八卦串一起刷屏了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "JISOO",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波JISOO上趋势是因为她带着新歌或新物料突然杀回来了，粉丝直接炸锅刷屏，热度和关键词瞬间飙升。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "UMass",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "UMass这个话题上趋势，大概率是马萨诸塞大学（UMass）系统又整活了，要么是搞了个爆款科研或活动，要么是哪个分校出了个大新闻（比如体育比赛整赢或丑闻）被网友狂刷。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Maria",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波Maria大概率是热带气旋又来了，外网都在刷灾情预警和避难实况，但保不齐也有明星撞名或者某个神秘代号被热传——总之刷了半天，十有八九跟风都在发“祈祷平安”，少数在玩梗。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Buffs",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Buff 大概是游戏圈带热的梗，指给角色或装备加增益效果，现在也被用来调侃给别人‘叠Buff’（加标签或优势）。上趋势可能是有游戏新版本或主播玩梗带节奏，评论区全在刷‘这波Buff拉满’。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "$AMC",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题又上趋势了，主要是散户和机构又干起来了，这次是AMC摊上“优先股转换”这种骚操作，把股价跟过山车似的来回抽。说白了就是一堆人赌它要成下一个GME，冲进去炒热度，结果又是一出流量密码大戏。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "adela",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "大概就是有个叫Adela的妹子突然在X上爆火，可能是发了什么劲爆视频或者怼人金句，大家疯狂转发吃瓜。反正现在热搜上全是她，具体啥事儿得点进去才知道，跟风看个热闹就完事儿了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "criticalrolespoilers",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "哟，这话题是《Critical Role》剧透党的狂欢现场，一堆粉丝边刷边喊“别剧透我”边自己疯狂剧透，刷得热搜直冒火。说白了就是这档跑团节目刚更新了炸裂剧情，大家憋不住想聊聊又怕被反噬，吵得比DM喊骰子还热闹。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Coach Prime",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题就是橄榄球教练Deion Sanders的江湖外号，现在主要讲他带科罗拉多大学队逆袭、上头条的骚操作。上趋势是因为他最近又带队赢了强队，加上他儿子当四分卫的剧情太抓马，全网都在刷他的狂人语录和赛后名场面。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Silo",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Silo这话题上热搜，是因为苹果那部叫《末日地堡》的科幻剧第二季刚开播，大家一边追剧一边讨论地下世界的谜团。说白了就是一部烧脑神剧的回归，外加有人在扒剧情里的彩蛋和伏笔，看热闹的和深挖的一起把话题顶起来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Riley O&#39;Brien",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这老哥是个棒球投手，最近在MLB比赛里投得跟开了挂似的，可能又三振了一堆人或者来个精彩救援，让球迷嗨疯了直接刷上趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Deion",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Deion这波上趋势，八成是美式橄榄球的大神Deion Sanders又整活了，要么是他带的科罗拉多大学打得惊心动魄，要么是他那张嘴又喷出金句了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Claret",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Claret 是今天 X 上的热门话题，具体讨论内容待补充。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Teoscar",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "[\n  {\n    \"sentence\": \"Teoscar这名字听着像哪个球星对吧？其实是蓝鸟队的棒球猛男Teoscar Hernández，最近要么是轰出离谱全垒打，要么就是交易流言炸了，球迷全在刷他。\",\n    \"sentence2\": \"反正这波上趋势八成是比赛里玩出神仙操作，或者球队搞大新闻，让吃瓜群众集体刷屏问‘这谁啊’结果一查原来是个暴力击球手。\"\n  }\n]",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-09-03",
     "time": "2026-09-03 16:20",
     "source": "trends24.in",
