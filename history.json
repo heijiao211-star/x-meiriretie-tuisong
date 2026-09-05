@@ -1,5 +1,212 @@
 [
   {
+    "date": "2026-09-05",
+    "time": "2026-09-05 15:53",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Malachi Toney",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Malachi Toney 是个美国高中生橄榄球天才，最近签了张天价大学合同，直接刷爆了X趋势。大家除了惊叹他小小年纪赚翻，还在吵他到底值不值这个钱，跟NBA选秀一样热闹。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Cudi",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Cudi（Kid Cudi）突然上趋势，估计是他发新歌或者有演出爆了，粉丝们集体刷屏呢。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Stanford",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "斯坦福又双叒上热搜了，基本上是因为他们新出的AI技术或者某个学霸搞了个大新闻，全世界都在围观。反正就是美国顶尖名校一发力，科技圈就集体高潮，咱们吃瓜看看他们又搞了什么黑科技就行。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Kanye",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "```json\n{\n  \"topic\": \"Kanye\",\n  \"intro\": \"Kanye（侃爷）又搞事情了，这次是因为他突然在社交媒体上发疯，或者宣布新专辑/新店/新争议，反正每次他一开口，全网就炸了。\",\n  \"reason\": \"上趋势是因为他自带顶流体质，不管是有病还是有钱，粉丝和吃瓜群众都爱看他整活，再加上他总爱得罪人，话题度拉满。\"\n}\n```",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Andy Ruiz",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Andy Ruiz上趋势是因为这个墨西哥拳王又爆冷门了，据说对手赛前玩心理战还被他一拳打懵，评论区都在刷'胖但能打'的梗。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Lupe",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Lupe这波上趋势大概率是某个圈内大佬或者梗图突然炸了，大家开始疯狂玩梗+考古。反正不是福布斯富豪榜那种正经事，就是网友纯凑热闹，跟风刷屏冲上来的。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Miami",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "迈阿密这波热度主要是NBA总决赛热火队被掘金干翻，球迷破防刷屏，外加美国那旮旯的移民政策闹得凶，大家边吃瓜边吐槽。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Boots",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Boots这话题突然上热搜，要么是哪个明星带货了双丑鞋子，要么就是有啥新梗在玩“靴子”谐音梗，大家跟风整活儿呢。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Doug Eddings",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Doug Eddings是个美国MLB裁判，今天因为在一场比赛里判了个超有争议的好球/坏球，直接把球员和教练惹毛了，网上瞬间炸锅。大家疯狂吐槽他“瞎眼判罚”，话题就冲上热搜了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Heisman",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "```json\n{\n  \"topic\": \"Heisman\",\n  \"summary_cn\": \"简单说，就是美国大学橄榄球年度最强球员奖要发奖了，结果网上吵翻了，因为今年入围没黑哥门德斯（占波霸）大家都觉得太LOW了。就像你朋友圈有人晒证但被兄弟群集体diss配不上，纯属看热闹+护主心态拉热度。\"\n}\n```",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Toledo",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Toledo突然上热搜，估计要么是西班牙那座古城又办了什么炸裂的节日或足球赛，要么是美国俄亥俄那个托莱多出了啥离谱新闻，比如工厂事故或者网红作妖。总之就是外国地名自带流量，一刷全在聊，但90%的人可能连它在哪个州/哪个省都没搞清。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Fresno State",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Fresno State（弗雷斯诺州立大学）突然上热搜，大概率是他们的橄榄球队或篮球赛打出了惊天大冷门，或者有学生搞了个蠢萌的恶作剧火出圈了。反正不是啥学术大事，就是体育+校园整活触发的吃瓜狂欢。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "SmackDown",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\"topic\":\"SmackDown 上了趋势，其实是WWE（美国摔角娱乐）周四晚的招牌节目又炸场了，大家在看比赛视频外加疯转那些高能瞬间和剧情反转。\",\"reason\":\"这波热度多半是因为某场惊天大战或者明星选手爆冷，搞得摔角迷和围观路人全在刷屏，顺便聊聊新剧情线，气氛比现场还嗨。\"}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Scalability",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Scalability 就是系统能不能扛住人流量暴涨，比如电商大促、球星官宣这种瞬间流量，能扩容就是好汉。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Ben Shelton",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波是网球圈的Ben Shelton又整活了，估计是在美网或者大赛上打得猛或者说了句霸道话，直接把老外网友的流量吸干了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "CloudNative",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "CloudNative 就是讲怎么把软件拆成小块儿扔云端自动跑，像搭乐高那样灵活省心，最近一堆大厂在推这个，还挺热闹。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "UTEP",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "UTEP其实是德克萨斯大学埃尔帕索分校的缩写，但这次上热点是因为网上疯传一段校园枪击警报的视频，搞得大家以为又出大事了，结果虚惊一场，其实是消防演习。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Serena",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Serena这波上热搜大概率是网球名将的大小威姐妹或者某位网红的新瓜，粉丝和路人都在刷屏吃瓜。具体是夸她复出状态猛还是撕逼八卦，得看你刷到的是体育号还是娱乐号。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Mason Miller",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这哥们是奥克兰运动家队的疯狗投手，刚用105英里速球三连K刷爆MLB，推特上全是他在刷三振的慢镜和表情包。上趋势一是因为数据太牲口（今年时速王炸），二是球迷拿他当苦逼烂队里最后的遮羞布疯狂玩梗。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Campy",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "```json\n{\n  \"topic\": \"Campy\",\n  \"summary_cn\": \"这词这几天在X上突然蹿红，主要是因为欧美网友开始用‘Campy’来狂捧那些夸张到自嘲的影视剧造型和综艺表情包，比如《贱女孩》里的浮夸穿搭和某颁奖礼的翻白眼抓拍。它压根不是什么深奥新语，就是‘故意做作但高级’的意思，大伙儿纯粹是被一堆沙雕二创和Reaction给顶上了热搜。\"\n}\n```",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-09-04",
     "time": "2026-09-04 16:16",
     "source": "trends24.in",
