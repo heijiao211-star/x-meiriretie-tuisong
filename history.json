@@ -1,5 +1,212 @@
 [
   {
+    "date": "2026-09-06",
+    "time": "2026-09-06 16:10",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Michigan",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "密歇根突然上热搜，八成跟美国大选的摇摆州选情或者啥极端天气炸场有关，毕竟这地方政治敏感度超高，每次风吹草动都自带话题。反正不是汽车厂倒闭就是选民躁动，吃瓜群众等着看后续就完事了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Clemson",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Clemson今天冲上热搜，大概率是美国大学橄榄球赛季开打后，Clemson Tigers队打出了爆冷或逆转的精彩比赛，球迷直接给刷上去了。另外这学校最近科研或录取搞出点新闻，AI和科技圈都在聊，热度就叠起来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Hail Mary",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这词儿现在X上炸了，主要是美式足球比赛里那种绝境下的‘孤注一掷’长传，跟赌博似的。还有科学家搞星际救援或者AI破局时也爱用这词，听着就带感，所以一下子就上热搜了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Dabo",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Dabo这波上趋势，大概率是美国那边什么运动或者科技圈的新梗又爆了，具体内容咱就说几个小时后有点懵。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "UCLA",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "UCLA这波上趋势是因为加州大学洛杉矶分校爆发了挺大的挺巴示威，跟警察正面刚上了，现场视频疯传搞得全网都在围观。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "PIED PIPER",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题其实是个科技梗，说的是硅谷那边一个叫 Pied Piper 的初创公司（源自美剧《硅谷》），最近因为现实里搞了个超牛压缩算法，直接把数据储存行业给卷麻了，技术宅们全在刷屏讨论。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Big Ten",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Big Ten 是美国大学体育联盟，最近上热搜是因为 NCAA 橄榄球赛季打得火热，尤其是强队对决悬念拉满。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Ann Arbor",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"话题\": \"Ann Arbor 上热搜，主要因为一场超预期的科技活动和MIT式的学术八卦混在一起，把这座小城推到风口。翻译成朋友话就是：密歇根州那个大学城突然炸了，大家不是聊AI就是吵校园争议，话题度飙到全美前十。\",\n  \"总结\": \" Ann Arbor其实是个安静学霸窝，但昨晚一场发布会让特斯拉和盖茨都去刷脸，加上某教授泄露内部邮件吐槽学生，火得莫名其妙但真实。 反正现在全美国都在",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Big 10",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Big 10 其实是美国大学体育联盟（十大联盟）的缩写，最近上热搜是因为他们又整出大新闻了——传要豪掷天价转播合同，直接把大学橄榄球商业价值拉到新高度，球迷和吃瓜群众都在刷屏讨论。简单说，就是这联盟又用钱和比赛刷存在感，让体育圈和圈外都看愣了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Bryce Underwood",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Bryce Underwood 是个美国高中橄榄球天才，刚宣布加盟密歇根大学，直接引爆了体育圈和吃瓜群众的热议。因为这哥们儿天赋逆天，被视为未来 NFL 状元热门，所以推特上全是球迷刷屏和媒体吹爆，热搜就这这么来的。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Wayne Knight",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这哥们是老版《侏罗纪公园》里那个胖程序员，还有《宋飞传》里抢戏的邻居，今天突然上热搜是因为有个他早期演过的冷门片段被翻出来疯传，网友直呼“原来是他”。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "gattouz0",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题一看就是外网整活的，大概率是某个网红或者梗图被疯狂转发，大家凑热闹起哄才刷上趋势的。具体内容是啥不重要，重要的是吃瓜群众已经就位了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "NCAA",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "NCAA就是美国大学生体育联赛，最近上热搜是因为疯狂三月（March Madness）开打，64强单败淘汰赛神仙打架，黑马翻盘和爆冷太多，大家熬夜看球上头了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Rigged",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题最近在X上炸了，主要是说某场大选或比赛被内定、搞猫腻，一堆网友在晒证据和阴谋论。上趋势是因为大家吵得太凶，连路人都忍不住点进来吃瓜，生怕自己错过什么‘真相’直播。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Oklahoma",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个话题主要是在讨论俄克拉荷马州最近通过的一项反LGBTQ法案，当地群众闹得挺凶，好多人在网上吵翻天。上趋势是因为这事儿惹毛了全美网友，连明星和政客都下场开喷，直接怼成了热搜第一。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "PYPD_IN_JAPAN",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "PYPD其实是'Pretty Young Professional in Japan'的缩写，讲的是在日本工作的年轻精英白领群体，晒生活、诉压力、聊职场文化。这话题能上趋势，估计是又有人戳中了日本打工人既卷又精致的矛盾日常，大家边看边共鸣。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "GoBlue",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个话题是指美国密歇根大学的体育队和粉丝圈，通常和橄榄球、篮球比赛火爆时大家一起喊的口号，尤其最近可能又有大赛或者球星爆发了。上热搜主要是因为这校队战绩猛、粉丝多，一激动就刷屏带节奏，连不看球的一般人都被刷到了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "JAMESupremacy",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题就是在吹一个叫James的狠人（大概率是某球星或网红）最近表现太炸，粉丝疯狂刷屏膜拜，说他是天选之子。会上趋势就是因为这哥们儿刚搞了个大新闻，要么是绝杀要么是逆天数据，全网都在围观喊666。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "JAMES SOARS HIGH IN GLORY",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题说的是某位名叫詹姆斯的老哥（大概率是球星或名人）今天在赛场上或公开场合大杀四方，牛到飞起，所以全网都在刷他“封神”瞬间。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Sam Leavitt",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这人是个美国橄榄球四分卫，最近在NCAA比赛里打出了超神表现，直接把对手打崩了，还带队逆转赢球，瞬间上了X趋势。大家主要是在炸裂他的传球和那股不服输的劲头，感觉就跟看爽文一样，球迷全在刷屏喊他以后要进NFL。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-09-05",
     "time": "2026-09-05 15:53",
     "source": "trends24.in",
