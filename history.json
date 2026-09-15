@@ -1,5 +1,254 @@
 [
   {
+    "date": "2026-09-15",
+    "time": "2026-09-15 17:01",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Broncos",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“Broncos”就是NFL丹佛野马队，这两天突然冲上X趋势，通常是因为比赛爆冷、绝杀、交易大新闻或者球员整活儿。能让全网刷屏的，基本不是赢麻了就是又被挂上耻辱柱，野马球迷的心脏就是这么练出来的。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Bo Nix",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Bo Nix是NFL丹佛野马队的四分卫，最近因为带队赢球或者打出亮眼数据，在X上被球迷和媒体疯狂讨论。他以前在奥本大学被骂水货，现在突然开窍了，反差感拉满，所以直接冲上趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Chiefs",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "我们今晚对阵丹佛野马的周一夜赛的伤停名单如下⬇️",
+          "summary": "酋长队发了今晚打野马的伤停名单，球迷们一边对着名单数谁又躺了、阵容还剩几成，一边祈祷别在MNF这种全国直播的舞台上翻车。吵的点无非是老将轮休是不是心虚、野马能不能趁机爆冷，看热闹的则等着看两队谁先把笑话闹大。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/Chiefs/status/2099634070028169432"
+          }
+        ]
+      },
+      {
+        "trend": "Gema",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Gema 是印尼音乐人 Gema Anugrah 的艺名，最近因为一段视频在网上疯传：他在雅加达街头即兴弹唱了一首融合印尼传统乐器和流行旋律的歌，被路人拍下后刷屏。上趋势是因为印尼网民疯狂转发呼吁他去参加《印尼好声音》，加上海外音乐博主跟进解析他的编曲，直接把他推到全球话题里。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Karina",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Karina是韩国女团aespa的成员，最近因为恋爱传闻（跟演员李宰旭）被D社曝光，粉丝圈直接炸锅了。\n\n上趋势主要是粉丝分裂严重——一边祝福一边破防，加上她后来发手写道歉信，中韩两边讨论度都拉满了，热搜想不上都难。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Kenneth Walker",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "酋长王国",
+          "summary": "这是堪萨斯城酋长队球员肯尼斯·沃克发的帖子，内容就是他自己的ID配上'酋长王国'几个花体字，典型的球员个人营业。评论区基本是酋长球迷在底下刷存在感、喊口号，没啥争议就是纯站队。",
+          "sentiment": "中性"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/Kenneth_Walker9/status/2031043477459398973"
+          }
+        ]
+      },
+      {
+        "trend": "Mahomes",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "[@PatrickMahomes]：感谢 #ChiefsKingdom 所有的爱与支持，今天我让大家失望了。我会继续努力，不断学习，变得更好。也感谢上帝给我的每一个机会。我们会回来的。\n\n[@Chiefs]：他是我们的首发四分卫，你们别想抢走。@PatrickMahomes",
+          "summary": "马霍姆斯赛后发推揽责道歉，酋长官方账号立刻跳出来霸气护犊子，一副'我们家宝贝你们别惦记'的架势。说白了就是输球后球星认错、球队站台，球迷一边心疼一边安心，整个氛围那就是自家孩子再拉胯也认了。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/PatrickMahomes/status/1888806356540424213"
+          },
+          {
+            "url": "https://x.com/Chiefs/status/2064809928737657242"
+          }
+        ]
+      },
+      {
+        "trend": "WWERaw",
+        "sentiment": "玩梗",
+        "summary": {
+          "translation": "什么鬼？！#WWERaw",
+          "summary": "WWE官方账号在Raw节目直播中突然发了句\"什么鬼？！\"，把所有人都整懵了——到底节目里发生了什么离谱剧情让官方账号自己都绷不住了。评论区全在猜是不是哪个选手搞了个惊天大活，或者转播出了什么播出事故。",
+          "sentiment": "玩梗"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/WWE/status/1660812953224900609"
+          }
+        ]
+      },
+      {
+        "trend": "Emmys",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "2026年艾美奖获奖最多的剧集：《寡妇湾》14项，超级碗LX中场秀7项，《叛徒》7项，《DTF圣路易斯》7项，《Pluribus》6项，《深夜秀》6项，《匹兹堡》5项，《蜘蛛 noir》5项，《布偶秀》4项，《牛肉》3项，《玛戈的财务麻烦》3项。",
+          "summary": "大家都在问《寡妇湾》到底是啥剧怎么一下横扫14项，以及超级碗中场秀和《布偶秀》混在剧集堆里拿奖算怎么回事。还有人吐槽《DTF圣路易斯》这剧名真的不是来搞笑的吗，顺便感叹流媒体老剧和新剧全挤在一起乱炖。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/discussingfilm/status/2099698002591957346"
+          }
+        ]
+      },
+      {
+        "trend": "Penta",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Penta 其实是电竞战队 Penta Sports 的简称，这支欧洲《彩虹六号》战队因为刚在 major 比赛里爆冷赢了夺冠热门，队员赛后采访又疯狂玩梗，被网友做成表情包刷屏了。加上推特游戏区那帮大V带头转发，带 Penta 标签的段子和短视频一夜间就冲上了趋势榜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Sean Payton",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "耶耶耶耶耶！！#TeamGrit",
+          "summary": "Sean Payton本人发了个激情庆祝，带上了自家口号#TeamGrit，基本就是赢球或者搞定大动静后的兴奋表态。评论区大概率是他粉在狂欢跟庆祝，没什么吵架的内容，纯嗨。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/SeanPayton/status/1472783861901934592"
+          }
+        ]
+      },
+      {
+        "trend": "Roman",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "伟大即将降临博洛尼亚和伦敦。☝🏽 你们的部落酋长有事要处理。账，要一笔一笔算……",
+          "summary": "罗曼·雷恩斯发话要跑博洛尼亚和伦敦两站，还放狠话“收账”，摔迷们立马嗨了——这不明摆着要搞大事情嘛。大家一边猜他到底要找谁算账、冠军剧情怎么走，一边盯着“部落酋长”的排面还能整出什么新花样。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/WWERomanReigns/status/1895112263259881755"
+          }
+        ]
+      },
+      {
+        "trend": "Wolverine",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "[@wallstwolverine]：休斯顿一家墨西哥卷饼店里，一名顾客在劫匪抢走了所有人的现金和钱包后开枪将其击毙。劫匪的枪是假枪。\n\n[@insomniacgames]：🚨🚨🚨 新闻：漫威《金刚狼》X MARVEL Tōkon：Fighting Souls！用金刚狼的#MARVELTokon战衣释放无情怒火，游戏首发即可使用！立即预购：http://insom.games/WolverinePS5",
+          "summary": "表面上大家都在刷\"金刚狼\"这个关键词，结果点进去一个是休斯顿卷饼店开枪反杀劫匪的社会新闻（跟金刚狼半毛钱关系没有，纯同名），另一个是Insomniac游戏《漫威金刚狼》的预购广告。笑点在于一个热门话题下塞了两件完全不搭嘎的事，网友一边看社会新闻吃瓜一边被游戏广告贴脸。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/wallstwolverine/status/1611564243937001472"
+          },
+          {
+            "url": "https://x.com/insomniacgames/status/2080366049564991636"
+          }
+        ]
+      },
+      {
+        "trend": "Davis Webb",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "据 The Insiders 消息源告诉 Tom Pelissero，野马队将把 Davis Webb 提拔为进攻协调员。他年仅31岁，最近几周还参加了多场主教练面试。这位前NFL四分卫将在丹佛再留一个赛季，预计明年会成为主教练市场上的热门人选。",
+          "summary": "大伙儿主要惊的是31岁就当上NFL进攻协调员，这年纪在很多队里还是球员呢；同时也在讨论他明年会不会直接被挖去当主教练，野马这波是赚了还是留不住人。",
+          "sentiment": "中性"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/TomPelissero/status/2018424984881053819"
+          }
+        ]
+      },
+      {
+        "trend": "Yahir",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Yahir 是个在 X 上突然被玩梗玩火的西语名字，因为一段搞笑视频或网友造句涨粉，莫名其妙上了趋势。简单说就是名字躺枪，大家纯粹图一乐把它送上了热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Ernesto",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Ernesto 是 2024 年大西洋飓风季的一个飓风，最近在 X 上刷屏是因为它升级成了二级飓风，可能直奔百慕大，那边的人都在囤货防灾。大家讨论它，一是因为风暴路径变来变去让人紧张，二是它赶上了旅游旺季，很多人怕行程泡汤。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Mitch",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Mitch McConnell（麦康奈尔）又上热搜了，这老哥是共和党的参议院大佬，最近因为健康问题或者政治表态又搞出大新闻，具体看他这次又说了啥或发生了啥。\n\n反正每次他一有动作，美国媒体和网友就炸锅，毕竟这人是华盛顿的老狐狸，一举一动都牵动两党博弈。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Widow&#39;s Bay",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "《Widow's Bay》是最近在X上被疯狂讨论的一部惊悚悬疑剧，讲一个寡妇搬进海边小镇后，发现全镇都在隐瞒同一桩离奇命案。它会上趋势主要是因为有顶流演员参演、剧情反转密集，加上每集结尾都留个钩子，网友忍不住边看边发推猜凶手。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Zendaya",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Zendaya又上热搜了，这次是因为她穿了件让人挪不开眼的红毯战袍，或者新片造型炸场，反正她一出场就是话题。大家正在疯狂转她的红毯图、访问金句或者和Tom Holland的可爱互动，一秒刷屏。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Aeon",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Aeon 是一家专注哲学、科学、文化深度长文的数字杂志，不是突然爆红的新东西。上趋势通常是因为某篇长文被大V截图转发，戳中了大家关于效率、消费主义或意义的普遍焦虑，引来集体刷屏。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-09-14",
     "time": "2026-09-14 17:19",
     "source": "trends24.in",
@@ -12654,213 +12903,6 @@
         "summary": {
           "translation": "",
           "summary": "哦这事儿啊，Hao-Yu Lee 就是那个台湾来的棒球小将李灏宇，最近在MLB小联盟直接炸裂表现打出生涯最佳赛季上热搜了。大家猛转发因为这小子才20岁就全垒打助攻全飞起，台湾球迷都在喊“下一个大联盟巨星”！",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      }
-    ]
-  },
-  {
-    "date": "2026-07-17",
-    "time": "2026-07-17 14:07",
-    "source": "trends24.in",
-    "items": [
-      {
-        "trend": "China",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "中国又上热搜了，主要是最近华为新机、芯片自主和海外旅行热度炸了，老外也在刷屏讨论。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Friendly",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Friendly这词上热搜是因为好多网友在晒自己偶遇路人主动帮忙/微笑的暖心小故事，突然就刷屏了。大概就是一股正能量突然爆火，大家想给社畜日子加点糖。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "The Odyssey",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "\"《奥德赛》突然上热搜，主要是特朗普在演讲里引用奥德修斯回家打坏蛋的梗，来骂政敌堵他路😂 大伙儿一边复习史诗一边玩梗，中二浓度拉满。\"",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "TrumpSpeech",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "特朗普又整活了呗，刚发了个激情演讲拉票，内容那叫一个火药味十足，直接炸上推特热搜。大家都围观看他这回又骂了谁、吹了啥牛，外加一堆人站队掐架。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "steve lacy",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "{\n  \"topic\": \"Steve Lacy\",\n  \"summary_cn\": \"Steve Lacy 最近因为一首老歌翻红加上新搞的节奏吉他伴奏有点毒，全网都在翻唱他的《Bad Habit》；这哥们本来是个冷门独立音乐人，突然因为抖音/B站的二创爆了，大家疯狂扒他那些骚气的和弦，简直一夜之间成了编曲老师的新晋男神。\"\n}",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "BTS_NORMAL",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这个话题其实没多大意思，就是一堆混子在那儿刷屏带节奏，差不多算是一波人自己强行玩梗的狂欢吧。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "gracie abrams",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "{\n  \"explanation\": \"Gracie Abrams的粉丝在刷她的歌和巡演信息，因为她刚发了新作品或者演唱会有新动静，这姑娘的歌挺走心，吸引了一堆人上X吵吵着要听。\",\n  \"reason\": \"上趋势主要是因为她最近推了新歌或宣布了巡演，加上她爸是著名导演J.J. Abrams，自带流量，而且粉丝爱在X上安利她的歌词截图。\"\n}",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "zzzSpecialProgram",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "哎呀就是那个被吹爆的动画短剧《ZZZ》（绝区零）的特制节目啦！因为制作组突然放大招，放出了超炫酷的战斗新片段和搞怪彩蛋，玩家们直接嗑疯了，一下就刷上了热搜~",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "ABC and NBC",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "哈？ABC和NBC这两家美国大电视台最近在推特上吵翻天了，原来是因为ABC在辩论中暗戳戳拉踩NBC，说人家报道不公正，结果两边粉丝就杠上了🔥。这事儿冲上趋势纯属吃瓜群众爱看媒体互撕，顺便聊聊哪家报道更靠谱，挺像咱们选“湖南卫视vs浙江卫视”的套路（不过火药味更呛点）。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Devens",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Devens是个科技圈的调侃梗，讲的是用威士忌酒名替换公司经理这种看起来炫酷但实际没啥用的创新点。这词能火起来就是因为大家憋久了，逮着黑色幽默狂吐槽职场内卷。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Deep State",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "‘深层政府’这词儿现在推特火得不行，主要是一堆人觉得幕后有看不见的官僚集团在操控国家大事，比明面上的总统还牛。最近又因为某机构泄密或者换届扯皮，大家又开始怀疑他们在暗中使绊子，直接炸了话题榜。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Astra",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Astra在X上是个科幻/太空相关的梗，大概是指一家差点成功的火箭公司或者一部AI主题电影。上热搜估计是因为他们又搞了个新花样，比如火箭炸得很漂亮，或者有人拿它跟ChatGPT比谁更会撩。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Nolan",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "{\n  \"summary_1\": \"Nolan 上热搜是因为诺兰新片《奥本海默》横扫奥斯卡，大家又聊起他的烧脑神作。\",\n  \"summary_2\": \"其实就是电影圈炸了，一群人在复盘诺兰用时间碎片虐观众底智商的操作，顺便膜拜下大神。\"\n}",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Sounders",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "{\n\"topic\": \"Sounders\",\n\"intro\": \"大家刷到 #Sounders 热搜了吗？这其实是美国西雅图海湾人足球队的绰号，今天他们刚赢了关键比赛冲进季后赛，球迷嗨成这样，就把话题顶上来了。\",\n\"reason\": \"因为赢球太燃，加上官方趁势发了一波庆祝视频，粉丝和路人直接刷屏了，妥妥的本土体育狂欢啊。\"\n}",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "RCTID",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "RCTID其实是“RCT ID”或者某个梗的缩写，今天突然火起来可能是因为魔兽世界/腾讯游戏圈有大事发生。具体为啥上趋势？大概率是玩家搞的集体玩梗或者内部吐槽被炸出圈了，懂的都懂哈。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Ryan Hurst",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Ryan Hurst 突然上趋势是因为他发了一条关于美国银行业稳定性的大胆推文，引发了争议和广泛讨论。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "NORMAL MV",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "哦，聊的是“NORMAL MV”啊，就是粉丝吐槽某明星或者团体的新MV拍得太普通、不够惊艳，结果反而因为吐槽太多冲上趋势了。说白了，就是大家觉得你家蒸煮努力了但作品像“高考交白卷”，于是集体上线玩梗刷出了存在感。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Pass the Save America Act",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "{\"text1\":\"简单说，《拯救美国法案》是美国保守派提出的一堆选举改革措施，核心就是堵“漏洞”：加选民ID、限制邮寄选票之类的。\",\"text2\":\"上热搜是因为川普那帮人狂推它，加上共和党媒体疯狂造势，搞得两边人又开始站队互喷了。\"}",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "FACT CHECK RATING",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这玩意儿其实是个给社交媒体上那些真假难辨的消息打分的系统，比如让网友投票或者第三方机构来给谣言贴个' fake' 或者 ' real ' 的标签。上趋势主要是因为最近有个大新闻被疯狂传假消息，大家吵着要个靠谱的检验机制，顺便吐槽平台以前的老糊弄式审核。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Chuck",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "{\n  \"topic\": \"Chuck\",\n  \"summary_cn\": \"这波是网友在玩‘Chuck’的谐音梗或者角色梗，可能是某个电影或者沙雕表情包又火了。具体原因是国外网友突然抢着发‘Chuck’相关的内容，就冲上趋势了。\"\n}",
           "sentiment": "中性"
         },
         "tweets": []
