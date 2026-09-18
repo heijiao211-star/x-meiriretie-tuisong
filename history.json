@@ -1,5 +1,216 @@
 [
   {
+    "date": "2026-09-18",
+    "time": "2026-09-18 16:33",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "bb28",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "bb28 是一个在 X 上突然火起来的神秘代号，大家都不确定具体指啥，但都在跟风发帖猜谜或玩梗。它上趋势主要是因为某个大 V 发了一条模棱两可的推文带上了这个标签，加上算法助推和网友的猎奇心理，直接把话题冲上热门。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Josh Allen",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "请为我们的兄弟祈祷。",
+          "summary": "Josh Allen 突然发了一句“为我们的兄弟祈祷”，没点名是谁，评论区全在猜到底出了啥事、是在说哪个队友还是朋友。大家一边焦急等后续，一边翻他最近的动态找线索，整体氛围挺揪心的。",
+          "sentiment": "中性"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/JoshAllenQB/status/1610128591458652160"
+          }
+        ]
+      },
+      {
+        "trend": "Yash",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Yash 是印度卡纳达语电影圈的顶级男星，最近因为新片消息或粉丝疯狂刷话题又上了 X 趋势。简单说就是印度南方影迷的战斗力太猛，随便一个预告、海报或生日应援都能把自家偶像顶上热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Lions",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Lions这话题上趋势，主要是因为底特律雄狮队（Detroit Lions）在NFL季后赛里赢了球，球迷们憋了多少年的气终于炸了，全网狂刷“Lions”庆祝。说白了，就是一支常年垫底的球队突然支棱起来，大家跟过年一样，刷屏刷上了热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Bills",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Bills就是“账单”这事，一般是因为美国那边又在吵政府预算、债务上限或者某笔大额支出法案，搞得全网都在刷“bills”。它上趋势通常是因为这事跟发钱、关门、经济走势直接挂钩，大家怕影响到自己钱包，所以扎堆讨论。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Melody",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Melody是最近X上因为一段旧综艺片段翻红的艺人，她离婚后上节目的清醒发言被网友疯狂截图传播，大家觉得她活得太通透了。加上她本人最近在社交媒体上频繁互动、金句频出，直接把自己聊上了趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Devens",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Devens 是马萨诸塞州一个由军事基地改造成的大型综合园区，最近突然上了 X 趋势，多半是因为那里被拍到或传出跟移民拘留、联邦执法行动有关的画面，引发大批网友讨论和转发。简单说就是：一个平时没多少人提的地方，突然成了全美关注的“热搜地名”。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Resident Evil",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "《Resident Evil》就是《生化危机》，大家突然在X上刷它，多半是因为卡普空又发布了新作预告或者重制版消息。每次有点新动静，玩家们就集体上线聊情怀，从追追到暴君都是老梗了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Goff",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Goff 是最近 X/Twitter 上因为一段关于\"AI 是否该有自我意识\"的争议发言而爆火的科技博主，他的观点被各路大V转疯了。之所以上趋势，是因为他抛出的一套关于 AI 未来发展的激进预测，直接踩中了当下科技圈对 AI 伦理和监管的敏感神经，支持和骂战一下全炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "James Cook",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "James Cook 这波上趋势是因为一条关于他的历史帖子在 X 上火了，讨论他在夏威夷被当地人干掉的那段历史，有人翻旧账说他到底是航海英雄还是殖民先锋。正好赶上最近英国又在争论要不要拆他的雕像、改地名，两拨人吵得不可开交，话题直接冲上热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "DJ Moore",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "DJ Moore是NFL芝加哥熊队的明星外接手，最近因为交易传闻和合同问题被疯狂讨论。他上赛季表现炸裂但球队战绩拉胯，球迷在吵他该走该留，加上一些媒体爆料和球员本人发推暗示，直接把这话题顶上了趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Gibbs",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“Gibbs”这话题今天突然冲上X趋势，主要是因为《海军罪案调查处》里那个经典角色Leroy Jethro Gibbs——要么是剧集重播或新衍生剧消息，要么是演员Mark Harmon出了什么新动态，粉丝一激动就刷起来了。简单说就是老牌美剧情怀杀+粉丝集体怀旧，跟咱这边突然刷起《武林外传》上热搜一个道理。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Dan Campbell",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Dan Campbell是NFL底特律雄狮队的主教练，以那股\"咬膝盖骨\"式的硬核热血风格出名，带队从烂队翻身成争冠热门，全美球迷都爱他。这次上趋势大概是因为他又有什么比赛决策、赛后采访金句，或者球队季后赛的表现炸了，反正这哥们一有动静就能刷屏。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Christopher Walken",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "克里斯托弗·沃肯（Christopher Walken）突然被刷上趋势，大概率是因为他又出了新的迷惑行为或者金句，比如在采访里即兴跳了段舞、或者用他标志性的断句方式念了段离谱台词。这位老爷子在好莱坞本来就是个传奇‘怪咖’，演过《猎鹿人》《低俗小说》，现在靠各种反差萌片段在社交媒体上一直被年轻人当梗玩，一有风吹草动就能上热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "lizzy mcalpine",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Lizzy McAlpine是个美国独立创作女歌手，最近因为新歌/巡演/恋情之类的新闻在X上被刷屏了。她那种又丧又甜的卧室流行曲风在Z世代里特别吃得开，粉丝疯狂转发讨论就把话题顶上趋势了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "lucy bedroque",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Lucy Bedroque 是最近在国外社媒上突然火起来的一个名字，起因是她在一次公开活动或采访里说了/做了一件很有争议或很搞笑的事，被网友截图疯传。简单说就是个一夜爆红的素人或小网红，大家跟风玩梗、做表情包，就把它顶上趋势了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Ben Johnson",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Ben Johnson是加拿大短跑名将，1988年汉城奥运会百米决赛跑出9秒79破世界纪录，但赛后药检阳性被剥夺金牌并禁赛，成了体育史上最著名的兴奋剂丑闻之一。现在突然上趋势，可能是又有纪录片/播客翻旧账，或者他本人有什么新言论，总之是网友又拿这段黑历史出来讨论。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "AZ Chike",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "AZ Chike是尼日利亚拉各斯的一个街头说唱歌手，最近因为一首新歌的片段在X上被疯转，加上他和另一个大rapper的beef传闻，直接炸上趋势。简单说就是：歌够猛、瓜够大，网友一边玩梗一边吃瓜，热度就起飞了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Brad Holmes",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "你说的 \"Brad Holmes\" 大概率就是那个在推特上很出名的 **Brad Holmes（@Brad_Holmes）**。\n\n简单说：他最早是靠发 **AI 相关的高质量内容、工具教程、提示词和行业解读** 火起来的，算是那种 **AI 圈里的信息流博主**。后来大家热议他，一方面是因为他涨粉很快、影响大，另一方面也常被讨论是不是“AI 内容搬运/包装型博主”——所以话题总围绕 **“AI ",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Tillamook",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Tillamook是美国俄勒冈州一个以奶酪和冰淇淋出名的乳制品品牌，最近因为一条吐槽它家产品涨价/缩水的帖子在X上被疯转，网友们纷纷晒图哭诉\"我的Tillamook怎么变小了\"。简单说就是大家发现自己从小吃到大的便宜好货突然变贵变少，集体破防把它顶上了趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-09-17",
     "time": "2026-09-17 16:58",
     "source": "trends24.in",
@@ -12699,213 +12910,6 @@
         "summary": {
           "translation": "",
           "summary": "\"Flau'jae 最近在X上炸了，因为她不仅是个超炸的女rapper，还是篮球圈新星，发了首新歌顺便签了Nike代言，粉丝和路人全在喊‘这姐跨界玩明白了’。趋势起来纯属大家被她的双栖能力震撼了，外加新歌MV里全是她球场逆天操作的混剪，直接封神讨论度拉满。\"",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      }
-    ]
-  },
-  {
-    "date": "2026-07-20",
-    "time": "2026-07-20 14:37",
-    "source": "trends24.in",
-    "items": [
-      {
-        "trend": "Spain",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "{\"topic\":\"Spain\",\"chinese_summary\":\"简单说，西班牙最近在X上炸了锅，主要因为首相桑切斯可能因为调查他老婆的腐败案而辞职，这事儿激起了政治海啸；加上加泰罗尼亚独立话题持续发酵，欧洲杯夺冠后全国狂欢的热乎劲儿也被带进讨论里。\"}",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "HOTD",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "《龙之家族》（House of the Dragon）第二季预告片炸了，粉丝狂刷龙抬头和血龙狂舞的名场面。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "GrandConcert",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "GrandConcert这个热搜全在说一个牛逼到炸的大型音乐会，像是线上大趴集体炸场那种阵仗，搞到外网全都嗨翻了。因为这个活动阵容离谱+现场直播效果神了，推特上全都是粉丝截图尖叫声，直接刷成全球趋势了还挺合理",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "HouseOfTheDragon",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "有网友整活聊《龙之家族》S2雷妮拉和戴蒙的恋情狗血发展，有人分析绿党黑党的权游内部撕逼，二创又嗨了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Umamusume",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "{\"trend\":\"大家都在聊《赛马娘》（Umamusume）最新活动或角色爆料，粉丝们炸开锅了。\",\"reason\":\"因为刚更新了一波新马娘剧情或者联动皮肤，引起老玩家集体狂欢和新玩家疯狂追问‘这是谁家闺女’。\"}",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Logano",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "哦，Logano 就是纳斯卡车手里那个开22号福特的家伙，最近又因为赛道上的硬核操作冲上热搜了！大家主要在吵他到底算技术好还是太莽撞，毕竟每次他撞车保名次都能让评论区炸出几万个键盘车神。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "RHOA",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "{\"RHOA_topic\": \"RHOA 是《亚特兰大娇妻》的缩写，这是一档 Real Housewives 系列真人秀，最近因为新一季开播或撕逼戏码炸场，直接被网友聊上了趋势。估计又搞出了什么离婚、互殴或闺蜜反目的大瓜，欧美八卦圈直接当场高潮。\", \"reason\": \"该剧常年靠狗血剧情和抓马人际关系维持热度，这次可能是因为某个选手爆出惊天私生活丑闻，或经典名场面台词引发全网二创，吃瓜群众集体",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "España",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这波西班牙上热搜主要是因为他们在欧洲杯上猛得一塌糊涂，直接杀进了决赛，球迷们嗨疯了。还有人在聊当地40度高温咋过，两种热度一起炸了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Rodri",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这位叫罗德里（Rodri）的曼城中场刚拿了2024金球奖，球迷和媒体直接吵翻了，有人觉得他凭实力该拿，但更多人吐槽皇马和巴西帮的球星‘被狙了’，这波热度全靠足球圈撕逼涨起来的。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Yaxel",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Yaxel是个游戏圈的狠角色，刷屏是因为他一波操作太亮眼，直接干翻了几个大佬，粉丝们激动得上蹿下跳，这事就成了推特热搜。简单说就是#牛逼战绩刷屏了#。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Criston Cole",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "哎呀，Criston Cole 这货啊，就是《龙之家族》里那个御林铁卫队长，这两天因为他在第二季里又开始作妖（比如跟雷妮拉和王后抬杠），网上吵翻了天，大家要么骂他双标要么赞他可怜，结果直接就刷上趋势了。反正就是这角色太能惹事，粉丝和黑子都来凑热闹，热度就给顶上去啦！",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Paredes",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "{\"explanation\":\"Paredes这话题突然跑上热搜，主要是因为昨天UFC比赛里有个叫帕雷德斯的墨西哥拳手打出了一场超级狠的KO，全场直接炸了，西方拳迷一顿刷屏把tag顶上来了。\",\"reason\":\"其实就是格斗圈内的大新闻，国外吵完国内也跟着围观，毕竟这种暴力美学谁不爱看热闹呢。\"}",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Alicent",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "{\"summary1\": \"Alicent这波上趋势是因为《龙之家族》第二季预告片炸了，她跟雷妮拉的姨（？）甥对决又要升级，粉丝疯狂嗑悲剧女王的人设。\", \"summary2\": \"简单说就是绿党太后Alicent在新剧情里更惨更疯，权游迷们一边心疼一边刷#TeamGreen，讨论她是不是全剧最惨工具人。\"}",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Fania",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Fania这梗在聊一个叫​@fania101​的女博主（也可能是某个网红事件），她有些离谱发言或者线下操作被扒出来嘲讽了。热搜是网友吃瓜起哄开的，跟明星八卦一个味儿。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Giant Eagle",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Giant Eagle是美国一家连锁超市，突然上推特热搜是因为有人爆出它家卖的超贵圣诞树质量辣鸡，树都歪了还掉针，网友炸了开始疯狂吐槽。加上之前它家员工抱怨低工资和差福利的旧账被翻出来，大家凑热闹一起骂着骂着就冲上趋势了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Aemond",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Aemond是《龙之家族》里那个独眼龙王子，最近剧情里他骑着大龙瓦格哈尔放火烧河间地，战力爆表但人也狠得一批，粉丝们吵翻了天，直接把他顶上趋势。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "North Wilkesboro",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "啊，North Wilkesboro 突然火了是因为那边有个历史悠久的 NASCAR 赛道刚完成重建，一堆车手和粉丝在嗨；老赛道重新开张加上情怀滤镜，直接刷屏趋势了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Usha",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "搞半天是印度裔的Usha Vance（万斯的老婆）被推上热搜了，她老公被特朗普提名为副总统候选人后，很多人扒她的背景和形象在刷屏讨论。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Smart Falcon",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Smart Falcon 是一个AI动态视频生成模型，今天在推特上炸锅是因为它生成的视频效果超逼真，直接把竞品卷飞了！大家狂转发那些以假乱真的片段，看得人头皮发麻，科技圈和路人都在惊叹‘AI进化太快了’。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Mihono Bourbon",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "米霍诺波本（Mihono Bourbon）是个日本赛马网红，最近因为在一场关键比赛里跑出逆天成绩+退役前疯狂刷存在感，直接让赛马粉和乐子人集体高潮刷上趋势。",
           "sentiment": "中性"
         },
         "tweets": []
