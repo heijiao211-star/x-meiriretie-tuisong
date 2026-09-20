@@ -1,5 +1,223 @@
 [
   {
+    "date": "2026-09-20",
+    "time": "2026-09-20 16:52",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Blaney",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "他今天势不可挡！@Blaney 在 @phoenixraceway 夺冠！",
+          "summary": "简单说，就是NASCAR车手Blaney在菲尼克斯赛道赢了一场，官方账号发帖庆祝，粉丝们跟着狂刷“实至名归”和“早该赢了”。大家一边倒叫好，没啥争议，纯纯的胜利时刻，看的就是他最后关头顶住压力没掉链子。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/NASCAR/status/2030784703033180522"
+          }
+        ]
+      },
+      {
+        "trend": "Hocevar",
+        "sentiment": "玩梗",
+        "summary": {
+          "translation": "我今天从第34位发车。看最后能跑成什么样吧。赛后我会根据成绩给我的周边商店打折。要是夺冠了，所有商品打67折！这样大家就有东西可以期待了！要是我太菜了，最后排名在前30之外，我就当惩罚自己，给你们打23折。\n\n我爱NASCAR。那种激情和自嘲永远不会变味。我最大的槽点就是得说服别人：去现场看比赛真的完全不一样，才能让人变成粉丝。我真的说腻这句话了。",
+          "summary": "车手Hocevar把比赛名次和周边折扣绑在一起玩，跑得好就少打折，跑得烂就打骨折，粉丝们一边乐一边盘算着该盼他赢还是盼他输。另一条推文则掏心窝子安利纳斯卡现场体验，喊出了老粉心累又无奈的心声。",
+          "sentiment": "玩梗"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/CarsonHocevar/status/2096604840558272593"
+          },
+          {
+            "url": "https://x.com/CarsonHocevar/status/2082174287834665305"
+          }
+        ]
+      },
+      {
+        "trend": "Ole Miss",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Ole Miss就是密西西比大学的昵称，最近因为校园里又闹出了种族歧视相关的冲突视频，在网上被疯传。这事儿一出来就炸了锅，毕竟美国南方大学种族问题本来就是敏感点，加上短视频传播快，直接冲上趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Pantoja",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Pantoja通常指巴西足球运动员或UFC选手，最近上趋势大概率是因为比赛赢了或搞了个大新闻，大家刷屏讨论。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "UFC331",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "UFC331 是综合格斗赛事在 2025 年 10 月 4 日于拉斯维加斯办的比赛，主赛是 Merab Dvalishvili 对 Cory Sandhagen 的雏量级冠军战，还有 Alex Pereira 升到重量级打 Khalil Rountree 的联合主赛。它上趋势主要是因为 Poatan 能否成为三冠王这个话题太炸，加上赛前称重有选手没通过，拳迷在 X 上吵翻了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Joshua Van",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Joshua Van 是美国综合格斗选手，最近因为在UFC蝇量级比赛中KO对手、打出高光表现，在X上被大量格斗迷讨论冲上趋势。加上他年轻、打法激进、故事励志，很容易被剪成短视频传播，所以热度一下就炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Purdue",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "普渡大学最近在X上被热议，主要是因为学校管理层和学生之间闹出了新一轮矛盾——校方一边裁员砍预算，一边给校长涨薪，学生和校友直接炸锅了。这事上趋势说白了就是“自己人打自己人”的戏码：普渡向来以性价比和硬核工科出名，结果现在财政操作太离谱，校友、在校生甚至路人都看不下去，转发吐槽直接刷上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Arman",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Arman这个X趋势啊，我看八成又是在玩某个博主/网红的梗，比如某个鬼畜视频、迷惑行为，或者某条爆笑推特被疯转，大家拿他名字当标签整活刷屏。至于为啥上趋势，其实就是X的推荐机制看到这标签短时间互动量爆了（转、赞、评论一起冲），就顺手把它顶上去了，热度一高又吸来更多人围观参与，滚雪球就上榜了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "UCLA",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "UCLA就是加州大学洛杉矶分校，最近上趋势是因为校园里爆发了支持巴勒斯坦的抗议营地，警察进校抓人清场，跟其他美国大学的抗议潮连成了一片。加上UCLA之前还发生过抗议者之间互殴的事件，视频在网上疯传，所以讨论度直接炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Chivas",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Chivas（芝华士）突然上趋势，大概率是因为某场足球比赛里瓜达拉哈拉芝华士队（Chivas）干了件大事——要么爆冷赢了强队，要么闹出争议判罚，把球迷情绪直接点燃了。另外也可能是芝华士威士忌搞了什么病毒式营销或联名，总之跟酒或球有关，两边粉丝一起把话题刷上了榜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Trinidad Chambliss",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Trinidad Chambliss 是美国一位气质很独特的年轻模特/网红，最近因为一段街拍或时装周造型在 X 上被疯传，大家疯狂转发她的图并讨论她的长相、穿搭和家庭背景。会上趋势主要是欧美网友的审美狂欢＋对她身份（星二代/艺术圈背景）的好奇，属于典型的“一张图带火一个人”式病毒传播。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Kevin Kane",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Kevin Kane 是最近 X 上被大量讨论的一个名字，主要是围绕他的一段发言或某个争议事件引发了网友集体围观。这东西能上趋势，多半是因为踩中了立场对立或者瓜够大，大家转着转着就冲上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "NASCAR",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "NASCAR就是美国那种改装版Stock Car在椭圆赛道上疯狂绕圈的赛车比赛，速度极快、超车凶狠、还老出撞车大场面。上趋势通常是因为出了惊天事故、名场面翻车、或者某个车手夺冠/退役引发了全网热议。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Gable",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Gable 是一个允许团队用表格协作构建内部工具和应用的在线平台，最近因为被曝出存在严重安全漏洞、可能泄露大量企业数据而引爆讨论。大家突然发现这家公司处理隐私问题的方式很离谱，于是疯狂转发吐槽，直接就把它顶上趋势了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Leavitt",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Leavitt 这波上趋势，大概率是因为川普新政府的白宫新闻秘书 Karoline Leavitt 又整活了——她上任以来风格又刚又冲，怼记者、发短视频、控场发布会，几乎每次露面都能给互联网贡献新素材。再加上保守派媒体和 MAGA 圈子疯狂转发，自由派那边疯狂吐槽，两边一掐架热度直接拉满。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Wayne Knight",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Wayne Knight是美国老牌喜剧演员，最出名的角色是《侏罗纪公园》里那个被恐龙吃掉的倒霉程序员和《宋飞正传》里的Newman。他上趋势通常有几种可能：要么是病危/去世这类健康消息引爆全网怀旧，要么是他某段经典表演被网友翻出来疯传，要么是哪个游戏或影视作品致敬了他让他突然翻红。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Borja",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Borja 是西班牙前锋博尔哈·伊格莱西亚斯（Borja Iglesias），近日他因为在西甲比赛中进球后做出“章鱼”庆祝动作、并公开表达对动物的喜爱而在 X 上翻红。这次上趋势多半是因为他赛后采访金句频出、加上球迷剪的搞笑视频疯传，大家一窝蜂去围观这个又憨又真诚的球员。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Hotty Toddy",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Hotty Toddy 是美国密西西比大学（Ole Miss）的经典加油口号，比赛日、校友聚会或校园活动一到，相关帖子就会集中出现。它之所以上趋势，通常是因为橄榄球赛季关键战、毕业典礼或名人校友带头喊话，把老同学和球迷全炸出来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "NoValkoNoMoney",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个标签是玩家圈在吐槽《无畏契约》（Valorant）里某些皮肤或活动越来越贵，不氪金就没法好好玩，甚至被调侃成“没钱别碰瓦”。它冲上趋势主要是新皮肤套装定价太高、玩家觉得吃相难看，于是集体刷 tag 抗议。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Milito",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Milito（迭戈·米利托）是阿根廷传奇前锋，最近因为国米相关的话题重新被大家翻出来怀念。这哥们儿当年在国米2010年三冠王赛季立下大功，决赛场场进球，被球迷封为“大场面先生”，所以每逢国米纪念日或者有人做经典回顾视频，他就容易被顶上趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-09-19",
     "time": "2026-09-19 16:20",
     "source": "trends24.in",
@@ -12684,228 +12902,6 @@
         "summary": {
           "translation": "",
           "summary": "好像是美国大学生女篮的明星球员，最近因为在场上跟对手干架或者有啥争议性言论，直接冲上热搜了。简单说就是篮球圈又吵起来了，吃瓜群众看得挺嗨。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      }
-    ]
-  },
-  {
-    "date": "2026-07-22",
-    "time": "2026-07-22 14:19",
-    "source": "trends24.in",
-    "items": [
-      {
-        "trend": "WWENXT",
-        "sentiment": "正面",
-        "summary": {
-          "translation": "【1】欢迎新一届新人班！👏👏👏 阿莉莎·丹尼尔、加勒特·贝克、尼古拉斯·帕尼卡利、佐伊·海恩斯 #WWENXT\n【2】他们就是未来🔥 艾哈迈德·埃萨姆·萨米·特维菲克、艾伦·阿克森、雷恩·利特、德莉娅·施韦泽 #WWENXT",
-          "summary": "WWE NXT又官宣了一波新选手，看起来是每年传统的新人教学班名单，不过每次玩家看到陌生的名字总忍不住猜谁以后能火。大家在围观这些新面孔颜值、身世、摔角背景，吐槽或期待他们会不会像前辈们一样被推到主节目，总之属于“未来之星首秀预告”的热闹。",
-          "sentiment": "正面"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/WWENXT/status/2049553358013505761"
-          },
-          {
-            "url": "https://x.com/WWENXT/status/2031762354577506613"
-          }
-        ]
-      },
-      {
-        "trend": "Mike Santana",
-        "sentiment": "正面",
-        "summary": {
-          "translation": "@Santana_Proud：在说这事之前我需要点时间独处...每次我准备去比赛时，总会找个角落独自待一会儿。我跪下祈祷上帝保佑我和对手，保佑我们上场给粉丝们带来值得他们辛苦花钱的逃避现实体验。但大家都知道，有时会发生无法控制的突发意外。这是这行不幸的现实。我们能做的就是从中学习，以后采取预防措施避免重蹈覆辙。我必须说，我真为TNA处理这事的方式自豪。更自豪的是裁判Alice Lane。她顶尖的专业性和快速反应拯救了我们。有她在场我们是真幸运。我很高兴Steve安全并且状况良好。他是我认识的最强硬的人之一，也是我长久以来的密友。说到底，我们的健康和福祉是第一位的，我们确实证明了这一点。谢谢大家。🙏🏽🙏🏽",
-          "summary": "摔角手Mike在准备比赛时做足祷告求平安，结果还是出了意外，幸亏裁判Alice冷静操作救了场子，大家平安无事但吓出一身冷汗，粉丝们都在感谢裁判专业和庆幸选手没事。",
-          "sentiment": "正面"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/Santana_Proud/status/2038274807218003969"
-          }
-        ]
-      },
-      {
-        "trend": "Realmuto",
-        "sentiment": "吃瓜",
-        "summary": {
-          "translation": "J.T. 瑞尔穆托在跑垒时犯低级失误，让道奇打出双杀，最终击败费城人。",
-          "summary": "一方面是费城人球迷锤桌子骂自家明星捕手跑垒脑子短路，另一方面道奇球迷乐开花嘲笑对面送大礼——怎么看这都是个低级失误成全高光时刻的名场面。",
-          "sentiment": "吃瓜"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/TalkinBaseball_/status/2079757153410122194"
-          }
-        ]
-      },
-      {
-        "trend": "Netanyahu",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Netanyahu又上热搜了，大概是他最近在加沙的强硬发言或者美国那边施压，搞得国际舆论炸锅了。反正每次他动静一大，Twitter上就跟过年似的刷屏吵架。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Paul Sewald",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Paul Sewald 是MLB的终结者投手，今早因为他在关键比赛里砸锅了，被对手打出再见全垒打，大家开始疯狂调侃。这哥们儿投球时习惯性摸帽子的小动作还被做成表情包刷屏了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Rucker",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这话题大概跟一个网红Rucker有关，可能他整了个大活儿或者说了啥引发争议，反正网友们吃瓜聊得飞起。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Publix",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Publix在国外火起来是因为这家美国连锁超市最近出了个大新闻，可能是员工罢工或者食品安全问题炸了。简单说，就是一家超市闹出幺蛾子，大家在网上骂得飞起，直接冲上热搜了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Phillies",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Phillies飞上趋势主要是费城人队在MLB季后赛大杀四方，球迷们直接炸了。不是球迷的估计也在看热闹，毕竟这支球队的氛围拉满，赢球又带劲。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Godzilla",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "大家讨论的是新版哥斯拉电影或者怪兽宇宙要搞大动作了，估计又是什么巨大怪兽互殴的预告片泄露，你们先嗨起来吧！",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Andy Biggs",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Andy Biggs这个共和党议员突然上热搜，八成因为他又在国会跟民主党掐架，或者搞了个争议性法案被媒体盯上了。反正这类政客上趋势，不是骂拜登就是护着特朗普，老套路了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Hegseth",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Hegseth这哥们是美国福克斯新闻的主持人，最近因为涉嫌性侵和酗酒被爆料，推特上炸了。估计是有人在带节奏，硬扒他的黑历史，大家吃瓜起哄呢。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Crawford",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "感觉像是某个叫Crawford的名人/网红又整活或者有瓜了，或者小镇名字刷到趋势——无非就是吃瓜群众冲浪点进来的料。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "2hollis",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "{\n  \"explanation\": \"2hollis 是个美国说唱新人，最近因为专辑爆火或被大咖提名，流量突然炸了。上趋势是因为他风格有点怪但上脑，圈内人都在扒他歌词。\"\n}",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Mel Gibson",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "大概是他又因为一些争议言论或者电影相关的东西冲上热搜了，这人一向话题度爆表。可能是因为新项目消息曝光，或者他又在公开场合喷了什么，大家又开始站队吵架了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "SB19BackInTheUS",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "菲律宾男团SB19又回美国巡演了，粉丝们狂刷话题庆祝他们重返舞台，势如破竹。这次上趋势多半是团体那波铁粉太能打了，外加东南亚网友爱凑热闹，直接冲上X热搜。👀",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "holodori",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "{\n  \"topic\": \"holodori\",\n  \"chinese_summary\": \"holodori是Twitter上突然爆火的一个原创动画角色，大家疯狂转推是因为她的可爱造型加上极致流畅的3D舞蹈动作，配上电音BGM简直上头停不下来。\",\n  \"why_trending\": \"这种二次元+AI技术结合的视觉效果太惊艳了，而且跳舞视频自带病毒式传播属性，一刷屏大家都忍不住模仿或者二创，自",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Jay Feely",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "{\n  \"explanation\": \"Jay Feely在X上火了因为他又出来怼人了——这回是喷NFL延期比赛的决策，说联盟只顾赚钱。球迷加八卦粉直接吵翻，把这条吐槽顶上了热搜。\",\n  \"reason\": \"这老哥是前NFL踢球手转评论员，嘴毒又有内幕嗅觉，每次他骂联盟都踩中粉丝对‘资本操控体育’的集体不爽点，不跟风才怪。\"\n}",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Jacob Wilson",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这家伙是个职业棒球选手，超新星级别，最近因为一场疯狂的三杀防守上了推特热搜，大家一边刷一边喊卧槽，简直神仙操作。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Sam&#39;s Club",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "哎呀，Sam's Club（山姆会员店）又上热搜了！主要是因为它搞了个超火爆的限量新品（比如巨型零食桶或网红蛋糕）被抢到断货，再加上社交媒体上一堆人晒购物车对比Costco疯狂拉踩，大家就吵着谁家的会员卡更香了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "InTheCity",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "{\n  \"topic\": \"InTheCity\",\n  \"summary_cn\": \"这话题大概在聊城市里的乱糟糟日常，比如交通堵成狗、晚下班还挤地铁那种‘城里人没人权’的吐苦水。上趋势大概率是周末了，大家又想起通勤辛酸和City Walk被po烂的对比，加上有人带节奏吐槽本地物价飙升。\"\n}",
           "sentiment": "中性"
         },
         "tweets": []
