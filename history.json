@@ -1,5 +1,220 @@
 [
   {
+    "date": "2026-09-23",
+    "time": "2026-09-23 16:53",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "PPxSHUFFLE",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "@pp_privatejet_2 我真的能赢这个吗🐐 洗牌名字-FazewishGw #PPxSHUFFLE",
+          "summary": "就是个老哥在参与一个叫PPxSHUFFLE的抽奖或洗牌活动，@了主办方问自己能不能赢，顺手带上了山羊表情和话题标签。整体氛围很日常，属于粉丝在活动底下凑热闹刷存在感，没啥可吵的。",
+          "sentiment": "中性"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/FazewishGw/status/2102586001315271056"
+          }
+        ]
+      },
+      {
+        "trend": "dwts",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "新一季#DWTS 的第一对搭档来啦！@WitneyCarson 今年秋天回归，搭档 @IAMGUILLERMO 💃🕺",
+          "summary": "官方刚官宣新一季《与星共舞》第一对组合，Witney 回归带 Guillermo，粉丝直接开始站队磕 CP。大家一边期待这对能擦出火花，一边又忍不住吐槽节目组怎么总爱搞这种组合套路。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/officialdwts/status/2089336440945508459"
+          }
+        ]
+      },
+      {
+        "trend": "Padres",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Padres就是美国职棒大联盟的圣地亚哥教士队，最近上了X趋势多半是因为比赛有大新闻——要么是赢下关键战，要么是交易截止日前搞了大动作，球迷刷屏刷出来的热度。这种MLB球队上趋势通常就是比赛打得好、有大交易、或者球员有争议言论，棒球迷一激动就把它顶上去咯。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "TheDrop",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "TheDrop 是指 X 上最近一个专门放独家潮牌发售、限量数字藏品或加密空投预告的话题标签，很多品牌和 KOL 用它来发倒计时和购买链接。它会上趋势主要是因为某个热门项目（比如某运动品牌或 NFT 平台）突然官宣了一个超低价或超限量的 drop，大家疯狂转发防错过，直接把它顶上了热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Marlins",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Marlins就是美国职棒大联盟（MLB）的迈阿密马林鱼队，今天上趋势多半是因为比赛结果炸了——要么是打出了离谱的逆转/绝杀，要么是交易截止日搞了大新闻。反正美国那边球迷一激动，Marlins就冲上热搜了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "PixVerseWorldModel",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "PixVerseWorldModel 是 PixVerse 团队新推的一个 AI 世界模型，据说能实时生成可交互的 3D 场景，还能让用户用文字或图片直接“造世界”。它上趋势主要是因为效果炸裂且免费开放，大家疯狂转发测试，加上和之前爆火的 Genie 类模型正面刚，圈内人都在蹲它会不会颠覆游戏和元宇宙。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Moonshot V2 Launchpad",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Moonshot V2 Launchpad 是最近 X 上被疯狂刷屏的新项目发射平台，简单说就是帮新代币搞 IDO 和空投的那套玩法升级版。它能上趋势主要是因为撸毛党疯狂转推蹲白名单，再加上几个大 V 喊单带节奏，FOMO 情绪一下就起来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "New Listing Around the Corner",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个趋势说的是某款重磅新品（数码、游戏、球鞋都有可能）官方刚暗示或官宣要发布了，网友全在猜配置、价格和发布时间。因为大家蹲点等了好久，加上爆料和谍照满天飞，一下子就把话题顶上了趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Opus 5.5",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Opus 5.5 是 Anthropic 刚发布的 Claude Opus 模型新版本，主打更强的编程和 Agent 能力，一上线就在 X 上被开发者拿来跟 GPT、Gemini 各种跑分对比。它上趋势主要是因为这波升级幅度不小、又正好撞上各家大模型密集发版的节奏，大家边测边吵“谁才是现在最强的模型”。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Listing ID",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Listing ID 在 X 上突然成热词，主要是因为币圈和交易所用户老在推特上晒、问或吐槽各种加密货币的“上线编号”，把原本很小的技术细节聊成了热梗。\n\n大家扎堆讨论它是怕踩坑或错过空投，加上大V和营销号一带节奏，就把它顶上趋势了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Cabrera",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Cabrera这波上趋势，是因为迈阿密马林鱼队的明星球员Luis Arraez在交易传闻中被牵扯进涉及Cabrera（可能是队友Edward Cabrera）的潜在交易方案，球迷圈直接炸锅开撕。再加上X上的体育博主们疯狂转发小道消息和“消息源”截图，瞬间把它顶上热门。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Matt Shaw",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "{\n  \"summary1\": \"最近 X 上好多人在聊 Matt Shaw，这哥们儿是个英国籍的 iOS 越狱开发大神，因为他刚宣布要搞一个“终极越狱工具”让老设备重获新生，直接被技术圈刷屏了。\",\n  \"summary2\": \"之所以冲上趋势，是因为苹果刚封了侧载漏洞，他偏要顶风作案，而且他之前做过好几个爆火的插件，网友都在蹲他这次能不能再整出个神活儿。\"\n}",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Carla Leite",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Carla Leite是葡萄牙一位网红/模特，最近在X上被大量转发讨论，主要围绕她发的性感照片和引发的争议言论。会上趋势是因为她的内容既吸引眼球又踩到了性别话题的雷区，网友吵着吵着就把它顶上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Vesna",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Vesna 是最近 X 上突然火起来的一个名字，因为有人发了段视频/帖文说她可能是某个大瓜的主角或者背后有故事，具体啥情况还在扒。反正就是网友们顺着蛛丝马迹开始疯狂玩梗+求证，越传越离谱，就这么顶上趋势了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Lynx",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Lynx 这两天在 X 上火了，主要是特斯拉的\"赛博卡车\"Cybertruck 因为前卫造型被网友疯狂玩梗，而 Lynx 其实是另一家车企（福特旗下经典车型）的名字，引发了一场关于\"谁才是真正未来感设计\"的对线。热度来源是马斯克转了一条调侃 Lynx 的帖子，直接把话题顶上趋势，加上科技圈和车圈互撕，流量就炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Credits",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这就是推特把「看广告能拿创作者分成」那套玩到极致了，简单说就是以前只给蓝V发钱，现在连普通用户发的好内容也能靠展示量换钱，于是全网都在刷屏互赞互关冲流量。\\n\\n之所以冲上趋势，是因为第一批晒收款截图的人动辄几百上千刀，瞬间点燃了全民「发推赚钱」的FOMO，再加上平台故意把门槛压低、算法给流量，等于官方下场发红包，谁不想薅一把。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Judge Judy",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Judge Judy（朱迪法官）是美国一档超长待机的法庭真人秀，主持人是退休法官朱迪·谢德林，她在节目上以毒舌、快刀斩乱麻的方式审理小额的民间纠纷，一播就是25年。最近她上趋势多半是因为在采访里对某个热点案件或公众人物放了几句狠话，被剪成短视频疯传，网友就爱看她那股不讲废话的暴脾气。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "De Paula",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个话题一般是指某个叫“De Paula”的人物或相关事件突然在 X 上被大量讨论，可能是球员、网红、政客或某个爆梗当事人，具体得看当时上下文。能上趋势通常是因为有突发新闻、争议言论或社媒名场面被疯转，大家一边吃瓜一边做表情包，热度就冲上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Ezra",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Ezra这词儿突然冲上X趋势，主要是因为黑客组织“Dark Storm Team”宣称对亲巴勒斯坦黑客攻击以色列的Ezra医疗系统负责，搞瘫了医院预约和电话系统。简单说，就是网络战打到医院头上了，大家一边谴责一边吃瓜，话题就炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Valks",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Valks 是最近 X 上突然火起来的一个梗/圈子代号，具体指瓦尔基里（Valkyries）相关二创或某个亚文化企划，突然被大量转发和玩梗。它上趋势主要是因为某条爆款帖或事件触发了二创联动，带着 #Valks 标签的图和短视频像病毒一样传开，大家跟风蹭热度就顶上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-09-22",
     "time": "2026-09-22 16:51",
     "source": "trends24.in",
@@ -12695,213 +12910,6 @@
         "summary": {
           "translation": "",
           "summary": "Deadpool 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      }
-    ]
-  },
-  {
-    "date": "2026-07-25",
-    "time": "2026-07-25 14:08",
-    "source": "trends24.in",
-    "items": [
-      {
-        "trend": "Trump 2028",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Trump 2028 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "SmackDown",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "SmackDown 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "WHCD",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "WHCD 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "OPLive",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "OPLive 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "White House Correspondents",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "White House Correspondents 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Kaitlan Collins",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Kaitlan Collins 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Azzi",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Azzi 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Densetsu1stLive",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Densetsu1stLive 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Starship",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Starship 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Finn",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Finn 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "OPNation",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "OPNation 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Dylan Mulvaney",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Dylan Mulvaney 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Kentavious Caldwell-Pope",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Kentavious Caldwell-Pope 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Laufey",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Laufey 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Sami",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Sami 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "WHCA",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "WHCA 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Three 80s",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Three 80s 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Logan Webb",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Logan Webb 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "SummerSlam",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "SummerSlam 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Wolf Blitzer",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Wolf Blitzer 是今天 X 上的热门话题，具体讨论内容待补充。",
           "sentiment": "中性"
         },
         "tweets": []
