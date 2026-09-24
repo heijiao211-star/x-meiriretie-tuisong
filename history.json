@@ -1,5 +1,223 @@
 [
   {
+    "date": "2026-09-24",
+    "time": "2026-09-24 16:48",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Hader",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Hader 指的是演员 Bill Hader，最近因为一段他在采访中聊到自己为《巴瑞》第四季疯狂减重、还自曝每天只吃一顿饭的视频在外网疯传。加上他早年 SNL 的搞笑片段被一波怀旧账号重新翻出来，连带着他跟老婆在红毯上的腻歪镜头也被做成了 meme，这一套组合拳下来就直接把它推上 X 趋势了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "ADifferentWorld",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "三十年前，#TheCosbyShow 的衍生剧 #ADifferentWorld 结束了它六季的播出。所以，我们整理了这部标志性剧集演员们如今的境况。",
+          "summary": "这波怀旧潮在聊一部30年前的黑人情景喜剧《A Different World》，它作为《考斯比一家》的衍生剧曾红极一时，现在大家在追踪演员们的现状。看点和笑点集中在今昔对比和回忆杀上，纯纯的怀旧吃瓜现场。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/TVInsider/status/1678027975323729922"
+          }
+        ]
+      },
+      {
+        "trend": "Lawrence Tanter",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "[@lakers]：Lawrence Tanter，作为湖人大家庭的一员，永远在我们心中💜\\n\\n[@DanWoikeSports]：湖人长期传奇现场播报员 Lawrence Tanter 即将退休。他将继续留在球队担任顾问。Tanter 去年三月遭遇健康问题，无法在赛季剩余时间继续工作。",
+          "summary": "湖人球迷正在集体致敬队史传奇播报员 Lawrence Tanter，他因健康问题退休，转任球队顾问。没什么争议可吵的，评论里全是怀念和祝福，大家更多是在感慨他的声音就是湖人主场的标配。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/lakers/status/2102977129147519255"
+          },
+          {
+            "url": "https://x.com/DanWoikeSports/status/2066989744765227441"
+          }
+        ]
+      },
+      {
+        "trend": "Mariners",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“Mariners”这词最近挂在X趋势上，基本都是在聊西雅图水手队（MLB棒球队）的比赛或者交易动态，球迷一激动就把它刷上去了。赶上赛季关键战、球员爆种或者大交易传闻的时候，这词就跟过年似的反复冒头。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Survivor51",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Survivor51就是美国老牌真人秀《生存者》第51季开播了，这一季又整了新花样，赛制改动和选手抓马直接让老粉炸锅。上趋势是因为开播当晚淘汰环节爆冷，加上选手之间火药味拉满，社交媒体上全是骂战和名场面截图，自然就冲上热搜了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Astros",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Astros是美国休斯顿的一支MLB棒球队，最近因为太空人作弊丑闻又被翻旧账，加上交易截止日操作引发球迷激烈互撕。话题能上趋势主要是因为球队刚做了个争议交易，加上作弊案历史让全网都能来踩一脚，热度自然炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Espada",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Espada 是《死神》里的破面十刃，最近因为千年血战篇动画的新剧情或者某个角色（比如乌尔奇奥拉、葛力姆乔）的高光场面又被翻出来刷屏了。上了趋势主要是因为老粉集体“爷青回”，加上新观众补番后也开始上头，讨论度和二创量一下炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Timothy Kelly",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Timothy Kelly 这个所谓的\"热门话题\"，说白了就是突然冒出来的一波关于某个外国主播/内容创作者的讨论，大部分是中文网友看到切片或旧料截图后跟风转了转，真看过的没几个。它能上趋势多半靠算法推了转发互动度高的短视频或爆料帖，至于背后到底有啥大新闻，多数自媒体也就喊两句\"到底发生了什么\"，干货基本没有。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Taylor Ward",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Taylor Ward是洛杉矶天使队的外野手，最近因为交易传闻和场上表现成了棒球迷热议的焦点。简单说就是：打得好被夸，打不好被骂，加上转会流言满天飞，直接冲上了X趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Elvira",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Elvira是推特上的一个热门梗，起因是网友把各种离谱搞笑的内容（比如AI生成的夸张画面或迷惑行为）都配上\"Elvira\"这个名字，慢慢变成了一个用来调侃\"抽象\"和\"发疯\"的代名词。它之所以上趋势，是因为大家发现用Elvira来概括那些\"精神状态美丽\"的瞬间特别精准，就疯狂刷屏玩起来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Peltola",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Peltola 一般指的是美国阿拉斯加州的民主党政治人物 Mary Peltola，她2022年拿下原本共和党铁票的联邦众议员席位，成为阿拉斯加史上第一位原住民女性议员，当时全网都在刷\"爆冷\"。之所以会冲上趋势，多半是她又搞出什么大新闻——比如2024年竞选连任失利、或跟川普支持的对手佩林（Sarah Palin）又掐起来了，这群人凑一块儿话题度永远不会低。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "New Listing Around the Corner",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "简单说就是 X 上好多人在刷『附近的新房源即将上线』，通常指的是某个大家关注的东西——可能是新专辑、新游戏、新版本、新楼盘，甚至新 NFT——官方放话马上就要发布了。之所以上趋势，是因为粉丝或买家蹲了好久终于等到预告，大家一边猜一边互相通知，情绪一下子就炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Moonshot V2 Launchpad",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Moonshot V2 Launchpad 是加密圈最近一个叫 Moonshot 的项目搞的新版代币发射平台，简单说就是给新币提供一个“打新”和上线的流水线。它之所以上趋势，是因为大家觉得它可能带来一波新的薅羊毛和暴富机会，再加上推特上各种 KOL 和机器人拼命喊单，FOMO 一下就冲上热搜了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "AEWDynamite",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "AEW Dynamite是美国职业摔角联盟AEW的每周旗舰电视节目，通常在TNT或TBS播出，以高质量比赛和 unpredictability 著称。它上趋势多半是因为当晚有冠军赛、惊喜首秀或重大剧情转折，摔角粉丝集体刷屏讨论。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Listing ID",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Listing ID 就是币安、Coinbase 这类交易所在上新币前放出的一个预报编号，有人提前扒到编号或内部消息，就知道哪个币要上架了。因为上大所通常意味着暴涨，所以每回有点风吹草动，大家就疯狂猜编号对应哪个币，话题自然被顶上趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Josh Naylor",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Josh Naylor是MLB克利夫兰守护者队的加拿大一垒手，最近因为一场比赛中跑垒时做出夸张的‘婴儿摇晃’庆祝动作，被对方投手丘上的对手嘲讽，随后两人隔空互喷，裁判给了警告。这事在X上炸了，因为球迷觉得他戏太多，也有人觉得他真性情，视频片段疯传。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Judge Kelly",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Judge Kelly 指的是美国地区法官凯莉（Kelly），最近因为连续叫停特朗普政府的几个行政命令（比如冻结联邦拨款、裁员等）而被推上风口浪尖。简单说就是，法官硬刚总统，特朗普支持者炸锅了，民主党那边拍手叫好，所以这个话题就冲上了趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "AEWCollision",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "AEW Collision就是AEW（全精英摔角）每周六晚上那档摔角节目，跟WWE的SmackDown打对台的，粉丝平时就爱在网上聊比赛结果、剧情走向和谁又整活了。\n\n上趋势基本就几种情况：要么是当晚出了神级比赛或者冠军易手的爆点，要么是CM Punk这种自带流量的大佬搞出什么新闻，粉丝一激动就把它顶上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "teenageee",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“teenageee”这词儿最近在X上火了，其实就是网友们拿“teenage”这个英文词（青少年）故意多加几个e来卖萌或者表达一种“青春期那种又懵又燥”的情绪，常见于发一些怀旧、emo或者自嘲的段子。它能上趋势主要是因为大家跟风拿这个拼写来配图配视频，比如翻自己中学时的黑历史、吐槽当年的中二，越玩越上头就刷起来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Salas",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Salas这波上趋势，大概率是因为某个叫Salas的人或事突然炸了——可能是阿根廷球员的骚操作、智利总统的发言、或者一个叫Salas的网红搞了波大的，具体得看你刷到的是哪个。反正X上热度一上来，大家就开始跟风玩梗、扒背景、站队互撕，属于典型的‘一个人名加个话题就能吵一天’现场。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-09-23",
     "time": "2026-09-23 16:53",
     "source": "trends24.in",
@@ -12695,221 +12913,6 @@
         "summary": {
           "translation": "",
           "summary": "#Wembley 突然上趋势是因为现场又出幺蛾子了！要么是音乐节有人抢麦嗨到断电，要么是球迷在温布利球场吵架打架闹到热搜。总之大型活动一开，伦敦地标就容易变成吃瓜集散地。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      }
-    ]
-  },
-  {
-    "date": "2026-07-26",
-    "time": "2026-07-26 14:27",
-    "source": "trends24.in",
-    "items": [
-      {
-        "trend": "Spence",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Spence 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/ColtSpence_/status/1648372694604447744"
-          }
-        ]
-      },
-      {
-        "trend": "Mead",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Mead 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/leemeadofficial/status/1616089409476075521"
-          }
-        ]
-      },
-      {
-        "trend": "Ghost Rider",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Ghost Rider 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Black Panther",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Black Panther 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "David Jonsson",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "David Jonsson 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Shawn Levy",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Shawn Levy 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "T&#39;Challa",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "T&#39;Challa 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Damson",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Damson 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Connelly",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Connelly 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "The Long Walk",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "The Long Walk 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Crawford",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Crawford 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Ryan Coogler",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Ryan Coogler 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Chadwick",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Chadwick 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Blade",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Blade 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Toonami",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Toonami 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Shuri",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Shuri 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "TokyoRevengers",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "TokyoRevengers 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "boxing",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "boxing 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Breslow",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Breslow 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Deadpool",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Deadpool 是今天 X 上的热门话题，具体讨论内容待补充。",
           "sentiment": "中性"
         },
         "tweets": []
