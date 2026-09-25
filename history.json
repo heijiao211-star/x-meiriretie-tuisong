@@ -1,5 +1,212 @@
 [
   {
+    "date": "2026-09-25",
+    "time": "2026-09-25 17:09",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Packers",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“Packers”这词儿在X上冲趋势，一般不是聊绿湾包装工队（NFL）的比赛，就是NBA密尔沃基雄鹿队（Bucks）的球迷在黑“打包”某笔交易。  \n能上趋势多半是因为刚打完一场有争议的季后赛/常规赛，或者有球星突然被传要“打包走人”，球迷吵翻天就给顶上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Cleveland",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Cleveland（克利夫兰）突然上趋势，是因为骑士队季后赛搞了个大新闻——米切尔狂砍50分还是输球，球迷全在刷#Cleveland自嘲‘又是陪跑的一年’。另一个原因是当地一家百年老店突然关门，大家借着话题集体回忆这座‘被诅咒的城市’有多惨多可爱。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "SHUFFLE",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "最近X上SHUFFLE火了，主要是因为一段魔性舞蹈挑战——大家跟着节奏随机切换舞步，视频又土又上头，网友们纷纷跟拍玩梗。加上几个大V和明星带头发了翻跳视频，算法一推就彻底爆发了，轻松解压的内容谁不爱呢。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Taylor",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "泰勒·斯威夫特在X上又炸了，这次是因为她突然发了一首重录版老歌的片段，粉丝直接疯狂刷屏。加上她刚宣布了新的巡演日期，全网都在猜她是不是要放大招，所以直接冲上趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "tinashe",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Tinashe是美国R&B女歌手，最近因为新歌/新专辑或者某个现场表演炸了，在X上被疯狂讨论。她一直有‘歌红人不红’的标签，这次终于靠实力/话题度冲上趋势，粉丝和路人都在刷她的舞台和梗。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jordan Love",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Jordan Love是NFL绿湾包装工队的首发四分卫，最近因为刚签下4年2.2亿美元的超级大合同，成了全美体育圈的热议焦点。他上了趋势是因为球迷们都在吵这份合同到底值不值——毕竟他上赛季季后赛表现确实亮眼，但常规赛样本还不够多。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "TSTLOASTheEncore",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "TSTLOASTheEncore 是 Taylor Swift 巡演纪录片《The Eras Tour》的加长版上映话题，粉丝狂刷标签庆祝。因为突然官宣加映并新增表演片段，全球霉粉集体过年，所以直接冲上趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Falcons",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Falcons是《反恐精英》里的一支职业战队，最近因为签下了超级明星选手s1mple（可能是租借或短约），直接引爆了电竞圈。大家都在讨论这个“银河战舰”到底能不能起飞，结果比赛还没打几场，各种抓马和悬念就先上了热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Pink Clouding",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“Pink Clouding”就是嗑药/醉酒上头时那种虚假的幸福感——觉得自己被爱、被懂、啥事没有，一清醒全碎了。它能上趋势是因为网上越来越多人拿它聊恋爱脑和Drugs后的假性亲密，连Taylor Swift都玩过这个梗，把“粉红泡泡”和成瘾类比串一起了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Patient Zero",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "大家最近在X上刷到的Patient Zero，其实是指COVID-19疫情初期那个被误传为「零号病人」的武汉女医生，后来被证实根本不是第一个感染者。这波上趋势是因为有博主翻出当年外媒的不实报道截图，引发大量网友吐槽西方媒体甩锅和网暴素人，外加新变种又冒头，大家就开始考古了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Babylon",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Babylon 是个比特币质押协议，能让你的 BTC 在不离开自己钱包的情况下参与 PoS 链赚收益。最近它主网上线加上空投预期，大家疯狂涌入质押，直接把它推上了趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Bijan",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Bijan 是 X（原Twitter）上的热门话题，主要因为他是一个通过“晒日常”疯狂涨粉的网红，粉丝数突然爆炸式增长，大家开始好奇他到底是谁。另一个原因是网友发现他很多内容明显是买来的流量和刷数据，于是引发了一阵群嘲和扒皮，把他推上了趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Drake London",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Drake London是美国NFL亚特兰大猎鹰队的接球手，最近因为交易传闻和球队操作突然冲上X趋势。大家疯传他可能被交易或伤病有变，球迷全在蹲后续。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "AHS13",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "AHS13 是《美国恐怖故事》第十三季的缩写，最近因为官方发布了首支预告和卡司阵容，突然冲上了 X 趋势。简单说就是：这部长寿恐怖剧要回归了，而且这次据说是“元恐怖”设定，加上老演员莎拉·保罗森可能回来，粉丝直接炸锅。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Matt LaFleur",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Matt LaFleur是NFL绿湾包装工队的主教练，最近因为球队战绩波动、临场指挥被球迷狂喷，尤其输给同区死敌后，#FireMattLaFleur 和辩护理性派的讨论直接对撞上车。火上浇油的是他赛后采访里对关键决策的解释被剪成短视频疯传，评论区瞬间分裂成“该炒”和“再给一年”两派，就这么闹上趋势了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Penix",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Penix是亚特兰大猎鹰队在2024年NFL选秀首轮第8顺位选中的四分卫Michael Penix Jr.，这哥们大学最后一年在华盛顿大学打得风生水起，带队杀进全国冠军赛，结果猎鹰已经给了大合同签了Kirk Cousins还选他，直接炸锅。  \n上趋势主要是球迷和媒体都在骂猎鹰管理层脑子进水，花大钱签老将又用高顺位选个可能需要养伤病史的新秀，加上Penix自己是左撇子四分卫自带话题度，讨论度直接拉",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Lucas Spence",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Lucas Spence是个在英国的小哥，因为一段他在街头被警察盘问的视频火了——视频里他因为长相或口音被警察盯上，全程冷静录影还反问警察凭什么拦他，结果警方的回应漏洞百出。上趋势是因为大家觉得这画面太典型了：无辜的人被刁难、执法者说不出正当理由，加上他社交媒体上的后续回应很刚，直接引爆了关于种族歧视和警察权力滥用的讨论。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "criticalrolespoilers",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这是《Critical Role》粉丝在刷屏剧透预警的标签，主要是新一集播出后大家讨论剧情时用的。上趋势是因为最近剧情有大转折，不少观众急着分享又怕误伤还没看的人，就集中带这个话题发帖，结果越刷越热。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Kyle Pitts",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Kyle Pitts是NFL亚特兰大猎鹰队的近端锋，最近因为交易传闻和表现低迷被球迷疯狂讨论。他当年是第四顺位天才新秀，现在却被骂水货，刚巧赶上交易截止日快到了，话题就炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Nneka",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Nneka Ogwumike 是 WNBA 的球星，最近因为加盟了纽约自由人队又夺冠了，球迷们在疯狂刷她的名字庆祝。简单说就是一个打篮球的姐姐太牛了，带队拿了冠军，网友集体沸腾。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-09-24",
     "time": "2026-09-24 16:48",
     "source": "trends24.in",
@@ -12695,224 +12902,6 @@
         "summary": {
           "translation": "",
           "summary": "{\n  \"hot_topic\": \"Sol Ruca\",\n  \"summary_cn\": \"Sol Ruca是美国职业摔角界的新星，最近在NXT比赛里搞出了个超帅的‘弹簧刀高踢’动作，引爆推特热搜！摔角迷全在刷屏，因为这妹子又飒又敢拼，人气直接起飞。\"\n}",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      }
-    ]
-  },
-  {
-    "date": "2026-07-27",
-    "time": "2026-07-27 14:53",
-    "source": "trends24.in",
-    "items": [
-      {
-        "trend": "AEWRedemption",
-        "sentiment": "争议",
-        "summary": {
-          "translation": "“这是我们的救赎故事。”双料AEW世界双打冠军#FTR在TNT的AEW Rampage上向大家喊话！",
-          "summary": "FTR又在吹自己的冠军救赎剧情，粉丝们分两派——一拨人觉得这配对戏码真热血，另一拨嫌他们老玩同一套全靠粉丝情怀撑。热门原因大概就是双打组最近剧情走向要冲新高潮，有人想磕故事有人想看真打。",
-          "sentiment": "争议"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/AEW/status/1647057163733401601"
-          }
-        ]
-      },
-      {
-        "trend": "LaCasaDeLosFamososMx",
-        "sentiment": "吃瓜",
-        "summary": {
-          "translation": "[@LaCasaFamososMx]: 豪尔赫在套房里为保罗的离开哭泣 🥺 #墨西哥名人之家\n\n[@LaCasaFamososMx]: 这个账号超爱Japio 🥰💝 通过@VIX免费重温#墨西哥名人之家节目 👉 https://bit.ly/43TLNcA",
-          "summary": "这特么就是典型的真人秀抓马啊——有人为队友离开哭得稀里哗啦，另一方疯狂安利节目吸粉。核心看点无非是观众在吃瓜明星们的塑料情谊，刷存在感催收视，情绪大概就两种：上头党和吃瓜路。",
-          "sentiment": "吃瓜"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/LaCasaFamososMx/status/1678293392860512257"
-          },
-          {
-            "url": "https://x.com/LaCasaFamososMx/status/1678481714983714817"
-          }
-        ]
-      },
-      {
-        "trend": "Jason",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这个Jason大概率是某个突然炸了的网红或者翻车明星，可能是爆了瓜或者干了啥离谱事儿，大家刷屏我看看热闹，一波吃瓜潮就冲上趋势了～",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "HOTD",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "HOTD是‘House of the Dragon’缩写，《龙之家族》这剧最近新一集封神了，讨论度高到炸。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Kamu",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Kamu 好像是某个动漫/游戏角色或者印尼语里的‘你’，今天突然上了趋势，可能是有新片段或者梗图炸了。反正大家都在刷，跟风玩梗就完了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Seattle Center",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Seattle Center 今天刷屏是因为那儿正在搞大型音乐节和文艺活动，围观的人太多直接炸上趋势了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Willow",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Willow（柳枝/蒲柳）最近上趋势，可能是因为某个明星或网红晒了张“河畔柳树”的emo心情感悟照，再加点“柔软但坚韧”鸡汤，网友就疯狂引用。要么就是某首老歌《Willow》被翻红，让大家集体回忆青春，直接聊上头了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "HouseOfTheDragon",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "{\n  \"topic\": \"HouseOfTheDragon\",\n  \"summary_cn\": \"《龙之家族》第二季刚开播，铁粉们正疯狂讨论坦格利安家族内斗的血腥场面，尤其是那个龙战镜头直接炸了热搜。\",\n  \"why_trending\": \"因为新一集有大型屠龙名场面加主角黑化，剧粉和原著党在线撕逼谁更合理，大家边骂边刷话题停不下来。\"\n}",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Berlanga",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Berlanga突然上趋势，大概率是某个叫Berlanga的网红/运动员/争议人物搞出了新瓜，或者是有部相关剧/直播出了名场面。说白了就是突然炸出一堆人在刷这个名字，要么夸操作骚，要么骂人设翻车。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Andrade",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "\"欸，Andrade这哥们儿上热搜了，他是WWE的摔角手，最近比赛搞出了猛料或者跟同事撕B了，铁粉们直接刷爆话题。总之就是摔跤圈粉丝在站队或者回忆经典瞬间，反正吃瓜看热闹就完事儿了！\"",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Ospreay",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Ospreay 最近在摔角圈炸了，因为他在 AEW 直播里跟另一个狠人打了场神仙打架级别的比赛，动作太猛直接刷屏晒截图。这波上趋势主要就是围观那几招离谱的高空飞扑，外加粉丝撕逼到底算不算年度最佳对决",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Morty",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Morty这个趋势火起来主要是因为《瑞克和莫蒂》的粉丝们又开始疯狂二创那些跨次元脑洞片段了，尤其是第七季的新角色反转引起全网爆笑吐槽。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Thekla",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这话题大概率在讲欧美那边一个叫Thekla的网红/模特/rapper（具体是谁看情况），上趋势多半是因为发了争议性言论或者跟人对线，吃瓜群众看热闹不嫌事大直接顶上去的。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Kenny Omega",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "\"Kenny Omega又上X趋势了！大概是他跟WWE的转会传闻太猛了，加上他今早在龙之梦发了个神秘自拍，摔迷直接炸锅。谁让这货是独立界最骚摔角手呢，隔三差五靠比赛硬照和嘴炮就冲上首页了。\"",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "LCDLFMX",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "LCDLFMX 是‘老陈的离谱发明秀’的拼音缩写，话题里疯狂吐槽某个网红博主搞的沙雕发明。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Aldo",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "现在搜Aldo大家都在拼鞋——是那个加拿大鞋履品牌，突然被网友扒出有双神似巴黎世家的鞋，价格只要十分之一，全在吵‘平替界的尽头是Aldo’。再加上ins博主集体带货，一脚踩两波热度，可能狠狠冲锋了一波#摩洛哥夏日鞋柜大公开#。 (｡ì _ í｡)",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Criston Cole",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "啥Criston Cole啊？就是《龙之家族》里头那个护城队队长，第二季一出他把骑士宿敌宰了，大家激动得要命。这场戏又狗血又精彩，所以直接杀上热搜了呗。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Kevin Knight",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Kevin Knight 突然上了趋势，主要因为他被指在10年前一起严重性侵案中埋下证据，这事儿最近被警方翻出来实锤了。吃瓜网友都在刷‘真相会迟到但不会缺席’，讨论度瞬间就炸了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Alicent",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "JSON: {\n\"trending_topic\": \"Alicent_Hightower\",\n\"what\": \"《龙之家族》里那个绿党王后Alicent，因为昨天新一集里的宫斗戏码和逆天操作，直接冲上热搜了。\",\n\"why\": \"大家既想骂她心机又心疼她被权力裹挟，讨论她到底是纯恶人还是可怜人，撕得贼热闹所以炸了趋势。\"\n}",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Wembley",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "#Wembley 突然上趋势是因为现场又出幺蛾子了！要么是音乐节有人抢麦嗨到断电，要么是球迷在温布利球场吵架打架闹到热搜。总之大型活动一开，伦敦地标就容易变成吃瓜集散地。",
           "sentiment": "中性"
         },
         "tweets": []
