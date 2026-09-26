@@ -1,5 +1,212 @@
 [
   {
+    "date": "2026-09-26",
+    "time": "2026-09-26 16:52",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Clemson",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "克莱姆森大学（Clemson University）是美国南卡罗来纳州的一所公立大学，平时上趋势多半是因为橄榄球。这次上趋势主要是因为该校橄榄球队（Clemson Tigers）有重大比赛或转会/教练变动等新闻，加上美国大学橄榄球粉丝基数巨大，一有动静就能刷上趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Northwestern",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "西北大学最近在 X 上火了，主要是学校整了个大活——可能是某项争议政策、体育爆冷或学生整活视频出圈，引发全网围观吐槽。话题能上趋势，无非是戳中了留学生/校友的集体记忆，或者踩中了美国高校圈的热点雷区，大家一边吃瓜一边对号入座。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "AFLGF",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "AFLGF 其实是个冷门梗缩写，最近被 X 上一波玩抽象图的网友带火了，没人真在乎它代表啥。上趋势纯粹是因为大家复制粘贴刷屏，纯粹图一乐，跟风玩梗而已。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "LaGranjaVPMX",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这其实是墨西哥一个叫La Granja的农场或乡村社区相关的标签，VPMX大概率是某个当地活动、品牌或网红打卡地的缩写，最近可能因为一段魔性视频或某个大V带节奏突然火了。它上趋势多半是因为墨西哥网友集体玩梗，比如拿农场里的动物、泥巴路或者土味日常疯狂二创，再加上算法助推就出圈了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Indiana",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Indiana（印第安纳）突然上X趋势，主要是因为网友把“Indiana”玩成了网络梗，用来代指一种“互联网上没人关心、存在感极低”的地方或事物。这波趋势多半是网友自发玩梗，加上一些大V跟风转发，讽刺美国某些州在新闻里常年“查无此州”的搞笑局面。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "JDJaideeFMinSeoul",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "JDJaideeFMinSeoul 就是泰国顶流明星 Jeff Satur（粉丝爱叫他 JD）去了首尔，参加一个叫 \"Jaidee FM\" 的粉丝见面会或者电台活动，现场照片视频一出来粉丝就炸了。因为 JD 在泰国和东亚人气都很猛，加上首尔场次有新鲜物料和互动，粉丝疯狂转发和刷话题，自然就推上趋势了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Ashton Hampton",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Ashton Hampton是一位美国说唱歌手兼TikTok网红，最近因为在一档播客节目里大谈“约会经济学”——说女生凭什么要他买单、不如AA甚至让女方请——直接引爆全网骂战。挺他的人和喷他的人吵得不可开交，话题就冲上了X趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Tosh",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Tosh 大概率是指英国演员/主持人 John Tosh（全名 John Toshack？）——不对，更可能是 **Tosh.0** 那个美国喜剧节目主持人 Daniel Tosh，他经常因为犀利吐槽或者节目片段在 X 上被翻出来疯传。也有可能是别的同名人物或梗，具体得看当天实时内容。  \n\n会上趋势通常是因为他某段老视频被人剪出来、或者发了条争议/搞笑的推文，然后网友疯狂转发玩梗，就冲上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Freo",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Freo这波上趋势主要是因为澳洲的Fremantle（弗里曼特尔）相关话题突然被网友翻出来玩梗，加上不少留学生在社交平台上晒当地生活照和吐槽，热度直接起飞。\\n\\n简单说就是弗里曼特尔这个地方突然成了聊天素材，大家用Freo这个昵称刷屏，成了个小范围的网络狂欢。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Air Force One",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个话题表面看是聊美国总统专机「空军一号」，但实际上X上大家吵的是特朗普和泽连斯基在白宫吵架时，有人提到如果乌克兰不听话就让他们尝尝空军一号的厉害；再加上最近特朗普坐着空军一号去各地拉票，顺便在飞机上开记者会炮轰对手，热度直接炸了。简单说，就是总统的飞机成了政治大戏的舞台，大家一边看热闹一边吐槽。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Gideon Davidson",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Gideon Davidson 是一位英国的青少年足球小将（效力于曼联青训），最近因为被拍到和一线队一起训练、加上名字被球迷疯狂玩梗而突然火了。X 上大家要么在聊他是不是下一个天才新星，要么纯粹因为“这名字听起来像个古典哲学家或者油画里的贵族”而把他刷上趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Chiles",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Chiles这波上趋势主要是因为美国体操名将乔丹·切尔斯（Jordan Chiles）的奥运铜牌风波——CAS仲裁要她把奖牌还回去，美国队不服上诉，加上她本人发声明说自己遭受了种族主义网暴，直接引爆舆论。另一头，《绝望主妇》女星伊娃·朗格利亚也姓Chiles——哦不对，是Eva Longoria……总之\"Chiles\"这词近期在X上被刷爆，一半是心疼乔丹，一半是骂裁判和网暴者。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Mize",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Mize 是最近 X 上突然火起来的一个名字/话题，大概率是某个新项目、事件主角或迷因，在极短时间内被大量转发和讨论推上了趋势榜。至于具体为什么火，通常是踩中了 crypto、科技圈或某个热门圈层的情绪点，加上 KOL 一带节奏就直接炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Brisbane",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "布里斯班（Brisbane）这两天突然冲上X趋势，主要是因为2032年奥运会筹备搞出了好几个大新闻，加上澳洲国内房价和移民话题又把它推上了风口浪尖，网友吵成一锅粥。\n\n简单说就是：奥运场馆到底建哪、花多少钱，本地人全网吐槽；同时布里斯班房租涨幅全澳第一，年轻人直呼活不起，两个话题撞一起直接爆了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Wash",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“Wash”这词儿在X上炸了，其实就是网友在疯狂吐槽/玩梗各种“洗”的操作——洗钱、洗数据、洗白、甚至洗衣服都能扯上。火起来是因为某大V拿它阴阳怪气某个翻车事件，结果大家发现万物皆可“wash”，直接玩成了集体造句狂欢。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Surf City",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“Surf City”这话题突然冲上X趋势，主要是因为Huntington Beach（加州冲浪之城）最近搞了个大新闻——他们跟州政府在移民庇护政策上硬刚，市议会投票支持联邦移民执法，结果被加州总检察长起诉了，全网都在吵这是“法治”还是“作秀”。再加上这城市名字自带冲浪度假滤镜，跟移民执法的硬核画风反差太大，网友一边吃瓜一边玩梗，直接把它顶上了趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "DDOS",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "DDOS就是有人用海量垃圾流量把网站或服务器堵死，正常用户刷不进去，相当于几百号人同时打你电话让你接不到正事。这话题上趋势多半是因为最近又有大平台被打了，或者某个黑客组织搞事、某游戏服务器崩了被网友骂上热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jordan Somerville",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Jordan Somerville 突然在 X 上火了，主要是靠一条被疯转的视频/帖子带起来的，网友一边猜真假一边疯狂二次创作。趋势原因大概率是内容够离谱或太有争议，加上几万条引用串联动，算法一推就炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Tait",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Tait 是最近推特上疯传的一个梗，源头是一段疑似 AI 生成的“假新闻”或恶搞内容，把某个虚构人物/事件包装得跟真的一样，结果网友越传越真、越挖越离谱。它上趋势主要是因为大家发现这玩意儿根本查无此人/此事，于是集体玩起了“考古+打假”接龙，热度全靠吃瓜和沙雕二创撑起来的。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Chris Hansen",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Chris Hansen 是美国那个专门在节目里蹲点抓恋童癖的记者，靠《To Catch a Predator》里一句“Why don't you take a seat”成了互联网祖传表情包。他突然上趋势，多半是新一期抓人节目、某大V玩梗，或者又被扯进什么陈年争议里。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-09-25",
     "time": "2026-09-25 17:09",
     "source": "trends24.in",
@@ -12695,213 +12902,6 @@
         "summary": {
           "translation": "",
           "summary": "Olivia Miles 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      }
-    ]
-  },
-  {
-    "date": "2026-07-28",
-    "time": "2026-07-28 14:16",
-    "source": "trends24.in",
-    "items": [
-      {
-        "trend": "WWERaw",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "WWERaw 今晚又要开打了，粉丝们都在刷屏聊剧情和选手，直接冲上了热搜。都是因为整活的剧情太抓马，加上突然爆冷门的比赛结果，把大家炸出来了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Steve Lacy",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Steve Lacy 是个搞音乐的黑人小哥，靠那首扫弦超魔性的《Bad Habit》刷屏 TikTok，最近他发的新歌或者现场整活又火了。上趋势是因为歌太洗脑或者他又在台上演了什么名场面，粉丝狂刷片段。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "jungkook",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "釜山男团BTS的黄金忙内田柾国又搞事了，不是刚发了新歌就是粉丝又在冲榜刷世趋。反正这位哥一发动态，粉丝连夜就能把楼盖到全球天花板，老规矩了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Raquel",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Raquel 目前是个莫名其妙冲上趋势的名字，好像跟某位西班牙网红或者明星有关，一堆人在刷她整容或者分手的新瓜。估计又是粉丝和吃瓜群众吵起来的节奏。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Barrett",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "{\n  \"topic\": \"Barrett\",\n  \"introduction\": \"就是一家叫Barrett的公司（可能跟狙击枪那家有关？）突然在X上炸了，有人晒了个怪订单引发全网玩梗。\",\n  \"why_trending\": \"主要因为评论区一群人编段子说‘下单买枪送红脖认证’，B站和抖音搬运后国内网友也乐了，直接笑上热搜。\"\n}",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Fauci",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Fauci 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "SpiderManBrandNewDay",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这话题指的是《蜘蛛侠》要整新动画电影了，好像叫《蜘蛛侠：新生代》还是啥的，据说是个新系列。上趋势是因为粉丝看到预告片发现画风和剧情跟之前几部不太一样，直接炸锅了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Yash",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "【加密梗王再就业？】Yash突然刷屏是因为个币圈老哥把自己推特号卖了套现，结果新金主开始疯狂刷推把话题怼上热搜。说白了就是有人砸钱买榜，但吃瓜群众都在等这个曾经的技术大V账号后面到底要发什么仙乐。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Billy the Kid",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Billy the Kid 是个美国西部传奇枪手，最近上推特趋势可能是因为有新剧或纪录片讲他的故事，或者有人翻出他的旧照争议。就跟咱聊古惑仔电影突然又火了似的，西部牛仔那点事儿现代人还爱看热闹。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Volpe",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "\"Volpe 是意大利语‘狐狸’的意思，最近是因为有人发了个啥狐狸的梗图突然火了，大家开始疯狂玩梗刷屏。上趋势就是因为国内网友跟风速度比外卖还快，莫名其妙就冲上热搜了。\"",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Flint",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Flint这个关键词突然炸了，主要因为一部叫《Flint》的医疗纪录片被疯转，讲的是美国密歇根州弗林特市自来水铅污染事件，揭露政府隐瞒13年的内幕。真相太触目惊心，全球网友一边怒骂一边转发，直接推上热搜发酵了政治话题。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Hannity",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Hannity是福克斯的右翼嘴炮大佬，他节目的口号就是怼左派、挺川普，今天上趋势要么是他又爆了什么猛料，要么就是评论区网友吵翻了。反正他每次开口都能掀起一场口水战。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Cardi",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "大概就是卡迪B和她老公Offset的离婚大戏又出新番，粉丝们疯狂吃瓜。上趋势主要是因为俩人在社交媒体上撕得火热，围观群众都在等下一集。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Frank Mason",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "讨论的是前NBA球员Frank Mason最近在海外联赛的一些争议表现和态度问题，国内篮球圈粉丝又在撕他了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Imai",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "{\n\"topic\": \"Imai\",\n\"reason\": \"Imai 是个日本视频博主，最近因为在街头用中文采访路人聊敏感话题（比如核废水、中日关系），视频被搬运到国内平台后火了。网友一边看他的真实街头问答乐子，一边吐槽‘这老外问的问题比记者还猛’，所以直接冲上趋势成了热点聊天素材。\"\n}",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Sadie",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "{\n  \"话题简介\": \"Sadie是最近X上刷屏的一个女孩，有人晒她可爱照片、有人吐槽她假笑，各种二创段子炸了锅。\",\n  \"上趋势原因\": \"其实就是一张热门梗图出圈了，网友开始疯玩她表情包，还延伸出了#sadiejokes这种造词大战，结果就被顶上热搜了。\"\n}",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "X Money",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "{\n  \"hot_topic\": \"X Money\",\n  \"explanation\": \"X Money就是外国网友吵的马斯克要把推特变成一个‘超级支付app’，跟咱们微信钱包似的能转账买东西。这不是鹅厂刚花钱把推特私有化了嘛，逮着机会就吹要搞整合，结果一半人喊好用一半人觉着是画饼。\"\n}",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Ali Sanchez",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Ali Sanchez好像是拉美那边的网红，最近因为一段搞笑视频或者争议发言在外网爆了，国内网友也跟风吃瓜讨论上了。估计是内容太有梗或者太雷人，直接冲上了趋势榜。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Morgan Freeman",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "哎呀，大家最近狂聊 Morgan Freeman 是因为他又在 Instagram 上发了个震撼的“播音腔”视频，聊点人生大道理，直接让网友集体上头！为啥上热搜？因为这老叔声音自带仙气，随便说句“早安”都能让人觉得今天得好好活，谁不爱听呢！",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Sol Ruca",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "{\n  \"hot_topic\": \"Sol Ruca\",\n  \"summary_cn\": \"Sol Ruca是美国职业摔角界的新星，最近在NXT比赛里搞出了个超帅的‘弹簧刀高踢’动作，引爆推特热搜！摔角迷全在刷屏，因为这妹子又飒又敢拼，人气直接起飞。\"\n}",
           "sentiment": "中性"
         },
         "tweets": []
