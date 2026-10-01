@@ -1,5 +1,212 @@
 [
   {
+    "date": "2026-10-01",
+    "time": "2026-10-01 18:31",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Reggie",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Reggie 这次上趋势，主要是北美那边突然疯传一个叫 Reggie 的人或梗，可能是某条爆笑视频、球员高光时刻、或是游戏圈的一个老梗复活。它能火起来全靠网友玩梗玩出了花，加上算法一推，大家跟风刷着刷着就冲上热搜了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Christa Pike",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Christa Pike是美国最年轻的女死囚之一，1995年20岁时因谋杀同学被判死刑，最近因为田纳西州要重启死刑执行、她的案子又被翻出来讨论。简单说就是：一个问题少女被男友带偏走上杀人路，现在成了死刑存废争议的焦点人物。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Happy New Month",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "简单说，这是老外每月1号固定刷屏的‘新月快乐’，就像咱们发‘三月你好’一样，图个仪式感。能上趋势纯粹是因为全球网友同一时间都在发，外加品牌和网红跟风带话题，就跟过年群发祝福一个道理。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Good Thursday",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题火起来是因为每周四全球网友都在玩\"周四快乐\"的梗，尤其北欧人爱用Good Thursday代替正能量早安图。它上趋势主要是因为时区接力赛——新西兰人先刷、欧洲人跟进、美洲人接力，加上打工人用\"已周四\"暗示快放假了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Cubs",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "芝加哥小熊队（Cubs）是MLB百年老牌棒球队，最近因为交易截止日前的操作或关键比赛表现被球迷疯狂讨论。\n上趋势多半是因为赢了一场刺激的比赛、爆出交易传闻，或者球员打出神仙球，大家直接刷屏了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Becerra",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Becerra 突然上趋势，主要是因为美国加州总检察长 Rob Bonta 被曝可能接替 Xavier Becerra 的职位，而 Becerra 本人正被讨论是否去竞选加州州长，圈内人都在猜这波人事变动。简单说就是：一个民主党老将的位子动了一下，下面一串人跟着动，吃瓜群众在看谁会接班。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Arike",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Arike 是爱尔兰剧集里一个关键角色突然下线引发的全网爆哭，粉丝在 X 上疯狂刷屏怀念她。\\n因为剧情刀得太突然，观众集体破防，直接把话题顶上趋势，顺便疯狂催更编剧还她一个公道。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Firing",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "最近X上\"Firing\"冲上趋势，说白了就是各种被解雇、被开的离谱名场面被疯狂转发，从大厂突然裁员到直播中当场走人，全是真人真事。之所以爆，是因为大家一边吃瓜一边焦虑——经济不景气时劳动纠纷和裁员视频格外扎心，谁看了不得共情一下。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Hilton",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Hilton（希尔顿）突然上热搜，其实是因为他们在X上发了一条玩梗推文，把“免费早餐”和“周三”绑定成了一种神秘仪式，结果网友集体开脑洞各种二创。\n\n大家疯狂转发的核心原因很简单：一个是连锁酒店放下身段自黑玩起来了，另一个是打工人真的太需要这种“周三小确幸”的安慰剂了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Independence Day",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "美国独立日（7月4日）到了，推特上全是老美晒烧烤、烟花和星条旗，还有一堆人玩“独立日”梗吐槽英国。这话题每年这时候必上趋势，因为全美放假+全球网友凑热闹，自然流量拉满。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Hazbin Hotel",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "《Hazbin Hotel》是部讲地狱里开酒店试图感化恶魔的成人动画，设定带感歌还好听，在欧美二次元圈已经疯传好几年了。这次上趋势是因为第一季正式在亚马逊Prime上线，憋了这么久的粉丝终于能看全集，全网都炸成烟花了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Kai Cenat",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Kai Cenat是美国超级火的Twitch主播和YouTuber，以疯狂整活、名人联动和超长直播出名，粉丝基本都是Z世代。最近上趋势多半是因为他又搞了个大动作——比如请来大牌明星一起直播、发起离谱挑战，或者跟其他网红起了beef，瞬间就被剪成切片全网疯传。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Omar Khan",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Omar Khan 是英国工党政治人物，曾任大伦敦地区交通事务副市长等职，近期因批评政府对亲巴勒斯坦抗议的处理方式或受右翼攻击而在 X 上被大量讨论。上趋势是因为加沙冲突和英国地方选举背景下的政治极化，加上他的高知名度，左右翼网友都在转发相关争议性片段或言论。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Brad Holmes",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Brad Holmes是NFL底特律雄狮队的总经理，最近因为球队战绩飙升、选秀操作封神，被球迷狂吹上了趋势。简单说就是：他几年内把一支烂队带成争冠热门，大家正排队给他道歉+封神。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "AEWDynamite",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "AEW Dynamite 是一档美国职业摔角节目，每周直播，跟WWE打对台那种。上趋势一般是因为节目里发生了劲爆剧情，比如冠军易主、大牌回归或者选手打出了年度最佳比赛，摔角迷们一激动就把它刷上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Uptober",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "简单说，Uptober 就是币圈人对十月的爱称，把 October 和 Up 拼在一起，意思是十月币价大概率要涨，大家盼着比特币带着大盘起飞。因为历史上十月往往是加密货币表现最好的月份之一，所以每年一到这个时候，韭菜们就集体高潮，提前开香槟，话题自然而然就冲上趋势了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Porter",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Porter 是最近 X 上一个突然火起来的讨论焦点，通常跟某个叫 Porter 的人或项目整了个大活有关，比如发币空投、爆料或者技术突破。它上趋势一般是因为加密圈、AI圈或科技圈的大佬们集体开麦，引发了病毒式跟风和吃瓜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Padres",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "教士队最近因为一笔震动联盟的大交易或者一场关键比赛杀疯了，球迷们都在疯狂刷屏讨论。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Paige",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Paige Bueckers 是美国康涅狄格大学的NCAA女篮明星球员，2025年WNBA选秀状元大热。她上趋势通常是因为打出了炸裂表现、伤病归来或者选秀/转会相关的新闻，球迷们刷屏讨论。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "MacKinnon",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "MacKinnon这个标签突然冲上趋势，主要是因为冰球圈那位超级巨星Nathan MacKinnon又搞出大新闻了——要么是季后赛杀疯了刷纪录，要么是采访说了什么直男发言被疯狂转发。另外也有可能跟最近跨性别运动员相关的政治口水战有关，因为这个词老被拿来当辩论靶子。简单说，就是体育圈和时政圈同时有人拿这名字刷屏。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-09-30",
     "time": "2026-09-30 18:03",
     "source": "trends24.in",
@@ -12612,236 +12819,6 @@
         "summary": {
           "translation": "",
           "summary": "《龙之家族》里那个独眼龙王子又上热搜了，主要是剧里他砍他侄子那段太狠，网友吵他到底是反派还是被逼的。反正就是欧美剧粉的日常撕逼，外加一堆人刷他帅（虽然只有一只眼）。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      }
-    ]
-  },
-  {
-    "date": "2026-08-02",
-    "time": "2026-08-02 14:24",
-    "source": "trends24.in",
-    "items": [
-      {
-        "trend": "Dodgers",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "道奇队将外野手科迪·贝林杰和内外野手扎克·麦金斯特里从伤病名单中激活，并将外野手DJ·彼得斯和内外野手谢尔登·纽斯下放至三A级俄克拉荷马城队。",
-          "summary": "这是道奇队正常的阵容调整，球迷在讨论贝林杰回归后能否找回状态，毕竟他近两年表现起伏。大家也在吐槽球队伤病太多，阵容像走马灯一样换人。",
-          "sentiment": "中性"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/Dodgers/status/1398684802513920001"
-          }
-        ]
-      },
-      {
-        "trend": "Zepeda",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Zepeda这波上趋势，多半是某个叫Zepeda的老哥搞了大新闻（可能是体育圈的猛操作或者政坛的瓜），大家伙儿正疯狂刷屏吃瓜呢。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Tigers",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "老虎这个话题突然炸了，是因为一段野外老虎追人视频疯传，网友吓得直呼‘这战斗力碾压狮子’。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "River Ryan",
-        "sentiment": "吃瓜",
-        "summary": {
-          "translation": "[@SteveoBlanc0]: @BaseballWRLD_ 那些觉得MLB总经理会根据媒体排名来评估新秀的推特高管告诉我，River Ryan毫无价值，这是怎么回事？[@FabianArdaya]: 我和@katiejwoo的消息源：道奇投手新秀River Ryan因腿筋问题进入小联盟伤病名单。他在俄克拉荷马城队赛季早些时候就曾因腿筋问题缺阵，本周的先发也被跳过了。",
-          "summary": "大家吵的是：有人嘲讽推特高管把媒体排名当真理，结果这位被看好的新秀又伤了，尤其还是同一个老毛病反复犯，直接成了打脸素材。另外，球迷们也在看道奇队的耐心消耗，因为River Ryan反复腿筋拉伤，开始担心他是不是玻璃人体质，调侃都到麻了。",
-          "sentiment": "吃瓜"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/SteveoBlanc0/status/2083760962276851866"
-          },
-          {
-            "url": "https://x.com/FabianArdaya/status/2070655326253392014"
-          }
-        ]
-      },
-      {
-        "trend": "Brewers",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "【@酿酒人队】今日球队人员变动",
-          "summary": "大家是在围观酿酒人队今天官宣的阵容调整，看看到底是哪些球员被交易或下放，顺便吐槽管理层这波操作有没有搞头。有人觉得是正常轮换，有人觉得是省钱摆烂，评论区基本是球迷吵着吵着开始玩梗。",
-          "sentiment": "中性"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/Brewers/status/2054279246361628683"
-          }
-        ]
-      },
-      {
-        "trend": "Sheehan",
-        "sentiment": "正面",
-        "summary": {
-          "translation": "【MLB官方】：埃米特·希恩上演梦幻首秀。",
-          "summary": "大家在看MLB新秀投手希恩的炸裂首秀表现，惊叹他今天的状态简直开挂，但也在讨论这场有没有水分、对手菜不菜。氛围是正面为主但夹杂调侃。",
-          "sentiment": "正面"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/MLB/status/1669917371635585024"
-          }
-        ]
-      },
-      {
-        "trend": "World Series",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "美国职棒总决赛今年又开打了，全民吃瓜节奏飞起。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Lockout",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "哎，Lockout这话题现在冲上热搜，说白了就是推特上好几个千万级大V账号突然被封或者被限制登录，搞得一堆人以为自己网断了，结果发现是被平台“锁门”了。这波操作大概率是马斯克又搞清算或者系统抽风，网友就疯狂吃瓜吐槽，顺便猜是不是又要搞什么新规了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Zyhir Hope",
-        "sentiment": "吃瓜",
-        "summary": {
-          "translation": "突发：道奇队两大顶级外野新秀肯德尔·乔治和齐希尔·霍普在双A塔尔萨队比赛前被移出阵容。霍普一直与塔里克·斯库巴尔交易传闻联系在一起。可能没什么，也可能是大事。",
-          "summary": "洛杉矶道奇把两名外野新星突然拿掉不让上场，之前霍普就天天跟斯库巴尔的交易传绯闻，球迷现在都炸锅了，要嘛是空欢喜白着急，要嘛就是道奇闷声憋大招想换个大杀器来。",
-          "sentiment": "吃瓜"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/nelson__espinal/status/2083711359595020770"
-          }
-        ]
-      },
-      {
-        "trend": "Spokane",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Spokane这波上热搜，多半是美国那边又出啥幺蛾子了，可能是天气极端、罢工，或者搞了个什么本地大新闻被全网转发了。总之就是咱们这边看个热闹，图一乐就成。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Baseball",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这个话题主要是因为最近MLB季后赛打得火热，加上某场世纪大战的绝杀球，让棒球突然刷屏老外朋友圈。平时不关心棒球的人也被这氛围带动，开始讨论谁是史上最强击球手。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Shakur",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Shakur 这词儿冲上热搜，八成是跟已故说唱传奇 2Pac（图帕克·沙库尔）沾边，要么是新纪录片、未曝光单曲，要么是纪念日又勾起了全网怀旧潮。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Scott Harris",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Scott Harris上趋势是因为他最近在社交媒体上发了一条离谱言论，网友炸锅争着吐槽，具体内容好像是装专家聊AI误人子弟，结果被一堆技术大佬现场打脸。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "SummerSlam",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "SummerSlam就是WWE的夏日摔跤大赛，跟春节联欢晚会似的，每年固定档期并且戏超多。这次刷屏是因为有超级大牌回归或者爆冷夺冠的环节，欧美粉丝全在狂转现场视频和表情包，国内摔跤迷也跟着凑热闹。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Snell",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Snell 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Castillo",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "最近飙上趋势的Castillo，大概率是在说《长月烬明》里的男二邓为（叶冰裳老公）或者某个欧美圈翻车网红，大家正忙着吃瓜或舔屏呢。反正不是因为啥正经大事，就是粉丝骂战或新剧物料炸出来了热度。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Ohtani",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "大谷翔平又双叒叕上热搜了，这回是因为他MLB单赛季50轰+50盗的史诗数据，简直是漫画男主照进现实。加上道奇队晒他训练照，球迷直接狂喜，不刷屏才怪。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Tank",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这波#Tank 上热搜，大概率是又有军事大V晒坦克实弹演练或者俄乌战场上的重型装备视频，估计是画面太燃或太惨直接炸出讨论。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Glasnow",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Glasnow这名字一冲上趋势，八成是棒球圈又炸了，具体就是他投球状态神勇或者伤病反复，反正大联盟的流量密码就是他。\n反正非球迷看到别懵，简单说就是这人投球快得吓人，但玻璃人属性让每次上场都像开盲盒。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Brady Smith",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Brady Smith 这哥们儿是个美国喜剧演员，最近因为一段搞笑视频疯传，内容是他模仿老婆怀孕时的各种吐槽，笑点太密直接被网友捧上了热搜。",
           "sentiment": "中性"
         },
         "tweets": []
