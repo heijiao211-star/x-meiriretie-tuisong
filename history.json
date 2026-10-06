@@ -1,5 +1,212 @@
 [
   {
+    "date": "2026-10-06",
+    "time": "2026-10-06 18:51",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Good Tuesday",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Good Tuesday 就是老外版的“周二愉快”，跟咱们周一发“新的一周加油”一个意思。它能上趋势纯粹是因为周二这天太丧了，大家互相打气顺便玩梗刷屏。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "San Diego",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "圣地亚哥最近上热搜是因为这里成了美国版‘海南’——海滩、阳光、房价还相对加州其他城市便宜，一堆人讨论搬过去躺平。加上这边有美军基地和生物科技园区，一边是度假养老，一边是搞钱搞科研，话题度直接拉满。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "IRySConcert2026",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "简单说就是虚拟主播IRyS要在2026年开线下演唱会了，粉丝们一整个期待炸了。上趋势是因为她本人发推官宣+带话题发应援，加上跨年那阵子大家本来就爱聊明年计划，直接冲上了热门。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Falcons",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Falcons（亚特兰大猎鹰队）突然上趋势，主要是因为NFL选秀大会临近，他们手握高顺位签，各种交易流言和选谁当新秀四分卫的猜测满天飞。再加上球队刚换了主教练，粉丝和媒体都在疯狂讨论重建计划，热度就炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jim Bakker",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Jim Bakker是美国80年代红极一时的电视布道家，后来因为诈骗和性丑闻入狱，堪称那个年代宗教圈的头号瓜。最近他因为在节目里卖疫情“神药”被起诉，加上老纪录片翻红，网友又开始考古这位爷的光辉事迹，直接送上趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Saints",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个话题其实是在聊 NFL 的新奥尔良圣徒队（New Orleans Saints），不一定是宗教意义上的圣人。之所以会冲上趋势，通常是比赛刚打完、出现争议判罚、球员交易/伤病、或者赛季关键节点引发大量讨论。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Boone",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Boone 这波上趋势，说白了就是《辐射》真人剧里那个叫 Boone 的角色突然被全网玩梗——他是新维加斯里的狙击手队友，剧集带火游戏后，玩家集体破防回忆杀，顺带把他那句冷冰冰的‘你看着办’刷成表情包。再加上最近有人在推特搞投票‘最想复活的游戏NPC’，Boone 直接屠榜，热度就炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "LA and SD",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "LA和SD这俩加州兄弟又上趋势了，大概是又在网上互怼谁的海滩更顶、谁的taco更绝，外加最近两边球迷因为湖人快船和教士的恩怨在线掐架。说白了就是美国西海岸日常内卷，大家看热闹顺便站队。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Bijan",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Bijan 是设计师 Bijan Pakzad 创立的超奢品牌，以“全球最贵”的香水、定制服装和布加迪联名款闻名，最近因为和布加迪合作的限量超跑或联名香水在社媒刷屏。会上趋势主要是炫富博主、豪车圈和潮流玩家集体晒单或吐槽“一根香水顶我一年工资”，话题自然就爆了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Lakers",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Lakers 就是指洛杉矶湖人队，NBA 的顶流球队之一，最近因为交易、伤病或比赛输赢又炸了锅，球迷在网上吵翻天。上趋势基本是因为湖人自带流量，赢球输球都能冲上热搜，加上球星动向和媒体煽风点火，轻轻松松就刷屏了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Shough",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Shough 是最近因为一段采访剪辑火起来的网络梗，他在视频里表现出的反应太有节目效果，被网友拿来配各种“打工人破防”场景。能上趋势主要是抽象文化爱好者集体玩梗， meme 二创刷屏，再加上算法推波助澜，看着看着就大家都在用了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Fort Hood",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Fort Hood（胡德堡）是美国陆军在得州的一个大型基地，最近因为在X上爆出基地内又发生枪击/士兵离奇死亡事件，加上之前臭名昭著的2020年女兵被杀案，网友们旧账新账一起算把它骂上了热搜。说白了就是同一地方反复出人命，军方还总想捂盖子，大家忍不了直接冲了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Penix",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Penix本来是华盛顿大学四分卫迈克尔·佩尼克斯的姓，因为名字里带敏感词被网友拿来玩梗刷屏。后来他在NFL选秀被猎鹰队高顺位选中，加上伤病史和选秀夜的各种八卦，直接把这梗顶上了趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "$HIGGS",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "HIGGS 指的是去中心化AI网络项目 Higgsfield 及其代币，最近因为上线主网并推出了激励用户参与AI训练和推理的“挖矿”活动而热度飙升。说白了，就是又一个蹭AI热点的加密项目，靠空投预期和社区炒作冲上了 Twitter 趋势榜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Fungo Labs",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Fungo Labs 是一个聚焦 AI 与区块链结合的项目，最近因为上线空投和与多个热门生态联动而引发关注。说白了，大家冲过去主要是为了薅羊毛和蹲早期红利，跟之前那些 AI+ Crypto 概念项目路子差不多。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "snapchat",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Snapchat就是个发完就消失的阅后即焚社交App，主打年轻人玩梗搞怪不社死。这次上趋势估计是又出了什么新滤镜玩法或者跟别的平台掐架，反正年轻人一窝蜂讨论就冲上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "minichat",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "简单说，MiniChat 就是推特上突然火起来的一个小聊天工具/话题标签，大家用它晒截图、发短评或者玩那种‘一句话聊死’的梗。之所以上趋势，是因为操作门槛低、好复制，加上一帮大V和乐子人带头刷屏，一下就滚雪球了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "zedd",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Zedd（安东·扎斯拉夫斯基）是俄罗斯裔德国电音制作人/DJ，代表作《Clarity》《Stay》《The Middle》等，最近因为发了新单曲/新专辑，或者在大型音乐节（如科切拉、Ultra）上搞了炸场演出，粉丝疯狂刷屏把他顶上了趋势。另一个可能是他跟某位顶流歌手（比如A妹、赛琳娜）又合作了，或者被扯进啥八卦，总之电音圈和欧美乐迷集体过年。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Olave",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Olave这波上趋势，大概率是因为圣徒队外接手Chris Olave又搞出大新闻了——要么是比赛里炸裂表现，要么是交易流言满天飞，球迷们集体刷屏讨论。反正NFL相关的话题只要带点争议或者高光时刻，分分钟就能冲上趋势榜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Kellen Moore",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Kellen Moore 是美国橄榄球圈最近爆火的教练名字，他在超级碗冠军老鹰队当了进攻协调员一年就带队夺冠，然后立马跳槽去新奥尔良圣徒当主教练，还在社交媒体上跟老东家疑似开撕。火起来是因为这条从底层教练到冠军再到出走的高光+抓马路线太戏剧了，加上NFL教练市场向来流量大。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-10-05",
     "time": "2026-10-05 18:55",
     "source": "trends24.in",
@@ -12564,217 +12771,6 @@
         "summary": {
           "translation": "",
           "summary": "洋基队又赢了，粉丝们嗨疯了，热搜直接被刷爆，估计是赢了个关键比赛或大逆转。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      }
-    ]
-  },
-  {
-    "date": "2026-08-07",
-    "time": "2026-08-07 13:26",
-    "source": "trends24.in",
-    "items": [
-      {
-        "trend": "Haynes King",
-        "sentiment": "吃瓜",
-        "summary": {
-          "translation": "@TomPelissero：前佐治亚理工四分卫海恩斯·金与黑豹队签约，合同包含25万美元保障金，消息源透露。",
-          "summary": "球迷们看热闹重点是这哥们儿保障金才25万，在NFL四分卫里算白菜价，黑豹队明显是刮彩票心态。还有就是老鹰队转投死敌，粉丝调侃他是不是被橄榄球耽误的田径选手，吃瓜群众等着看他能不能搅乱四分卫竞争。",
-          "sentiment": "吃瓜"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/TomPelissero/status/2048176241274949825"
-          }
-        ]
-      },
-      {
-        "trend": "Red Sox",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "波士顿红袜队又上热搜了，主要是他们最近比赛结果炸裂，或者有重磅交易/球星新闻，球迷和吃瓜群众都在刷屏。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "This_And_That",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这话题其实就是欧美网友玩梗，把两件八竿子打不着的事硬凑一起对比，比如'我恋爱脑 vs 我打游戏'，属于互联网抽象文学新花样。上趋势是因为一个网红开了头，大家跟风做表情包和短视频，热度像抢白菜一样涨起来了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Panthers",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "\"Panthers\"这话题上热搜，基本就是体育圈狂欢——NFL黑豹队赢球或者转会大新闻，要么就是NHL佛罗里达黑豹队季后赛杀疯了。反正就是这两队谁有动静，球迷刷屏刷到爆，路人看着一头雾水跟着点进来吃瓜。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Chelsea Gray",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这姐们儿是WNBA的超级控卫，最近又拿了个关键胜利还上演了末节神仙球，球迷直接把她吹成‘女版魔术师’，话题就炸了。其实就是她比赛太猛，又带队赢了宿敌，大家嗨得不行，热搜就冲上去了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "DirtyWater",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这话题现在炸了，主要是吐槽某些地区的自来水或瓶装水质量堪忧，有人晒检测报告说重金属超标，还有人说喝了闹肚子，评论区一堆人跟风晒自家水的“颜色”。上热搜是因为有个大V发了条视频，直接拍出水管流出来的黄泥水，瞬间点燃了大家的怨气，感觉像集体吐槽大会。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "KeepPounding",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "KeepPounding是卡罗莱纳黑豹队的激励口号，来源于已故传奇球员萨姆·米尔斯，意思就是“别松劲，继续猛干”。这话题上趋势是因为黑豹队最近赢球或打出亮点，球迷集体刷梗庆祝，配上那股不服输的劲儿，热搜就来了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Ogles",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Ogles 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "THIS도_THAT도_스키즈",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这话题就是韩国男团Stray Kids（스키즈）粉丝在刷屏，意思是‘这个也是、那个也是，都是SKZ’，夸他们啥都能干、作品啥风格都玩得转。上趋势是因为团体最近有回归或舞台物料，粉丝集体控评刷词条，把话题顶上了热榜。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Kawhi",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Kawhi上趋势多半是又传出伤病消息，或者他季后赛突然爆发了，毕竟这位爷日常就是神一场鬼一场。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "SKZ THIS AND THAT DAY",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "好家伙，SKZ（Stray Kids）粉丝今天搞了个“THIS AND THAT DAY”刷屏活动，就是让全球Stay发自己入坑的沙雕瞬间或者搞笑周边，硬是把话题顶上趋势了。说白了就是粉丝自嗨过节，顺便造个热度给回归预热，路人看了只觉得这团粉真是疯得可爱。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Caleb Durbin",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这哥们儿是MLB（美国职棒大联盟）的新秀，因为一场比赛里又偷垒又绝杀，直接把我这种伪球迷都炸出来了，全在吹他天赋异禀。\\n上热搜纯粹是体育迷狂欢+美国队赢麻了，毕竟他这表现放谁头上都得被刷屏，篮球圈都跑来凑热闹了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Way Out",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "“Way Out”这两天在X上刷屏，主要是欧美网友在吐槽**生活/工作/感情找不到出口的窒息感**，顺便玩梗自嘲。上趋势是因为一堆博主带标签发崩溃实录，共鸣太强，直接破圈。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Cardinals",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Cardinals这话题今天突然炸了，主要是因为美国职棒红雀队（St. Louis Cardinals）刚被爆出要跟某巨星续约，球迷们直接嗨翻屋顶了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "After You",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这话题其实是国外网友在玩一个‘你死我活’的梗，说的是如果世界末日只剩一个逃生名额，大家嘴上说‘After you（您先请）’，但心里都在盘算怎么抢跑。冲上趋势是因为最近某科幻剧大结局演了这出戏，网友瞬间破防，疯狂二创表情包和段子。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "StrayKids",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "简单说就是这韩国男团最近不是发新歌就是开演唱会，粉丝们跟过年一样刷屏安利，各种舞台直拍和饭拍直接把人顶上趋势。再加上他们海外人气是真的猛，稍微有点动静全球粉丝就能把热搜搬上天。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Haley",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Haley 这个话题最近在推特上炸了，主要是妮基·黑利又出来掺和特朗普的官司和共和党内斗，顺便蹭了波2024大选的热度。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Bello",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "啊这，Bello好像是哪个明星或者网红突然爆出来的瓜，也可能是个新梗或者电影宣传，总之一天之内推特上全是这个词，搞得跟全网都认识他似的。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "A&#39;ja",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "简单说就是WNBA球星阿贾·威尔逊（A'ja Wilson）又双叒叕单场狂砍40+，把对手打自闭了，赛后采访和NBA球迷都在刷她的统治力。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Hall of Fame",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这话题就是各个圈子的殿堂级人物/作品被拉出来集体夸一波，要么是纪念周年要么是评委搞事，网友边盘点边吵架。上趋势纯粹是因为总有人觉得‘我心中第一没上榜’，然后粉丝团互撕，顺便带火了老梗和考古视频。",
           "sentiment": "中性"
         },
         "tweets": []
