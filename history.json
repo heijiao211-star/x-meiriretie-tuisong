@@ -1,5 +1,212 @@
 [
   {
+    "date": "2026-10-19",
+    "time": "2026-10-19 17:22",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Cowboys",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "达拉斯牛仔队（Dallas Cowboys）是NFL最有关注度的球队之一，只要有大新闻就会上趋势。这次上趋势多半是因为比赛结果、球员交易或教练人事变动，球迷讨论度直接拉满。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Packers",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“Packers”一般指NFL绿湾包装工队，或者是打包工人/打包相关的话题。上趋势通常是因为有比赛、球员重大新闻（比如交易、伤病、签约），或者球迷在疯狂讨论季后赛形势——总之就是美式橄榄球圈又炸锅了，大家跑去X上吵/庆祝/吐槽。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Schotty",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Schotty 这波上趋势，大概率是因为某个叫 Schotty 的人或梗突然在 X 上被大量转发讨论，可能是新账号爆火、争议发言或者被大V带节奏。简单说就是网友集体围观一个叫 Schotty 的瓜，具体是真人还是梗得看当天最热的推文内容。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Dak Prescott",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Dak Prescott是达拉斯牛仔队的四分卫，最近因为续约合同谈崩或关键比赛拉胯被球迷和媒体疯狂讨论。X上美式橄榄球圈吵成一片，支持的说他扛着球队走，反对的嫌他大赛软脚虾，流量打架直接冲上趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Goku",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Goku这波上趋势主要是因为龙珠新游戏/新动画的消息炸出来了，或者又是哪个大V发了悟空的梗图引发集体回忆杀。反正每次悟空有点风吹草动，全球龙珠粉都能把它顶上热搜，毕竟这可是几代人的童年男神。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "GoPackGo",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "GoPackGo 是绿湾包装工队球迷的经典口号，NFL 比赛日一到，粉丝就在 X 上刷屏应援。冲上趋势一般是因为有比赛、季后赛或者球队有大新闻，大家集体玩梗刷起来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jerry Jones",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Jerry Jones是NFL达拉斯牛仔队的老板兼总经理，最近因为球队战绩烂、他又死活不肯换管理层/教练，被球迷和媒体狂喷上了X趋势。简单说就是：花了最多的钱、管得最烂的队，老板还嘴硬不背锅，全网都在看他笑话。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "LaGranjaGala",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "LaGranjaGala 是最近 X 上冒出来的一个热门标签，源头是西班牙一个叫 La Granja 的农场/庄园搞了场 gala 晚宴活动，现场照片和视频被参会的人疯狂发推，氛围感拉满所以出圈了。上趋势主要是猎奇+颜值加成，很多人一开始以为是啥皇室晚宴，点进去发现是个农场办的派对，反差感直接把话题顶起来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jordan Love",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Jordan Love是绿湾包装工队的年轻四分卫，最近因为签了大合同或者打了一场炸裂的比赛被球迷刷上趋势。简单说就是NFL圈在热议他到底是真崛起还是昙花一现，反正球迷吵得挺欢。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Green Bay",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "绿湾（Green Bay）是美国威斯康星州的一座小城，因为NFL绿湾包装工队（Packers）而全国闻名，这支球队是唯一由球迷社区共同拥有的职业球队。这次上趋势多半是包装工队在比赛里爆冷赢球或打出戏剧性操作，球迷疯狂刷屏推上去的。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Kylie",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Kylie Jenner又上X趋势了，大概率是发了新自拍、新品牌动态或者跟Timothée Chalamet的感情线又被拍到，粉丝和吃瓜群众一起把话题顶上去了。说白了就是卡戴珊家流量担当随便动一下都能炸出一堆讨论，热搜体质没跑。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "PC gaming",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "PC gaming 就是大家聊在电脑上打游戏那点事，最近因为新显卡、Steam 打折和各种装机配置讨论又火起来了。会上趋势主要是因为玩家们总在分享自己的配置、吐槽优化差，再赶上大作发售和硬件降价，话题自然就冲上来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Saitama",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Saitama 这波上趋势主要是因为《一拳超人》第三季动画开播，那个一拳秒一切的光头又回来了，粉丝们疯狂刷梗和截图。简单说就是：琦玉老师一出场，推特热搜就遭不住了，一拳一个话题。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Pickens",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Pickens这话题多半是跟美国那家能源公司或德州那个小镇有关，最近出了什么新闻被网友翻出来讨论。趋势一般是因为石油天然气政策变动或者当地出了啥大事，大家凑热闹聊起来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "NFC East",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "NFC East就是NFL国家联盟东区，俗称“美东”，因为达拉斯牛仔、费城老鹰、纽约巨人、华盛顿指挥官这四队互撕了几十年，恩怨比电视剧还狗血，所以常年是橄榄球圈流量担当。最近上趋势多半是休赛期有啥大交易或者选秀骚操作，加上这分区球迷基数大、嘴炮猛，随便一点风吹草动就能把话题顶上热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Megan",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Megan Thee Stallion又上X趋势了，八成是新歌、新造型或者跟谁又battle起来了，这姐们儿每次出场都能把互联网炸出圈。简单说就是：欧美说唱圈顶流女rapper又有大动作，粉丝吵架加吃瓜群众围观，热度直接冲上趋势榜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "GOTI",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "GOTI其实是网友对一个X上热门梗的玩梗缩写，说白了就是某条帖子或事件突然被大量转发刷屏。\n它能上趋势主要靠大家跟风造梗和围观吃瓜，热度一上来算法就推得更猛了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "nstwtwt",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“nstwtwt”这串字母我查了下，目前没法确认它对应哪个具体的 X/Twitter 热门话题，大概率是拼写混乱、小众圈子的暗号，或者早就凉了的旧梗。所以别把它当什么大事，多半是某个小圈子自己刷着玩或者算法误抓才冒了个泡，没什么广泛讨论度。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Brian Schottenheimer",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Brian Schottenheimer是NFL达拉斯牛仔队的新任主教练，最近因为在赛季开局战绩稀烂、临场指挥屡屡犯病被球迷疯狂开会。这哥们名字突然冲上趋势，主要是牛仔球迷忍不了了，输球后全网刷屏喊他下课，顺带还带火了关于他到底凭啥能当上主教练的讨论。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Matthew Golden",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Matthew Golden 是德州大学的外接手，今年 NFL 选秀前突然被炒成首轮热门，体测跑出 4.29 秒的 40 码，直接炸了。这哥们本来默默无闻，靠着 Combine 上的炸裂表现和一堆球队试训，现在被预测能进首轮前 20，网友都在吵他是不是被高估了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-10-18",
     "time": "2026-10-18 16:22",
     "source": "trends24.in",
@@ -12483,239 +12690,6 @@
         "summary": {
           "translation": "",
           "summary": "JK Scott其实是个NFL弃踢手，但突然上趋势是因为一段他在场上“表演型踢球”的搞怪视频被疯转，动作夸张得像在做瑜伽。大家纯粹是看他乐子，顺便吐槽这活儿比上班摸鱼还带感，结果就刷上热搜了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      }
-    ]
-  },
-  {
-    "date": "2026-08-20",
-    "time": "2026-08-20 12:24",
-    "source": "trends24.in",
-    "items": [
-      {
-        "trend": "AEWDynamite",
-        "sentiment": "玩梗",
-        "summary": {
-          "translation": "【AEW官方】：周三晚 #AEWDynamite 全国直播，东部8点/中部7点/山地6点/太平洋5点，本周三！提醒：周三Dynamite本周全国同步直播，横跨东西海岸！请锁定TBS网络及SportsOnMAX，本周三晚8e/7c/6m/5p！\n【AEW官方】：👀 ??? #AEWDynamite",
-          "summary": "大家其实在看AEW摔角又要搞什么大新闻，官号发个神秘眼神表情勾人胃口，粉丝都在猜是不是又要有重磅剧情或选手回归。笑点在于官方这种“谜语人”操作已经成了惯例，每次都让人边骂边期待，热度全靠自己炒。",
-          "sentiment": "玩梗"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/AEW/status/2046061644502233492"
-          },
-          {
-            "url": "https://x.com/AEW/status/1585425899389952002"
-          }
-        ]
-      },
-      {
-        "trend": "Cavs",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这波Cavs上热搜主要是骑士最近猛得离谱，开局好几场大胜直接冲上联盟第一，球迷都看爽了。加上米切尔和加兰的后场组合状态火热，大家都想看看他们能不能在东部搅局，热度自然就爆了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Nuggets",
-        "sentiment": "正面",
-        "summary": {
-          "translation": "[@nuggets]: 正式成为掘金的一员了 ⚒️\n\n[@jrich23]: 我很激动地正式宣布，本赛季我将作为分析师加入丹佛掘金。丹佛对我家人和我来说一直是个特别的地方。我们在这里建立了许多终生的友谊，一直把科罗拉多当作家。回到丹佛，现在有机会成为掘金组织的一部分，让这下一篇章更有意义。我对这个机会心怀感激，等不及要开始了。掘金球迷们，本赛季见！",
-          "summary": "大家其实在看掘金队这波操作——一个前球员（JC）回来当分析师，情怀拉满，既有老熟人回归的温馨，也顺便感慨掘金这几年从冠军到现在的变化。说白了就是既怀旧又期待新赛季，球迷们边emo边看看球队能不能走出上赛季的阴霾。",
-          "sentiment": "正面"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/nuggets/status/2029603494873751665"
-          },
-          {
-            "url": "https://x.com/jrich23/status/2090216629628256314"
-          }
-        ]
-      },
-      {
-        "trend": "Gabby Williams",
-        "sentiment": "正面",
-        "summary": {
-          "translation": "[@WNBA]：加比·威廉姆斯打出了自己的比赛👏她为女武神队拿下职业生涯新高的27分、6个篮板和3记三分球！#WNBA赛季30｜2026年WNBA总裁杯｜@coinbase",
-          "summary": "这帖子主要在吹Gabby Williams炸裂的表现，生涯新高27分直接让球迷嗨翻。大家都在惊叹她这状态，顺便磕一口女武神队这赛季的火力。",
-          "sentiment": "正面"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/WNBA/status/2063394319977857201"
-          }
-        ]
-      },
-      {
-        "trend": "Jokic",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Jokic上了趋势主要是因为掘金这哥们又打出了逆天数据，三双拿得跟喝水似的，简直把现代篮球玩成了个人秀。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Peyton Watson",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "@NBABlackburn：David Adelman向媒体透露，Peyton Watson又拉伤了腿筋，目前是“周复一周”的状态。他为Peyton感到沮丧，但听起来他不太可能出战直到季后赛，球队在常规赛收尾阶段会采取保守策略。",
-          "summary": "大家主要是在吐槽Watson这腿筋是真·玻璃属性，又来一次，感觉他常规赛基本报销了。另一个点是掘金队明显在给季后赛留力，宁愿让他躺到季后赛再复出，球迷们既无奈又觉得这是明智操作。",
-          "sentiment": "中性"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/NBABlackburn/status/2040136612508750153"
-          }
-        ]
-      },
-      {
-        "trend": "Olivia Miles",
-        "sentiment": "正面",
-        "summary": {
-          "translation": "女子篮球美国队：Olivia Miles 今晚🔥 • 24分 • 7篮板 • 6助攻 • 三分2/3 • 投篮7/10",
-          "summary": "这姑娘数据太炸了，效率高得离谱，三分准起来跟开挂似的，大家伙儿都在刷屏吹她，感觉她今晚就是球场上的MVP，不服不行。还有一帮人在调侃对手防守跟纸糊的一样，看她打球就图个爽，纯粹是欣赏神仙打架。",
-          "sentiment": "正面"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/WomensHoops_USA/status/2064527395109863881"
-          }
-        ]
-      },
-      {
-        "trend": "Meghan",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "梅根又上热搜了，这次是她和哈里在网飞的新纪录片播了，里面大谈王室内幕，全球吃瓜群众都炸锅了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Kenny",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "哎呀，Kenny这事儿吧，就是有个外国博主发了段吐槽亚洲餐馆服务的视频，结果被网友扒出他以前说过更离谱的种族歧视言论，瞬间炸锅了。现在热搜上全是讨伐他的，连他合作过的品牌都连夜解约，活该翻车。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "บวงสรวงMagicLover",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这个泰语话题突然上了X趋势，大概是因为某位泰国明星或网红搞了场拜神仪式（บวงสรวง就是泰式祈福），但名字带MagicLover，看起来像在给一部剧或项目开机祈福，粉丝们一激动就刷上热搜了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Sabalenka",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "就是白俄罗斯那个女网猛女，最近在WTA总决赛上又赢球了，打法暴力得像打拳击，网友都在刷她‘硬地女王’的标签。上趋势是因为她连胜势头太猛，加上赛后采访超有梗，直接被她圈粉了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Vesia",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Vesia这波上趋势是因为一段她跳舞的视频被疯转，评论区直接吵翻了，有人夸她综艺感强，有人骂她蹭热度吃相难看。其实本质就是网友又拿她当情绪出口，从舞技扯到人品，最后变成大型站队现场。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Strus",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Strus 就是那个韩国搞 AI 的公司，最近整了个叫 Struz 的眼镜，能实时翻译、当耳机用，还带摄像头，人均数字幽灵。上趋势是因为他们放了个视频，演示语音实时翻译贼溜，一堆科技博主和数码控直接高潮，觉得这玩意儿要干翻 Ray-Ban 的 Meta 眼镜。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "TheValley",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这话题是硅谷圈在吵一个叫TheValley的新公司，据说是个AI搞科技园的玩意儿，刚融资就火得不行。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Valkyries",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这话题讲的是《战神》里的女武神集体刷屏，网友们在疯狂吐槽她们比最终BOSS还难打，顺便膜拜那些无伤速通的狠人。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Darby",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "“Darby”这会儿上热搜，主要是因为欧美那边有个叫《Darby and the Dead》的网飞电影或者某个真人秀里角色名爆了，粉丝在疯狂刷梗和撕剧情。说白了就是欧美圈又整活儿了，大家邊看边吐槽，顺手就把话题冲上去了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Ospreay",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Ospreay其实就是英国摔角手Will Ospreay，这两天他刚跟AEW续了大合同，还放话要当台柱，加上比赛动作太炸裂，老外刷屏吹爆，国内摔角粉也跟着起哄。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Jay White",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Jay White？这不是那个“子弹帮”二代目、摔角圈的火药桶嘛！最近他因为在NJPW和AEW之间反复横跳，还跟人打了场“合约大战”，把两边粉丝都整得血压飙升，直接冲上热搜。\n\n简单说就是：这哥们儿不靠脸，靠嘴炮和“反骨”人设把摔角圈搅得天翻地覆，大家就爱看他怎么当着老东家面儿放电。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Cavan",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "好家伙，Cavan这词儿一上热搜，八成又是哪个日本动漫角色或游戏梗突然爆了，评论区一堆人疯狂刷“ca va？ca va？”——法语“咋样”这梗瞬间破防，跟咱这边“您吃了吗”一个待遇。\n\n反正不是啥正经新闻，就是网友闲得慌，把个老梗新玩，配上表情包就冲上趋势了，刷两屏基本就能搞懂，纯纯电子榨菜。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Magic Lover Worship",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "哈哈，这话题一看就是魔法爱好者圈子的狂欢，大概是因为某个大V发了条“用魔法改变现实”的玄学教程，结果一堆人跟上晒咒语、晒水晶，直接刷上趋势了。说到底就是互联网又一轮“信则有不信则无”的集体上头，顺便搞点中二乐子。",
           "sentiment": "中性"
         },
         "tweets": []
