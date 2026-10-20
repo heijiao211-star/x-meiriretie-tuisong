@@ -1,5 +1,219 @@
 [
   {
+    "date": "2026-10-20",
+    "time": "2026-10-20 16:57",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "49ers",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "49ers就是旧金山49人队，NFL的老牌劲旅，最近因为比赛战绩、球员交易或者季后赛话题被球迷刷上趋势。这会儿上热搜多半是赢球/输球的关键战、明星球员动态或者转会传闻引爆了讨论。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Rays",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "[@MLB]：光芒队自2020年以来首次晋级世界大赛！#锁定季后赛席位（MLB x @BudweiserUSA）\n[@RaysBaseball]：干着自19世纪以来就没见过的事",
+          "summary": "MLB官方号宣布坦帕湾光芒队时隔几年再进世界大赛，球迷一边狂欢一边刷梗。光芒官号自己发了个神秘兮兮的'19世纪'帖子，大家全在猜是说球队又整了什么活或者破了什么老纪录。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/MLB/status/2112380069737881955"
+          },
+          {
+            "url": "https://x.com/RaysBaseball/status/1645158354501660674"
+          }
+        ]
+      },
+      {
+        "trend": "Jayden Daniels",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Jayden Daniels是NFL华盛顿指挥官队的当红四分卫，最近打出了逆天表现，球迷和媒体都在疯狂吹他。之所以上趋势，是因为这哥们太猛了，新秀赛季就有MVP级别的数据，大家都在讨论他到底是不是未来第一人。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Angel Reese",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Angel Reese是美国女篮新星，最近因为一场比赛里对队友甩脸子、拒绝握手之类的drama被全网开会，球迷吵成一锅粥。上趋势主要是因为她的性格争议远远盖过了球技，黑红也是红，大家就爱看这种抓马。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Dan Quinn",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Dan Quinn这位前NFL教练最近在X上被刷屏，主要因为他是华盛顿指挥官队的新任主教练，球队打进NFC冠军赛的表现让球迷疯狂讨论他的执教功力。再加上他赛后采访的激情发言和球员对他的拥护，一下子就成了热门话题。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Niners",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Niners这波上趋势说的就是旧金山49人队（San Francisco 49ers），NFL里名字带Niners的那支老牌劲旅，最近有比赛或者交易签约的消息炸出来，球迷疯狂刷屏。\n说白了就是球迷在热搜里开会，赢球吹爆、输球开会、有大新闻就全体出动，属于NFL圈子的常规操作。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Fred Warner",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Fred Warner 是旧金山49人队的明星中线卫，NFL顶级防守核心，最近因为续约合同/交易传闻或者比赛高光表现被球迷刷上趋势。简单说就是橄榄球圈的大佬又搞出大新闻，球迷在X上吵着值不值这份钱或者吹他防守多猛。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "WorldSeries",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "WorldSeries就是美国职棒大联盟的总冠军赛，相当于棒球界的NBA总决赛，每年10月开打，七场四胜制。它上趋势一般是因为打进决赛的两支队粉丝基数大、比赛打到抢七或者出现戏剧性逆转，今年多半是又有名场面刷屏了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Commanders",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Commanders这波上趋势，八成是华盛顿指挥官队（NFL）又搞出什么大新闻了——交易、选秀、教练变动或者比赛名场面，美式橄榄球粉丝一激动就给顶上来了。\n反正就是球迷在X上集体刷屏讨论球队操作，顺便带点玩梗和吵架，热度一上来自然就冲榜了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Mike Evans",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "迈克·埃文斯（Mike Evans）是NFL坦帕湾海盗队的明星外接手，最近上趋势多半是因为比赛里的关键表现（比如大码数接球或达阵）或者续约/交易之类的球队动态。反正这哥们儿在橄榄球圈自带流量，一有高光或合同风吹草动，球迷就把他刷上热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "FTTB",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "FTTB就是“光纤到楼”，网线拉到单元楼下再分进各家，比光纤入户便宜但速度受限于楼道设备。这话题上趋势多半是因为某地宽带升级/降费新闻或者运营商拿它当卖点被网友吐槽网速不达标。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Mustapha",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Mustapha 这波上趋势大概率是某个叫这名字的人（球员、政客或者网红）突然搞了个大新闻，被网友疯狂讨论顶上去的。具体是谁得看当天语境，毕竟这名字太常见，但能冲趋势基本就是有瓜或者有梗在传。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "WWERaw",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "WWERaw就是WWE每周一晚上的摔角直播节目Raw，摔迷们边看边在X上刷剧情吐槽选手。今天上趋势多半是因为有大剧情转折或者争议判罚，摔角圈一激动就把它顶上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Blough",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Blough 这两天上 X 趋势，主要是因为体育圈和本地新闻号在聊一个叫 Blough 的人（大概率是某支球队的球员/教练或大学体育相关人物），相关讨论被大量转发带起来的。简单说就是：一个原本圈内才熟悉的名字突然被推上热搜，围观群众一边问‘这人谁啊’一边疯狂转梗图和集锦。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Purdy",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Purdy就是旧金山49人队的四分卫Brock Purdy，最近因为打出超神表现或者续约大合同的事儿被疯狂讨论。他从“无关紧要先生”逆袭成MVP候选人，励志剧本太顶，球迷都在刷他到底值不值这个价。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Chris Paul",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "克里斯·保罗又上热搜了，大概率是因为他在比赛里搞了个骚操作或者跟谁起了冲突，这种老炮儿自带话题属性。大家讨论的是他到底还能不能打、是不是该退役了，反正保罗一有动静就吵翻天。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "EndSARS",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "EndSARS是当年尼日利亚民众上街抗议警察暴力执法（特别是SARS特别反抢劫小组）的运动，2020年那波被镇压后一直有余波。最近又上趋势，多半是因为周年纪念、新曝光的镇压细节，或者有人发起追责声援，反正这事没翻篇。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "RaiseHail",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "RaiseHail 是 X 上最近火起来的一个祈福/玩梗标签，大家发帖时带上它就像在朋友圈许愿或整活，图个吉利也好、跟风玩梗也罢。它上趋势主要是因为一波转发接龙和名人带头刷屏，加上算法推波助澜，让这个简单词条迅速破圈。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Shawn",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Shawn 这波上趋势要么是发了啥炸裂新歌/新作品被粉丝刷屏，要么是卷进了什么争议事件被网友围观讨论。\n反正热度来得快，具体情况得看实时推文，大概率是粉丝狂欢和吃瓜群众混战的大型现场。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Caminero",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Caminero是马竞的年轻中场巴勃罗·巴里奥斯的外号，最近因为他在西甲和欧冠连续首发表现亮眼，球迷和媒体都在讨论他。上趋势主要是因为马竞伤病潮给了他机会，这小伙踢得又稳又拼，被看作球队未来中场核心，所以大家自发刷话题捧他。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-10-19",
     "time": "2026-10-19 17:22",
     "source": "trends24.in",
@@ -12483,213 +12697,6 @@
         "summary": {
           "translation": "",
           "summary": "Punk这波上趋势，其实是在聊朋克精神回归和亚文化复兴，大家拿它当反内卷的battle口号。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      }
-    ]
-  },
-  {
-    "date": "2026-08-21",
-    "time": "2026-08-21 12:26",
-    "source": "trends24.in",
-    "items": [
-      {
-        "trend": "Verzuz",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Verzuz 就是两个歌手或制作人线上PK，轮流放自己的经典歌，粉丝投票看谁更炸，有点像音乐版的“battle”，但主要图个情怀和热闹。\n\n它上趋势一般是因为有超大牌对局，比如Mariah Carey怼上Missy Elliott这种，或者哪场直播出了名场面、争议判罚，大家就疯狂刷屏吃瓜了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Donell",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Donell这名字突然冲上热搜，八成是某个欧美歌手或网红搞出了大动静，不是发新歌撕逼就是直播翻车了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Raiders",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "朋友圈科普版来了👇  \n**Raiders**这词在X上刷屏，主线是“突袭/奇袭”类的话题炸了——不管是游戏圈组团抢装备、粉圈组团刷榜，还是吃瓜吃到某品牌连夜删帖，反正都是一群人突然冲进去搞事，看得人血压都上来了。  \n上趋势的真相就是：有人整活整出圈了，要么是“爷青回”的联动刺激，要么是“暴打资本”的爽文剧本，大家都爱看热闹，不点进来手痒。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Paige",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Paige这个话题现在冲上热搜，主要是因为一位叫Paige的网红/博主发了条爆炸性动态，要么是撕逼、要么是官宣恋情，粉丝瞬间炸锅。反正每次这类话题挂趋势，基本都是当事人搞事情，吃瓜群众蹲后续。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Big Rich Town",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这话题是因为那首魔性洗脑神曲《Big Rich Town》最近又翻红，网友疯狂用它剪各种脑洞视频，从炫富搞笑到打工人的呐喊全都能配上。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Mendoza",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Mendoza这波上热搜是因为阿根廷门多萨省的山火烧得挺大，NASA卫星图都拍到了烟柱，大家一边担心灾情一边刷屏祈祷。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Jacob Cowing",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Jacob Cowing 这名49人外接手靠连续两次出色接球火出了圈，球迷都在夸他是被低估的宝藏。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Where I Wanna Be",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这个话题是看别人秀恩爱/生活方式引发的柠檬精大合唱，意思是‘我也想那样生活’没跑了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Stribling",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Stribling这词儿突然上热搜，大概率是跟一个外国实验室或科技大佬有关，具体可能是发现了什么新东西或者搞了波大新闻。反正不是咱普通打工人日常会碰的词，纯属看个热闹。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Trey Lance",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Trey Lance 这波上趋势，应该是因为他作为 49 人的前高位秀，被交易到牛仔后突然有消息说要竞争首发，或者传出训练赛大爆发啥的，球迷和黑子都出来站队吵起来了。简单说就是“昔日榜眼输给伤病被甩，现在想翻身卷土重来”，一有风吹草动，美式橄榄球圈就爱炸。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Stutter",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "简单说就是大家在刷屏聊口吃这事儿，起因是某大V自曝说话卡壳被网友群嘲，结果反而炸出一堆人分享自己或身边人的口吃经历，话题直接冲上趋势榜。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Big Pun",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "哎呀Big Pun突然上热搜，八成是又因为他的rap金句被网友翻出来玩梗了，毕竟这位胖哥歌词狠到能让人DNA乱动。再加上最近可能有人翻唱或致敬他的flow，大家就集体回忆童年，顺势把老OG顶上来了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Texans",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这话题大概就是休斯顿德州人队（NFL橄榄球）又在搞大新闻了，要么是赢球太猛要么是球星受伤闹心，球迷们集体刷屏吃瓜。上趋势主要是因为这队最近比赛太刺激，加上美式橄榄球在美国本来就跟过年一样热闹，想不火都难。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Love Scene",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这个话题Love Scene现在在X上炸了，全是因为明星或者网红们最近在晒各种甜蜜吻戏或舞台演出，粉丝们狂转冲上了趋势。说白了，就是吃瓜群众爱看这种撒糖名场面，一波热点就这么杀出来了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Avant",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Avant 突然上趋势，主要是因为最近有个叫 Avant 的 AI 创业项目融资和产品截图被扒了，圈内人觉得它技术路线很野，都在赌它能不能火。简单说就是科技圈在围观一个可能改变 AI 玩法的新东西，跟风吃瓜顺便看看有没有机会。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "G-Unit",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "G-Unit突然上热搜，就是50 Cent那帮人说唱团体要搞重组回归，老粉狂喜开始刷情怀。加上最近他们跟人撕逼有新瓜，大家就冲进来围观了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Left Eye",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这话题聊的是美国说唱女团TLC已故成员Lisa Lopes，大家叫她Left Eye，最近因为某段旧视频或纪念日被翻出来，歌迷集体回忆杀，就冲上热搜了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Lala",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Lala这词儿突然刷屏，八成是哪个明星绯闻或者新梗爆了，热搜跟风。就是那种你还没看懂啥情况，全网已经在玩梗的日常。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Mac Jones",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Mac Jones上热搜是因为他这赛季在爱国者队打得像过山车，刚被喷得体无完肤又突然爆发赢球，球迷和媒体都看懵了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "JK Scott",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "JK Scott其实是个NFL弃踢手，但突然上趋势是因为一段他在场上“表演型踢球”的搞怪视频被疯转，动作夸张得像在做瑜伽。大家纯粹是看他乐子，顺便吐槽这活儿比上班摸鱼还带感，结果就刷上热搜了。",
           "sentiment": "中性"
         },
         "tweets": []
