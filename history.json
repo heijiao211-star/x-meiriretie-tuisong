@@ -1,5 +1,216 @@
 [
   {
+    "date": "2026-10-23",
+    "time": "2026-10-23 16:53",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Ethan Klein",
+        "sentiment": "玩梗",
+        "summary": {
+          "translation": "Ethan Klein重返Twitter，向Oliver Tree致敬。",
+          "summary": "Ethan Klein回归推特，专门发帖致敬Oliver Tree，粉丝们一边感慨他终于回来了，一边围观看这两人之间到底有什么渊源和梗。整个话题更像是一场粉丝向的怀旧和玩梗现场，没什么火药味。",
+          "sentiment": "玩梗"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/Awk20000/status/2066267764751515779"
+          }
+        ]
+      },
+      {
+        "trend": "Hila",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Hila 这波上趋势主要是因为和几位大V互动加上名字容易被玩梗，突然就被刷起来了。简单说就是一个本来不算大众的词/名字，被网友拿来当梗反复刷，属于典型的互联网莫名其妙上分现场。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Bears",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个话题八成是在聊芝加哥熊队（NFL）的比赛或交易操作，球迷一激动就给刷上趋势了。简单说就是球队又整活了，赢球输球都能让球迷集体上头。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Caleb",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Caleb 是一个跟科技产品有关的 Caleb 事件，最近因为离谱的交互设计和翻车现场被网友截图疯传，成了吐槽大会。这事上趋势主要是因为产品设计太抽象、公关回应又拉胯，大家边笑边骂把热度顶起来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jokic",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "约基奇又打出了离谱数据或者关键表现，球迷在X上疯狂讨论他是不是当代最强。通常是因为他又高效砍下三双或者绝杀，大家忍不住刷屏对比历史地位。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "GMMTV RESPECT OUR CULTURE",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个tag是粉丝在刷GMMTV“尊重我们的文化”，起因是旗下艺人/剧集内容被指踩到文化敏感点，粉丝集体要求公司表态道歉。能上趋势主要是因为泰国BL剧粉圈战斗力强、跨国粉丝联动刷屏，加上公司迟迟不给明确回应，火越烧越大。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Ben Johnson",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Ben Johnson这名字突然上趋势，主要是因为一段他早年接受采访的视频被翻出来重新传疯了，里面他聊当年禁药风波时态度特硬，跟现在舆论环境一碰撞就炸了。加上最近体育圈又在讨论兴奋剂和公关洗白那套，网友顺手把他拉出来当典型对线，话题就冲上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Maye",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Maye是马斯克他爸Errol Musk最近公开谈论的儿子（不是那个大家熟悉的Maye Musk），老爷子在采访里爆了些家庭私事和争议言论，被网友截图疯传。这话题上趋势主要是因为马斯克家族八卦体质太强，加上老爷子说话经常不过脑子，吃瓜群众一边吐槽一边转。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Dear JT",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个热搜说的是网友给\"Dear JT\"写信/发帖，JT大概指某位名人或博主（具体得看当天上下文），大家用它当梗来吐槽或表白。上趋势多半是因为当事人回应了或者粉丝集体刷屏，一下子把话题顶起来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jaylon Johnson",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Jaylon Johnson 是芝加哥熊队的 NFL 角卫，这波上趋势多半是因为续约合同、伤病状态或者比赛里的一次关键表现被球迷刷屏讨论。简单说就是橄榄球圈在聊这位防守后卫的最新动态，非球迷路过看个热闹就行。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Shai",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Shai Gilgeous-Alexander（雷霆队球星亚历山大）在X上突然冲上趋势，主要是球迷们又在吵他造犯规罚球太多、是不是靠哨子刷分，外加他最近连续砍高分带队赢球，话题自然就炸了。简单说就是：爱他的人吹他MVP级表现，烦他的人嫌他哨子太多，两边一掐架，Shai就上热搜了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Patriots",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Patriots这波上趋势，大概率是因为NFL新英格兰爱国者队比赛或交易大新闻，球迷集体刷屏。也可能是美国政治语境里“爱国者”这个词被某条爆款帖带火了，两边网友直接开吵。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "AJ Brown",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "AJ Brown是NFL费城老鹰队的明星外接手，最近上趋势多半是因为比赛里又打出炸裂数据或者跟对手/队友整出啥 Drama 了。简单说就是：球打得好、戏也多，球迷和吃瓜群众都爱聊他。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Cairo Santos",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Cairo Santos是NFL芝加哥熊队的巴西裔踢球手，今儿上趋势是因为他在比赛最后时刻踢进了一记绝杀任意球，帮球队赢球。大家刷他主要是因为这种关键时刻太刺激了，再加上他励志的逆袭故事（从巴西踢足球到NFL踢球）被媒体翻出来，一下就火了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Cavs",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "骑士队（Cavs）又上热搜了，大概率是比赛打得刺激——要么绝杀要么被绝杀，球迷吵翻天。反正NBA球队一有戏剧性赛果就冲趋势，很正常。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "James Dolan",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "James Dolan是纽约尼克斯和游骑兵的老板，也是MSG集团的掌门人，最近因为尼克斯时隔多年打进东部决赛却被他一系列迷惑操作抢镜——比如突然解雇主帅锡伯杜、和球迷对喷、坚持用自家争议性政治立场发声，把篮球圈和纽约本地人都给整破防了。说白了就是球队刚有点起色，老板本人比球星还上头冲上热搜，大家一边看球一边吐槽他‘求你别再刷存在感了’。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Pats",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Pats 其实就是新英格兰爱国者队的简称，最近因为 NFL 赛季关键战、交易传闻或者球星动态被球迷刷上趋势。大家讨论要么是球队又搞了什么骚操作，要么是粉丝吵架互喷，总之体育圈流量密码。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Nuggets",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“Nuggets”上趋势一般是因为两条线：一是NBA丹佛掘金队的比赛/交易/伤病消息，二是 McDonald’s 麦乐鸡相关的梗或新品。国内网友多半是跟着篮球热度或玩梗在刷，看到 Nuggets 别懵，先看配图是约基奇还是鸡块。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Sixers",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "76人（Sixers）是费城NBA球队，X上突然上趋势多半是因为交易截止日/买断市场有大动作，或者恩比德、乔治伤情更新炸了锅。\n球迷和记者集体刷屏玩梗，具体导火索得看当天置顶推文。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "CreditOurHeritage",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题是网友们在晒自家人文遗产、老物件或者地方传统，打着#CreditOurHeritage的标签互相认领文化根脉。它上趋势多半是因为最近有人发起“别光顾着过洋节、也说说自家宝贝”的呼吁，加上不少素人晒出超有故事的老照片和手艺活，一下就戳中了大家的乡愁和认同感。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-10-22",
     "time": "2026-10-22 16:59",
     "source": "trends24.in",
@@ -12479,231 +12690,6 @@
         "summary": {
           "translation": "",
           "summary": "{\"news\": \"Big Cass是个前WWE摔角手，最近在X上突然爆火是因为他又开始了疯癫表演，直播里大喊大叫、说些奇奇怪怪的话，网友全在围观。这事儿纯粹是吃瓜群众看乐子，加上他之前被摔角圈封杀又被粉丝当梗玩，就冲上趋势了。\"}",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      }
-    ]
-  },
-  {
-    "date": "2026-08-24",
-    "time": "2026-08-24 12:33",
-    "source": "trends24.in",
-    "items": [
-      {
-        "trend": "Enes",
-        "sentiment": "争议",
-        "summary": {
-          "translation": "[@EnesFreedom]: 经过深思熟虑并审查了当前的资格准则，我正式宣布自己为WNBA候选人。如果仅仅声明你是谁就足够了，那么我满足参加WNBA所需的每一项要求。我和我的团队仔细审查了WNBA关于自我认同和包容性的资格标准及治理框架。根据现行准则，我可以并且正在正式宣布我有资格参加2027年4月的WNBA选秀。我知道我在场上的出现会引发强烈意见。我绝对不是在嘲笑、取笑或不尊重任何社群或个人选择。我只是要求现行规则平等适用于每个人——这些规则代表了WNBA许多球员和教练公开倡导的价值观。我和我的团队已准备好确保这些准则被平等、一致且无一例外地适用，我期待#WNBA信守其宣称的原则。训练营见。https://enesfreedom.com\n\n[@EnesKanter]: 我的兄弟一辈子❤️",
-          "summary": "这哥们儿明显是拿‘自我认同’当万能钥匙，故意用反讽手法把WNBA的包容政策往死里怼——你既然觉得‘说自己是女的就是女的’，那我直接申请当女球员，看你们接不接招。所以热闹全在：当事球员Kanter转发力挺，网友一边看热闹一边吵‘这到底算打脸政治正确还是玩梗玩过了’，反正评论区已经切成两半了。",
-          "sentiment": "争议"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/EnesFreedom/status/2085772139869696032"
-          },
-          {
-            "url": "https://x.com/EnesKanter/status/1389271395956371462"
-          }
-        ]
-      },
-      {
-        "trend": "Lanterns",
-        "sentiment": "吃瓜",
-        "summary": {
-          "translation": "@jamesgunn：《#Lanterns》前五分钟现在就可以看了，正如戒指所愿。《#Lanterns》本周日晚9点在@hbomax首播。@DCOfficial",
-          "summary": "说白了，这是导演亲自下场放物料拉期待，粉丝们一边狂刷预告一边吐槽‘又来这套’，毕竟DC前科太多，怕又是雷声大雨点小。但又有不少人觉得这波操作挺会吊胃口，毕竟首播在即，谁不想看看绿灯侠这次能不能翻身。",
-          "sentiment": "吃瓜"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/jamesgunn/status/2087919784385970212"
-          }
-        ]
-      },
-      {
-        "trend": "Natasha Cloud",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这姐们儿是美国女篮的，刚在X上吐槽WNBA工资太低，说打一年球还不如某些网红一个月赚得多，直接把球员和联盟的破事掀桌了。现在全网都在吵运动员该不该为情怀饿肚子，顺便把NBA的天价合同拉出来公开处刑，话题直接冲上趋势。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Titans",
-        "sentiment": "吃瓜",
-        "summary": {
-          "translation": "【泰坦】我们在百老汇请路人帮忙发布2023赛季赛程安排。🤣 📺：2023赛季发布在@nflnetwork 【泰坦】泰坦老板就@ChrisJohnson28的渐冻症诊断发表声明。",
-          "summary": "第一条帖子是球队玩梗，请路人在百老汇街头搞赛程公布，搞笑效果拉满，大家主要在看这种接地气的互动。第二条是严肃新闻，老板就前球员的渐冻症表态，粉丝们在刷祝福和敬意，氛围比较沉重。",
-          "sentiment": "吃瓜"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/Titans/status/1656827454118412289"
-          },
-          {
-            "url": "https://x.com/Titans/status/2071579609745789133"
-          }
-        ]
-      },
-      {
-        "trend": "Milroe",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Milroe是阿拉巴马大学的四分卫，因为NCAA橄榄球赛季里表现炸裂又翻车，被球迷喷上了热搜。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Jeanty",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "美国大学橄榄球有个叫Ashton Jeanty的跑卫，这一季打得跟开了挂一样，冲球数据直接打破历史纪录，网上全在刷他是不是要拿Heisman奖（球员最高荣誉），火得一塌糊涂。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Toronto",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "多伦多突然刷屏是因为昨晚一场大暴雨把市中心搞成了威尼斯，地铁站都变水帘洞了，网友疯狂发视频吐槽。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Mallory",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这话题一看就是欧美网友在吃瓜，大概率是某个叫Mallory的网红或演员搞出了大新闻，比如撕逼、翻车或者恋爱瓜。为啥上趋势？因为吃瓜群众集体围观，关键词直接被刷爆，跟咱这边热搜一个道理。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Cam Ward",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "哥们儿就是那个美式橄榄球四分卫，因为比赛打得太猛加上赛后采访怼记者，直接让球迷们吵翻了天，热搜就被他承包了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Will Levis",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "{\n  \"摘要\": \"Will Levis上热搜是因为他在NFL比赛里又扔了个离谱的抄截，加上表情包太魔性，球迷直接把他开会刷成了梗。\",\n  \"原因\": \"这家伙开局4场比赛全是低级失误，防守组再猛也带不动，网友一边骂一边看乐子，话题自然就爆了。\"\n}",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Seahawks",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "就是西雅图海鹰队（NFL橄榄球）突然又上热搜了，多半是比赛赢了或输得离谱，球迷和黑粉集体上头刷屏。反正美式橄榄球在国内小众，但架不住海外流量大，推特趋势分分钟被他们冲上去。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "BaddiesUSA",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "BaddiesUSA（坏女孩美国）是那个抓马满满的真人秀节目，一堆互撕、打架、撕逼的片段被网友疯狂截图二创，正片没播完话题就炸了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "RHUGT",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "{\"summary1\":\"RHUGT其实是美国真人秀《Real Housewives: Ultimate Girls Trip》的缩写，一群吵架撕逼的贵妇去豪华度假，结果在桑拿房和泳池边继续开战，全程抓马比电视剧还离谱。\",\"summary2\":\"这话题冲上趋势主要是因为最新一季哪位姐又当众摔杯子+爆前任隐私，网友一边吃瓜一边模仿节目里的金句互怼，热度直接炸了。\"}",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Sprained",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "就是一堆人晒自己崴脚、扭伤的照片和惨状，外加各种偏方和康复心得，看得人脚脖子都疼。上热搜可能是因为最近降温+运动季，大家要么摔了要么在秀恢复，顺便还卷起了谁伤得更惨的挑战。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Sonya Massey",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这话题在讲一个叫Sonya Massey的姐姐，因为一段警察执法的视频被疯狂转发，大家伙都在讨论美国警察和种族那点破事，火得跟炸鸡配啤酒一样快。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Jeffries",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Jeffries突然冲上趋势，估计是哪个大人物又搞出大新闻了，要么是政坛新瓜，要么就是某个科技圈顶流翻车了。反正点进去一看，十有八九是吃瓜群众在围观，外加一堆营销号蹭热度。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Bud Clark",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Bud Clark 这名字最近刷屏，是因为他当年在波特兰当市长时干了件超接地气的事：裸体骑车拍广告、跟流浪汉称兄道弟，结果成了美国最“不正经”的市长。现在突然上热搜，估计是有网友考古了他的往事，大家被这种反官僚的真性情整破防了，顺便怀念一下现在政客们缺的那股子人间烟火气。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Kushner",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这哥们儿是美国前总统特朗普的女婿，最近又因为跟中东土豪搞投资生意刷屏了。大家凑热闹是因为他老在政治和钱之间反复横跳，吃相有点着急，网友都在猜他下一步又打算怎么赚流量。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "TitanUp",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这话题就是在说一股新出的健身/自我提升风潮，主打用高强度训练加心态硬核来卷自己，感觉像健身房版的打鸡血口号。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "90DayFiance",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这个#90DayFiance#话题就是美国那档抓马真人秀，CP们婚前签证互撕的鸡毛蒜皮全被网友当连续剧追，每次新一季开播或者嘉宾搞事情必上热搜。",
           "sentiment": "中性"
         },
         "tweets": []
