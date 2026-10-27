@@ -1,5 +1,216 @@
 [
   {
+    "date": "2026-10-27",
+    "time": "2026-10-27 17:24",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Brewers",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "酿酒人队：第五局的全部8分在一个视频里",
+          "summary": "大家主要在围观酿酒人队第五局狂砍8分的名场面，视频一次看爽。评论区基本是球迷在嗨，没吵啥，纯纯的爽局分享。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/Brewers/status/2114897110097138077"
+          }
+        ]
+      },
+      {
+        "trend": "Cowboys",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个趋势是在聊达拉斯牛仔队（Dallas Cowboys），NFL的超级流量队，粉丝遍布全美。\n\n他们经常上热搜，因为这支队伍自带话题体质——比赛赢了是“美国之队归来”，输了更是全民狂欢，连其他球队的球迷都在看笑话。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Eagles",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "老鹰乐队（Eagles）突然上趋势，八成是因为《Hotel California》又被人翻出来玩梗或者哪部剧/游戏用了他们的歌当BGM，经典老摇滚隔三差五就被互联网拉出来文艺复兴一波。也可能是乐队成员有啥新动态（比如巡演、纪录片或者Glenn Frey的纪念话题），毕竟这种殿堂级乐队的名字一出现，老乐迷就集体冒泡刷屏。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Yaxel",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "不太确定你说的“Yaxel”具体指哪一个，X 上叫这个名字的梗/账号/人物挺少的。你给我个大概方向（比如是哪类内容、哪个圈子），我再帮你总结成两句人话。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jay-Z",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Jay-Z突然上趋势，主要是因为他在Kanye West新专辑《Vultures》里合作了一首歌，歌词里提到碧昂丝和孩子们，结果引发粉丝疯狂讨论和解读。另一方面是他最近在格莱美拿了Global Impact Award，带女儿上台领奖，大家又在聊他过去那些争议和成就，话题度拉满。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Unite",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“Unite”这词儿最近在X上被刷屏，多半是跟某个游戏、社群或者政治口号搞联名活动有关，大家伙儿凑热闹刷标签。能上趋势主要是粉丝和 activist 集体转发玩梗，再加上争议点带节奏，流量一下就冲上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Rays",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Rays指的是坦帕湾光芒队（MLB棒球队），今天上趋势多半是因为比赛结果或者交易传闻炸了锅。\n反正就是球迷在X上集体刷屏，要么赢了狂吹要么输了开喷，棒球圈常规操作。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "WWERaw",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "```json\n{\n  \"topic\": \"WWERaw\",\n  \"summary1\": \"WWERaw就是WWE每期周一晚的摔角直播节目，摔角迷每周追着看的那个。\",\n  \"summary2\": \"这周上趋势多半是节目里出了爆点剧情或大牌回归，摔迷全在X上边看边刷屏热议。\"\n}\n```",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Sneako",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Sneako 是个争议拉满的网红主播，最近因为跟别人对喷、说极端言论又整出新活儿，被全网追着骂。他上趋势基本就是又搞事了，大家一边吃瓜一边开撕，热度自然就上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Nuggets",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Nuggets在X上一般指丹佛掘金队，最近因为NBA季后赛/交易流言/球员表现被球迷刷上趋势。大家讨论的无非是约基奇又打出啥逆天数据、球队赢球或输球该谁背锅这类实时热点。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "LaGranjaCapataz",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题是西班牙语圈在聊拉格兰哈农场的工头Capataz，多半是农场里发生了啥戏剧性的事，比如工头跟老板斗法或者管理翻了车，短视频一传开就火了。西语网友就爱这种土味乡村连续剧，评论区比正片还精彩，所以轻松冲上趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Giannis",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Giannis 就是字母哥扬尼斯·阿德托昆博，X 上刷屏通常是因为他又打出逆天数据或者雄鹿有啥大动静。这次上趋势多半是比赛里又整了个炸裂表现，球迷全在刷屏吹他。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Rudy",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Rudy这词在X上火了，大概率是在聊《花生漫画》里那个整天自我安慰的查理·布朗，或者某部电影/剧里叫Rudy的角色，也可能是体育圈某个叫Rudy的球员突然出圈。上趋势通常是因为有人发了段子/表情包、新片定档、比赛名场面，或者单纯网友玩梗接力，你搜一下带Rudy的推文看看正主是谁就懂了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "WorldSeries",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "WorldSeries 就是美国职棒大联盟的总决赛，相当于棒球界的世界杯决赛，每年10月开打，全美瞩目。会上趋势主要是因为比赛战况激烈、球迷刷屏讨论，加上各种名场面和争议判罚一出来，全网立马炸锅。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Saquon",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Saquon Barkley（NFL费城老鹰的跑卫）在X上冲趋势，多半是因为他又打出爆炸数据或者有劲爆转会/合同新闻，球迷和 fantasy 玩家集体刷屏。简单说就是美式橄榄球圈的大明星，一有高光表现或大新闻，X上全是他的集锦和梗图。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Tanner McKee",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Tanner McKee是费城老鹰队的替补四分卫，平时基本坐板凳，结果因为主力受伤或者垃圾时间上场，突然被球迷拉出来讨论。上趋势主要是因为老鹰球迷对他表现有争议，有人觉得他该多打，有人觉得他还嫩，加上NFL相关话题本来就容易炸。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Dragula",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Dragula 是鲁保罗变装皇后秀选手推出的变装主题曲/网络梗，最近因为新一季节目或选手在 X 上剪视频跳这个舞又火了一把。说白了就是一群变装皇后用一首魔性歌配合夸张造型整活，网友跟风翻跳或二创才把它顶上趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Kiah Stokes",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Kiah Stokes 是 WNBA 纽约自由人的中锋，最近在 X 上被热议是因为她在比赛里跟对手发生冲突，一段她推搡对方的视频疯传，球迷吵成一团。简单说就是球场上动作大了点、被放大讨论，加上她本身话题度不低，就直接冲上趋势了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Postava",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“Postava”这词突然在X上火了，其实它是捷克语/斯洛伐克语里“人物/角色”的意思，最近被二次元圈子拿来当“人设”梗玩。上趋势主要是因为某几个万粉画师和coser带头发起了“晒出你的Postava”挑战，配上AI绘图和原创角色图，一下就刷屏了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "WinOurWay",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "WinOurWay是最近X上突然火起来的一个tag，主要是网友用来给各种“不按套路赢”的操作鼓掌，比如冷门打法、野路子创业、体育里逆风翻盘，反对死磕标准答案。它上趋势是因为有个大V拿它吐槽“赢法只能有一种”的爹味说教，结果大家疯狂跟帖晒自己的WinOurWay，直接刷成梗了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-10-26",
     "time": "2026-10-26 17:26",
     "source": "trends24.in",
@@ -12468,221 +12679,6 @@
         "summary": {
           "translation": "",
           "summary": "Cursor这波上热搜，主要是因为它作为AI编程神器，最近又放大招，让普通人写代码门槛陡降，一堆人惊呼‘这还要程序员干嘛’。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      }
-    ]
-  },
-  {
-    "date": "2026-08-28",
-    "time": "2026-08-28 23:44",
-    "source": "trends24.in",
-    "items": [
-      {
-        "trend": "Warsh",
-        "sentiment": "吃瓜",
-        "summary": {
-          "translation": "【美联储官方账号】凯文·沃什宣誓就任美联储理事会主席及理事，联邦公开市场委员会一致推选沃什担任主席：链接略。",
-          "summary": "大家主要盯着这位新主席的鹰派背景，猜他上台会不会立刻加息、跟特朗普政府掰手腕。评论区一半在玩‘美联储终于换自己人’的梗，一半在哭通胀要完蛋，反正火药味和段子齐飞。",
-          "sentiment": "吃瓜"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/federalreserve/status/2057918499432046831"
-          }
-        ]
-      },
-      {
-        "trend": "MansBestFriendAwards",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这话题其实是国外在搞‘年度最佳狗狗’评选，网友疯狂晒自家狗子的神操作或者感人瞬间，纯粹是来骗人云吸狗和投票的。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "KlingAI",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "KlingAI就是快手那款叫“可灵”的AI视频生成工具，最近国外推特上突然爆火，因为老外们用它生成的视频质量高得离谱，直接惊艳全场。上趋势是因为国外网友疯狂晒片，连带中国AI技术又被吹了一波，话题自然就炸了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Good Friday",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "市长说到：今天，在耶稣受难日，我们纪念一个牺牲的日子。一些纽约人会禁食，另一些会长时间沉默。圣经告诉我们，信仰是对未看见之事的坚信。那份信念将引导我们许多邻居进行庄严的反思与敬畏。我祝愿所有纪念耶稣受难日的人度过一个安宁的祝福之日。",
-          "summary": "这帖子表面是官方式祝福，但大家暗地里在吐槽市长又蹭宗教热度，顺便争论信仰到底该不该跟政治挂钩，还有人调侃“日常祈祷不如解决点实际问题”。整体氛围就是群众看官员作秀，一半人无感，一半人阴阳怪气。",
-          "sentiment": "中性"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/NYCMayor/status/2040022452995043573"
-          }
-        ]
-      },
-      {
-        "trend": "วาดฝันวันวิวาห์EP11",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这话题是泰国一部甜到齁的同性婚礼剧《วาดฝันวันวิวาห์》第11集刚播，粉丝直接磕疯了，热搜全是讨论剧情发糖和预告刀子的。  \n简单说就是“今天又为别人的爱情哭爆”，但架不住画面美、CP感足，大家一边骂编剧一边蹲下周更新，所以冲上趋势了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "LINGORM ILF EP11",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这话题其实就是 LINGORM 演唱会 EP11 的直播片段被剪出来了，粉丝集体沸腾在刷屏，感觉像过年。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "GAME DAY",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这个趋势主要是球迷和电竞粉在刷屏，各种比赛直播截图、吐槽裁判和庆祝胜利的梗图满天飞，看着像集体狂欢。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "PRIME Act",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "PRIME Act大概就是说要简化肉类加工监管，让小农户和本地屠宰场能更容易合法卖肉，听着挺美但争议很大。上趋势是因为美国那边农民和自由派吵翻了，有人觉得能救小农场，有人担心食品安全回退，加上大选前政治站队，话题直接炸了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Al Michaels",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Al Michaels 是NFL传奇解说员，最近因为直播中嘴瓢或者吐槽太狠，被网友疯狂截表情包，直接冲上趋势。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "FursuitFriday",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "哦，FursuitFriday就是国外兽迷圈每周五晒毛毛装自拍的固定活动，大家穿兽装出门或摆拍，刷屏秀可爱，顺便抱团取暖。上趋势多半因为欧美周五流量大+话题标签统一，加上偶尔有明星或梗图破圈，路人觉得“哇好怪再看一眼”就点进来了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "LastFourWatched",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这个趋势基本是网友在晒自己最近最后追的四部片或剧，主打一个互相安利和吐槽，氛围比豆瓣小组还热闹。会上热搜是因为大家追剧口味千奇百怪，一晒出来就各种共鸣或互怼，加上现在流媒体平台太多，都想看看别人是不是也‘榨干’了会员。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Happy Friyay",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这话题就是周五下班前的集体发疯，老外把‘Friday’故意拼成‘Friyay’来庆祝终于熬到头了，配上各种派对emoji和摸鱼梗图。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "RED Friday",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "RED Friday其实就是美国那边为了支持驻外美军搞的‘穿红色星期五’活动，大家穿红衣发帖表敬意，跟咱们朋友圈转国旗一个感觉。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Norway",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "挪威突然上趋势，大概率是因为北欧极光季到了，一堆人晒照拉仇恨，或者又出了什么‘最幸福国家’榜单，老外开始集体羡慕。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Donald Ducks",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这个热搜其实是在玩梗，因为迪士尼那个唐老鸭英文就是Donald Duck，但大家突然刷Donald Ducks（多一个s）主要是因为某个网红或梗图把迪士尼动画里唐老鸭的黑帮版或暴走版表情包翻出来疯转，配上各种离谱台词。真正上趋势的原因就是外国网友集体脑洞，把唐老鸭P成硬汉或乱入各种电影场景，纯粹是娱乐解压的梗狂欢。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Rod Wave",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Rod Wave 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Glenn Beck",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Glenn Beck 这哥们儿又上热搜了，是因为他在X上喷了一通关于美国政治或者某大事件的阴谋论，粉丝和反对者直接吵翻天；这话题火起来纯属他自带流量加立场极端，总能戳中网络喷点。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Yosemite",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这波Yosemite上热搜，是因为最近火山上那片著名的酋长岩（El Capitan）有人搞徒手攀岩直播，吓死全网的同时也炸出一堆云爬山党；加上那边秋季红叶正好到巅峰，朋友圈晒图大赛也带了一波流量。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Runch",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Runch（午饭+晚餐的混搭）突然火了，主要是欧美打工人晒自己下午3、4点吃的那顿“早午饭+晚饭二合一”，还配上#Runch标签，看着就饿。\\n这波趋势全靠社畜们集体共鸣+恶搞表情包，毕竟谁不想把两顿饭省成一顿，省时省钱还适合减肥呢？",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Neen",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Neen是个超火的带货网红，最近因为被爆出带货翻车+人设崩塌，骂声和吃瓜群众一起把话题顶上去了。简单说就是：粉丝觉得被当韭菜割了，路人看戏看得津津有味。",
           "sentiment": "中性"
         },
         "tweets": []
