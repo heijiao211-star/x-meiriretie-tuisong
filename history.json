@@ -1,5 +1,219 @@
 [
   {
+    "date": "2026-10-30",
+    "time": "2026-10-30 18:30",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "ORM BA LEAPMOTOR B03X",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "[@ormsmamihome]：为 LEAPMOTOR B03X 大使 Orm Kornnaphat 热烈鼓掌，在这场充满热情的欢乐发布会上。🌟 ORM BA LEAPMOTOR B03X #OrmSMILEwithB03X #OrmKornnaphat #ออมกรณ์นภัส @ormmormm\n\n[@isabongos]：Mai 在《街头霸王6》中的一课",
+          "summary": "其实就是 Orm 粉丝在开心庆祝她当上零跑 B03X 大使，满屏都是鼓掌和表情包。另一条帖子突然蹦出个《街霸6》的 Mai 教学，跟前面话题完全不搭，看着像串台了，大家主要是看个乐。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/ormsmamihome/status/2116078946177651109"
+          },
+          {
+            "url": "https://x.com/isabongos/status/1800196230766547338"
+          }
+        ]
+      },
+      {
+        "trend": "OrmSMILEwithB03X",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题大概率是粉丝给某个叫Orm的明星或角色刷的微笑应援tag，B03X看着像活动或作品代号。能上趋势说明粉丝在集中打卡刷屏，属于小圈子的狂欢但人多力量大。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "RED Friday",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "RED Friday 是粉丝搞的应援活动，大家穿红色衣服、发红色内容给偶像打call，本质是把 Black Friday 玩成红色主题应援日。它能上趋势主要是因为粉丝团组织力强、K-pop 圈子和品牌联动带节奏，刷话题刷得猛。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Binance",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Binance（币安）就是全球最大的加密货币交易所，最近上趋势多半是因为被监管罚款、某个新币上线暴涨、或者创始人 CZ 又整了什么新活儿。\n一句话，它一有风吹草动，炒币的和吃瓜的都来围观，流量自然就炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "AvatarSevensHavens",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“AvatarSevensHavens”这话题大概是网友在聊《降世神通》里七位气和僧侣的避风港设定或者相关二创，具体出处有点小众但粉丝考据热情很高。它会上趋势多半是因为最近有博主挖出设定细节或者同人作品出圈，引来一波怀旧加讨论潮。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Orm Kornnaphat",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Orm Kornnaphat 是泰国新生代女演员，最近因为主演的 GL 剧《我们的秘密》爆火，加上和搭档 Ling 的真人互动太甜，在 X 上被粉丝刷屏。她上趋势主要是因为剧集名场面、CP 营业和粉丝二创连环炸，泰趋和中趋都经常被她霸榜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Happy Halloween Eve",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "万圣节前夜（10月30日）大家提前开始嗨，晒南瓜灯、cosplay预告和派对照片，X上刷屏造势。因为万圣节正式到来前夜氛围最浓，加上品牌和网红集体蹭热度发帖，话题自然冲上趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "sevenhavens",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Sevenhavens 是最近 X 上被疯转的一个神秘账号/项目名，点进去基本是一堆故弄玄虚的图文和谜题，看着像 ARG 或者某个新项目预热。之所以上趋势，主要是几个大号带节奏转发、网友接力解谜，加上“是不是又一场割韭菜”的争论，热度就滚起来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "ออมกรณ์นภัส",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "ออมกรณ์นภัส 是泰国 GMMTV 旗下的年轻演员 Ice Aom Kornnaphat，最近因为新剧和情侣档话题在泰趋刷屏。她上趋势主要是因为粉丝嗑她和搭档的互动、剧集预告放出，加上粉丝刷话题打榜，属于泰娱圈典型的流量小爆发。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Panthers",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“Panthers”冲上趋势多半是因为NFL卡罗莱纳黑豹队比赛或交易有大动静，或者冰球佛罗里达豹队赢球引发讨论。也有可能是球迷在话题下吵球星表现或玩梗，反正是体育圈日常刷屏。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Christian Watson",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Christian Watson是NFL绿湾包装工队的年轻外接手，最近因为一场比赛里表现爆棚（比如关键接球达阵或绝杀表现）被球迷刷上了X趋势。大家讨论他主要是惊叹这小子终于兑现天赋了，或者 fantasy 玩家在狂欢／哀嚎。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "AHS13",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“AHS13”指的是美剧《美国恐怖故事》第13季（American Horror Story Season 13），最近因为FX官宣续订、主创瑞恩·墨菲透露新季主题和卡司动向，加上老演员回归传闻，在X上被剧迷刷上趋势。\n\n简单说就是这部长寿恐怖 anthology 剧确认还有下一季，粉丝一边猜题材（可能回归经典恐怖元素）一边吵谁能回来演，话题度自然就起来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Red Baron",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Red Baron（红男爵）是德国一战王牌飞行员曼弗雷德·冯·里希特霍芬的绰号，他击落80架敌机，是那场战争最出名的空中杀手。这话题突然上趋势，多半是有新片新剧、纪录片上线，或者游戏联动、纪念日之类把老IP又拉回大众视野——反正每次提到他，军迷和飞行迷都能聊嗨。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Grizzlies",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Grizzlies这波上趋势主要是因为球队季后赛表现和交易传闻炸了锅，球迷们都在疯狂讨论。简单说就是灰熊队又成了篮球圈的热搜体质，赢球输球都能吵翻天。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Bryce",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“Bryce”这话题一般是某个叫 Bryce 的人或相关梗突然在 X 上被大量讨论，可能是体育比赛、娱乐八卦或网友玩梗带火的。上趋势通常是因为有突发事件或名人转发，大家跟风刷话题就冲上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "DevOps",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "DevOps最近在X上火了，简单说就是把开发和运维捆一起干活，用自动化工具让软件上线又快又稳。之所以上趋势，是因为AI写代码越来越猛，大家开始吵“以后是不是AI连运维也包了”，加上大厂都在推平台工程，话题自然炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "TRM Labs",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "TRM Labs 是一家专门给加密行业做合规和反洗钱追踪的区块链分析公司，最近在 X 上被热议是因为它频繁被监管机构、交易所和执法部门点名合作，成了链上“抓坏人”的关键角色。上趋势主要是大家讨论它家工具怎么追踪黑客赃款、协助执法，以及它和 Chainalysis 这类竞品的对比。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Cam Boozer",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Cam Boozer是杜克大学大一前锋卡梅隆·布泽尔，前NBA球员卡洛斯·布泽尔的儿子，最近在NCAA疯狂三月和选秀预测里频繁刷屏。之所以上趋势，是因为他带队打进Final Four、拿下ACC区MVP，同时锁定2026年NBA状元大热，美国篮球圈全在讨论他能不能延续布泽尔家族的牌面。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "SAFU",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "SAFU 是币安在 2018 年黑客事件后搞的\"用户安全资产基金\"，全称 Secure Asset Fund for Users，专门用来给平台出事时兜底赔付用户。这次上趋势多半是因为币安又动了这笔钱——要么提取了一部分、要么公布余额变动，市场一看到\"安全基金被挪用\"就炸锅了，毕竟这玩意儿相当于交易所的救命钱，动它等于告诉用户出事了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jordan Love",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Jordan Love是绿湾包装工队的年轻四分卫，最近因为续约大合同或者比赛里的炸裂表现被球迷刷上趋势。大家讨论的无非就是他到底值不值顶薪、能不能扛起球队大旗，支持的和看衰的吵得挺热闹。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-10-29",
     "time": "2026-10-29 18:30",
     "source": "trends24.in",
@@ -12484,213 +12698,6 @@
         "summary": {
           "translation": "",
           "summary": "Keefe D就是上次被指控参与谋杀2Pac的那位前黑帮成员，最近他正式被逮捕候审了，这案子在嘻哈圈炸了锅。这波上趋势純属因为网友们都在等着看他会不会供出更多内幕，毕竟这瓜又大又陈年。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      }
-    ]
-  },
-  {
-    "date": "2026-08-31",
-    "time": "2026-08-31 18:11",
-    "source": "trends24.in",
-    "items": [
-      {
-        "trend": "Lanterns",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "感觉就是一群外国人突然迷上了中国灯笼，各种晒图打卡，从ins风民宿到庙会灯笼墙，连带着汉服和国风滤镜都跟着涨热度。至于为啥上趋势，八成是某个明星或网红发了张灯笼下拍的神图，直接带火了这波东方美学，大家就都跟着凑热闹了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Good Monday",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Good Monday是个打工人互相打气的梗，周一早上刷一波‘加油熬过这周’的鸡汤，配上咖啡或堵车图，看了让人又哭又笑。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "GemRadar",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "GemRadar 好像是这两天游戏圈突然炸出来的新梗，一堆人刷屏讨论某个隐藏玩法或者彩蛋，感觉像官方藏了个大瓜。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "John Stewart",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "\"John Stewart又杀回来了，这回是因为他怼了谁或者说了啥大实话，把推特网友整沸腾了。大家疯狂转发他的片段，估计又是拿政治或媒体开涮，戳中了不少人的爽点。\"",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Kharg Island",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Kharg Island上热搜主要是因为伊朗在那搞石油出口和军事活动，最近有船被袭击或者油田出事，大家就躁动起来了。简单说就是中东又冒烟，油价和地缘政治牵动全球神经，吃瓜群众顺便看戏。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Hal Jordan",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Hal Jordan 这哥们儿是DC的绿灯侠，最近突然上热搜是因为新动画电影里他换了个黑人造型，老粉直接炸锅，评论区吵翻了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Djokovic",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "今天热搜上炸锅的是德约科维奇（Djokovic）疑似又搞了个大新闻，可能是场边怼观众或者赛果爆冷，反正外网球迷吵疯了。原因无非是他永远自带“流量体质”，赢球输球都能整出话题，加上美网这种大满贯舞台，推特当然不放过他。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Venus Williams",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这波热搜是因为网坛传奇大威（Venus Williams）突然官宣要打2025年澳网，44岁还在拼，直接把老球迷的青春回忆炸出来了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "mcrsandiego",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这话题是圣地亚哥那边一个叫MCR的地方突然火了，好像是因为当地出了个大新闻或者某件事被网友疯转。大概率是跟本地人生活或者某个争议事件挂钩，不然不会冲上趋势榜。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Gema",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Gema这波上热搜主要是欧美网友在刷一个叫Gema的AI音乐生成工具，逼真到能模仿歌手声音，整活视频传疯了。加上有人用它搞了首diss歌曲，争议直接拉满，吃瓜群众全来围观了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "KOLs",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "KOLs 是今天 X 上的热门话题，具体讨论内容待补充。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "USOpen",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "USOpen（美网）是每年一度的网球大满贯赛事，最近开打所以刷屏，各种爆冷和名场面让球迷疯狂讨论。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "mcrsd",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "{\n  \"topic\": \"mcrsd\",\n  \"intro\": \"mcrsd火起来是因为最近有个游戏（可能是《我的世界》相关衍生或某个跳票作品）突然放出实机演示，玩家狂刷这个缩写。\",\n  \"reason\": \"加上一堆吃瓜路人和黑粉在吵是不是抄袭或噱头，直接冲上趋势榜，跟当年那个‘偷吃鬼’话题一样，情绪拉满。\"\n}",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Navone",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Navone这波上趋势是因为他赢了个ATP巡回赛冠军，挺有戏剧性的，毕竟这哥们之前排名挺靠后，算是黑马逆袭。大家主要是被他的比赛风格和突然爆发圈粉了，顺便调侃下他那个有点随性的发型。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Miku",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Miku又上热搜了，基本是初音未来开演唱会或者新歌发布之类的活动，粉丝们集体发疯刷屏。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Singapore",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "新加坡突然上热搜，大概率是又有什么新政或者奇葩新闻了，比如房价、税、或者哪家美食店排队排到马来西亚。反正就是小而美的国家一折腾，全球网友都爱围观一下。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Gizelle",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Gizelle 这个话题主要是在聊《家庭主妇》真人秀里的 Gizelle Bryant，网友们在吃她感情和闺蜜撕逼的瓜。上趋势是因为新一集里她怼人太猛，被骂绿茶又有人挺，吵着吵着就上热搜了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "RHUGT",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "RHUGT就是《Real Housewives Ultimate Girls Trip》的缩写，一帮豪门怨妇真人秀明星凑一起度假撕逼，剧情比宫斗剧还抓马。今天上趋势是因为新一季又爆出当场掀桌+闺蜜反目名场面，网友边骂边嗑，热搜直接炸了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Trey Gowdy",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Trey Gowdy 是美国前检察官和国会大佬，最近又出来刷存在感，带着他那副‘我啥都懂’的扑克脸在电视上怼天怼地，主要是在谈拜登和川普那些破事。之所以上热搜，是因为他放话要调查特别检察官哈里·梅根（Hunter Biden）的案件，美媒和吃瓜群众都等着看戏呢。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Episode 3",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "就是某个剧（大概率是美剧或韩剧）第三集上线了，粉丝集体炸锅，一边刷剧一边发疯。",
           "sentiment": "中性"
         },
         "tweets": []
