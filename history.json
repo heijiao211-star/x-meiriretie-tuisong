@@ -1,5 +1,212 @@
 [
   {
+    "date": "2026-11-04",
+    "time": "2026-11-04 19:40",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Texas",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "得州又整活了，这次是因为州政府和联邦在边境执法上硬刚，国民警卫队直接跟联邦探员对峙，闹到最高法院介入。推特上左右两派吵翻天，加上大选年移民问题本来就是火药桶，直接给顶上趋势了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Republicans",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个话题就是美国共和党（GOP），X上聊它多半是因为国会法案、特朗普相关动作或者党内初选掐架这类事又上了头条。能冲上趋势一般是有大新闻——比如众议院投票、某个共和党大佬放话或者民调炸了，网友两边对喷自然就热起来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Mississippi",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "密西西比州又双叒上热搜了，这次是因为当地通过了一项争议性法案，具体内容各路人马吵得不可开交。简单说就是保守派和进步派又在掰头，涉及种族、历史教育这些老问题，网友围观吃瓜顺便站队，热度直接拉满。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Dems",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“Dems”就是美国民主党（Democrats）的简称，X上大家讨论民主党相关的事儿基本都用这个标签。最近能上趋势一般是因为民主党那边又有啥大动作——比如推新法案、选举动向、内部争论或者和共和党干架，网友一窝蜂拿这个标签发帖就顶上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Thune",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Thune这波上趋势，大概率是因为美国参议员John Thune又出来刷存在感了——他最近在国会推法案或者在党派斗争中站队，被媒体和网友抓出来反复讨论。简单说，就是美国政坛老面孔搞事情，保守派内部撕逼或者跟民主党杠上了，评论区自然热闹起来。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "MAGA",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "MAGA就是“让美国再次伟大”的缩写，特朗普的招牌口号，现在成了他铁杆粉丝团的代称。这话题上趋势多半是因为特朗普又搞了什么大新闻，或者中期选举/官司缠身，支持者和反对者在网上吵得不可开交。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Rubio",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Rubio这波上趋势，大概率是因为他又在X上整活了——要么是发了条嘲讽对手的爆款帖，要么是卷入某个政治口水战被网友疯狂转发。简单说就是：这哥们儿又靠嘴炮或者争议言论刷屏了，大家要么在吃瓜要么在站队，热度自然就冲上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Midterms2026",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Midterms2026 就是美国2026年中期选举的缩写，网友在聊谁能拿下国会两院、哪些席位要翻盘。之所以上趋势，是因为这场选举直接关系特朗普第二任期的后半程能不能顺畅推政策，各路民调、候选人动态和骂战已经开始发酵了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Save Act",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Save Act 就是美国众议院通过的一个法案，要求注册投票时得拿出公民身份证明，说是为了防止非公民投票。它上趋势是因为民主党和共和党在这事上吵翻了，一边说这是保护选举安全，另一边骂这是故意给选民添堵、打压少数族裔投票。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Kansas",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Kansas（堪萨斯）突然冲上X趋势，多半是因为当地又出了什么引爆全网的大新闻，比如极端天气、离谱法案或者体育圈的高光时刻，各路网友一边围观一边疯狂玩梗。说白了，就是美国中部这个平时没啥存在感的州，突然靠一个爆点把大家的注意力硬拽过来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "The GOP",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "The GOP 就是美国共和党的缩写，X上这标签一上趋势基本就是党内又出啥大新闻了——要么初选吵架、要么特朗普相关动作、要么国会跟民主党硬刚。能上趋势主要是因为美国政治自带流量，媒体和两党支持者都在这个话题下对喷，热度自然就冲上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "DeSantis",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "DeSantis 就是佛罗里达州州长 Ron DeSantis，共和党里的红人，之前在共和党初选里跟特朗普抢过总统候选人提名，还老被传要在 2024 或 2028 出来选。\n他上趋势一般是因为又有新动作——比如跟特朗普隔空互怼、签署争议法案（像反堕胎、限制学校讲性别话题、跟迪士尼掐架），或者民调数据出来大家讨论他还能不能打。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jeffries",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Jeffries这波上趋势主要是因为众议院少数党领袖Hakeem Jeffries在X上跟特朗普阵营互怼，加上民主党内围绕中期选举策略的讨论把他推到了风口浪尖。简单说就是这位民主党大佬最近动作多、话题性强，网友和媒体都在盯着他下一步怎么走。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "RINO",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "RINO 是“Republican In Name Only”的缩写，意思是“名义上的共和党人”，主打一个党内互撕——保守派拿它骂那些他们认为不够右、跟民主党眉来眼去的共和党政客。最近又上趋势，多半是特朗普阵营或 MAGA 支持者借中期选举、党内初选或某位议员投票立场开火，把它当帽子扣人，吵得热闹就冲上热搜了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Susan Collins",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Susan Collins是美國緬因州資深共和黨參議員，經常在關鍵投票上搖擺，媒體和網友都愛盯着她看。她上趨勢多半是又在某個重大法案或提名上表態了，大家等着看她這次站哪邊。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Vance",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Vance这话题上趋势，多半是指美国参议员J.D. Vance——特朗普的竞选搭档，最近不是被翻旧账就是又在采访里放炮，反正他一开口就自带流量。热度高说白了就是大选临近，这哥们每次发言都能拱火，网友要么挺他要么骂他，吵着吵着就上趋势了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Greg Abbott",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Greg Abbott是美国得州州长，最近因为强硬推进边境执法和跟联邦政府硬刚（比如国民警卫队对峙）在X上被刷屏。两边网友吵翻天，支持者夸他护边境，反对者骂他作秀，话题热度直接拉满。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Republican Party",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "共和党在美国政坛搞出大动静，比如选举、政策大动作或者 internal 撕逼，都能让全网沸腾。上趋势通常是因为两党掐架升级，或者川普出来刷存在感，大家忍不住围观吃瓜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Veto",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Veto 就是“否决权”，最近在 X 上爆火是因为联合国安理会又有人动用否决权挡了停火决议，网友吵翻了天。大家一边骂“一票否决”让国际机制失灵，一边刷梗玩“我也要 veto 我老板的加班通知”，话题就这么冲上趋势了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "The American",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“The American”这话题冲上趋势，大概率是因为最近有部叫《The American》的新剧或电影上线，或者某个美国人相关的争议事件被疯狂转发。反正这种带“美国”字眼的标签一上热搜，基本就是网友在围观八卦或站队吵架。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-11-03",
     "time": "2026-11-03 19:26",
     "source": "trends24.in",
@@ -12513,213 +12720,6 @@
         "summary": {
           "translation": "",
           "summary": "这人是个美国橄榄球四分卫，最近在NCAA比赛里打出了超神表现，直接把对手打崩了，还带队逆转赢球，瞬间上了X趋势。大家主要是在炸裂他的传球和那股不服输的劲头，感觉就跟看爽文一样，球迷全在刷屏喊他以后要进NFL。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      }
-    ]
-  },
-  {
-    "date": "2026-09-05",
-    "time": "2026-09-05 15:53",
-    "source": "trends24.in",
-    "items": [
-      {
-        "trend": "Malachi Toney",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Malachi Toney 是个美国高中生橄榄球天才，最近签了张天价大学合同，直接刷爆了X趋势。大家除了惊叹他小小年纪赚翻，还在吵他到底值不值这个钱，跟NBA选秀一样热闹。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Cudi",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Cudi（Kid Cudi）突然上趋势，估计是他发新歌或者有演出爆了，粉丝们集体刷屏呢。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Stanford",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "斯坦福又双叒上热搜了，基本上是因为他们新出的AI技术或者某个学霸搞了个大新闻，全世界都在围观。反正就是美国顶尖名校一发力，科技圈就集体高潮，咱们吃瓜看看他们又搞了什么黑科技就行。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Kanye",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "```json\n{\n  \"topic\": \"Kanye\",\n  \"intro\": \"Kanye（侃爷）又搞事情了，这次是因为他突然在社交媒体上发疯，或者宣布新专辑/新店/新争议，反正每次他一开口，全网就炸了。\",\n  \"reason\": \"上趋势是因为他自带顶流体质，不管是有病还是有钱，粉丝和吃瓜群众都爱看他整活，再加上他总爱得罪人，话题度拉满。\"\n}\n```",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Andy Ruiz",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Andy Ruiz上趋势是因为这个墨西哥拳王又爆冷门了，据说对手赛前玩心理战还被他一拳打懵，评论区都在刷'胖但能打'的梗。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Lupe",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Lupe这波上趋势大概率是某个圈内大佬或者梗图突然炸了，大家开始疯狂玩梗+考古。反正不是福布斯富豪榜那种正经事，就是网友纯凑热闹，跟风刷屏冲上来的。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Miami",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "迈阿密这波热度主要是NBA总决赛热火队被掘金干翻，球迷破防刷屏，外加美国那旮旯的移民政策闹得凶，大家边吃瓜边吐槽。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Boots",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Boots这话题突然上热搜，要么是哪个明星带货了双丑鞋子，要么就是有啥新梗在玩“靴子”谐音梗，大家跟风整活儿呢。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Doug Eddings",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Doug Eddings是个美国MLB裁判，今天因为在一场比赛里判了个超有争议的好球/坏球，直接把球员和教练惹毛了，网上瞬间炸锅。大家疯狂吐槽他“瞎眼判罚”，话题就冲上热搜了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Heisman",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "```json\n{\n  \"topic\": \"Heisman\",\n  \"summary_cn\": \"简单说，就是美国大学橄榄球年度最强球员奖要发奖了，结果网上吵翻了，因为今年入围没黑哥门德斯（占波霸）大家都觉得太LOW了。就像你朋友圈有人晒证但被兄弟群集体diss配不上，纯属看热闹+护主心态拉热度。\"\n}\n```",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Toledo",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Toledo突然上热搜，估计要么是西班牙那座古城又办了什么炸裂的节日或足球赛，要么是美国俄亥俄那个托莱多出了啥离谱新闻，比如工厂事故或者网红作妖。总之就是外国地名自带流量，一刷全在聊，但90%的人可能连它在哪个州/哪个省都没搞清。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Fresno State",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Fresno State（弗雷斯诺州立大学）突然上热搜，大概率是他们的橄榄球队或篮球赛打出了惊天大冷门，或者有学生搞了个蠢萌的恶作剧火出圈了。反正不是啥学术大事，就是体育+校园整活触发的吃瓜狂欢。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "SmackDown",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "{\"topic\":\"SmackDown 上了趋势，其实是WWE（美国摔角娱乐）周四晚的招牌节目又炸场了，大家在看比赛视频外加疯转那些高能瞬间和剧情反转。\",\"reason\":\"这波热度多半是因为某场惊天大战或者明星选手爆冷，搞得摔角迷和围观路人全在刷屏，顺便聊聊新剧情线，气氛比现场还嗨。\"}",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Scalability",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Scalability 就是系统能不能扛住人流量暴涨，比如电商大促、球星官宣这种瞬间流量，能扩容就是好汉。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Ben Shelton",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这波是网球圈的Ben Shelton又整活了，估计是在美网或者大赛上打得猛或者说了句霸道话，直接把老外网友的流量吸干了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "CloudNative",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "CloudNative 就是讲怎么把软件拆成小块儿扔云端自动跑，像搭乐高那样灵活省心，最近一堆大厂在推这个，还挺热闹。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "UTEP",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "UTEP其实是德克萨斯大学埃尔帕索分校的缩写，但这次上热点是因为网上疯传一段校园枪击警报的视频，搞得大家以为又出大事了，结果虚惊一场，其实是消防演习。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Serena",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Serena这波上热搜大概率是网球名将的大小威姐妹或者某位网红的新瓜，粉丝和路人都在刷屏吃瓜。具体是夸她复出状态猛还是撕逼八卦，得看你刷到的是体育号还是娱乐号。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Mason Miller",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这哥们是奥克兰运动家队的疯狗投手，刚用105英里速球三连K刷爆MLB，推特上全是他在刷三振的慢镜和表情包。上趋势一是因为数据太牲口（今年时速王炸），二是球迷拿他当苦逼烂队里最后的遮羞布疯狂玩梗。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Campy",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "```json\n{\n  \"topic\": \"Campy\",\n  \"summary_cn\": \"这词这几天在X上突然蹿红，主要是因为欧美网友开始用‘Campy’来狂捧那些夸张到自嘲的影视剧造型和综艺表情包，比如《贱女孩》里的浮夸穿搭和某颁奖礼的翻白眼抓拍。它压根不是什么深奥新语，就是‘故意做作但高级’的意思，大伙儿纯粹是被一堆沙雕二创和Reaction给顶上了热搜。\"\n}\n```",
           "sentiment": "中性"
         },
         "tweets": []
