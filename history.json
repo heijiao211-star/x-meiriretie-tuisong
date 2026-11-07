@@ -1,5 +1,223 @@
 [
   {
+    "date": "2026-11-07",
+    "time": "2026-11-07 18:45",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Luka",
+        "sentiment": "争议",
+        "summary": {
+          "translation": "[@lukadoncic]：成为湖人一员对我来说意味着一切，我很兴奋能回到球场，为洛杉矶带来一座总冠军。过去这几年我已经习惯了大的变动，但我知道，无论怎样，这支标志性球队的潜力没有上限。我期待见到Josh和Bob，这样我们就能一起在洛杉矶开始打造一些特别的东西。\n\n[@lukadoncic]：我感谢NBPA为我发声，也感谢NBA做出了公平的决定。12月能亲自迎接我女儿的出生对我来说太重要了，我很感激Mark、Jeanie、Rob、JJ以及整个湖人组织完全支持我，让我能赶过去。这个赛季对我和我的队友们来说特别有意义，因为我们一起取得了那些成就，我很荣幸有机会被考虑进入联盟的赛季末奖项评选。",
+          "summary": "卢卡这两条推——一条表忠心说要在湖人夺冠，一条感谢工会和联盟、顺带回应了请假陪产和评奖的事——把湖人球迷和独行侠球迷都炸出来了，大家主要吵他这波表态到底是真心还是公关话术。看热闹的点则在于他专门提到“见Josh和Bob”，还有那句“习惯了大的变动”，被不少人拿去玩梗解读。",
+          "sentiment": "争议"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/lukadoncic/status/2087577775301427475"
+          },
+          {
+            "url": "https://x.com/lukadoncic/status/2044810923391459502"
+          }
+        ]
+      },
+      {
+        "trend": "Good Saturday",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个标签其实就是老外周六例行发帖的快乐打卡，大家晒周末计划、早安自拍、咖啡照，主打一个松弛感。能上趋势多半是因为周末流量大、品牌和网红顺手带节奏，加上算法爱推这种低门槛高互动的内容，一刷就满屏都是。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "LakeShow",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "湖人队现身活动现场 📍 @ToyotaSoCal x #LakeShow",
+          "summary": "这就是湖人官方在丰田4S店的活动打卡照，粉丝们一边认场地一边猜谁到现场了。看点无非是湖人球员露脸营业，大家顺手围观有没有大佬现身。",
+          "sentiment": "中性"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/Lakers/status/2118885081175802362"
+          }
+        ]
+      },
+      {
+        "trend": "Miller",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Miller 这两天在 X 上冲趋势，主要是网友在聊一个叫 Miller 的人或梗，具体是哪个 Miller 得看具体语境（球员、演员、还是新梗）。火起来多半是因为某条爆款帖或争议事件被大量转发讨论，大家跟风玩梗、站队或者吐槽，就这么把话题顶上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Blazers",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Blazers这话题在X上火了，大概率是波特兰开拓者队的比赛或交易搞出大新闻，球迷正吵得热火朝天。要么就是有人穿西装外套（blazer）拍了张神图突然爆火——反正这词双关，点进去才知道是篮球还是穿搭。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Bond",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Bond 这波上趋势主要是因为 X 上线了 \"Bond\" 这个新功能，简单说就是让你能跟 AI 助手更深度绑定，记住你的偏好和上下文，聊天像带记忆的私人助理。大家讨论炸锅是因为一边觉得方便，一边担心隐私——你的数据被“绑”得多紧、能不能解绑，成了最大槽点。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Rhule",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Rhule这波上趋势主要是因为卡罗莱纳黑豹队主帅Matt Rhule被炒鱿鱼了，球迷们嗨翻了天。大家这么激动是因为他执教三年战绩稀烂、花钱如流水还没打出名堂，终于走人所以全网庆祝。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Pattinson",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Pattinson 上趋势大概率是因为罗伯特·帕丁森有新片或新动态被网友热议，比如《蝙蝠侠2》消息、新片首映或者红毯造型又成了meme素材。他本人自带话题体质，随便一个采访发言或路透照就能让粉丝和路人在X上玩梗刷屏。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Sonny Dykes",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Sonny Dykes是美国大学橄榄球教练，最近因为TCU战绩拉胯、执教能力被球迷狂喷，直接骂上了X趋势。简单说就是球迷忍不了了，集体开麦喊他下课，话题就炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Arab America",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“Arab America”这话题今天在X上火了，主要跟一个讨论阿拉伯裔美国人在美国社会里身份认同的视频有关。简单说就是大家又在聊：在美国当阿拉伯裔到底啥感觉，文化、政治、舆论压力这些事儿。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Nebraska",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "内布拉斯加（Nebraska）这波上趋势，主要是因为当地议员又整了个大活儿——比如推动把选举人票改成赢者通吃，或者围绕堕胎、跨性别议题搞出争议法案，被全网围观。说到底就是美国中部这个红州最近在政治议题上反复横跳，加上媒体一拱火，大家就开始玩梗吐槽：“哦，内布拉斯加啊，那个除了玉米地就是神操作的地方。”",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Noah Fifita",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "简单说，Noah Fifita 是亚利桑那大学野猫队的年轻四分卫，最近因为大学橄榄球转会市场的动静（可能涉及转学或留队决定）被球迷疯狂讨论。上趋势主要是大学橄榄球迷一有风吹草动就炸锅，加上他表现亮眼、潜力大，大家盯着他下一步去哪。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "ReleaseTheOdds",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题八成是网友在喊话某平台或官方把被藏起来的赔率/数据放出来，通常跟体育博彩、预测市场或游戏抽奖的概率争议有关。能上趋势多半是因为有人爆料‘暗箱操作’或大V带头刷屏，大家跟着起哄要透明。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Deni",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Deni 本来是个挺普通的人名，突然上趋势多半是因为某个叫 Deni 的梗图、视频或者段子被反复刷屏，大家跟风玩起来了。说白了就是网友发现这个名字谐音太好用，或者某人做了件离谱事被挂出来，属于那种“你看一眼就懂”的小热闹。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Adou",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Adou其实是法语里对年轻小哥的昵称，这波突然上趋势多半是哪个法语区的体育选手、网红或者比赛解说里反复出现这个词，被剪成短视频/表情包在X上传开了。简单说就是一个本来挺小众的称呼被网友拿去玩梗，冲上了热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Scoot",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Scoot（酷航）是新加坡航空旗下的廉价航空，最近在 X 上被刷上趋势，主要是因为航班取消、延误或退款纠纷引发乘客集体吐槽。简单说就是大家花钱买票结果航班一团乱，乘客跑到网上维权发帖，硬是把酷航送上热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Chewy",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Chewy是美国最大的宠物用品电商，最近因为财报超预期、股价大涨冲上X趋势，顺带把“宠物经济抗不抗衰退”的老话题又炒热了。说白了就是大家发现：人可以勒紧裤腰带，但给猫狗买零食的钱一分不少花，资本市场立马开始追捧这个概念。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Lakers",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“Lakers”这个话题基本就是洛杉矶湖人队，比赛日、交易流言、詹姆斯或东契奇相关动态一有风吹草动就容易被刷上趋势。最近上趋势多半是因为比赛结果或球星表现引爆讨论，球迷和黑子一起下场对线，热度自然就冲上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Hoult",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Hoult这话题多半是因为尼古拉斯·霍尔特在新片或X上又被网友拿来当梗整活，不是因为帅上热搜就是表情包火了。简单说，人家靠一张脸和一个角色在中文互联网又刷了一波存在感，热搜体质咱羡慕不来。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jake LaRavia",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "```json\n{\n  \"topic\": \"Jake LaRavia\",\n  \"summary1\": \"Jake LaRavia是NBA灰熊队的年轻前锋，这两天在X上突然火了，主要是因为一场比赛里打出了亮眼表现，或者被卷进了交易流言。\",\n  \"summary2\": \"总之就是球迷和 fantasy 玩家集体高潮，讨论他是不是要上位了，属于典型的“小人物突然有话题度”那一挂。\"\n}\n```",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-11-06",
     "time": "2026-11-06 19:39",
     "source": "trends24.in",
@@ -12524,213 +12742,6 @@
         "summary": {
           "translation": "",
           "summary": "这波网球话题上热搜，八成是哪个大满贯又爆冷或者神仙打架了，比如美网或温网那种关键时刻，球迷们在全网疯狂刷屏，比赛画面和解说梗齐飞。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      }
-    ]
-  },
-  {
-    "date": "2026-09-08",
-    "time": "2026-09-08 16:23",
-    "source": "trends24.in",
-    "items": [
-      {
-        "trend": "Mike Norvell",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "```json\n{\n  \"topic\": \"Mike Norvell\",\n  \"summary_lines\": [\n    \"这哥们是佛罗里达州立大学橄榄球队的主教练，今天上热搜大概率是因为球队又输球或者赢球了，反正要么吹爆要么被喷成筛子。\",\n    \"FSU今年战绩拉胯，球迷早就在骂声一片，这次估计是输给弱旅或者战术翻车，直接把他顶到风口浪尖，刷推全是在喊下课或挽尊的。\"\n  ]\n}\n```",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Kevin Jennings",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这哥们儿是美国教育部的头儿，最近因为强推校园性别认同政策和言论审查被扒了老底，保守派骂他‘洗脑教育’，自由派说他反歧视，两边吵疯了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Florida State",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这波佛罗里达州上热搜，八成又是哪个沙雕新闻或者政策炸了锅，毕竟佛州日常就是‘现实比段子离谱’的代名词。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Ashton Daniels",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "简单说就是有个叫Ashton Daniels的哥们儿在X上整活了，具体内容可能是翻车或者爆梗，总之看热闹的太多直接给顶上热搜。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "WWERaw",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "{\"intro\":\"WWERaw 就是美摔圈那档周赛节目，跟演连续剧似的，打打闹闹加狗血剧情。今天上热搜八成是有个大牌回归或者神级打架片段被粉丝刷爆了，又或者是冠军易主整得全网熬夜吃瓜。\",\"why\":\"简单说就是摔迷们的年度发疯时刻，要么是剧情炸裂要么是选手回家，引发回忆杀和实时吵架，不冲上趋势才怪。\"}",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Tony White",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这老哥是英超裁判，昨晚水晶宫对利物浦那场把利物浦的点球给吹没了，赛后一堆红军球迷直接开喷，说他是‘盲侠’转世。现在话题火了，无非是裁判误判碰上流量球队，吃瓜群众也跟着吵谁占便宜了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Navier-Stokes",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这话题其实就是流体力学里最难的方程，俗称‘NS方程’，描述水啊空气啊咋流动的，至今没人能完美证明它的解一定存在且不炸掉。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Kromah",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "其实这是利比里亚一个叫Kromah的政客突然在X上被刷屏了，起因是他发推喊话要调查国内腐败，结果被网友挖出他自家公司干过类似黑料，直接翻车成大型打脸现场。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Christian Gonzalez",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这话题是球迷在嗨聊爱国者队那个新秀角卫Christian Gonzalez，说他防守猛得像开挂，一场比赛就把对面外接手锁死了。上趋势是因为NFL比赛刚打完，他那神级表现直接冲上热搜，粉丝都在刷他未来巨星预定。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "BAPS",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "BAPS其实是印度一个超大的印度教组织，最近因为它在纽约搞了个巨型神庙揭幕，全球信徒和名人扎堆打卡，连加拿大总理都去了，所以直接冲上热搜。简单说就是‘印度教版迪士尼’开业，信仰排面拉满，网友一边看热闹一边感叹这工程是真牛。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Duce",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "讲真，'Duce'这词儿最近在X上刷屏，主要是因为意大利总理梅洛尼去美国开会时，被拍到有支持者喊她'女版墨索里尼'的外号（Duce是墨索里尼的称号），然后全网就开始考古意大利极右翼历史跟现在政坛的狗血剧情了。说白了就是又一轮'这届政客到底抄没抄作业'的吃瓜大战，只不过这次素材带点二战味。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Tallahassee",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "{\n  \"explanation\": \"这个梗是指美国佛罗里达州首府塔拉哈西，最近在网上因为一个诡异的AI生成广告视频火了——一堆大白鹅在城市上空乱飞，配上阴间滤镜，网友直呼像灾难片，纷纷玩梗。\",\n  \"reason\": \"因为这段视频太抽象又搞笑，被网友疯狂转发吐槽，还引出了各种二创P图和病毒式传播，直接把‘Tallahassee’顶上趋势了。\"\n}",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Brianda",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这话题八成是哪个外国网红或者运动员突然搞了个大新闻，要么是离谱操作要么是争议发言，不然不会一夜之间冲上热搜。大家也就是看个热闹，顺便站队吵两句，等明天又有新瓜就散了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Gonzo",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Gonzo这词最近在X上刷屏，是因为一堆人拿它形容那种‘疯批式’瞎搞或极端报道风格，加上某网红翻车视频被喷成Gonzo级表演，大家就疯狂玩梗。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "CalvinKleinSS27",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这就是CK在2027春夏时装周整了个大活，把极简玩出新花样，还找了一堆超模和网红全网刷屏，视觉冲击力拉满。上了趋势主要是因为发布会现场炸场+网友疯狂二创，流量谁不蹭谁是傻子。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Bayley",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Bayley这人今天突然刷屏，主要是WWE那边搞个大新闻——她可能要从正派转反了，粉丝们吵翻了，加上她最近比赛状态炸裂，热搜就这么来的。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Noles",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Noles这波上热搜，其实是佛罗里达州立大学的橄榄球队被全美大学体育联盟（NCAA）给踢出季后赛了，球迷直接炸锅，全网都在骂裁判和联盟黑幕。说白了就是美国大学生橄榄球季后赛‘控分’搞内幕，观众不服气，刷tag冲热搜呢。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "SMUvsFSU",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "简单说就是南卫理公会大学（SMU）和佛罗里达州立大学（FSU）打橄榄球赛，结果SMU爆冷干翻了上届冠军，比赛最后绝杀太刺激，球迷直接疯了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Singleton",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这话题其实就是聊一个住英国的大佬，自己搞出个AI模型叫Singleton，号称能自我进化还不用烧那么多钱，直接把硅谷那帮烧钱的巨头整不会了。上趋势主要是大家吃瓜看它跟OpenAI、Google打擂台，顺便感叹一句‘草根逆袭剧本又来了’。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Rone",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Rone上了趋势，主要是因为音乐圈和综艺粉在狂刷他现场或新歌，加上有博主挖他以前的视频又火了一波，评论区全在感叹“这嗓子绝了”。",
           "sentiment": "中性"
         },
         "tweets": []
