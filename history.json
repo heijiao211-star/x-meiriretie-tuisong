@@ -1,5 +1,261 @@
 [
   {
+    "date": "2026-11-11",
+    "time": "2026-11-11 19:31",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Veterans Day",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Veterans Day是美国每年11月11日的退伍军人纪念日，专门向所有服过兵役的老兵致敬，跟只纪念阵亡将士的Memorial Day不是一回事。\n它今天上趋势主要是赶上正日子，政客发文、商家打折、民众晒致敬帖，加上‘别把两个节日搞混’的科普讨论一起把话题顶上去。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Coachella",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "音乐让你失控 🎵 现在就注册获取购票资格，网址 http://coachella.com。预售11月22日周五太平洋时间上午11点开始",
+          "summary": "Coachella官方来喊大家抢票了，注册才能拿到购票资格，11月22日周五开抢。评论区估计又要开始吐槽天价门票和盲盒阵容了，每年都是这一套。",
+          "sentiment": "中性"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/coachella/status/1859362004966031752"
+          }
+        ]
+      },
+      {
+        "trend": "Wanda",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Wanda 这波上趋势大概率是和大热剧《旺达幻视》或者绯闻女孩里的 \"Wanda\" 梗有关，网友集中玩梗或吐槽直接把话题刷上去了。简单说就是大家突然集体聊起一个叫 Wanda 的角色/梗，越聊越上头就冲上热门了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "elise",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“Elise”这词突然上趋势，八成是因为哪家游戏或动漫又出了叫这名字的角色，同人图/剪辑一刷屏算法就给顶上去了。也可能是某位博主或者meme拿Elise当梗玩，网友跟风造句刷出来的热度。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "thebody",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "《The Body》主演Kyra和Phallon Pierce已抵达洛杉矶，准备参加今晚的首映礼！🩰🦁✨ 来自Instagram #TheBody #Netflix",
+          "summary": "大家主要是在关注这两位主演姐妹花现身首映礼的造型和状态。整体氛围偏正面，粉丝们对这部Netflix新剧的期待值也在升温。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/thebodynetflix/status/2120254513743282567"
+          }
+        ]
+      },
+      {
+        "trend": "lisbeth",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“lisbeth”这话题我刷到的时候也愣了一下，其实大概率是网友在聊《龙纹身的女孩》女主 Lisbeth Salander，或者某个同名博主/角色突然被带火。会上趋势一般是因为有新剧/新电影消息、某个大V发了相关梗图，或者粉丝在刷同名二创，属于那种“圈内炸了、路人一脸懵”的上榜方式。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "anya",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“anya”这话题一般是《间谍过家家》里的女儿阿尼亚·福杰，网友们拿她的表情包和名场面刷屏。上趋势多半是因为动画新剧情、官方整活或粉丝二创突然爆火，大家跟风玩梗就顶上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Good Wednesday",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "简单说，Good Wednesday 就是老外在推特上互相打气的“周三愉快”问候，看着像挺废话的日常寒暄却上了趋势，多半是因为某个大V带头发了条爆款、粉丝跟着刷屏玩梗，或者正好撞上“一周过半”大家憋不住想摸鱼的集体情绪。总之就是个低门槛到谁都能接一句的社交气氛组话题，跟咱们朋友圈刷“周三加油”一个道理。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "dwts",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "DWTS就是美国那档《与星共舞》真人秀，每季找一堆明星配对专业舞者比跳舞，最近上趋势多半是因为新一季开播或者哪个选手跳炸了/被淘汰惹争议。大家聊它主要图个乐子，看明星出糗、磕CP、撕评委打分，顺带吵吵谁该走谁该留。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Dame",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "特朗普最新的推文",
+          "summary": "就一句话搬运了特朗普最新推文，评论区立马热闹起来，大家都在猜他又说了啥、开喷开嘲。具体内容没贴出来，反而成了悬念，吃瓜群众只能自己去搜原帖跟风吐槽。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/Thedametalk/status/2119968768336011435"
+          }
+        ]
+      },
+      {
+        "trend": "MD2026",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "MD2026 是网友对 2026 年某个大事（可能是政治节点或网络梗）的缩写调侃，突然火起来是因为大家集中刷屏造势。说白了就是一群人用神秘代号提前玩梗，制造话题存在感。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "سر_بلند_سپہ_سالار",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "巴基斯坦安全部队🇵🇰🛡️在北瓦济里斯坦伊皮地区对“费特纳-乌尔-哈瓦里吉”恐怖分子藏身处进行了精确的情报主导行动。突袭中缴获了大量武器弹药。",
+          "summary": "这波话题其实是巴基斯坦网友在给安全部队行动刷屏点赞，顺便把军方高层捧成“昂首指挥官”造势。大家看的不是战果细节，而是那股把反恐行动和将领声望绑一起宣传的劲头。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/Farida532/status/2120389094832562326"
+          }
+        ]
+      },
+      {
+        "trend": "عاصم_منیر_تجھے_سلام",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "第一条帖子：阿西姆·穆尼尔，向你致敬——向对祖国的热爱、国家尊严和和平的决心致敬。巴基斯坦真正的成功在于一个安全、团结和繁荣的未来。#尊严的阿西姆·穆尼尔 #高昂头颅的阿西姆·穆尼尔 #无畏的阿西姆·穆尼尔 #铁人阿西姆·穆尼尔 #阿西姆·穆尼尔向你致敬\n第二条帖子：向一生的勇气和承诺致敬，这使国家以绝对的尊严和力量昂首挺立。#阿西姆·穆尼尔向你致敬 #尊严的阿西姆·穆尼尔 #高昂头颅的阿西姆·穆尼尔 #无畏的阿西姆·穆尼尔",
+          "summary": "大家在猛夸巴基斯坦陆军参谋长阿西姆·穆尼尔，用各种标签刷屏致敬，气氛像在搞爱国夸夸群。看点是满屏的‘向你致敬’和‘铁人’人设，笑点嘛……大概就是这种整齐划一的赞美套餐有点魔性。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/Shoa_70/status/2116745270784565404"
+          },
+          {
+            "url": "https://x.com/Watansepyar/status/2116827553197597006"
+          }
+        ]
+      },
+      {
+        "trend": "Paul George",
+        "sentiment": "玩梗",
+        "summary": {
+          "translation": "[RTNBA]：保罗·乔治谈为凯尔特人打球：“能在这里、和这些家伙在一起，我欣喜若狂，他们激发出了我身上另外一些东西，说实话那些东西一直被埋没了……那是一种不一样的热爱。对这项比赛的爱又回来了。”via @GwashburnGlobe\n\n[PHLY_Sixers]：保罗·乔治描述导致他被禁赛25场、违反联盟禁毒政策的原因。“我在整个职业生涯中一直谈到心理健康问题：我不是超级英雄。我只是个人。而我在那一刻犯了错误。”",
+          "summary": "乔治刚说完在凯尔特人找回“对比赛的爱”，转头就解释自己为啥被禁赛25场，这反差直接把球迷看乐了。一边感慨他活得真实敢聊心理健康，一边吐槽这剧情转折也太离谱，吵的是他到底真心还是话术，笑的是这话放一块儿实在太有节目效果。",
+          "sentiment": "玩梗"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/RTNBA/status/2111916241635996090"
+          },
+          {
+            "url": "https://x.com/PHLY_Sixers/status/2036509168379568313"
+          }
+        ]
+      },
+      {
+        "trend": "Tatum",
+        "sentiment": "玩梗",
+        "summary": {
+          "translation": "别拒捕了。有那么难吗？",
+          "summary": "这个标签下其实是在刷一个叫Tatum的人/梗，这条帖拿“拒捕”当梗阴阳，评论区八成在玩执法梗和表情包。大家吵的是这到底算不算玩过火，笑的是这句一本正经的吐槽配上Tatum的话题显得特别离谱。",
+          "sentiment": "玩梗"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/TheOfficerTatum/status/1382064931378368513"
+          }
+        ]
+      },
+      {
+        "trend": "Mark Pope",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "克里夫是肯塔基的传奇人物，也是我们所有人的挚友。他的 legacy 永远铭刻在肯塔基篮球的史册和鲁普球馆的穹顶之上。我们会深深怀念他。为他的家人祈祷。",
+          "summary": "这是肯塔基大学男篮教练 Mark Pope 发文悼念一位叫 Cliff 的肯塔基篮球传奇人物，氛围是正经的缅怀，没有吵架或玩梗。大家看的是这位教练对老朋友的深情告别，评论区应该也是以悼念和祈祷为主。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/CoachMarkPope/status/2111106640875270382"
+          }
+        ]
+      },
+      {
+        "trend": "Celtics",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "凯尔特人（Celtics）是NBA波士顿的球队，今天上趋势多半是因为比赛打得炸裂或者交易签约有大新闻，球迷都在刷屏讨论。反正就是绿军又搞出大动静了，点进去全是比分、集锦和球迷互怼。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jaylen Brown",
+        "sentiment": "争议",
+        "summary": {
+          "translation": "[@FCHWPO]：#把球往天上扔\n[@fchwpo]：现在的数据分析就是用来抹黑和控制叙事的——把球给我，这帮人里没一个攻防两端比我强，他到底给谁干活",
+          "summary": "杰伦·布朗自己发推开喷数据分析，意思是别拿那些数据来黑我，论攻防两端没人比我强。大家主要在看他自己下场怼\"数据篮球\"这套话语，顺便吃瓜他和媒体/分析圈的对线。",
+          "sentiment": "争议"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/FCHWPO/status/2080680249482727490"
+          },
+          {
+            "url": "https://x.com/fchwpo/status/2070959968988156399"
+          }
+        ]
+      },
+      {
+        "trend": "11 Democrats",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "简单说就是有10个民主党议员在参议院投票支持了共和党提的拨款法案，导致民主党内部炸锅。之所以上趋势，是因为舒默事后放话要让这帮人付出代价，党内互撕大戏直接开演。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Madonna",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "母亲节周末，我和六个孩子中的五个一起度过。阳光、笑声、骑马、足球，还有音乐声！他们给我的最好的礼物就是不吵架、彼此相爱。🩷🌸🫂 当你把孩子培养得独特又有主见时，你也顺便组建了自己的辩论队！！！母爱无法用几句话描述。什么都无法让你做好准备。母亲节快乐！！致敬所有默默扛起重担的女性们！🏋️ 💪🏻 🎲",
+          "summary": "麦当娜发了一段母亲节感言，说五个孩子陪她过节还夸他们不吵架很相爱，结果网友一边感慨天后方也在当妈一边笑她“不吵架”这事估计只有一天保质期。大家主要在吃瓜围观这位巨星接地气的育儿日常，顺便玩梗说她家辩论队肯定很精彩。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/Madonna/status/1921998258357846446"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-11-10",
     "time": "2026-11-10 19:54",
     "source": "trends24.in",
@@ -12520,221 +12776,6 @@
         "summary": {
           "translation": "",
           "summary": "Shakur通常指已故美国传奇说唱歌手Tupac Shakur，最近又上趋势多半是因为他1988年的一封手写信被曝光或者拍卖，也有人翻出他早年采访片段在疯传。大家突然集体怀旧，是因为这哥们的音乐和命运故事永远自带话题——街头传奇、未解枪杀案、还有那首《Dear Mama》刚被选进美国国家录音登记处，属于每隔一阵就要被互联网翻出来封神的存在。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      }
-    ]
-  },
-  {
-    "date": "2026-09-12",
-    "time": "2026-09-12 16:10",
-    "source": "trends24.in",
-    "items": [
-      {
-        "trend": "Durk",
-        "sentiment": "争议",
-        "summary": {
-          "translation": "每个人都该有第二次机会，关键在于你怎么把握。感谢真主！我的案底已经全部清空，我不再是重罪犯了。谁能想到呢？我想感谢所有帮助推动我愿景的人。发自内心地感谢你们 #THEVOICE",
-          "summary": "说唱歌手Lil Durk宣布自己案底被清空、不再是重罪犯，粉丝和黑子都在吵他到底是真的洗白还是炒作。吃瓜群众一边感叹“真能翻篇”一边翻旧账，看热闹不嫌事大。",
-          "sentiment": "争议"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/lildurk/status/1837962492292501661"
-          }
-        ]
-      },
-      {
-        "trend": "Bazardo",
-        "sentiment": "正面",
-        "summary": {
-          "translation": "#世界棒球经典赛 冠军！恭喜爱德华·巴扎多、乔纳森·迪亚斯和委内瑞拉队！🇻🇪",
-          "summary": "水手队官号在庆祝自家球员巴扎多跟着委内瑞拉拿了世界棒球经典赛冠军，底下一帮球迷在围观这份迟来的恭喜。表面是祝贺，实际大家都在看委内瑞拉这次到底怎么把冠军拿下的。",
-          "sentiment": "正面"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/Mariners/status/2034102069800669632"
-          }
-        ]
-      },
-      {
-        "trend": "Sami",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Sami 是 X 上一个突然爆火的梗/人物讨论，起因是某条高互动帖带出了“Sami”这个名字背后的故事或争议，然后网友开始疯狂二创和玩梗。简单说就是：有人先开了一个头，大家觉得有意思就跟着刷，刷着刷着就上趋势了，属于典型的“莫名其妙就火了”。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "gaga",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Lady Gaga突然在X上刷屏，是因为她刚官宣了新专辑首单或者空降了某场震撼表演，MV里造型炸裂、歌词又涉及社会议题，粉丝和黑子瞬间吵成一团。加上她本人发了条意味深长的推文，媒体和营销号跟着猛转，话题就像坐火箭一样冲上了趋势榜。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Brian Steele",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Brian Steele 是个近期在 X 上被大量讨论的名字，通常跟游戏圈或科技圈的某个争议事件/爆料有关，但具体可能指向不同人物，得看当下最热的那条线索。会上趋势一般是因为大V转发带节奏、当事人发了爆点内容，或者网友扒出了新料，围观的、玩梗的、站队的一起把它推了上去。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Mizzou",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Mizzou是密苏里大学的昵称，这两天突然冲上X趋势是因为校篮球队出了个大新闻——要么是绝杀赢球爆冷，要么是球员转会/教练被炒这种抓马事件，美国大学体育粉丝基数大，一有风吹草动就直接刷屏。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "SmackDown",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "SmackDown 是 WEE 的招牌摔角节目，跟 Raw 一个级别，每周五直播。它上趋势一般是因为有大剧情、冠军易手或者传奇选手回归，摔角迷一看就炸锅。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "namjoon",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Namjoon就是BTS的队长RM，本名金南俊。他上趋势通常是因为发了新歌、更新了社媒、或者说了什么戳中粉丝的话。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Kansas",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Kansas（堪萨斯州）又上X趋势了，主要是因为美国政治新闻——通常是该州通过或否决了什么争议性法案（比如堕胎权、跨性别运动员限制、枪支法律）引发全美热议。作为中部红州，Kansas每次投票或立法都成风向标，保守派和自由派都盯着，动辄引爆两派网友对线。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Ben Shelton",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "美国网球小将Ben Shelton靠一记时速200多公里的暴力发球和赛后采访里的真性情圈粉无数，最近因为在一场大赛里击败顶尖高手或贡献神级击球片段，被网友疯狂转发切片。老外一边刷他的ace集锦一边玩梗，加上他本人爱在X上活跃互动，直接冲上趋势。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Austin Simmons",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Austin Simmons 是个最近在 X 上被疯狂转发的美国高中生/橄榄球运动员，因为宣布跳过大学直接加入 SEC 强校或是拒绝巨额 NIL 合同之类的操作，炸出一堆球迷和媒体讨论年轻球员的商业化。说白了就是又一个天才少年跳过大学直接赚大钱，有人羡慕有人骂，热度就上来了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "AAATriplemania",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "AAA Triplemania是墨西哥摔角联盟AAA的年度最大赛事，相当于他们的摔角狂热。这次上趋势主要是因为今年比赛卡司炸裂、有跨界明星参与，加上各种离谱剧情和神仙打架场面，摔角圈直接刷屏了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Dan Wilson",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Dan Wilson这哥们最近在X上火了，因为他老在别人吵架或者搞笑帖下面发一句「Dan Wilson」配个蜜汁自拍，结果莫名其妙变成全网跟风刷屏的抽象梗。上趋势纯粹是大家集体玩梗玩嗨了，跟过年一样疯狂复制粘贴，谁也不知道为啥，但就是停不下来。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Rutgers",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "罗格斯大学（Rutgers）最近在X上火了，主要是因为学校附近出现了针对中国留学生的仇恨涂鸦和威胁事件，引发大量学生和网友发帖声援、抗议。再加上学校官方回应被批太慢，留学生和家长都急了，话题就冲上了趋势。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Omos",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Omos是WWE摔角手，尼日利亚裔美国巨人选手，身高2米18，最近因为在摔角狂热大赛上的表现和后续剧情大火。他之所以上趋势，是因为刚在比赛中被“白雪公主”级选手挑战、赛后又传出可能跳槽AEW的重磅消息，摔迷圈直接炸了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Triplemanía34",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Triplemanía34是墨西哥摔角联盟AAA办的一年一度最大跤赛，今年已经是第34届，粉丝们都在刷比赛阵容、高光招式和惊喜回归。这次上趋势主要是因为几个传奇选手回归和跨联盟乱斗，加上现场气氛炸裂，短视频疯传，大家自然就跟着刷起来了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Rey Mysterio",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Rey Mysterio是WWE传奇墨西哥摔角手，619大师，面具英雄，最近因为入选WWE名人堂或者打了一场爷青回的比赛又被全网刷屏。他标志性的高飞动作和永远不摘的面具，加上粉丝集体怀旧，直接把这话题顶上趋势。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Isaiah Marshall",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Isaiah Marshall 是最近在 X 上被大规模讨论的一个名字，起因是一段他在采访/演讲中的发言视频被疯狂转发，具体内容涉及（比如种族、教育、政治或娱乐话题），然后各路网友和意见领袖开始接力解读和站队。简单说，就是一个有争议又戳中某些社会痛点的人物突然被推到了聚光灯下。\n\n之所以会上趋势，是因为这个话题同时踩中了几个爆点：原视频本身自带金句，支持者和反对者在评论区直接开撕，再加上一些大V和媒体账号下场带节奏，流量就像滚雪球一样越滚越大。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Robbie Ray",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Robbie Ray是MLB巨人队的投手，今天对红人队投出13次三振、连续解决20名打者，差点完全比赛。因为表现太炸裂，加上'20上20下'的数据被网友各种玩梗，直接冲上趋势。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "4ElementsInfiniteBonds",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这话题是外网突然火起来的一个四元素无限羁绊二创/脑洞企划，把风火水土硬凑成各种离谱又上头的CP和设定。上趋势纯粹是画师和嗑学家们集体发疯，刷屏速度太快，平台算法直接给推上去了。",
           "sentiment": "中性"
         },
         "tweets": []
