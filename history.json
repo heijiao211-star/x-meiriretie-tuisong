@@ -1,5 +1,273 @@
 [
   {
+    "date": "2026-11-13",
+    "time": "2026-11-13 19:40",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "DreaminaMarketingRewards",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个标签其实是在聊 Dreamina 搞的营销奖励活动，简单说就是用户参与带话题发内容、做任务，能拿积分或福利。之所以冲上趋势，是因为官方砸了奖励，大家都在蹭流量刷任务，加上做 AI 图片、视频的人跟风发帖，一下就把热度拱起来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Happy Friday the 13th",
+        "sentiment": "玩梗",
+        "summary": {
+          "translation": "黑色星期五快乐。距离我们上次在银幕上看到杰森·沃赫斯，已经过去17年零1个月了。《十三号星期五》系列电影之间此前最长的间隔是8年零8个月。",
+          "summary": "大家一边祝黑色星期五快乐，一边感叹杰森·沃赫斯已经17年没在大银幕上出现了，比系列历史上最长的空窗期还多了一倍。说白了就是恐怖片粉丝在集体催更，顺便怀念这位老牌杀手。",
+          "sentiment": "玩梗"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/FreddyInSpace/status/2032450211092591034"
+          }
+        ]
+      },
+      {
+        "trend": "Microsoft",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "微软最近在X上火了，可能是因为发布了新的AI功能或者Windows大更新，大家纷纷讨论吐槽。上趋势主要是因为科技圈都在围观微软的新动作，加上一些争议话题引发热议。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "RED Friday",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "RED Friday 是粉丝圈搞起来的应援活动，大家约好周五穿红色/发红色内容，给自家偶像或某个事件造势刷存在感。能上趋势主要是因为粉丝集中刷tag+跨圈联动，阵仗搞大了算法就推上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Giants",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个Giants一般指的是纽约巨人队（NFL橄榄球队），今天上趋势大概率是因为比赛日赢球了或者有啥大交易、伤病新闻。\n休赛期或者选秀、自由市场签约也会让球队名冲上趋势，球迷一激动就刷起来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Outlook",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Outlook 上趋势多半是因为微软又搞事了——要么是服务大规模宕机邮件发不出去，要么是更新后界面/功能改动惹毛了用户。大家冲上 X 吐槽和确认『是不是只有我这样』，顺便交流临时替代方案，所以话题就爆了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "NamtanFilmFanconD1",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "😭😭连皇冠都一样 #NamtanFilmFanconD1",
+          "summary": "粉丝在磕Namtan和Film的糖，发现两人连头上的皇冠造型都撞了，激动得哭成一片。整个话题就是粉丝见面会的嗑糖狂欢现场。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/flimnamtan/status/2121100904984142112"
+          }
+        ]
+      },
+      {
+        "trend": "Van Hollen",
+        "sentiment": "争议",
+        "summary": {
+          "translation": "[@ChrisVanHollen]：美国人民已经发出了响亮而清晰的声音：他们希望我们结束特朗普这场非法且毫无意义的战争。一个月后，我们就有机会做到这一点。除非这项政府拨款法案削减这场战争的经费，否则我不会支持它。\n\n[@VanHollenForMD]：AIPAC（美国以色列公共事务委员会）正在花5万美元投放针对我的攻击广告——而我今年甚至都不在选票上。为什么？因为我拒绝给外国政府开空白支票，也拒绝把你们的税款交给他们。他们的攻击不会阻止我为正确的事挺身而出。",
+          "summary": "范霍伦放话：不砍战争经费就不给政府拨款法案投票，跟特朗普那场“非法又没意义”的仗死磕到底。另一头他竞选账号又爆料AIPAC砸5万美元黑他，他今年都不参选还挨打，说白了就是因为他不想给外国政府随便开支票。",
+          "sentiment": "争议"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/ChrisVanHollen/status/2120156925358674329"
+          },
+          {
+            "url": "https://x.com/VanHollenForMD/status/2094872481395806358"
+          }
+        ]
+      },
+      {
+        "trend": "NAMTANFILM GLAM NIGHT",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "[@namtantip_ph]：等待结束了！终于到了闪耀、闪闪发光、创造难忘回忆的时候了，在 𝐍𝐀𝐌𝐓𝐀𝐍𝐅𝐢𝐋𝐌 𝐆𝐋𝐀𝐌𝐎𝐑𝐎𝐔𝐒 𝐅𝐀𝐍𝐂𝐎𝐍！🪩✨ 🗓️ 2026年11月13-14日 ⌚ 泰国时间下午5点 | 菲律宾时间下午6点 📍 Union Hall, Union Mall NAMTANFILM GLAM NIGHT #NamtanFilmFanconD1 #NamtanFilm #น้ำตาลฟิล์ม #NamtanTipnaree #LUNAR\n\n[@jamlovesntf]：希望这一天顺利进行，每个人都能有一个非常有趣的粉丝见面会体验 Sadhu Sadhu Sadhu NAMTANFILM GLAM NIGHT #NamtanFilmFanconD1 #NamtanFilm #น้ำตาลฟิล์ม",
+          "summary": "简单说就是NamtanFilm粉丝见面会官宣定档了，活动11月13-14日在泰国Union Mall的Union Hall举行，粉丝们疯狂转发官宣、刷话题期待。另一个粉丝就是真诚祈祷活动顺利、大家玩得开心，典型的粉丝预热氛围，没什么争议。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/namtantip_ph/status/2121175099755647409"
+          },
+          {
+            "url": "https://x.com/jamlovesntf/status/2121129416231456991"
+          }
+        ]
+      },
+      {
+        "trend": "Nabers",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "[@DDuggan21]: 消息人士透露，巨人队外接手马利克·内伯斯接受了第二次膝盖手术，以移除导致僵硬的疤痕组织。我被告知第二次手术发生在“几周前”，被描述为“清理”。预计第二次手术不会影响内伯斯的恢复时间表。球队仍然希望这位头号外接手能准备好参加揭幕战。内伯斯最初于10月28日接受了前交叉韧带和半月板手术。\n\n[@Connor_J_Hughes]: 马利克·内伯斯今天参加了团队训练。他穿着红色的非接触球衣。虽然这只是走位/安装战术的阶段，但内伯斯在防守组面前进行了对抗。他接住了几次传球。再次强调：一切都指向他将在赛季开始时回归。#巨人队",
+          "summary": "大家主要在关注内伯斯的膝盖恢复情况，争论二次手术是否会影响他赶上揭幕战。好消息是他已经参加团队训练，但非接触球衣和“清理手术”还是让人有点担心。",
+          "sentiment": "中性"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/DDuggan21/status/2054644077254386093"
+          },
+          {
+            "url": "https://x.com/Connor_J_Hughes/status/2087986461408702522"
+          }
+        ]
+      },
+      {
+        "trend": "Jameis",
+        "sentiment": "玩梗",
+        "summary": {
+          "translation": "[@Jaboowins]：🙏🏾💙 七天后见 / [@Jaboowins]：开始传开 news 吧 🍎",
+          "summary": "Jameis Winston 自己发推放话“七天后见”，又用纽约苹果暗号暗示要去纽约，球迷立刻炸锅猜他是不是要加盟纽约球队。大家一边等他官宣一边玩梗解读“neWs”那个大写 W，气氛是兴奋加八卦。",
+          "sentiment": "玩梗"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/Jaboowins/status/2096710317258756098"
+          },
+          {
+            "url": "https://x.com/Jaboowins/status/1903233800714457262"
+          }
+        ]
+      },
+      {
+        "trend": "Diggs",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "[@AdamSchefter]：指挥官队外接手斯蒂芬·迪格斯今晚对阵49人队可以出战。\n[@Schultz_Report]：突发：#指挥官队 正在签下4届职业碗外接手斯蒂芬·迪格斯，多位消息人士告诉我。",
+          "summary": "同一个迪格斯，一边说他今晚能打，一边说他刚被签下，时间线乱成一锅粥，大家先吵这到底哪个是真的。围观群众一边吃瓜一边吐槽这剧情比比赛还精彩，到底人是已经在场上还是刚下飞机都没人搞得清。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/AdamSchefter/status/2112314240606388629"
+          },
+          {
+            "url": "https://x.com/Schultz_Report/status/2085060681183686985"
+          }
+        ]
+      },
+      {
+        "trend": "Jayden Daniels",
+        "sentiment": "玩梗",
+        "summary": {
+          "translation": "[@JayDanielsMVP]：杰登·丹尼尔斯已经抵达，备战第一周。（来源：@Commanders） [@GrantReacts1]：杰登·丹尼尔斯今早打开推特时的样子",
+          "summary": "大家都在刷指挥官队新秀四分卫杰登·丹尼尔斯报到备战第一周的动态，主要是在期待他常规赛首秀能打出啥表现。第二条纯属玩梗，调侃他一开推特估计满屏都是吹自己的帖子，笑点就在这反差感上。",
+          "sentiment": "玩梗"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/JayDanielsMVP/status/2099187331102044228"
+          },
+          {
+            "url": "https://x.com/GrantReacts1/status/2087895760692040144"
+          }
+        ]
+      },
+      {
+        "trend": "Harbaugh",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Harbaugh 这波上趋势主要是因为密歇根大学橄榄球队的 Jim Harbaugh 又整活了——不是带队赢球就是跟 NCAA 杠上，外加他回 NFL 执教 Chargers 的传言满天飞，球迷吵得不可开交。简单说就是：一个大学橄榄球教练凭一己之力把体育头条和吃瓜群众都拿捏了，大家不是挺他就是骂他，流量密码被他玩明白了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Commanders",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Commanders 这波上趋势，主要是因为华盛顿指挥官队（Washington Commanders）在 NFL 赛季里搞出了大新闻——要么是赢了一场关键比赛，要么是交易/选秀操作炸了锅，球迷和体育号集体刷屏。简单说就是：一支名字改过、常年被嘲的球队突然支棱起来了，大家一边玩梗一边认真讨论，愣是把话题顶上了热门。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Nagy",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Nagy 这词在 X 上突然火了，其实说的是匈牙利那个叫 Nagy 的姓/人名，可能跟最近某个足球教练或政治人物的事挂钩。之所以上趋势，多半是球迷或网友在刷梗/吵架，把一个普通名字整成了热搜体质。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Kimmel",
+        "sentiment": "争议",
+        "summary": {
+          "translation": "亲爱的混蛋：郑重声明，我从未见过、同机过、拜访过爱泼斯坦，也从未与他有过任何联系，你也不会在任何“名单”上找到我的名字，除了那些脑残疯子如你无法分辨的明显虚假的胡言乱语。你肆无忌惮的言论让我的家人处于危险之中。继续这样，我们将在法庭上进一步辩论事实。@AaronRodgers12",
+          "summary": "Jimmy Kimmel 和 Aaron Rodgers 隔空互撕，Kimmel 否认与爱泼斯坦有任何关系，并威胁要法庭见。吃瓜群众看的是名人互怼和爱泼斯坦名单的梗，笑的是双方骂战火药味十足。",
+          "sentiment": "争议"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/jimmykimmel/status/1742324477323833546"
+          }
+        ]
+      },
+      {
+        "trend": "JJ McCarthy",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "JJ McCarthy是明尼苏达维京人队的年轻四分卫，最近因为首发位置竞争和季前赛表现被球迷吵上X热搜。大家主要在争他到底该不该压过老将Sam Darnold当首发，毕竟球队刚用高顺位选他，期待值拉满。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "VIVALALISA",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "VIVALALISA 是粉丝为 BLACKPINK 的 Lisa 发起的应援话题，最近因为她频繁更新社媒、营业动态多而冲上 X 趋势。简单说就是粉丝集体刷标签给她打call，顺带庆祝她的新物料和超高人气。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "RaiseHail",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "[@Commanders]：😤 @NWFCU | #RaiseHail\n\n[@Commanders]：准备好开干了 @BankofAmerica | #RaiseHail",
+          "summary": "这波是华盛顿指挥官队官方账号在给新赞助商打广告，一个信用合作社一个美国银行，配文就是队训“Raise Hail”。球迷基本就是看个热闹，顺便吐槽两句球队商业味越来越重。",
+          "sentiment": "中性"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/Commanders/status/2121046350515093895"
+          },
+          {
+            "url": "https://x.com/Commanders/status/2109048831770013936"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-11-12",
     "time": "2026-11-12 19:57",
     "source": "trends24.in",
@@ -12628,228 +12896,6 @@
         "summary": {
           "translation": "",
           "summary": "Aeon 是一家专注哲学、科学、文化深度长文的数字杂志，不是突然爆红的新东西。上趋势通常是因为某篇长文被大V截图转发，戳中了大家关于效率、消费主义或意义的普遍焦虑，引来集体刷屏。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      }
-    ]
-  },
-  {
-    "date": "2026-09-14",
-    "time": "2026-09-14 17:19",
-    "source": "trends24.in",
-    "items": [
-      {
-        "trend": "Cowboys",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这个话题说的是达拉斯牛仔队（美国职业橄榄球NFL的顶流球队），X上每年赛季一开打、赢球输球、换教练、签大合同，甚至老板琼斯随便放个话，都能被球迷喷上热搜。\n之所以上趋势，大概是因为NFL新赛季开打或者刚打完关键比赛，牛仔队自带“全美最被爱也最被恨”的体质，一点动静就能把全网球迷分成两派吵翻天。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "KARINA 16 BIT RELEASE",
-        "sentiment": "正面",
-        "summary": {
-          "translation": "[@KatarinaOasis]：16 Bit Karina 肯定会美到让我窒息，我太清楚了！韩国时间下午6点将在所有主流音乐平台上线！KARINA 16 BIT RELEASE #KarinaIs16BitPixelated #카리나의조각_16비트\\n\\n[@karinachartss]：16 Bit Release 的相关标签在中国台湾地区趋势榜排到了第1和第2。KARINA 16 BIT RELEASE #KarinaIs16BitPixelated #카리나의조각_16비트",
-          "summary": "大家嗨的是 Karina 出了个 16-bit 像素风的新歌/企划，粉丝已经掐着表等韩国时间下午6点上线，兴奋得不行。另一头有人忙着晒数据，说相关标签在中国台湾地区趋势直接冲到第一第二，一边追星一边刷榜。",
-          "sentiment": "正面"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/KatarinaOasis/status/2099416353509949772"
-          },
-          {
-            "url": "https://x.com/karinachartss/status/2099421122114498993"
-          }
-        ]
-      },
-      {
-        "trend": "카리나의조각_16비트",
-        "sentiment": "正面",
-        "summary": {
-          "translation": "notes257｜260911 16位🇲🇽 KARINA 16位像素发布 #KarinaIs16BitPixelated #카리나의조각_16비트",
-          "summary": "简单说就是 Karina（aespa成员）搞了个16位像素风的新企划或造型，粉丝在积极转发刷话题标签，热度很高。大家主要是在夸这次像素美学好看、配合墨西哥相关元素（🇲🇽）很新鲜，整体是粉丝狂欢造势的氛围，没什么争议。",
-          "sentiment": "正面"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/notes0411/status/2099407816532656239"
-          }
-        ]
-      },
-      {
-        "trend": "NINGNING",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "#aespa #NINGNING",
-          "summary": "这条其实就是官方账号带了个宁宁的话题标签，没啥实质内容。但粉丝一看官方发宁宁就自动嗨起来，评论区大概又开始刷屏夸夸了。",
-          "sentiment": "中性"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/aespa_official/status/1395681483805757447"
-          }
-        ]
-      },
-      {
-        "trend": "Giants",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这波#Giants多半是旧金山巨人队（MLB棒球）或纽约巨人队（NFL橄榄球）有比赛大新闻——赢球、交易、伤病或季后赛卡位战，球迷一激动就给冲上趋势了。\n美国体育话题常驻热榜，赶上关键战、逆袭名场面或者球星整活，全网刷屏很正常。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "윈터_새들업_음원나옴",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "韩国女团aespa成员Winter（金玟庭）有首叫《새들업》（Sae Dul Up？实际是粉丝向的单曲/翻唱音源）突然放出来了，粉丝直接过年。\n大家疯狂转链接刷音源，加上Winter本身流量大，话题就冲上趋势了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "SADDLE UP OUT NOW",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这话题大概率是某个歌手发了首叫《SADDLE UP》的新歌，粉丝刷话题刷上趋势。别想太复杂，十有八九是 Beyoncé 或者哪个人气说唱歌手的新活儿，MV或单曲一上线就冲榜那种。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "ILoveYouButIGottaLetYouGo",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这个话题其实是分手/放手的经典英文emo台词，翻译过来就是“我爱你但我必须放你走”，最近因为一段相关短视频或梗图在X上被疯传，大家用它来晒自己的意难平。上趋势主要是因为它戳中了很多人关于“爱而不得”的共鸣，加上配乐和剪辑一推，就变成集体emo现场了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Lanterns",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Lanterns 在 X 上火了，主要是因为美剧《绿灯侠》（Lanterns）首支预告/新物料放出，DC 粉集体过年，相关片段和讨论刷屏。另外中文圈也有人借“灯笼”这个意象聊元宵、聊情绪表达，话题交叉带上来了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Christian Parker",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Christian Parker最近在X上火了，是因为一段他对音乐版权的犀利吐槽视频被疯传，大家突然发现这位吉他手兼制作人嘴比琴还毒。简单说就是：一个圈内老炮儿怼了大厂牌和流媒体平台，句句戳中音乐人的痛处，于是全网一边倒叫好，直接把他顶上了趋势。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Jaxson Dart",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Jaxson Dart这名字突然在X上刷屏，大概率是因为这哥们是2025年NFL选秀里的一个四分卫新人，正好赶上选秀周或者某场比赛高光/翻车片段被疯传，球迷圈、选秀分析号和玩梗大军一起下场把他顶上去了。上趋势的核心原因就俩字：NFL选秀自带流量，加上他本身有点争议点或名场面，网友一边吵架一边造梗，热度噌噌就起来了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Isaiah Likely",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Isaiah Likely 是巴尔的摩乌鸦队的近端锋，在NFL揭幕战对阵酋长队的比赛中最后时刻接球达阵，但脚尖踩出界外被吹无效，差点绝杀。这事儿上趋势是因为比赛本身是全国直播的焦点战，再加上这球毫厘之间、争议巨大，球迷全在讨论裁判回放和规则。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Javonte Williams",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Javonte Williams是NFL丹佛野马队的跑卫，最近因为交易流言或者续约谈判成了X上的热门话题。简单说，就是球迷们都在猜他会不会被换走，或者球队到底愿不愿意给他大合同。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Packers",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Packers 就是美国NFL那支绿湾包装工队，常年热搜体质，尤其赛季期间比赛争议、球星动态随便一个都能引爆。这次上趋势大概率是因为比赛结果刺激（比如绝杀/翻车）或者又出了啥跟当家球星（比如罗杰斯/拉夫勒）有关的抓马新闻。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "John Harbaugh",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "John Harbaugh 是巴尔的摩乌鸦队的主教练，最近因为球队在季后赛关键战中的战术决策（比如离谱的四档强打或保守到极致的射门选择）被球迷疯狂吐槽，直接骂上了热搜。简单说就是：一个年薪千万的教练，在生死时刻的临场操作比路人局还抽象，大家实在忍不住了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Jerry Jones",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Jerry Jones 是达拉斯牛仔队的老板，最近他又在公开场合大放厥词或者搞出什么争议操作，比如对球队成绩甩锅、干涉教练决策，或者和球员打嘴仗，直接把自己送上热搜。大家之所以疯狂讨论，是因为牛仔队是美国之队，粉丝多黑子也多，他一作妖全网就集体看热闹，顺便吐槽他‘有钱任性但不懂球’。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Aubrey",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Aubrey这个话题最近在X上火了，主要是因为一位叫Aubrey的用户发了一段超有共鸣的推文（或视频），吐槽了某个大家都经历过的生活槽点，结果被疯狂转发。\n大家跟风讨论，从职场、恋爱到日常尴尬事，越聊越嗨，加上几个大V转发带节奏，直接冲上了趋势榜。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Schotty",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Schotty 是个在 X 上突然火起来的梗/人物，具体是调侃一个叫 Schotty 的账号或虚拟形象，大家拿它的抽象发言和离谱行为疯狂做表情包和段子。能上趋势是因为网友们集体玩梗，越传越魔性，加上算法推波助澜，就变成了一场大型网络团建。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Calen",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Calen 是最近 X 上突然火起来的一个梗，跟一个叫 Calen 的博主或某个特定事件有关，大家疯狂玩梗或讨论它。它能上趋势纯粹是因为网友们觉得好玩、有共鸣，或者跟某个争议话题挂钩，一下就传开了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Chargers",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这是洛杉矶闪电队（LA Chargers）的球迷们又在网上整活了，通常是因为比赛打得离谱——要么绝杀赢球要么惨败，加上球队年年被吐槽\"常规赛猛如虎，季后赛一轮游\"，很容易炸出一堆梗图。上趋势多半是刚打完一场抓马比赛，或者新赛季揭幕、伤员回归、教练战术被喷上热搜，反正这队自带话题体质。",
           "sentiment": "中性"
         },
         "tweets": []
