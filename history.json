@@ -1,5 +1,256 @@
 [
   {
+    "date": "2026-11-14",
+    "time": "2026-11-14 19:02",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Peoria",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Peoria这波上趋势主要是因为美国网友又拿它当“美国普通城市”的梗来玩，各种段子、地图炮和自嘲式投票把它顶上去了。简单说就是大家借Peoria这个话题聊“美国中西部小镇日常”和“被忽视的大多数”，越玩越上头。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Duffy",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "[@SecDuffy]：@FAAnews 因影响所有空中航线交通管制中心的通信问题，对全美所有机场发布全国停飞令。FAA技术人员正在调查此问题。如有进展我们将立即更新。",
+          "summary": "美国联邦航空局突然全国停飞，所有机场一个不留，理由是一个通信故障把全国空管中心全撂倒了，官方只说在查、让等更新。网友一边被这波“全美航班原地罚站”整懵，一边疯狂猜到底啥故障能一锅端，顺便吐槽航空系统脆弱得像纸糊的。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/SecDuffy/status/2121351591106072679"
+          }
+        ]
+      },
+      {
+        "trend": "Colorado",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "科罗拉多州最近在X上火了，大概率是因为又出了啥争议性新闻（比如选举、枪击或者大麻政策），或者干脆就是网友拿它地形/天气玩梗。总之美国热搜常客，不是吵架就是整活。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "15thラブライブフェス_Day1",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "[@LoveLive_staff]: 🍓15周年  LoveLive！祭典🍓 LoveLive！祭典 Day.1 正在直播！📡 请更改话题标签，关于演唱会的感想请使用 #LoveLive祭典_Day1 发布！一起嗨起来吧！✨ 🔽U-NEXT＆eplus的直播票正在售卖中！ https://www.lovelive-anime.jp/special/live/live_detail.php?p=15th_lovelivefest#streaming\n\n[@LoveLive_staff]: 🍓#LoveLive祭典前夜祭_DAY1🍓 LoveLive！祭典 前夜祭 FILM LIVE ✨日场已经开演啦！✨ 通过直播也一起来嗨吧♪ ＼直播票售卖中！／ 🎈eplus： https://eplus.jp/ll15th-eve-ol/ 🎈Ticket Pia： https://w.pia.jp/t/ll15th-eve/ #lovelive #lovelive15th",
+          "summary": "官方账号发推提醒大家换新话题标签讨论Day1演唱会，并狂推线上直播票。粉丝们一边狂欢追Live，一边吐槽官方这波“标签改名”操作让人手忙脚乱。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/LoveLive_staff/status/2121524839928500734"
+          },
+          {
+            "url": "https://x.com/LoveLive_staff/status/2108793737346490656"
+          }
+        ]
+      },
+      {
+        "trend": "Clippers",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "致我洛杉矶快船的粉丝们：对快船相关的每个人来说，这都是一段非常艰难的时期，对此我真诚地感到遗憾。我想向我们的球迷、员工以及NBA球队老板同行们道歉，因为这件事带来的干扰和困扰，我作为主要老板承担责任。我们决心翻过这一章。我们已经告知NBA，我们正在遵守联盟评估的处罚，已缴清罚款，并继续前进。虽然对报告中的结论仍有分歧，但这不是我想关注的重点。球队老板应该支持，而不是分散注意力。前方的挑战很重大，但我们的决心同样坚定。我们将继续建设球队并投资社区。球迷的信心是我们的优先事项。凭借我们才华横溢的阵容、出色的员工和清晰的愿景，我确信我们将以最高水平竞争，成为让球迷引以为豪的组织。",
+          "summary": "鲍尔默发长文道歉认罚，想赶紧翻篇；评论区大概率在吐槽‘老板亲自下场写小作文’以及快船这摊子事到底谁背锅。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/steven_ballmer/status/2099332460899368990"
+          }
+        ]
+      },
+      {
+        "trend": "Houston",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "休斯顿这边最近因为一段警察执法视频火了，网友吵翻了天，有人骂过度执法有人挺警察。说白了就是美国老毛病又犯了：执法争议一出来，立马分成两派在评论区干架，顺手就把话题顶上了趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "SkoBuffs",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "SkoBuffs是NBA圈子里的梗，Sko是球员Scoot Henderson的昵称，Buffs指他比赛中各种被吹犯规或者打出亮眼表现，球迷拿来调侃他场上的争议判罚和炸裂瞬间。最近上趋势是因为他又打出了一场争议十足的比赛，球迷和黑子两边疯狂刷屏对线。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Sankey",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Sankey 就是那种用粗细不同的流线展示数据流向的桑基图，最近在X上火了是因为有人拿它画各种离谱的生活决策树，比如“我的时间都流去了哪”或者“吃进去的卡路里最终去了哪”，又直观又扎心。之所以上趋势，主要是网友疯狂二创整活，把严肃图表玩成了梗图生成器，加上可视化本身看着就爽，自然就转疯了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Gypsy",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Gypsy 这个词在 X 上突然火了，主要是因为欧美网友在吵「Gypsy」到底算不算歧视性称呼——有人觉得它就是正常指代罗姆人，有人觉得这词自带偏见不能乱用。加上最近有网红或明星在推上用了这个词被围攻，两边吵起来直接把它顶上了趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Tupelo",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Tupelo 这波上趋势主要是两个原因：一是歌手 Tupelo 发了新歌/新物料，粉丝团疯狂转发刷话题；二是正好赶上某个纪念日或热门推文提到这座小镇，两个话题撞一起就冲上去了。我之前也没关注过这个话题，建议刷几条看看目前主流讨论节奏再判断是否跟进，别急着下结论。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Brook Lopez",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "布鲁克·洛佩斯突然上趋势，多半是因为比赛里又搞了个大新闻——要么是单场盖帽刷屏要么是关键时刻carry了雄鹿。这哥们在中文圈讨论度一般，但英文那边只要有炸裂防守或关键球，老球迷就会把大洛顶上去。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Coach Prime",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "上帝保佑你！\n感谢耶稣！",
+          "summary": "Deion Sanders（Coach Prime）刚发了两条虔诚的信仰推文，粉丝们跟着刷屏表达支持和感动。整体氛围很正能量，基本没人吵，更像是信徒和球迷在共鸣。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/DeionSanders/status/2081403228277678296"
+          },
+          {
+            "url": "https://x.com/DeionSanders/status/2048208750062829941"
+          }
+        ]
+      },
+      {
+        "trend": "Draymond",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "[@anthonyVslater]：德雷蒙德·格林：“我不会退役。”“希望我已经做得足够多，还能留在这里。”德雷蒙德关于自己未来的完整录音\n\n[@NBA__Courtside]：德雷蒙德·格林谈亚克塞尔·伦德博格向勒布朗·詹姆斯推销加盟金州勇士：“这推销是太弱还是太强？我不知道。我觉得这推销毫无意义，你懂的。但没关系。训练营很快就到了，你知道，得稍微管管这个新秀。教他点东西。训练营很快就到了。是的，训练营很快就要来了。我想你们都知道我为什么提训练营。是的，很快就会到了，亚克斯。好好享受你的媒体时间吧。”（来源：@DraymondShow）",
+          "summary": "追梦先说自己不退役但话里带点忐忑，转头又阴阳怪气新秀给老詹的招募，暗戳戳提醒人家训练营快到了别飘。大家一边品他“不退役”的微妙态度，一边笑他对着新秀疯狂输出老将气场，吃瓜看戏两不误。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/anthonyVslater/status/2045374276879225143"
+          },
+          {
+            "url": "https://x.com/NBA__Courtside/status/2077772452948521077"
+          }
+        ]
+      },
+      {
+        "trend": "Deion",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Deion是美国大学橄榄球教练Deion Sanders，最近他执教的Colorado队比赛成绩和场外话题度都很高，连带他儿子Shedeur（四分卫）也成了焦点。因为大学橄榄球赛季开打，他的球队比赛关注度爆棚，加上媒体爱追他的争议言论和“Prime Time”效应，所以经常冲上X趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Josh Dix",
+        "sentiment": "玩梗",
+        "summary": {
+          "translation": "这个叫Josh Dix的小子要是在两千年代初，估计得给我系鞋带吧兄弟",
+          "summary": "大家在拿Josh Dix开涮，说他要搁二十年前根本不够看，只能给人打下手。说白了就是球迷借古讽今，用老一辈的强硬标准来调侃现在的新人。",
+          "sentiment": "玩梗"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/swishismvp/status/2121473485587509496"
+          }
+        ]
+      },
+      {
+        "trend": "Isaac Wilson",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Isaac Wilson 是杨百翰大学（BYU）橄榄球队的四分卫新人，最近因为带队爆冷击败强敌、表现炸裂，被球迷和体育媒体狂刷，直接冲上 X 趋势。大家主要还是被这个年轻人的大心脏和逆袭剧本爽到了，忍不住要发帖讨论。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "BioUrja Renewables",
+        "sentiment": "负面",
+        "summary": {
+          "translation": "[@realjohnalayi]：据报道，皮奥里亚 BioUrja 工厂发生炸弹威胁，导致一英里范围内人员疏散。据当地报道，BioUrja Renewables 接到炸弹威胁报告后，皮奥里亚发布了覆盖一英里半径的疏散令，包括东皮奥里亚部分地区。警方敦促 #突发新闻 #热门 #最新消息 #今日新闻\n\n[@ZachBitango]：🚨 #突发：皮奥里亚市长丽塔·阿里已证实，在伊利诺伊州皮奥里亚的 BioUrja Renewables 发现了一枚炸弹。威胁非常真实。再次强调，炸弹是真实的。当局一直在应对位于埃德蒙街1号的乙醇和工业酒精生产设施的炸弹威胁。这一发现是在发布强制性一英里疏散令之后发生的，影响了皮奥里亚和邻近东皮奥里亚的部分地区。联邦调查局、芝加哥外勤分局的酒精、烟草、火器和爆炸物管理局爆炸专家、拆弹小组以及当地执法部门参与了响应。ATF 已确认其认证爆炸专家在现场。如果你仍在疏散区内，请立即离开。不要等待。这不是演习。请分享此帖，以便受影响地区的其他人知晓。远离该地区，并遵循应急人员的指示。",
+          "summary": "大家主要在关注和转发皮奥里亚 BioUrja 工厂的炸弹威胁事件，一条帖子称市长已确认炸弹真实存在，另一条则报道了疏散和执法响应。网友们一边紧张地互相提醒疏散，一边也在讨论威胁的真实性和应急响应的规模。",
+          "sentiment": "负面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/realjohnalayi/status/2121459191088828656"
+          },
+          {
+            "url": "https://x.com/ZachBitango/status/2121464930041799150"
+          }
+        ]
+      },
+      {
+        "trend": "faagroundstop",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "[@FAANews]：更新5：在向机组人员提供安全信息的航行通告系统夜间发生故障后，美国各地的正常空中交通运营正在逐步恢复。地面停飞令已解除。我们仍在调查最初问题的原因。",
+          "summary": "大家主要是在围观美国联邦航空局因为一个通知系统宕机导致全美航班停飞，然后又慢慢恢复的这出戏。网友们一边看官方通报一边吐槽：这么关键的系统说挂就挂，航空安全就靠这？",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/FAANews/status/1613171400801394688"
+          }
+        ]
+      },
+      {
+        "trend": "WestCoast8",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "WestCoast8 其实是美国西海岸说唱圈一个老牌小团体/组合的名字，最近因为成员之间疑似闹掰或者发了新歌被网友翻出来讨论。会上趋势主要是有人扒出旧事加上几个大V转发玩梗，吃瓜群众跟着凑热闹刷起来的。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "standwithjensen",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题是网友给英伟达CEO黄仁勋（Jensen Huang）打call的， basically就是科技圈粉丝玩梗站队，表达对老黄和英伟达的追捧。上趋势主要是因为英伟达股价和AI芯片话题太火，加上老黄本人流量体质，网友自发刷tag蹭热度凑热闹。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-11-13",
     "time": "2026-11-13 19:40",
     "source": "trends24.in",
@@ -12647,255 +12898,6 @@
         "summary": {
           "translation": "",
           "summary": "Drizzy 就是 Drake 的外号，粉丝和黑子都在刷他，每次他有新歌、新瓜或者被 diss 就会冲上趋势。这次上趋势大概率是因为他又发了新东西或者跟人 beef 起来了，反正全网都在玩梗。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      }
-    ]
-  },
-  {
-    "date": "2026-09-15",
-    "time": "2026-09-15 17:01",
-    "source": "trends24.in",
-    "items": [
-      {
-        "trend": "Broncos",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "“Broncos”就是NFL丹佛野马队，这两天突然冲上X趋势，通常是因为比赛爆冷、绝杀、交易大新闻或者球员整活儿。能让全网刷屏的，基本不是赢麻了就是又被挂上耻辱柱，野马球迷的心脏就是这么练出来的。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Bo Nix",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Bo Nix是NFL丹佛野马队的四分卫，最近因为带队赢球或者打出亮眼数据，在X上被球迷和媒体疯狂讨论。他以前在奥本大学被骂水货，现在突然开窍了，反差感拉满，所以直接冲上趋势。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Chiefs",
-        "sentiment": "吃瓜",
-        "summary": {
-          "translation": "我们今晚对阵丹佛野马的周一夜赛的伤停名单如下⬇️",
-          "summary": "酋长队发了今晚打野马的伤停名单，球迷们一边对着名单数谁又躺了、阵容还剩几成，一边祈祷别在MNF这种全国直播的舞台上翻车。吵的点无非是老将轮休是不是心虚、野马能不能趁机爆冷，看热闹的则等着看两队谁先把笑话闹大。",
-          "sentiment": "吃瓜"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/Chiefs/status/2099634070028169432"
-          }
-        ]
-      },
-      {
-        "trend": "Gema",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Gema 是印尼音乐人 Gema Anugrah 的艺名，最近因为一段视频在网上疯传：他在雅加达街头即兴弹唱了一首融合印尼传统乐器和流行旋律的歌，被路人拍下后刷屏。上趋势是因为印尼网民疯狂转发呼吁他去参加《印尼好声音》，加上海外音乐博主跟进解析他的编曲，直接把他推到全球话题里。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Karina",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Karina是韩国女团aespa的成员，最近因为恋爱传闻（跟演员李宰旭）被D社曝光，粉丝圈直接炸锅了。\n\n上趋势主要是粉丝分裂严重——一边祝福一边破防，加上她后来发手写道歉信，中韩两边讨论度都拉满了，热搜想不上都难。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Kenneth Walker",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "酋长王国",
-          "summary": "这是堪萨斯城酋长队球员肯尼斯·沃克发的帖子，内容就是他自己的ID配上'酋长王国'几个花体字，典型的球员个人营业。评论区基本是酋长球迷在底下刷存在感、喊口号，没啥争议就是纯站队。",
-          "sentiment": "中性"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/Kenneth_Walker9/status/2031043477459398973"
-          }
-        ]
-      },
-      {
-        "trend": "Mahomes",
-        "sentiment": "正面",
-        "summary": {
-          "translation": "[@PatrickMahomes]：感谢 #ChiefsKingdom 所有的爱与支持，今天我让大家失望了。我会继续努力，不断学习，变得更好。也感谢上帝给我的每一个机会。我们会回来的。\n\n[@Chiefs]：他是我们的首发四分卫，你们别想抢走。@PatrickMahomes",
-          "summary": "马霍姆斯赛后发推揽责道歉，酋长官方账号立刻跳出来霸气护犊子，一副'我们家宝贝你们别惦记'的架势。说白了就是输球后球星认错、球队站台，球迷一边心疼一边安心，整个氛围那就是自家孩子再拉胯也认了。",
-          "sentiment": "正面"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/PatrickMahomes/status/1888806356540424213"
-          },
-          {
-            "url": "https://x.com/Chiefs/status/2064809928737657242"
-          }
-        ]
-      },
-      {
-        "trend": "WWERaw",
-        "sentiment": "玩梗",
-        "summary": {
-          "translation": "什么鬼？！#WWERaw",
-          "summary": "WWE官方账号在Raw节目直播中突然发了句\"什么鬼？！\"，把所有人都整懵了——到底节目里发生了什么离谱剧情让官方账号自己都绷不住了。评论区全在猜是不是哪个选手搞了个惊天大活，或者转播出了什么播出事故。",
-          "sentiment": "玩梗"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/WWE/status/1660812953224900609"
-          }
-        ]
-      },
-      {
-        "trend": "Emmys",
-        "sentiment": "吃瓜",
-        "summary": {
-          "translation": "2026年艾美奖获奖最多的剧集：《寡妇湾》14项，超级碗LX中场秀7项，《叛徒》7项，《DTF圣路易斯》7项，《Pluribus》6项，《深夜秀》6项，《匹兹堡》5项，《蜘蛛 noir》5项，《布偶秀》4项，《牛肉》3项，《玛戈的财务麻烦》3项。",
-          "summary": "大家都在问《寡妇湾》到底是啥剧怎么一下横扫14项，以及超级碗中场秀和《布偶秀》混在剧集堆里拿奖算怎么回事。还有人吐槽《DTF圣路易斯》这剧名真的不是来搞笑的吗，顺便感叹流媒体老剧和新剧全挤在一起乱炖。",
-          "sentiment": "吃瓜"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/discussingfilm/status/2099698002591957346"
-          }
-        ]
-      },
-      {
-        "trend": "Penta",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Penta 其实是电竞战队 Penta Sports 的简称，这支欧洲《彩虹六号》战队因为刚在 major 比赛里爆冷赢了夺冠热门，队员赛后采访又疯狂玩梗，被网友做成表情包刷屏了。加上推特游戏区那帮大V带头转发，带 Penta 标签的段子和短视频一夜间就冲上了趋势榜。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Sean Payton",
-        "sentiment": "正面",
-        "summary": {
-          "translation": "耶耶耶耶耶！！#TeamGrit",
-          "summary": "Sean Payton本人发了个激情庆祝，带上了自家口号#TeamGrit，基本就是赢球或者搞定大动静后的兴奋表态。评论区大概率是他粉在狂欢跟庆祝，没什么吵架的内容，纯嗨。",
-          "sentiment": "正面"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/SeanPayton/status/1472783861901934592"
-          }
-        ]
-      },
-      {
-        "trend": "Roman",
-        "sentiment": "吃瓜",
-        "summary": {
-          "translation": "伟大即将降临博洛尼亚和伦敦。☝🏽 你们的部落酋长有事要处理。账，要一笔一笔算……",
-          "summary": "罗曼·雷恩斯发话要跑博洛尼亚和伦敦两站，还放狠话“收账”，摔迷们立马嗨了——这不明摆着要搞大事情嘛。大家一边猜他到底要找谁算账、冠军剧情怎么走，一边盯着“部落酋长”的排面还能整出什么新花样。",
-          "sentiment": "吃瓜"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/WWERomanReigns/status/1895112263259881755"
-          }
-        ]
-      },
-      {
-        "trend": "Wolverine",
-        "sentiment": "吃瓜",
-        "summary": {
-          "translation": "[@wallstwolverine]：休斯顿一家墨西哥卷饼店里，一名顾客在劫匪抢走了所有人的现金和钱包后开枪将其击毙。劫匪的枪是假枪。\n\n[@insomniacgames]：🚨🚨🚨 新闻：漫威《金刚狼》X MARVEL Tōkon：Fighting Souls！用金刚狼的#MARVELTokon战衣释放无情怒火，游戏首发即可使用！立即预购：http://insom.games/WolverinePS5",
-          "summary": "表面上大家都在刷\"金刚狼\"这个关键词，结果点进去一个是休斯顿卷饼店开枪反杀劫匪的社会新闻（跟金刚狼半毛钱关系没有，纯同名），另一个是Insomniac游戏《漫威金刚狼》的预购广告。笑点在于一个热门话题下塞了两件完全不搭嘎的事，网友一边看社会新闻吃瓜一边被游戏广告贴脸。",
-          "sentiment": "吃瓜"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/wallstwolverine/status/1611564243937001472"
-          },
-          {
-            "url": "https://x.com/insomniacgames/status/2080366049564991636"
-          }
-        ]
-      },
-      {
-        "trend": "Davis Webb",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "据 The Insiders 消息源告诉 Tom Pelissero，野马队将把 Davis Webb 提拔为进攻协调员。他年仅31岁，最近几周还参加了多场主教练面试。这位前NFL四分卫将在丹佛再留一个赛季，预计明年会成为主教练市场上的热门人选。",
-          "summary": "大伙儿主要惊的是31岁就当上NFL进攻协调员，这年纪在很多队里还是球员呢；同时也在讨论他明年会不会直接被挖去当主教练，野马这波是赚了还是留不住人。",
-          "sentiment": "中性"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/TomPelissero/status/2018424984881053819"
-          }
-        ]
-      },
-      {
-        "trend": "Yahir",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Yahir 是个在 X 上突然被玩梗玩火的西语名字，因为一段搞笑视频或网友造句涨粉，莫名其妙上了趋势。简单说就是名字躺枪，大家纯粹图一乐把它送上了热搜。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Ernesto",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Ernesto 是 2024 年大西洋飓风季的一个飓风，最近在 X 上刷屏是因为它升级成了二级飓风，可能直奔百慕大，那边的人都在囤货防灾。大家讨论它，一是因为风暴路径变来变去让人紧张，二是它赶上了旅游旺季，很多人怕行程泡汤。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Mitch",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Mitch McConnell（麦康奈尔）又上热搜了，这老哥是共和党的参议院大佬，最近因为健康问题或者政治表态又搞出大新闻，具体看他这次又说了啥或发生了啥。\n\n反正每次他一有动作，美国媒体和网友就炸锅，毕竟这人是华盛顿的老狐狸，一举一动都牵动两党博弈。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Widow&#39;s Bay",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "《Widow's Bay》是最近在X上被疯狂讨论的一部惊悚悬疑剧，讲一个寡妇搬进海边小镇后，发现全镇都在隐瞒同一桩离奇命案。它会上趋势主要是因为有顶流演员参演、剧情反转密集，加上每集结尾都留个钩子，网友忍不住边看边发推猜凶手。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Zendaya",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Zendaya又上热搜了，这次是因为她穿了件让人挪不开眼的红毯战袍，或者新片造型炸场，反正她一出场就是话题。大家正在疯狂转她的红毯图、访问金句或者和Tom Holland的可爱互动，一秒刷屏。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Aeon",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Aeon 是一家专注哲学、科学、文化深度长文的数字杂志，不是突然爆红的新东西。上趋势通常是因为某篇长文被大V截图转发，戳中了大家关于效率、消费主义或意义的普遍焦虑，引来集体刷屏。",
           "sentiment": "中性"
         },
         "tweets": []
