@@ -1,5 +1,250 @@
 [
   {
+    "date": "2026-11-15",
+    "time": "2026-11-15 19:36",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "AO3 IS BACK",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "AO3（Archive of Our Own，国外最大的同人创作网站）又能正常访问了，之前国内上不去，现在突然恢复，同人圈直接过年。上趋势是因为攒了好久的读者作者集体报喜，再加上‘AO3回归’本身就容易触发大家对当年227事件的回忆，话题度一下就爆了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Hokit",
+        "sentiment": "争议",
+        "summary": {
+          "translation": "我对这头肥猪母牛一直都很客气……我不是来搞团结的，现实中永远不会有团结……我是来撕破别人脸的……你要是不爽，那就来对我做点什么啊……",
+          "summary": "这哥们直接在推特上开喷，点名骂一个选手是肥猪母牛，还放话自己就是来搞分裂的，不怕事大。围观群众一边看热闹一边吐槽他这嘴也太臭了，典型的赛前放狠话整活，评论区已经在互相拱火了。",
+          "sentiment": "争议"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/Josh_HokitUFC/status/2068482483989963147"
+          }
+        ]
+      },
+      {
+        "trend": "Gane",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "训练从来没有停过，因为我从没让目标离开过视线。我太想回到笼子里展现自己了……我准备好了！",
+          "summary": "UFC选手西里尔·盖恩发训练照表态复出在即，粉丝一边期待他回归八角笼，一边也在议论他之前比赛里的表现和接下来的对手。整体氛围偏正面，主要是表忠心和催比赛。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/ciryl_gane/status/1324785582678155267"
+          }
+        ]
+      },
+      {
+        "trend": "UFC334",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "𝐓𝐇𝐄 𝐆𝐀𝐑𝐃𝐄𝐍 𝐀𝐖𝐀𝐈𝐓𝐒... #Polymarket #UFC334 官方海报来了！【11月14日 @ParamountPlus 直播】",
+          "summary": "官方丢出UFC334海报，麦迪逊广场花园的氛围先拉满了。大家主要盯着比赛卡司和11月14日Paramount+的直播安排，在猜谁能上这张牌面。",
+          "sentiment": "中性"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/ufc/status/2108558108280893889"
+          }
+        ]
+      },
+      {
+        "trend": "Utah",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Utah（犹他州）上趋势多半是因为NBA爵士队的比赛或者当地通过了什么争议性法案，也可能是摩门教相关的话题突然爆了。反正美国州级新闻能上X趋势，要么体育赢球要么政治搞事，Utah这两样都不缺。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Good Sunday",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“Good Sunday”就是大家周末发推打招呼的固定句式，跟咱朋友圈发“周末愉快”一个意思。它能上趋势纯粹是因为周日全球网友扎堆发、互动量爆了，加上一些账号搞转发抽奖带节奏，就冲上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Arizona",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "亚利桑那这两天在X上被刷屏，主要是因为当地一项新的移民执法法案吵翻了天，支持和反对的两拨人线上线下都在疯狂对线。再加上马上到大选季，这个传统红州又成了两党必争的摇摆焦点，随便一个政策风吹草动都能冲上趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "AEWFullGear",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "“我们已经尽力了。”独家报道：尽管过去两天旅途充满挑战，@RatedRCope 仍决心不错过在 #AEWFullGear 争夺 AEW 国际冠军的机会！今晚8点东部/5点太平洋时间，锁定 HBO Max PPV 直播 #AEWFullGear，别错过！",
+          "summary": "大家在聊 RatedRCope 这两天路上折腾得够呛，但还是硬赶着上场打国际冠军赛，挺拼的。看点是今晚 FullGear 这场 PPV 他到底能不能顶住，粉丝多半在感慨选手不容易、顺便期待比赛。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/AEW/status/2121736523880006135"
+          }
+        ]
+      },
+      {
+        "trend": "ITS BACK",
+        "sentiment": "玩梗",
+        "summary": {
+          "translation": "结束了。我们回来了。",
+          "summary": "这梗来自体育圈经典的『it's over/we're back』循环，球迷们拿它形容主队一场崩一场carry的反复横跳。Jeff Bush这条就是在调侃这种情绪过山车，大家笑着对号入座自己主队的现状。",
+          "sentiment": "玩梗"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/JebBush/status/929541504187686912"
+          }
+        ]
+      },
+      {
+        "trend": "Utes",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Utes 是犹他大学体育队的昵称，最近在 X 上趋势多半是因为球队打了一场关键比赛或爆冷，球迷刷屏讨论。简单说就是又到了大学橄榄球赛季，Utah 的粉丝不管输赢都特别能唠，话题一下就冲上来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Nunes",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个Nunes大概率是指美国加州众议员Devin Nunes，这哥们儿一直是保守派红人，最近可能又因为掺和什么政治争议或者被点名上了热搜。上趋势通常是因为他又放了啥狠话、被调查或者和特朗普相关的政治瓜，让网友吵起来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "ラブライブフェス_Day2",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "[@LoveLive_staff]：【15周年LoveLive！Fest Day2相关通知】关于LoveLive！Superstar!! Liella! 岚千砂都役・岬なこ，虽然目前出现喉咙不适的状况，但今天举办的「15th Anniversary LoveLive！Fest」Day2将按计划出演。出演时，考虑到症状，将避免在MC环节发声，并使用既有的歌唱音源。给期待活动的各位观众带来担心，敬请理解。\n\n[@LoveLive_staff]：💫 #Liella_2nd_横滨Day2 💫 在原宿Gamers展示着大家写给2nd live横滨公演留言的应援旗，就在CD/DVD/Blu-ray贩售区旁边💫 请务必看看✨ 另外CD/DVD/BD贩售区旁边还贩售成员各自设计的Liella!Water💖 别错过哦❗️💫",
+          "summary": "岬なこ嗓子不舒服但还是坚持上台，只是MC不说话、唱歌放音源，粉丝一边心疼一边理解。另一边原宿Gamers摆出了横滨公演的应援旗和成员款矿泉水，大家忙着打卡顺便剁手。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/LoveLive_staff/status/2121750022459183282"
+          },
+          {
+            "url": "https://x.com/LoveLive_staff/status/1502879211555815428"
+          }
+        ]
+      },
+      {
+        "trend": "Arch",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Arch 是 Linux 的一个发行版，以极简和滚动更新出名，最近因为上游社区一些争议性决定（比如和某公司合作、治理方式变动）被大量用户讨论，很多人吐槽它变味了。它上趋势主要是因为老用户不满、有人喊要 fork，加上技术圈爱凑热闹，话题就炸了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Fifita",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Fifita 是汤加王室的一位公主，最近因为一段在 X 上疯传的视频或帖子突然火了，具体内容可能涉及她的公开表态、家族八卦或某个反差画面。上趋势主要是因为王室+女性身份自带话题度，加上网友爱看“远方的奇闻异事”和二次创作玩梗，所以被推上热门。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "JAMES CROWNED IN LAURELS",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "哇，完美侧颜😻🙂‍↕️ JAMES 加冕桂冠 #JAMESRegalEminence #JAMES #제임스 #CORTISatMMA",
+          "summary": "粉丝在疯狂夸 JAMES 的侧脸颜值，配合“加冕桂冠”这个话题刷屏应援。整体氛围就是夸夸加花痴，没什么争议，纯纯追星现场。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/jamessdaily/status/2121887619378491765"
+          }
+        ]
+      },
+      {
+        "trend": "Kayla",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Kayla最近在X上被疯狂讨论，大概率是因为某个叫Kayla的女生做了件引发争议或特别出圈的事（比如社会新闻当事人、网红翻车、或者某个热梗的主角）。具体是哪个Kayla得看当时的热搜内容，但能上趋势说明大家要么在吃瓜吵架，要么在玩梗刷屏。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "JAMOVATION",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "JAMOVATION 是最近 X 上被刷起来的一个词，本质就是 Jam 加上 Innovation，大家在拿它聊即兴创作、搞发明、拼脑洞那些事。会上趋势可能是因为某个圈内大 V 发了相关挑战或视频，带动一拨人跟风玩梗，加上词本身好记好造，传播就起飞了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "JAMESRegalEminence",
+        "sentiment": "玩梗",
+        "summary": {
+          "translation": "[@meowwxme]: 这么独特的个性值得拥有专属词汇，这么惊艳的才华值得拥有专属的 JAMOVATION——我们的创意银行两者兼备：JAMES 头戴桂冠 #JAMESRegalEminence #JAMES #제임스 #CORTISatMMA\n\n[@JamesSioud]: 在 Regal 工作十年后（以及最近休息了一段时间），我很高兴宣布成立 Artefact Capital，一家总部位于悉尼的新投资管理公司 http://www.artefactcapital.com @ArtefactCapital",
+          "summary": "一边是粉丝在给偶像造词打榜，说什么‘JAMOVATION’、‘创意银行’，把 James 夸得像加冕称王；另一边是个叫 James 的老哥蹭着热搜宣布自己创业开投资公司，画风完全不对。大家其实就在看这两拨 James 各说各的，一个搞应援一个搞事业，同一个话题下硬凑一块，挺有喜感。",
+          "sentiment": "玩梗"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/meowwxme/status/2121864378043736415"
+          },
+          {
+            "url": "https://x.com/JamesSioud/status/2091629642142912797"
+          }
+        ]
+      },
+      {
+        "trend": "Dampier",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Dampier冲上X趋势，大概率是因为这位17世纪英国海盗/探险家又被网友翻出来玩梗，或者某条关于他的历史冷知识帖突然爆火。这种带点野史色彩的人物上趋势，通常就是网友图一乐，顺便科普一下他当年环游世界、画地图的那些事儿。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "AO3 IS UP",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "AO3（一个同人小说网站）又能正常访问了，之前可能被墙或崩了，粉丝们奔走相告直接把它刷上趋势。每次AO3一有动静圈内就炸锅，毕竟粮仓恢复营业比什么都重要。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-11-14",
     "time": "2026-11-14 19:02",
     "source": "trends24.in",
@@ -12691,213 +12936,6 @@
         "summary": {
           "translation": "",
           "summary": "这个真没法聊，换个话题吧。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      }
-    ]
-  },
-  {
-    "date": "2026-09-16",
-    "time": "2026-09-16 16:53",
-    "source": "trends24.in",
-    "items": [
-      {
-        "trend": "Drake",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Drake又被网友玩梗玩上趋势了，这次是因为XX事件（比如新歌泄露、跟某人beef升级、或者现场翻车），大家一边吃瓜一边疯狂造抽象表情包。说到底就是顶流+争议+互联网乐子人，想不上热搜都难咯。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Chatsworth",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Chatsworth 是洛杉矶圣费尔南多谷的一个社区，因为名字里带“Chat”被网友拿来做梗，最近 X 上都在玩“你 chat 个啥”的谐音梗。说白了就是地名撞上热词 chat，大家无聊跟风刷着玩就上趋势了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Eliana",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Eliana 是一个在 X 上突然爆火的名字，其实指的是巴西一位名叫 Eliana 的儿童节目主持人，因为她早年一段超魔性的舞蹈视频被网友翻出来做成梗图疯狂二创。简单说就是：巴西版'童年女神'被考古，大家发现她当年又飒又搞笑，于是全网跟风玩梗把她送上了趋势。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "dwts",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "DWTS就是美国舞蹈真人秀《与星共舞》，每季找一堆明星跟专业舞者配对学舞比赛。它上趋势一般是因为新一季开播、某对选手爆冷淘汰或逆袭，或者某个舞台直接炸场刷屏了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "FOMO",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "FOMO就是'错失恐惧症'，总怕自己错过什么好玩的好用的或者赚钱的机会，看到别人晒啥就心痒痒。最近又上趋势是因为AI圈和币圈天天冒新东西，加上各种限时抢购和空投，搞得大家集体焦虑生怕晚一步就亏了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "LaGranjaVIPMX",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这个标签是墨西哥一个VIP农场/庄园相关的热门讨论，具体内容多见于当地吃喝玩乐、派对或高端体验的分享。它上趋势多半是因为有网红或名人打卡带火，加上墨西哥本地用户跟风刷话题，类似咱们朋友圈突然被一个网红地点刷屏。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "George Marciniw",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "George Marciniw 是一个在 X 上突然火起来的名字，起因是一段他早年参加活动的视频被翻出来，里面他西装革履却语出惊人，比如“我从不喝咖啡，因为我就是清醒本身”这类金句，反差感拉满，成了网友的造梗素材。\n\n他上趋势主要是因为大家觉得他那种一本正经胡说八道的范儿太像身边某个自信过头的同事或亲戚，于是疯狂二创剪辑，配上“当你周一早会强行励志”之类的标题，越传越魔性，就冲上热门了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "México",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "墨西哥最近因为总统大选和治安问题又上了推特趋势，大家一边关注选情一边吐槽毒枭暴力太吓人。简单说就是这个国家政治和安全危机同时爆雷，网友自然坐不住要讨论。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Mets",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Mets就是纽约大都会棒球队，最近因为在大交易截止日前疯狂买人、送出顶级新秀换来即战力，直接冲上X趋势。球迷们一边骂管理层透支未来一边真香看比赛，话题度拉满。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "KNBC",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "KNBC就是美国加州洛杉矶的那家NBC旗下电视台（NBC4），最近突然被刷上趋势，多半是因为当地突发新闻（比如山火、地震、交通大瘫痪）或主播口误、奇葩报道片段被网友截出来疯传。简单说就是‘洛杉矶本地台又整活了’，要么是大事发生大家蹲直播，要么是片段太好笑被当梗玩。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "NBC4",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "NBC4 是华盛顿特区本地的一家电视台（NBC 旗下），通常上趋势是因为突发新闻直播，比如极端天气、机场事故、枪击案或选举相关的首都本地报道。这次冲上热门多半是华盛顿及周边出了突发大新闻，大家疯狂转发现场画面和官方通报，本地观众也赶来评论区实况追踪。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Pete",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Pete这波上趋势主要是因为网友集体玩梗，把各种叫Pete的倒霉蛋或者离谱言论挖出来轮番鞭尸，结果越挖越有节目效果。再加上某个大V带节奏发起“Pete大赏”，大家跟风蹭热度，直接给顶成了热门话题。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "TheDropFX",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "TheDropFX 是最近 X 上爆火的视觉特效滤镜，靠一段超高完成度的‘液态金属滴落’动画模板刷屏，谁套谁酷，连路人都在转。它上趋势主要是因为被大量 AI 图 + 短视频创作者拿来当‘赛博打卡’素材，加上算法狠狠推了一波，直接变成流量密码。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Mecca",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Mecca（麦加）是沙特阿拉伯的城市，伊斯兰教最神圣的地方，每年都有数百万穆斯林去那里朝觐。最近上趋势可能是因为朝觐季到了，或者有关它的新闻（比如沙特的大项目或安全事件）被大量讨论，大家就在X上刷起来了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Yeat",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Yeat是美国说唱歌手，最近因为新专辑/单曲发布或者跟Drake、Kanye这些大牌搞联动，在X上被粉丝刷屏了。他那种独特的\"rage\"风格加上神秘人设，每次一有动静就能让欧美说唱圈炸锅，这次估计又是发了啥狠货或者搞了个大新闻。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Stunna Sandy",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Stunna Sandy 是一个在 X 上突然爆火的梗或人物，大概率是因为某条整活视频、抽象段子或者争议言论被网友疯狂转发玩梗，跟之前的一堆 memes 一个套路。能冲上趋势榜要么是内容实在太抽象太有节目效果，要么就是大家开始扒料对线、站队互喷，总之属于那种你看一眼就懂为什么能火、但又说不清到底在吵啥的话题。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Royal Crown",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Royal Crown 是最近 X 上突然刷屏的一个梗/迷因，大概跟某个搞笑视频或图片有关，大家疯狂转发整活。上趋势是因为梗本身太魔性，加上大V和网友跟风玩梗，就爆了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Kash",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Kash 是个 X 上的老哥，真名 Kash Patel，最近被特朗普提名要当 FBI 局长，网上直接炸了。因为他之前疯狂挺特朗普、骂深层政府，还写过一本儿童书把希拉里叫‘希拉里女王’，所以左派骂他极端，右派夸他敢干，两边吵到热搜不停。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "NBC Los Angeles",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "“NBC洛杉矶”是NBC电视台在洛杉矶的地方频道，最近上了X趋势，多半是因为它报道了南加州本地突发事件或地震火灾之类的即时新闻，被人疯狂转发。\n\n这类地方台账号平时存在感不高，一旦有山火、地震、明星事故这种大瓜，就会瞬间冲上趋势，毕竟洛杉矶半个娱乐圈都住那儿。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Drizzy",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Drizzy 就是 Drake 的外号，粉丝和黑子都在刷他，每次他有新歌、新瓜或者被 diss 就会冲上趋势。这次上趋势大概率是因为他又发了新东西或者跟人 beef 起来了，反正全网都在玩梗。",
           "sentiment": "中性"
         },
         "tweets": []
