@@ -1,5 +1,257 @@
 [
   {
+    "date": "2026-11-16",
+    "time": "2026-11-16 20:10",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Good Monday",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Good Monday 是推特上每周一固定刷屏的打招呼话题，大家发早安图、立本周flag或者吐槽周一综合症。能上趋势主要是因为它自带时间仪式感，全球网友周一集中发帖，加上品牌号和KOL跟风互动，轻轻松松就冲上榜单了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Bengals",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Bengals 就是辛辛那提猛虎队，最近因为 NFL 选秀、自由市场操作或者球星动态被球迷疯狂讨论，冲上了 X 趋势。说白了就是美式橄榄球圈又在为这支球队操心——要么是签了谁、要么是放了谁，球迷吵成一锅粥。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Steelers",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "钢人队（Steelers）是匹兹堡的NFL球队，这波上趋势多半是因为比赛刚打完或者有大交易/伤病爆出来，球迷一激动就把话题刷上去了。说白了就是美国橄榄球圈的日常热搜，比赛日或者有瓜的时候这帮球迷可太能聊了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Burrow",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Burrow 是最近 X 上突然火起来的一个词，大概率跟某款新出的挖洞类游戏、某个叫 Burrow 的加密项目空投，或者一只会打洞的网红宠物有关，大家刷到就想搞清楚这到底是个啥。能上趋势通常是因为评论区吵起来了或者有人晒收益/晒战绩，围观群众一多话题就被推上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "APEC",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "APEC就是亚太经合组织领导人非正式会议，每年亚太地区大佬凑一块聊贸易、经济合作这些大事。这次上趋势主要是因为中美元首可能在场边会晤，加上关税、供应链这些敏感话题，全世界都在盯结果。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "AngelBite",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "来瞄一眼 👀 Angel Bite：访问已授权 🖥️",
+          "summary": "TXT官号发了条带黑客电影味儿的预告贴，让粉丝去看新东西。评论区主要是在兴奋猜这波ARG物料到底要放什么大招。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/TXT_bighit/status/2117587597216383420"
+          }
+        ]
+      },
+      {
+        "trend": "Qwen4-Max",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "📢 来认识 Qwen4-Max，你的新 AI 工作搭档，兼顾工作、创意和探索！Qwen4-Max 基于全新的 MoE 架构，原生支持视觉，上下文窗口达 100 万 token。亮点：- 在我们的内部评测中，相比 Qwen3.8-Max 最多可少用约 50% 的 token，同时平均每任务成本下降超过 60%。- 通过更熟练地使用专业工具、更强的长程执行能力和更高质量的交付成果，提升真实世界生产力。- 能处理真实任务，包括 3D 建模、游戏开发、制造业、金融、法律、医疗和前沿科学发现。- 输入 $1.5/百万 token，输出 $4.5/百万 token，隐式缓存 $0.075/百万 token——全都低于 Qwen3.8-Max，隐式缓存下降 70%。API 已在 QwenCloud 上线。你也可以在 Qwen Studio、QwenWork 和 Qoder 上试用 Qwen4-Max。今天就开始构建吧！🚀 - 博客：https://qwen.ai/blog?id=qwen4-max - API：https://www.qwencloud.com/models/qwen4-max - Token 计划：https://www.qwencloud.com/pricing/token-plan 更多内容即将到来！更小的 Qwen4 模型将开放权重。敬请期待。👀",
+          "summary": "阿里发了 Qwen4-Max，吹了一波更省 token 更便宜、还能干 3D 建模和科研这些硬活，大家主要在吵价格是不是真香、以及到底能不能打。顺便有人调侃这是不是要抢打工人饭碗，也有人盯着“更小模型开源”的饼等真香。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/Alibaba_Qwen/status/2122148127520289151"
+          }
+        ]
+      },
+      {
+        "trend": "Victory Monday",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "[@Commanders]：胜利星期一！！！！！\n[@Seahawks]：胜利星期一快乐 🙂‍↕️ 新横幅 🚨",
+          "summary": "其实就是两支NFL球队赢了球，例行公事发帖庆祝“胜利星期一”，引来球迷各刷各的主队氛围。没什么撕的，全是开心炫战绩、晒新周边的正能量画面。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/Commanders/status/2104541641994567699"
+          },
+          {
+            "url": "https://x.com/Seahawks/status/2119854777064698253"
+          }
+        ]
+      },
+      {
+        "trend": "Latto",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Latto是美国说唱女歌手，最近因为新歌/新专辑或者跟人battle上了X趋势。说白了就是她发了点猛料或者又跟谁撕起来了，粉丝和黑子一起把话题刷上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Kevin O&#39;Leary",
+        "sentiment": "争议",
+        "summary": {
+          "translation": "对于占经济60%的小企业来说，根本没有什么‘拜登经济学’。它们获取资本的渠道一天比一天干涸。我们必须尽一切努力确保它们能获得资本。我们必须拯救美国的小企业！",
+          "summary": "Kevin O'Leary 开炮说小企业根本享受不到‘拜登经济学’的好处，贷款越来越难拿，喊话要救救美国小企业。评论区大概率在吵拜登经济政策到底帮了谁、小企业是不是被晾在一边，顺便看这位投资人怎么把经济话题带成政治对线。",
+          "sentiment": "争议"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/kevinolearytv/status/1680597103700226049"
+          }
+        ]
+      },
+      {
+        "trend": "WhoDey",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "WhoDey 是美国辛辛那提猛虎队（NFL）球迷的口号，比赛日或球队有大新闻时就会刷起来。这次上趋势大概是因为猛虎队有比赛或交易签约等大动作，球迷集体喊口号助威。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Aaron Rodgers",
+        "sentiment": "玩梗",
+        "summary": {
+          "translation": "[@NFL_DovKleiman]：Aaron Rodgers 带着全新造型现身OTA训练营……钢人队这赛季说不定真能夺冠 🥶\n\n[@bepryor]：Aaron Rodgers 就跟 Taylor Swift 一样，他不想让你看到，你就绝对看不到。这个周末在匹兹堡，好像压根没人见着他。Rodgers这出连续剧的最新进展，来自 @SportsCenter",
+          "summary": "大家都在调侃 Rodgers 又来失踪那一套、跟泰勒·斯威夫特一样神龙见首不见尾，同时拿他的新造型和钢人队前景疯狂玩梗。看的是他到底人有没有出现、笑的是这出“找 Rodgers”的肥皂剧又更新了。",
+          "sentiment": "玩梗"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/NFL_DovKleiman/status/2060059579652665759"
+          },
+          {
+            "url": "https://x.com/bepryor/status/2053917900839461043"
+          }
+        ]
+      },
+      {
+        "trend": "Shenzhen",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Shenzhen 上 X 趋势多半是因为深圳又出了新政策或者科技圈大新闻，比如无人机、机器人、供应链动向这类硬核话题，国内外网友都在讨论。大家关注是因为深圳一直是中国科技和制造业的风向标，有点风吹草动就能带节奏。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Chase",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Chase这波上趋势主要是因为大通银行（Chase）又出幺蛾子了——要么是系统大面积宕机导致用户没法转账付款，要么是突然封了一波人的账户，搞得大家跑到X上疯狂吐槽维权。每次银行一出这种糟心事就会冲上趋势，毕竟钱的事谁都急，一急就全网刷屏。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "TheGildedAge",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "TheGildedAge（镀金时代）指的是19世纪末到20世纪初美国经济狂飙、贫富悬殊拉大的那段历史，最近因为HBO同名剧集热播又被带火了。这次上趋势主要是因为剧集新季开播加上网友拿它类比当下的财富不平等和AI暴富焦虑，历史照进现实的话题度拉满。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "TrialoftheUsurper",
+        "sentiment": "玩梗",
+        "summary": {
+          "translation": "@JeffThe26479823：@DetectiveSeeds0 Rockstar 现在连 DMCA 下架通知都懒得发了，他们就光在推特上这么看着。",
+          "summary": "网友在调侃 Rockstar 对泄露内容的态度：以前还发律师函删帖，现在干脆摆烂只围观。大家笑的是大厂版权维权越来越像装样子，发不发都拦不住。",
+          "sentiment": "玩梗"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/JeffThe26479823/status/2091185945177416159"
+          }
+        ]
+      },
+      {
+        "trend": "Tomlin",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "🔜 我的《我的世界》城市。周三发布——2026年9月30日。现在就订阅：https://www.youtube.com/@miket757",
+          "summary": "这波趋势基本是主播CoachTomlin在给自己的Minecraft城市系列预热，号召大家订阅，顺便把发布日期定到了2026年，让人一头雾水。评论区估计有人笑他画饼画太远，也有人单纯吃瓜看这个神秘时间点到底啥意思。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/CoachTomlin/status/2103822888361193501"
+          }
+        ]
+      },
+      {
+        "trend": "Breakpoint",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Breakpoint 是近期在 X 上被大量讨论的一个游戏相关话题，核心跟《堡垒之夜》的 Breakpoint 活动/模式回归或相关泄露有关，玩家们在疯狂转片段和爆料。之所以上趋势，是因为官方或数据挖掘突然放出内容，加上主播集体开播带节奏，大家一边吐槽一边真香就把它顶上了热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Watt",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "第一局结束，3比3。🍻",
+          "summary": "J.J.瓦特发了个看球的动态，第一局打完两队3比3，配个啤酒emoji，氛围轻松。大家主要是在围观这位橄榄球明星跑来看棒球，顺带聊比赛开局打得有来有回。",
+          "sentiment": "中性"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/JJWatt/status/1948844157662814535"
+          }
+        ]
+      },
+      {
+        "trend": "DK Metcalf",
+        "sentiment": "玩梗",
+        "summary": {
+          "translation": "[@dkm14]：最好关上，听说晚上会变冷 😂\n\n[@NFLonCBS]：DK Metcalf 似乎和一位底特律球迷发生了冲突",
+          "summary": "事情起因是DK Metcalf和底特律球迷起了冲突，NFL on CBS发了现场视频，DK本人跑来评论区绕了个弯损人——说“最好关上，听说晚上会冷”，明显是在嘲讽底特律。球迷一边吃瓜看球星的脾气，一边玩梗接他的嘴炮，整个话题又好笑又有点火药味。",
+          "sentiment": "玩梗"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/dkm14/status/1506805020812931072"
+          },
+          {
+            "url": "https://x.com/NFLonCBS/status/2002870299335827466"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-11-15",
     "time": "2026-11-15 19:36",
     "source": "trends24.in",
@@ -12722,220 +12974,6 @@
         "summary": {
           "translation": "",
           "summary": "Tillamook是美国俄勒冈州一个以奶酪和冰淇淋出名的乳制品品牌，最近因为一条吐槽它家产品涨价/缩水的帖子在X上被疯转，网友们纷纷晒图哭诉\"我的Tillamook怎么变小了\"。简单说就是大家发现自己从小吃到大的便宜好货突然变贵变少，集体破防把它顶上了趋势。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      }
-    ]
-  },
-  {
-    "date": "2026-09-17",
-    "time": "2026-09-17 16:58",
-    "source": "trends24.in",
-    "items": [
-      {
-        "trend": "hltspoilers",
-        "sentiment": "玩梗",
-        "summary": {
-          "translation": "[@polarmaes]：专辑真的很快就要发了\n\n[@hdighvinyl]：咱们来说说真正的槽点吧：居然没有新毛绒玩具 :(",
-          "summary": "一边有人在激动放风说新专辑马上就来，吊足了胃口；另一边粉丝却在吐槽没有新毛绒周边，觉得这才是最该骂的点。整体就是在又期待又碎碎念，典型的粉丝一边催更一边挑刺现场。",
-          "sentiment": "玩梗"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/polarmaes/status/2100377332469080507"
-          },
-          {
-            "url": "https://x.com/hdighvinyl/status/2099539813200261536"
-          }
-        ]
-      },
-      {
-        "trend": "Nuns",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "今天的X热趋\"Nuns\"是因为一批网友疯狂转发\"热辣修女\"(Hot Nun)类内容和修女在流行文化里跳舞、玩摇滚的恶搞视频，顺带吵起了宗教符号该不该拿来娱乐化。本质上就是网友在拿修女形象整活，加上几个万转帖带节奏，就冲上趋势了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "dwts",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "DWTS就是美国那个《与星共舞》真人秀，每季请一堆名人跟专业舞者配对跳舞，观众投票淘汰。上趋势通常是因为某对选手跳了神级表演或者出了争议淘汰，网友吵翻天就把它顶上去了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Sandy Alcantara",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Sandy Alcantara是迈阿密马林鱼队的王牌投手，2022年拿了国联赛扬奖，投球又快又耐操，经常完投。最近他因为伤愈复出或者交易传闻又上了热搜，球迷都在讨论他还能不能回到巅峰状态。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Coppertone",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这事儿啊，简单说就是 Coppertone 是美国一个老牌防晒霜品牌，最近在 X 上火了。火的原因八成是有人发了个高能吐槽帖或者啥离谱视频——要么是吐槽它涂完像抹了水泥、要么是有人翻出老广告被扒出各种搞笑细节，属于是被网友拿来当乐子玩出圈了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "RHOSLC",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "RHOSLC 是《盐湖城娇妻》的缩写，一档抓马不断的真人秀。这次上趋势是因为最新一季又爆出闺蜜互撕名场面，网友都在疯狂站队刷梗。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "AEWDynamite",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "AEW Dynamite 是美国职业摔角联盟 AEW 的每周旗舰电视节目，每周四播出。它上趋势通常是因为当晚有震撼剧情、冠军易手或首秀。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "LaGranjaVIPMX",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "LaGranjaVIPMX 是墨西哥一个叫“La Granja VIP”的网红农场/私人动物园，靠游客和网红打卡拍视频火出圈，最近疑似因为动物互动争议或明星到访突然刷屏。它上趋势多半是又出了什么奇葩场面，比如动物追人、游客被薅，或者墨圈名人去了引发粉丝狂欢。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Debra Wilson",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Debra Wilson是美国资深配音演员，最近因为公开反对AI克隆自己的声音而上了X热搜。起因是有人用AI模仿她在游戏里的配音发到网上，她本人下场开撕，引发一波关于配音演员权益和AI伦理的讨论，加上她本身在《疯狂橄榄球》等圈子里知名度不低，话题就炸了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Maura",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Maura Higgins（爱尔兰主持人/真人秀明星）又上X趋势了，这姐最近因为新恋情/综艺表现/红毯造型被网友疯狂讨论。她一直自带话题体质，随便发个动态都能引爆热搜，属于欧美娱乐圈的\"流量密码\"型选手。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Ethan Salas",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Ethan Salas是个17岁的美国棒球捕手天才，在MLB教士队小联盟里被吹成“下一个巨星”，最近因为季前赛炸裂表现和各种交易流言，被球迷在X上疯狂刷屏。他上趋势就是因为大家又惊又怕：这么年轻就这么强，到底是该赶紧交易换即战力，还是捂在手里当未来门面。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Peter Max",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Peter Max是美国老牌波普/迷幻视觉艺术家，最近他家里人和经纪人因为他年纪大了（87岁）的记忆和健康问题闹上了法庭，吵谁能代表他、谁在“操纵”他。这事儿上了X趋势主要是因为案件细节够抓马，加上他当年给披头士、NASA画的那些标志性彩虹风作品太有名，网友一边吃瓜一边怀旧。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Ron White",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Ron White是美国老牌脱口秀演员，以'你没法修蠢'（You Can't Fix Stupid）这个梗闻名。这次上趋势是因为他突然去世的消息传开，网友纷纷转发他那些经典的毒舌段子来悼念，很多人说他是'嘴替天花板'。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Niurka",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Niurka 是古巴裔美国主持人/演员 Niurka Marcos，经常因为节目里的劲爆发言和抓马互动在拉美圈刷屏。这次上趋势多半是她又上了某个访谈节目说了爆炸性的话，或者跟谁当众开撕了，反正她的话题体质就是走到哪炸到哪。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Paramount",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Paramount（派拉蒙）是老牌好莱坞电影公司，最近因为被科技大佬收购或合并的消息冲上趋势。简单说就是又一家传统片厂可能易主，网友在讨论它对电影和美剧圈会有啥影响。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Joe Walsh",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Joe Walsh 是美国老牌摇滚吉他手（老鹰乐队前成员）也是位保守派电台主持人，最近经常因为发推猛烈炮轰特朗普而在 X 上被讨论。这次上趋势大概率又是因为他发了什么骂特朗普或共和党的争议推文，被两边网友转疯了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "sarah jane",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Sarah Jane这波上趋势主要是因为欧美网友在疯狂玩一个叫“Sarah Jane”的梗，源自一段被翻出来的古早视频或meme，大家开始跟风模仿和二次创作。很多人以为是真人真事，其实大概率就是个互联网乐子，但挡不住传播速度太快，直接冲上了趋势榜。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Amber",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Amber 是 X 上最近突然刷屏的热词，一开始是某位名叫 Amber 的用户发了一条带争议或超好笑的内容，然后被大量转发、开脑洞，短短几小时就成了梗和讨论爆点。能上趋势主要是名字简单好记，加上评论区迅速分化成玩梗和较真两派，两边一吵流量就炸了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "TATYANA",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "TATYANA 其实是哈萨克斯坦一位花滑选手 Tatyana 的旧比赛视频最近被翻出来疯传，因为编排和表情管理过于魔性，被网友做成各种二创梗图。加上她的名字念起来节奏感强、配上那些抓马瞬间特别洗脑，直接冲上趋势变成大家玩梗的新素材。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Xi Jinping",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这个真没法聊，换个话题吧。",
           "sentiment": "中性"
         },
         "tweets": []
