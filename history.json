@@ -1,5 +1,278 @@
 [
   {
+    "date": "2026-11-17",
+    "time": "2026-11-17 20:34",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Good Tuesday",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“Good Tuesday”其实就是老外周二早上互相打招呼的固定梗，跟咱们说“周二愉快”一个意思，本身没啥大新闻。它会上趋势多半是因为某个大V或者品牌带头发了条周二问候，网友跟着玩梗刷屏，加上算法喜欢推这种零门槛互动的话题，就蹭上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "I_N_No_Return",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“I_N_No_Return”是X上网友玩的一个拼写梗，把“I'm no return”或“I am no return”故意拆成带下划线的格式，用来表达“我回不去了/我没退路了”的自嘲情绪，多搭配游戏、考试或生活翻车场景。它上趋势是因为近期一些游戏和短视频博主用它玩梗，引发大量模仿和二次创作，形成刷屏效应。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Chargers",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Chargers就是洛杉矶闪电队，NFL美式橄榄球队，最近因为交易、伤病或者比赛争议上了热搜。X上球迷吵翻天，要么是球队操作引发热议，要么是某场比赛裁判判罚点燃了大家的吐槽欲。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "หลิงออมปฏิทินช่อง3ปี2570",
+        "sentiment": "玩梗",
+        "summary": {
+          "translation": "[@LingOrmCH3]：名单又更新啦姐妹们，快来看快来看👀 #三台2570年日历 #LingOrm #玲奥姆；[@LingOrmCH3]：完全理解奥姆姐的心情🌚🌝 LINGORM 日历签名活动 #玲奥姆三台2570日历 #ch3calendar2027day1 #LingOrm #玲奥姆",
+          "summary": "粉丝们在追踪三台2027年日历的名单更新，一有动静就互相喊话去围观；签名活动上奥姆姐的反应被拿来玩梗，大家都表示太懂她了。",
+          "sentiment": "玩梗"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/LingOrmCH3/status/2120745314802085984"
+          },
+          {
+            "url": "https://x.com/LingOrmCH3/status/2122619016510681572"
+          }
+        ]
+      },
+      {
+        "trend": "LINGORM CALENDAR SIGN EVENT",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "[@LingOrm_BH]：阿姨也太容易害羞了 🫪🫠 LINGORM 日历签售活动 #LingOrm三台日历2027年 #LingOrm\\n\\n[@LingOrmSite]：#LingOrm 2026年7月即将到来的日程（+ILF），由LingOrmSite整理（截至7月1日经LingOrmCH3确认）🔗 https://lingorm.site/upcoming-schedule 来源：@.LingOrmCH3 及多个官方社交媒体账号 📝 日程可能会视情况调整 #Linglingkwong #ormkornnaphat",
+          "summary": "大家其实是在围观 LingOrm 日历签售活动的现场，粉丝发现阿姨太容易害羞，一个劲儿地调侃起哄。另一条则是站子在认真搬运、确认2026年7月的行程，属于粉丝日常追星的信息汇总。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/LingOrm_BH/status/2122614217060790329"
+          },
+          {
+            "url": "https://x.com/LingOrmSite/status/2072220746206888395"
+          }
+        ]
+      },
+      {
+        "trend": "Ravens",
+        "sentiment": "争议",
+        "summary": {
+          "translation": "我们从亚特兰大猎鹰交易来了进攻锋线球员Ryan Neuzil，送出进攻护锋Andrew Vorhees以及未公开的选秀权补偿。",
+          "summary": "乌鸦队拿一个替补护锋加选秀权换了个猎鹰的锋线球员，球迷主要在吵这笔账划不划算、Neuzil到底能不能顶上轮换。也有人调侃乌鸦又在捡便宜货淘锋线深度，顺便吐槽送走Vorhees是不是太急了。",
+          "sentiment": "争议"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/Ravens/status/2120264663158132932"
+          }
+        ]
+      },
+      {
+        "trend": "I.N NO RETURN OUT NOW",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "📰 | Stray Kids 的 I.N 发布《No Return》……参与了作词作曲 → MV 企划与导演。《No Return》是一首合成器流行曲，氛围轻松又逐渐抓耳，讲述一个不管对方怎么推开、怎么否认，终究注定要回去的故事。",
+          "summary": "大家主要在夸 I.N 这次从作词作曲到 MV 企划导演全都自己上手，属于真爱式应援刷屏；曲子那种一边推人一边又叫你回来的剧情设定也被粉丝拿来磕，整体就是新歌上线后粉丝集体转发打call的场面。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/I_Nglobal/status/2122488145992466866"
+          }
+        ]
+      },
+      {
+        "trend": "Colón",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "[@Somos_SantaFe]：昨天我听了塔列雷斯主席的话，他们有20多人在全国做球探看球员。他们这么做很多年了。这不难 @ColonOficial，得模仿有效的东西。\n\n[@ringmagazine]：普里查德·科隆去世，享年33岁，他父亲在社交媒体上证实。科隆是一名冉冉升起的波多黎各拳击手，在2015年职业生涯首败后脑出血，昏迷了七个月。醒来后，科隆从未完全从脑损伤中恢复。他一直由家人照顾直到去世。",
+          "summary": "一边是圣塔菲球迷拿塔列雷斯的全国球探体系当正面教材，喊话科隆俱乐部别偷懒、学着点人家怎么挖人；另一边是拳手普里查德·科隆去世的消息，让人唏嘘他2015年那场首败后昏迷七个月、再没完全康复的遭遇。",
+          "sentiment": "中性"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/Somos_SantaFe/status/1682813606025474048"
+          },
+          {
+            "url": "https://x.com/ringmagazine/status/2087929462105010259"
+          }
+        ]
+      },
+      {
+        "trend": "Crimea",
+        "sentiment": "争议",
+        "summary": {
+          "translation": "@RFERL 的记者们发布了一张被吞并的克里米亚半岛上军事设施的可交互地图。他们成功找出了223处处于活跃、临时或封存状态的军事设施。",
+          "summary": "大家主要在盯着这张新出的克里米亚军事设施交互地图看，223个点位的信息量拉满了。吵的点在于这到底是公开情报的硬核操作，还是舆论战里的一波信息投放。",
+          "sentiment": "争议"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/nexta_tv/status/1656217307100635138"
+          }
+        ]
+      },
+      {
+        "trend": "Manila",
+        "sentiment": "争议",
+        "summary": {
+          "translation": "杜特尔特：近期科学研究表明，菲律宾的新冠疫情曲线已经趋平。政府未发现明显的污染情况。",
+          "summary": "这条帖子引用了杜特尔特关于菲律宾疫情曲线趋平、政府未发现明显污染的表态，大家主要在争论官方说法和实际感受到底对不对得上。不少人也在调侃“科学 studies 都出来了”这种典型官方话术，气氛偏质疑和看热闹。",
+          "sentiment": "争议"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/manilabulletin/status/1302937567608832000"
+          }
+        ]
+      },
+      {
+        "trend": "Philippines",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "菲律宾在X上火了，大概率是因为南海摩擦又升级或者杜特尔特家族和马科斯政府内斗出了新瓜。简单说就是这几天菲律宾那边要么跟中国在海上杠上了，要么国内政治大戏又更新了，网友都在转发现场视频和段子。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "LaMansiónVIP2",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "La Mansión VIP 2 将于11月8日上线。你们准备好迎接接下来的内容了吗？我们回来了🧨 #LaMansionVip",
+          "summary": "这是一条VIP真人秀第二季的回归预告，定档11月8日。底下网友主要是期待派和吐槽派在互掐，一边喊终于回来了，一边笑第一季抓马还没消化完又来第二季。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/lamansionvipmx/status/2107298840521158699"
+          }
+        ]
+      },
+      {
+        "trend": "Itati",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个 Itati 大概率是某个突然冒出来的梗或者人名，X 上大家跟风玩梗刷起来的，具体啥事得看当天上下文，反正就是一群人跟风整活。上趋势多半是因为有人发了条爆款内容，其他人跟着转发二创，热度一下就窜上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Kerch",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "克里米亚刻赤大桥的钢拱被无人机袭击严重损毁。这是一种非冗余的钢桁架拱结构，两条拱肋是唯一的承重路径。这座公路桥结构已受损，需要保持关闭。损坏似乎导致左侧拱屈曲，并造成整个结构出现显著钢材屈服和应力重分布。桥梁结构整体仍然稳定，没有坍塌，因为现在引入了新的、非预期的荷载路径。附有近景照片可供确认……克里米亚刻赤海峡大桥不会重新开放供无限制通行，将需要全面更换上部结构。",
+          "summary": "这人在认真分析被炸的刻赤大桥钢拱，说结构已经废了得整体换；大家一边看卫星图近景图找损毁细节，一边争论到底还能不能通车、修起来要多久。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/MattDursh/status/2122398278348153204"
+          }
+        ]
+      },
+      {
+        "trend": "NIKKE4thAnniversaryScrapbook",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "[@NIKKE_en]：【我的NIKKE四周年】NIKKE四周年快到了！🎉 各位 creative 指挥官们，是什么启发你开始创作NIKKE内容的？你做的第一个NIKKE作品是什么？作为你们的小助手，我们准备了一个特别模板，帮你把珍贵的作品介绍给更多指挥官！✨ 使用 #My4thAnniversarywithNIKKE 分享你的作品，和我们一起庆祝NIKKE四周年！模板下载链接在下面评论区 👇\n\n[@NIKKE_en]：【GODDESS OF VICTORY: NIKKE 四周年】#NIKKE #NIKKE4thAnniversary “我们在此屹立，胜利的女神们。” GODDESS OF VICTORY: NIKKE 四周年即将到来！10月24日19:00（UTC+9）在NIKKE官方YouTube频道见！📺：https://youtube.com/live/JBjfhhkxXFQ *18:30 ~ 19:00（UTC+9）将有30分钟倒计时",
+          "summary": "官方一边搞创作模板征集玩家作品，一边预告四周年直播，玩家们忙着晒自己的第一个NIKKE二创、等10月24号的直播。整体就是官方发糖、玩家配合营业的正面庆祝氛围。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/NIKKE_en/status/2108122780571177277"
+          },
+          {
+            "url": "https://x.com/NIKKE_en/status/2106934603424641292"
+          }
+        ]
+      },
+      {
+        "trend": "Lamar",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个Lamar就是美国那个说唱歌手Kendrick Lamar，最近他跟Drake的beef火到不行，发了首diss track直接把人骂上热搜。X上全是歌迷在刷歌词、解析、站队，一句一个梗，能上趋势榜因为大家就是爱看rapper互撕。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Dragula",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Dragula 是 X 上突然火起来的一个话题，一边是《鲁保罗变装皇后秀》里的变装音乐剧 Dragula 被翻出来玩梗，另一边是网友把各种“drag”风格的猎奇造型、舞蹈和二创往这个话题下堆。\\n它上趋势主要是因为一个高传播度的变装/猎奇视频带起了跟风挑战，加上老粉新粉一起吵“这算不算 Dragula”，话题就冲上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Zay Flowers",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "[@AdamSchefter]：Zay Flowers 今晚正式可以上场。 [@ZayFlowers]：谢谢你，Jameson 💜",
+          "summary": "Adam Schefter 报了 Zay Flowers 今晚确定能打，算是给关心伤情的球迷吃颗定心丸。不过 Zay 自己回了一句“谢谢你，Jameson 💜”，这句带点玩梗味道，大家一边高兴他能上场，一边琢磨这谢谢到底啥意思。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/AdamSchefter/status/2109416850350129343"
+          },
+          {
+            "url": "https://x.com/ZayFlowers/status/2087671660086178040"
+          }
+        ]
+      },
+      {
+        "trend": "Derrick Henry",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "希望你的今天格外特别。来自这个热爱健身的健美爱好者😁 会有很多肌肉和锻炼进展向你呈现💪",
+          "summary": "这两条推文其实就是同一个健身博主的日常打卡，一条甩了个Instagram视频链接，另一条是标准的肌肉男问候配表情，说白了就是在秀训练成果顺便营业。所谓“热门话题”看着像是个挂羊头卖狗肉的标签，大家也没在吵啥，更像是被算法推上来刷个存在感，路人点进来一看是健身肌肉照，笑一句“又是我举不动的重量”。",
+          "sentiment": "中性"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/DerrickHenryFit/status/1874292815821496478"
+          },
+          {
+            "url": "https://x.com/DerrickHenryFit/status/1604862171225403399"
+          }
+        ]
+      },
+      {
+        "trend": "Optimizely",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Optimizely是一个做A/B测试和实验优化的平台，最近因为搞了个大动作上了X趋势——他们发了自家AI产品的新功能或者某篇行业报告，被一帮做增长和产品的人疯狂转发讨论。另一层原因是它家曾因把客户数据玩得花上了隐私争议，网友吵起来了所以热度更高了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-11-16",
     "time": "2026-11-16 20:10",
     "source": "trends24.in",
@@ -12763,217 +13036,6 @@
         "summary": {
           "translation": "",
           "summary": "JUNGKOOK THE GOAT 就是粉丝在狂吹田柾国是\"史上最强\"，GOAT 是 Greatest Of All Time 的缩写。会上趋势主要是因为他又出了爆款单曲或舞台表现封神，粉丝集体刷屏庆祝，顺便跟其他家粉丝掰头一下谁才是KPOP天花板。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      }
-    ]
-  },
-  {
-    "date": "2026-09-18",
-    "time": "2026-09-18 16:33",
-    "source": "trends24.in",
-    "items": [
-      {
-        "trend": "bb28",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "bb28 是一个在 X 上突然火起来的神秘代号，大家都不确定具体指啥，但都在跟风发帖猜谜或玩梗。它上趋势主要是因为某个大 V 发了一条模棱两可的推文带上了这个标签，加上算法助推和网友的猎奇心理，直接把话题冲上热门。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Josh Allen",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "请为我们的兄弟祈祷。",
-          "summary": "Josh Allen 突然发了一句“为我们的兄弟祈祷”，没点名是谁，评论区全在猜到底出了啥事、是在说哪个队友还是朋友。大家一边焦急等后续，一边翻他最近的动态找线索，整体氛围挺揪心的。",
-          "sentiment": "中性"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/JoshAllenQB/status/1610128591458652160"
-          }
-        ]
-      },
-      {
-        "trend": "Yash",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Yash 是印度卡纳达语电影圈的顶级男星，最近因为新片消息或粉丝疯狂刷话题又上了 X 趋势。简单说就是印度南方影迷的战斗力太猛，随便一个预告、海报或生日应援都能把自家偶像顶上热搜。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Lions",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Lions这话题上趋势，主要是因为底特律雄狮队（Detroit Lions）在NFL季后赛里赢了球，球迷们憋了多少年的气终于炸了，全网狂刷“Lions”庆祝。说白了，就是一支常年垫底的球队突然支棱起来，大家跟过年一样，刷屏刷上了热搜。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Bills",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Bills就是“账单”这事，一般是因为美国那边又在吵政府预算、债务上限或者某笔大额支出法案，搞得全网都在刷“bills”。它上趋势通常是因为这事跟发钱、关门、经济走势直接挂钩，大家怕影响到自己钱包，所以扎堆讨论。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Melody",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Melody是最近X上因为一段旧综艺片段翻红的艺人，她离婚后上节目的清醒发言被网友疯狂截图传播，大家觉得她活得太通透了。加上她本人最近在社交媒体上频繁互动、金句频出，直接把自己聊上了趋势。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Devens",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Devens 是马萨诸塞州一个由军事基地改造成的大型综合园区，最近突然上了 X 趋势，多半是因为那里被拍到或传出跟移民拘留、联邦执法行动有关的画面，引发大批网友讨论和转发。简单说就是：一个平时没多少人提的地方，突然成了全美关注的“热搜地名”。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Resident Evil",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "《Resident Evil》就是《生化危机》，大家突然在X上刷它，多半是因为卡普空又发布了新作预告或者重制版消息。每次有点新动静，玩家们就集体上线聊情怀，从追追到暴君都是老梗了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Goff",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Goff 是最近 X/Twitter 上因为一段关于\"AI 是否该有自我意识\"的争议发言而爆火的科技博主，他的观点被各路大V转疯了。之所以上趋势，是因为他抛出的一套关于 AI 未来发展的激进预测，直接踩中了当下科技圈对 AI 伦理和监管的敏感神经，支持和骂战一下全炸了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "James Cook",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "James Cook 这波上趋势是因为一条关于他的历史帖子在 X 上火了，讨论他在夏威夷被当地人干掉的那段历史，有人翻旧账说他到底是航海英雄还是殖民先锋。正好赶上最近英国又在争论要不要拆他的雕像、改地名，两拨人吵得不可开交，话题直接冲上热搜。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "DJ Moore",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "DJ Moore是NFL芝加哥熊队的明星外接手，最近因为交易传闻和合同问题被疯狂讨论。他上赛季表现炸裂但球队战绩拉胯，球迷在吵他该走该留，加上一些媒体爆料和球员本人发推暗示，直接把这话题顶上了趋势。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Gibbs",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "“Gibbs”这话题今天突然冲上X趋势，主要是因为《海军罪案调查处》里那个经典角色Leroy Jethro Gibbs——要么是剧集重播或新衍生剧消息，要么是演员Mark Harmon出了什么新动态，粉丝一激动就刷起来了。简单说就是老牌美剧情怀杀+粉丝集体怀旧，跟咱这边突然刷起《武林外传》上热搜一个道理。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Dan Campbell",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Dan Campbell是NFL底特律雄狮队的主教练，以那股\"咬膝盖骨\"式的硬核热血风格出名，带队从烂队翻身成争冠热门，全美球迷都爱他。这次上趋势大概是因为他又有什么比赛决策、赛后采访金句，或者球队季后赛的表现炸了，反正这哥们一有动静就能刷屏。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Christopher Walken",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "克里斯托弗·沃肯（Christopher Walken）突然被刷上趋势，大概率是因为他又出了新的迷惑行为或者金句，比如在采访里即兴跳了段舞、或者用他标志性的断句方式念了段离谱台词。这位老爷子在好莱坞本来就是个传奇‘怪咖’，演过《猎鹿人》《低俗小说》，现在靠各种反差萌片段在社交媒体上一直被年轻人当梗玩，一有风吹草动就能上热搜。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "lizzy mcalpine",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Lizzy McAlpine是个美国独立创作女歌手，最近因为新歌/巡演/恋情之类的新闻在X上被刷屏了。她那种又丧又甜的卧室流行曲风在Z世代里特别吃得开，粉丝疯狂转发讨论就把话题顶上趋势了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "lucy bedroque",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Lucy Bedroque 是最近在国外社媒上突然火起来的一个名字，起因是她在一次公开活动或采访里说了/做了一件很有争议或很搞笑的事，被网友截图疯传。简单说就是个一夜爆红的素人或小网红，大家跟风玩梗、做表情包，就把它顶上趋势了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Ben Johnson",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Ben Johnson是加拿大短跑名将，1988年汉城奥运会百米决赛跑出9秒79破世界纪录，但赛后药检阳性被剥夺金牌并禁赛，成了体育史上最著名的兴奋剂丑闻之一。现在突然上趋势，可能是又有纪录片/播客翻旧账，或者他本人有什么新言论，总之是网友又拿这段黑历史出来讨论。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "AZ Chike",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "AZ Chike是尼日利亚拉各斯的一个街头说唱歌手，最近因为一首新歌的片段在X上被疯转，加上他和另一个大rapper的beef传闻，直接炸上趋势。简单说就是：歌够猛、瓜够大，网友一边玩梗一边吃瓜，热度就起飞了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Brad Holmes",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "你说的 \"Brad Holmes\" 大概率就是那个在推特上很出名的 **Brad Holmes（@Brad_Holmes）**。\n\n简单说：他最早是靠发 **AI 相关的高质量内容、工具教程、提示词和行业解读** 火起来的，算是那种 **AI 圈里的信息流博主**。后来大家热议他，一方面是因为他涨粉很快、影响大，另一方面也常被讨论是不是“AI 内容搬运/包装型博主”——所以话题总围绕 **“AI ",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Tillamook",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Tillamook是美国俄勒冈州一个以奶酪和冰淇淋出名的乳制品品牌，最近因为一条吐槽它家产品涨价/缩水的帖子在X上被疯转，网友们纷纷晒图哭诉\"我的Tillamook怎么变小了\"。简单说就是大家发现自己从小吃到大的便宜好货突然变贵变少，集体破防把它顶上了趋势。",
           "sentiment": "中性"
         },
         "tweets": []
