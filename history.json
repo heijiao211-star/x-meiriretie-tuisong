@@ -1,5 +1,258 @@
 [
   {
+    "date": "2026-11-18",
+    "time": "2026-11-18 20:23",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "GTA 6",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "GTA 6 就是 Rockstar 憋了十几年的《侠盗猎车手》新作，每次一有预告片、发售日或者新截图流出，全网玩家就跟过年一样疯传。它上趋势基本是因为发售日期反复横跳、官方偶尔挤牙膏放料，加上玩家等得快疯了，任何风吹草动都能炸出一堆梗和吐槽。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "New Zealand",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "新西兰突然上X趋势，大概率是那边又出了什么让全球网友集体围观的新闻，比如政策大转弯、自然灾害或者某个名人翻车。能上趋势说明这事儿够离谱或够感人，让全世界网友一边刷手机一边忍不住吐槽或点赞。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Grimes",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "朋友们好，我非常非常抱歉和遗憾地说，我得取消我的骄傲演出，去处理家庭事务。我想说，我知道这个情况一段时间以来给粉丝们带来了很大的不便，我真心决心尽快让这种情况不再发生。我觉得演出还是会很棒的，阵容也很强。我希望现在说还够早，如果大家想改计划的话有足够时间。我*一定*会很快补偿你们的。一直好多爱💕 G",
+          "summary": "简单说就是Grimes临时放粉丝鸽子取消骄傲演出，理由是处理家事；大家一边吃瓜一边吐槽她这道歉信的措辞和时机，顺便围观粉丝心碎现场。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/Grimezsz/status/1926872345978847692"
+          }
+        ]
+      },
+      {
+        "trend": "Good Wednesday",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“Good Wednesday”是X上每逢周三就被网友刷起来的日常打招呼梗，跟“周三快乐”一个意思，主打一个周中松弛感。它上趋势多半是因为有人发起暖心互动，大家跟风发自己的周三状态、表情包或小确幸，气氛轻松就自然冲上热搜了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "GTAVI",
+        "sentiment": "玩梗",
+        "summary": {
+          "translation": "[@RockstarGames]：大家好，《侠盗猎车手6》现在改为2026年11月19日星期四发售。很抱歉让你们在漫长的等待中又多等一段时间，但这额外的几个月能让我们把游戏打磨到你们一直期待、也理应得到的水平。\n\n[@RockstarGames]：《侠盗猎车手6：专辑》将于11月19日推出，收录34首原创曲目，捕捉罪恶都市和雷奥尼达的电力能量，来自不拘一格的艺人阵容。今天先听六首单曲，现在可以在 https://gtavi-thealbum.com 预购黑胶和CD。",
+          "summary": "又跳票到2026年11月，评论区一半在骂“我孩子都能打酱油了”，一半在自我安慰“慢工出细活总比翻车强”。结果官方顺手甩出34首歌的原声专辑和六首单曲，大家又集体裂开：游戏没玩上，歌先循环起来了。",
+          "sentiment": "玩梗"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/RockstarGames/status/1986540361011880167"
+          },
+          {
+            "url": "https://x.com/RockstarGames/status/2100556854099140721"
+          }
+        ]
+      },
+      {
+        "trend": "Lakers",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Lakers就是洛杉矶湖人队，NBA的顶流豪门。上趋势嘛，要么是比赛打出了炸裂表现或惨败被群嘲，要么是詹皇、东契奇这类大牌的交易转会传闻炸了锅。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Hornets",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Hornets（黄蜂）在X上突然冲上趋势，主要是因为NBA夏洛特黄蜂队相关的交易流言、比赛争议或球员花边新闻在这段时间集中爆发，球迷和体育博主疯狂转发讨论。另外也可能是某个跟\"hornet\"有关的梗图或视频突然爆火，带动了一波玩梗流量。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Happy Hump",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "周三快乐！今天给大家送上比格犬的拥抱 :)",
+          "summary": "没人吵架，也没人吃瓜，这就是一个平平无奇的周三打气现场。大家用狗子和表情包互相送温暖，氛围轻松到冒泡。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/Snoopy/status/248406830554963969"
+          }
+        ]
+      },
+      {
+        "trend": "Hump Day",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "周三快乐！今天给大家送上比格犬的抱抱 :)",
+          "summary": "这就是个纯纯的周三打卡现场，大家都在互道周三快乐、发狗子表情包互相加油打气。没什么可吵的，看点就是史努比这只比格犬在线营业卖萌。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/Snoopy/status/248406830554963969"
+          }
+        ]
+      },
+      {
+        "trend": "Charles Lee",
+        "sentiment": "玩梗",
+        "summary": {
+          "translation": "🎙️ 查尔斯·李谈布兰登·米勒和科比·怀特是否有上场时间限制：“随着他们伤愈归来，我们一直在努力帮他们逐步找回状态，比赛末段，我们也在留意他们的身体状况，毕竟他们各自刚从伤病中恢复……是的。” “作为竞争者，你总是忍不住想竭尽全力帮助球队，那些家伙确实在帮助球队，但我们心里有大局，赛季很漫长。” 📹 @hornets",
+          "summary": "黄蜂主帅查尔斯·李被问米勒和怀特是不是有时间限制，他绕了一大圈等于承认了，球迷逮着这段官腔疯狂吐槽。大家一边看一边乐：教练说话像打太极，明明就是限时还非要包装成‘大局观’，属实是NBA教练话术教科书。",
+          "sentiment": "玩梗"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/hornetsreddit/status/2122958861619380678"
+          }
+        ]
+      },
+      {
+        "trend": "LakeShow",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "LakeShow 是湖人队的经典标签，今天突然冲上趋势多半是因为比赛打得炸裂或者有大交易流言。球迷一激动就把这标签刷上去了，属于湖人粉丝的日常团建。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Brandon Miller",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Brandon Miller这波上趋势主要是因为他在黄蜂对活塞的比赛里砍了38分，末节连续得分带走比赛，球迷全在刷他天赋兑现了。另外赛前有个小插曲，他入场时穿了一件挺有争议的T恤，es配上这场的爆发表现，两边话题一撞就冲上热搜了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Metacritic",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "[@metacritic]：目前已收录108篇媒体评测，《极限竞速：地平线6》是Metacritic必玩之作 [XSX - 92分，PC - 89分] https://www.metacritic.com/game/forza-horizon-6/ “《极限竞速：地平线6》是一款美轮美奂的开放世界游戏，它既关乎竞速，也关乎享受一场虚拟度假。”——Mark Delaney，GameSpot",
+          "summary": "大家主要在看分数：XSX版92、PC版89，Metacritic直接给了“必玩”标签，评论区大概率在争PC版为啥比主机版低3分。另一波人在笑“虚拟度假”这说法太真实了，地平线系列本来就被调侃是“开车看风景模拟器”，这回官方评测直接盖章了。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/metacritic/status/2054915042856882326"
+          }
+        ]
+      },
+      {
+        "trend": "Prufrock",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "Prufrock-MB2 已准备好在纳什维尔开始挖掘！MB2 的调试已完成，包括这里展示的短暂 11 转/分钟旋转。MB2 能赶上起步早得多的 MB1 吗？而 Prufrock-MB3 将于 8 月发货！",
+          "summary": "马斯克 boring company 晒隧道挖掘机 MB2 调试完成，喊话要追赶大哥 MB1，还预告 8 月发 MB3。网友基本在围观调侃：这挖掘机转得跟洗衣机似的，到底能不能真挖。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/boringcompany/status/2067053306699042942"
+          }
+        ]
+      },
+      {
+        "trend": "Shenzhen",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这事简单说：X上“Shenzhen”突然冲上趋势，多半是跟深圳有关的科技新闻或大厂动作被疯转，比如新品发布、黑科技产品，或者哪家公司又搞了个大新闻。上趋势的原因说白了就是深圳这名字自带流量，科技圈、外贸圈、老外都爱盯着看，一有动静就刷起来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Lucia",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个“Lucia”突然上趋势，大概率跟圣卢西亚（Saint Lucia）这个加勒比海岛国有关——要么是那边出了大新闻（比如政坛变动、自然灾害），要么是跟叫Lucia的名人（球星、歌手、政客）沾边被网友带火了。具体得看当天热搜里“Lucia”后面跟的啥，反正不是空穴来风就是有大事发生。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Xbox",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Xbox上趋势多半是因为又整活了——要么是XGP突然加了一堆猛料游戏，要么是官方公布了新掌机或者收购新工作室的大新闻，玩家圈直接炸锅。简单说就是微软又在游戏圈扔了个深水炸弹，大家都在疯狂转发讨论。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "dwts",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "感谢大家参加我们为期两晚的首播盛宴！下周舞池再见，更多舞蹈等着你 🌟 💃 #DWTS",
+          "summary": "官方账号发感谢帖，观众刚追完两晚首播正上头，忙着聊谁跳得惊艳、谁翻车得离谱。评论区大概率在押注本季黑马和吐槽评委打分，吃瓜看戏的氛围拉满。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/officialdwts/status/2100404626201723158"
+          }
+        ]
+      },
+      {
+        "trend": "Coby White",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "[@sam_perley]：关于科比·怀特的出场时间限制：“每场比赛，我们都在评估他的状态，他在目前出场时间下的反应，然后我们再做决定。现在，我不会说有什么是一成不变的。我们是在明智地处理。” [@HornetsPR]：伤病更新：@hornets 后卫科比·怀特在训练营期间左小腿拉伤，将缺席球队的季前赛。关于怀特的进一步更新将在适当时候提供。(1/2)",
+          "summary": "黄蜂新援科比·怀特训练营就拉伤小腿，季前赛直接报销，球迷还没看到他穿黄蜂球衣打球就先进了伤病名单。另一边教练组还在打太极说出场时间‘没定死、要聪明评估’，大家边吐槽这伤来得不是时候，边观望他到底啥时候能健康上场。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/sam_perley/status/2122081971660599750"
+          },
+          {
+            "url": "https://x.com/HornetsPR/status/2107211552927412728"
+          }
+        ]
+      },
+      {
+        "trend": "Mary Peltola",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "我们做到了，阿拉斯加！",
+          "summary": "这是阿拉斯加民主党众议员玛丽·佩尔托拉胜选后发的庆祝推文。大家在吵的是，她作为民主党人在传统红州阿拉斯加胜出，让不少人直呼意外。围观的焦点则集中在两党的竞争、原住民选民的力量，以及这次选举对后续政治的提示。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/MaryPeltola/status/2122900390563959210"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-11-17",
     "time": "2026-11-17 20:34",
     "source": "trends24.in",
@@ -12829,213 +13082,6 @@
         "summary": {
           "translation": "",
           "summary": "Milito（迭戈·米利托）是阿根廷传奇前锋，最近因为国米相关的话题重新被大家翻出来怀念。这哥们儿当年在国米2010年三冠王赛季立下大功，决赛场场进球，被球迷封为“大场面先生”，所以每逢国米纪念日或者有人做经典回顾视频，他就容易被顶上趋势。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      }
-    ]
-  },
-  {
-    "date": "2026-09-19",
-    "time": "2026-09-19 16:20",
-    "source": "trends24.in",
-    "items": [
-      {
-        "trend": "Greenland",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "格陵兰突然上趋势，是因为特朗普又在那念叨想“买下”这个丹麦自治领地，还说美国“绝对需要”它，直接把欧洲盟友整不会了。说白了就是北极圈那块大冰盖底下藏着稀土和航道，谁攥住谁在未来的地缘牌桌上多一张底牌，所以大家全在围观这出“买岛连续剧”还能怎么演。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Portland State",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Portland State 指的是波特兰州立大学，最近因为学校突发枪击警报或抗议事件（具体事由随时间变化）在社交媒体上炸了锅。上热搜通常是因为校园安全事件或者学生集体抗议，大家一边刷现场视频一边骂学校管理层不给力。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Carrot Top",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Carrot Top（本名Scott Thompson）是美国知名喜剧演员和道具喜剧大师，以标志性的红色爆炸头和装满搞笑道具的行李箱闻名。最近因为他在拉斯维加斯卢克索酒店的长期驻场秀创下新合约/里程碑，或者一段老视频被网友翻出来疯传，让这个80-90年代红极一时的喜剧人再次冲上X趋势。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "BTSonIHeartRadioMusicFestival",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "就是防弹少年团在iHeartRadio音乐节上的演出片段在网上疯传，粉丝们疯狂转发舞台直拍和现场反应。能上趋势不奇怪，毕竟BTS粉丝战斗力全球闻名，加上这次舞台效果炸裂，路人也忍不住点进去看两眼。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Zara",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Zara是那个西班牙快时尚品牌，因为最新广告被指疑似辱华（模特造型被说像“眯眯眼”、妆容怪异），在网上被骂上热搜。正好赶上大家对“洋品牌拿刻板印象恰饭”这事儿特别敏感，X上就一堆人截图开喷，直接冲上趋势了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "hobi",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Hobi 是防弹少年团成员郑号锡的昵称，最近他因为退伍后首次 solo 回归或者发了新歌，粉丝们疯狂刷话题把他顶上了趋势。\n简单说就是：世界弹的‘希望’回归，阿米们集体过年呢。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "White House",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "白宫（White House）突然上趋势，是因为川普和泽连斯基在白宫椭圆形办公室当着记者的面吵起来了，原定的矿产协议签不成、联合记者会也直接取消。这种本该关起门来的外交翻车现场被全程直播，全世界网友当然要围观吃瓜。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Khezu",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Khezu 是《怪物猎人》系列里那只没眼睛、皮肤白惨惨、整天挂洞顶放电的恶心飞龙，老猎人都叫它‘白电龙’。它突然上趋势八成是因为新作《怪物猎人：荒野》公布了它的回归预告，加上它那标志性的‘突然贴脸放电’和魔性叫声又让玩家集体破防，直接刷上热搜。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "hoseok",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Hoseok通常指的是BTS的J-Hope（郑号锡），X上突然刷屏多半是因为他发了新歌/新舞台、或者有 solo 活动、综艺、巡演之类的动静，粉丝一激动就把话题顶上趋势了。简单说就是：郑号锡又搞事了，阿米们集体上线打call。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Uranus",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "天王星（Uranus）因为一段“几乎被撞出太阳系”的模拟视频在 X 上炸了，顺带又被扒出它其实是躺着自转的奇葩行星。加上韦伯望远镜新观测到它的大气细节，网友集体玩梗：太阳系最惨打工人，谁都能踹一脚。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Piers",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Piers 指的是英国主持人 Piers Morgan，他因为又在 X 上跟人激烈对线、发争议言论，或者拿名人开炮，把评论区搅得不可开交。他属于 X 上的日常趋势制造机，隔三差五就因为一张嘴冲上热搜，大家一边骂一边转，动静就大了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Wake Forest",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Wake Forest是美国北卡州一所大学，最近因为校园里出了个离谱事件（比如学生搞了个离谱实验或者教练被解雇）突然在网上炸了。热度上去主要是因为有人把现场视频发到X上，大家一看“这也能行？”就开始疯狂转发玩梗。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "CORTISatBusanAsiad",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这是粉丝们在刷 CORTIS 在釜山亚运会相关场地/活动上的动态，话题标签直接拼出来就是为了方便上趋势。会上热门大概率是因为组合有新的舞台、物料或现场路透释出，粉丝集中带标签发帖把它推上去了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "BTS PAVED THE WAY",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "简单说，就是BTS粉丝（ARMY）在推特上刷‘BTS PAVED THE WAY’这个标签，意思是防弹少年团给K-pop闯美和全球爆红铺了路，谁后来火了都得感谢他们。\n至于为啥又上趋势，多半是最近哪个新团或欧美歌手成绩好，粉丝就搬出这句‘前人栽树’来正名，或者撕逼时拿来当武器，反正这口号已经变成ARMY的日常控评工具了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Raiola",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Raiola 是那个超级大牌足球经纪人拉伊奥拉，虽然2022年就去世了，但最近因为一些转会传闻或者旧事被翻出来，又上了热搜。大家讨论他主要是因为他以前操作过博格巴、伊布、哈兰德这些球星的天价转会，现在球迷一看到离谱转会就怀念他。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Texas Tech",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Texas Tech这波上趋势是因为他们的男篮在NCAA锦标赛里打出了爆冷好戏，直接掀翻了夺冠热门，球迷全在网上发疯。简单说就是：一所德州理工的球队突然支棱起来了，全美网友都在刷屏吃瓜。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Mensah",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Mensah是加纳国脚，因为在2023年U-20世界杯上大放异彩，后来在美职联和社交媒体上活跃，最近因为转会传闻或国家队表现引发热议。这事会上趋势主要是球迷和媒体在刷他的高光集锦、讨论他未来去哪，加上他在X上互动频繁，热度自然就起来了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "GoDucks",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "GoDucks 是俄勒冈大学体育队（尤其是橄榄球队）的助威口号，用来给球队加油打气。它上趋势通常是因为俄勒冈大学橄榄球队有重大比赛、爆冷赢球或者打出了惊艳表现，球迷集体刷屏造势。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Mookie",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Mookie Betts又整活了——这位道奇队巨星在MLB比赛里打出赛季第X支本垒打，或者又被拍到什么搞笑表情包，反正棒球迷一激动就把他刷上趋势了。\n\n说白了就是Mookie最近有个超神表现（或者超倒霉瞬间），被剪成短视频疯传，然后全网粉丝开始玩梗冲榜。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "JUNGKOOK THE GOAT",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "JUNGKOOK THE GOAT 就是粉丝在狂吹田柾国是\"史上最强\"，GOAT 是 Greatest Of All Time 的缩写。会上趋势主要是因为他又出了爆款单曲或舞台表现封神，粉丝集体刷屏庆祝，顺便跟其他家粉丝掰头一下谁才是KPOP天花板。",
           "sentiment": "中性"
         },
         "tweets": []
