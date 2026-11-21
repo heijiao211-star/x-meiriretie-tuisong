@@ -1,5 +1,264 @@
 [
   {
+    "date": "2026-11-21",
+    "time": "2026-11-21 19:52",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Good Saturday",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Good Saturday 其实就是国外网友周末互相打招呼的标签，类似咱发朋友圈说“周六愉快”，没什么深意。它能上趋势多半是因为周末大家都在刷手机、互相跟一句，加上算法爱推这种轻松话题，就冲上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "FSD V15",
+        "sentiment": "争议",
+        "summary": {
+          "translation": "特斯拉AI副总裁分享了关于即将推出的FSD（监督版）v15的新细节：✅ 更早的危险预判 ✅ 更快的反应时间 ✅ 整体安全性显著提升 ✅ 碰撞避免能力显著增强",
+          "summary": "特斯拉AI副总裁又出来画饼了，说FSD v15危险预判更早、反应更快、更安全更防撞——全是定语没一个数字，评论区直接分成两派，一派兴奋等着OTA，一派翻旧账问上次那堆版本兑现了几个。大家真正在吵的还是老问题：这波是真技术突破还是又一次PPT升级，顺便看马斯克什么时候敢把“监督版”仨字去掉。",
+          "sentiment": "争议"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/TeslaNewswire/status/2098501480726573213"
+          }
+        ]
+      },
+      {
+        "trend": "Hwasa",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "华莎（Hwasa）上趋势多半是因为她又在舞台或节目里整了个大活儿——要么造型太敢穿、要么表演尺度拉满，网友一边喊“姐太飒”一边疯狂转发。这姐本来就是韩娱圈的话题体质，每次出格操作都能炸出一波讨论，所以分分钟被刷上趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Sinaloa",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "锡那罗亚州停课。",
+          "summary": "锡那罗亚州政府号突然发通知说停课，网友立刻炸锅开始猜是不是又出事了；评论区一边追问原因一边刷“这地方还能不能好了”的黑色幽默。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/sinaloagobmx/status/1566993975260884992"
+          }
+        ]
+      },
+      {
+        "trend": "Guasave",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Guasave是墨西哥锡那罗亚州的一个城市，这两天突然冲上X趋势是因为当地曝出一起涉及政客和犯罪集团的大瓜，具体细节还在发酵中。简单说就是墨西哥那旮旯又出了个让人瞳孔地震的新闻，吃瓜群众全在刷。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Taeyang",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "太阳（Taeyang）是BIGBANG成员、韩国solo男歌手，最近因为新歌/演唱会/BIGBANG合体相关动态被大量讨论。冲上趋势一般是他发新作品、上节目或跟成员互动引发粉丝刷屏。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "BIGBANG",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "BIGBANG就是那个韩国二代团的顶流男团，权志龙、太阳他们那个组合，以前火到亚洲级别的。  \n上趋势一般是因为成员有新动作或者要合体了，比如发歌、巡演、或者谁又上热搜了，粉丝一激动就把它刷上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "二十一大",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "[@wm66619022]：二十一大政治局名单（23人，最终版）是—— 习 李强 蔡奇 丁薛祥 尹力 何立峰 石泰峰 国家副主席：王毅 军委副主席：张升民 人大副委员长：陈文清 国务院副总理：何立峰 陈吉宁 刘国中 袁家军 书记处书记：王小洪 李书磊 吴政隆 信长星 地方书记：张国清 陈小江 王浩 赵一德 许昆林 赵龙\n\n[@EdwinHChiang]：#中共二十一大时间 独家重磅解密！ 中共权力核心最高三人组——习近平、李强、蔡奇，已就二十一大关键时间节点达成密室决议： 核心决议： 中共二十一大（21大）正式开幕时间，锁定在 2027 年 10 月至 11 月 期间，最可能落于 10 月下旬。 官宣节奏： 按照中共高层惯例，新华社将在 2027 年 8 月至 9 月 之间正式向全球发布官方公告。",
+          "summary": "这波就是有人提前“剧透”二十大人事名单和开会时间，说得跟真的一样，但一看就是没影儿的编排。围观群众一边看热闹一边吐槽，属于典型的“我先编为敬”式爆料。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/wm66619022/status/2102752528421233087"
+          },
+          {
+            "url": "https://x.com/EdwinHChiang/status/2090435539279491176"
+          }
+        ]
+      },
+      {
+        "trend": "Kessler",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Kessler这波上趋势主要是勒布朗·詹姆斯那条「Kessler」相关的推文炸了，具体是说爵士中锋沃克·凯斯勒被卷进交易流言，湖人球迷在疯狂刷屏。简单说就是——NBA交易截止日临近，大家都在猜凯斯勒会不会被送去湖人，连老詹都发推暗示了，流量直接起飞。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Harden",
+        "sentiment": "玩梗",
+        "summary": {
+          "translation": "[@AVNMediaNetwork]：哈登速降：安东·哈登闯入XXX界 http://ow.ly/mGRI50Hk7me @blacked_com @VIXEN @deeper_official @blackedraw @AntonHarden704\n\n[@JHarden13]：圣诞快乐 🎁🎄",
+          "summary": "大家正为‘Harden’这个词吵起来：一个是成人片演员安东·哈登，被AVN报道刚入行，恰好和篮球明星詹姆斯·哈登撞了姓，热搜上两边内容混在一起，让不少人看懵。大家既在调侃这种‘哈登’同名乌龙，也在围观詹姆斯·哈登发圣诞祝福的普通帖子被误伤，纯属玩梗凑热闹。",
+          "sentiment": "玩梗"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/AVNMediaNetwork/status/1475926581143085062"
+          },
+          {
+            "url": "https://x.com/JHarden13/status/1607148994471383041"
+          }
+        ]
+      },
+      {
+        "trend": "CONGRATULATIONS BTS",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "BTS 在世界杯中场表演后收获祝贺！🎤⚽️",
+          "summary": "BTS 登上世界杯中场秀又刷了一波存在感，粉丝集体过年。但也有人嘀咕体育赛事让韩团扛大旗，场面热闹中带点争议。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/nypostsports/status/2078945704156782715"
+          }
+        ]
+      },
+      {
+        "trend": "MAMA2026",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "MAMA2026就是韩国MAMA颁奖礼2026年那场，最近官宣了举办地、时间或者首批阵容之类的大消息。\n粉丝圈直接炸锅，一边蹲票蹲直播一边开始押谁能拿大赏，热度就冲上来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "lamansiónvip",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“lamansiónvip”这词一看就是西语圈那套“豪宅/VIP私密局”的营销标签，大概率是某个X账号或话题在推高端派对、私享社群之类的内容。它能上趋势多半是靠带节奏的病毒式转发和蹭热点话题，不一定真有什么大事，更像一阵社交平台上的流量风。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "SmackDown",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "SmackDown是WWE的王牌摔角节目，每周五直播，剧情抓马、选手互怼都是基本操作，摔迷圈常年蹲直播讨论。这次上趋势多半是因为今晚有爆点剧情或者大牌回归，摔迷们集体刷屏把它顶上了热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "MAMA Awards",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "【#2026MAMA】主持人公告 星光正在汇聚！✨ 介绍将在2026 MAMA AWARDS这场非凡旅程中加入我们的主持人们。#李浚浩 #李彩民 #张根硕 MOVE THE STARS，A MUSIC INTERSTELLAR 2026 MAMA AWARDS 2026.11.20-21（韩国时间）大阪京瓷巨蛋 & Mnet Plus 🔗 http://2026mama.com #MAMAAWARDS #2026MAMAAWARDS",
+          "summary": "MAMA官宣2026年主持人阵容，李浚浩、李彩民、张根硕三人上榜，粉丝一边激动自家哥哥要主持，一边吐槽这组合是不是有点混搭。大家主要在看这仨人同台会擦出什么火花，顺便提前开始抢大阪场门票。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/MnetMAMA/status/2113043036620095948"
+          }
+        ]
+      },
+      {
+        "trend": "Riemann",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "[@elsleightholm]：现在有人声称给出了黎曼猜想的人类证明……数学界的重要时刻 https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/\n\n[@jarredsumner]：8天前我慢跑时让Claude去解黎曼猜想，它没解出来。1.5天后它证明了至少67%的零点在临界线上（此前是41.6%）。我还不确定这意味着什么，但一些解析数论学家似乎很兴奋 https://www.anthropic.com/research/riemann-zeta",
+          "summary": "一边有人放话称黎曼猜想被人类证明了，另一边有人晒出Claude把临界线上零点比例从41.6%推到67%以上，围观群众既看不懂又忍不住激动。吵的是这俩“突破”到底靠不靠谱、算不算数，看的是数学圈大佬会不会下场打脸，笑的是大家连临界线是啥都没搞明白就已经开始转发庆祝了。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/elsleightholm/status/2123854528374296970"
+          },
+          {
+            "url": "https://x.com/jarredsumner/status/2086869681785500011"
+          }
+        ]
+      },
+      {
+        "trend": "Kevin Durant",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "我记得问过助理教练莫·奇克斯，哪个更难？训练后加练还是训练前加练？我问只是因为每次我到健身房时，威少早上就已经练完了，而我通常是在训练后练。莫说：“训练前来可能更难”……从那以后，这就成了我的习惯……很多人只看到球场上威少的情绪，觉得他吵，但对我来说，他安静而有条不紊。他以身作则，一旦灯光亮起，他就把一切释放出来，体验纯粹的自由。作为他的队友，这很鼓舞人心，我走到哪里，都看到它激励着各行各业的人。疯狂的是，他话不多，他只是出现。整整18年。作为职业球员，篮球生活对我们来说是神圣的，我们在球场上付出的一切意味着一切。我们有些人希望能回去，带着更多意图做事，而有些人可以拍拍手，对付出的时间感到满意。你会成为哪种人？我们知道零号意味着什么……在人生的下一个阶段继续激励吧，冠军。我不管发生什么，都无法抹去曾经的一切……最早的YNs，我们二十出头时的总决赛之旅，全明星赛，看到彼此受伤又反弹，大巴车程，飞机旅程，打牌，笑话和争吵，所有这一切，都令人难忘！！……致整个威斯布鲁克家族，尼娜，孩子们，威斯布鲁克妈妈，大拉斯，雷，唐内尔，来自卢辛格高中和UCLA以及许多我忘记的人，满满的爱，祝贺一个标志性的职业生涯。",
+          "summary": "杜兰特发长文回忆和威少并肩作战的日子，从训练习惯到比赛情绪，猛夸威少安静又以身作则，还列出了当年雷霆的点点滴滴。大家一边感动于雷霆双少的青春回忆，一边又忍不住调侃杜兰特突然这么煽情，是在为威少退役送祝福还是自己有感而发。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/KDTrey5/status/2087984569652007372"
+          }
+        ]
+      },
+      {
+        "trend": "Dioda",
+        "sentiment": "玩梗",
+        "summary": {
+          "translation": "@mahadewa 哎哟推特老前辈，当年您是不是每分钟都在发推啊大哥？",
+          "summary": "这帖子是在印尼语环境下聊推特老用户的发推频率，带着调侃和膜拜的语气问大佬以前是不是疯狂刷屏。大家看的是那种\"远古网民\"的传说感和熟人式的打趣。",
+          "sentiment": "玩梗"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/dioxcyde_/status/2120115799436198189"
+          }
+        ]
+      },
+      {
+        "trend": "Vicki",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Vicki这波上趋势大概率是因为某个叫Vicki的用户（或者梗）突然被大量转发讨论，可能是发了条爆款推文、卷入了什么争议，或者被大V带了一波节奏。总之就是X上那种典型的一夜之间全网都在刷同一个名字的场面，具体是瓜还是梗得看当天时间线才能确定。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Kimi",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "[@Kimi_Moonshot]：隆重推出 Kimi K3：开放前沿智能 🔹 2.8 万亿参数，100 万上下文，原生多模态 🔹 Kimi Delta Attention 让百万 token 上下文下的解码速度最高提升 6.3 倍 🔹 Attention Residuals 在额外成本不到 2% 的情况下带来约 25% 的训练效率提升 🔹 专为长周期智能体编程和自我进化工作流打造 Kimi K3 现已在 http://Kimi.com、Kimi Work、Kimi Code 和 Kimi API 上线。开放权重日期：2026 年 7 月 27 日。🔗 API：http://platform.kimi.ai 🔗 技术博客：http://kimi.com/blog/kimi-k3\n\n[@Kimi_Moonshot]：用 Kimi Work 自动化你的工作流——教程 #3 看看 Kimi 如何融入你的日常工作流：- 跨本地项目、浏览器和电脑工作。- 用 Swarm 拆解复杂任务；在 Goal 模式下反复迭代。- 通过 Plugins、AGENTS.md 和 Dashboard 自定义 Kimi 的工作方式。下一期想让我们讲什么？评论区告诉我们！",
+          "summary": "一边被 2.8 万亿参数、百万上下文和 6.3 倍解码提速炸得直呼离谱，一边又盯着“2026 年才开放权重”这个时间点犯嘀咕，顺便围观开源模型参数竞赛是不是又要卷出新高度。另一条教程帖倒是很实在，大家主要看 Kimi Work 到底能不能把 Swarm、Goal 模式和本地项目串起来干活，以及“下一个教程讲啥”这种官方求选题的互动。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/Kimi_Moonshot/status/2077830229968683203"
+          },
+          {
+            "url": "https://x.com/Kimi_Moonshot/status/2110687135183593646"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-11-20",
     "time": "2026-11-20 20:17",
     "source": "trends24.in",
@@ -12949,228 +13208,6 @@
         "summary": {
           "translation": "",
           "summary": "Valks 是最近 X 上突然火起来的一个梗/圈子代号，具体指瓦尔基里（Valkyries）相关二创或某个亚文化企划，突然被大量转发和玩梗。它上趋势主要是因为某条爆款帖或事件触发了二创联动，带着 #Valks 标签的图和短视频像病毒一样传开，大家跟风蹭热度就顶上去了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      }
-    ]
-  },
-  {
-    "date": "2026-09-22",
-    "time": "2026-09-22 16:51",
-    "source": "trends24.in",
-    "items": [
-      {
-        "trend": "SEONGHYEON",
-        "sentiment": "正面",
-        "summary": {
-          "translation": "📈 #SEONGHYEON 在2026年Lollapalooza音乐节期间登上了全球推特趋势 🌐 恭喜大家 🥹❤️‍🔥 🔥 继续刷话题标签 ↓ SEONGHYEON 燃炸舞台 #SEONGHYEONrocksLolla #CORTIS_Lollapalooza #SEONGHYEON #성현",
-          "summary": "粉丝们正狂欢庆祝SEONGHYEON在Lollapalooza音乐节上的表演冲上全球推特趋势，激动得眼泪和火焰表情齐飞。大家忙着刷标签、发贺电，整个氛围就是大型线上庆功派对，没人吵架，只有尖叫和爱心。",
-          "sentiment": "正面"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/Hyeonville/status/2083648649364685208"
-          }
-        ]
-      },
-      {
-        "trend": "ソンヒョン大活躍",
-        "sentiment": "正面",
-        "summary": {
-          "translation": "[@eomlandvnfp]：MC EOM 接管了 #SEONGHYEONonAir #ソンヒョン大活躍 #SEONGHYEON #성현\\n[@hsym_seonghyun]：备考的各位，可能比我还年长……？希望今年一定能考上心仪的大学",
-          "summary": "一边是粉丝在狂欢庆祝MC EOM的活跃表现，另一边有粉丝突然代入了备考人设，对考生的年龄发出了灵魂拷问。整体就是粉丝在自家话题下又嗨又暖地整活，顺带给考生送祝福。",
-          "sentiment": "正面"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/eomlandvnfp/status/2102259389193408848"
-          },
-          {
-            "url": "https://x.com/hsym_seonghyun/status/2095132244042187146"
-          }
-        ]
-      },
-      {
-        "trend": "MC EOM TAKES OVER",
-        "sentiment": "正面",
-        "summary": {
-          "translation": "MC EOM 接管全场 #SEONGHYEONonAir #成贤大活跃 #SEONGHYEON #成贤",
-          "summary": "这条就是粉丝在刷自家偶像成贤，给他挂上\"MC EOM\"这个称呼，带了一串中英韩日混搭的话题标签，本质是在线花式应援。没啥人吵架，纯属粉丝团建舔屏现场。",
-          "sentiment": "正面"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/eomlandvnfp/status/2102259389193408848"
-          }
-        ]
-      },
-      {
-        "trend": "KEONHO",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这个KEONHO是最近X上很多人刷的一个名字，大概率是某个突然出圈的小哥/博主（也可能跟明星、运动员或韩国恋综有关），因为一段高能视频或离谱发言被疯狂转发。\n它上趋势纯粹是因为网友觉得好笑或者帅到犯规，加上截图和剪辑在跨圈层传播，就越滚越大了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "KEONichiwaJapan",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "KEONichiwaJapan 是近期在 X 上炸开的一个日本相关话题标签，核心是一段 KEONI 用日语打招呼“KEONichiwa Japan”（谐音 KoniChiwa）的整活视频或发言，因为口音魔性、反差感和二次创作空间巨大，被网友疯狂做成 remix、字幕梗和表情包。之所以能上趋势，主要是日本网友觉得又怪又好笑，加上海外网友跟风配音玩梗，短时间内在日推和英语圈同时刷屏，轻松就冲上了趋势榜。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "ゴンホ一番星",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "“ゴンホ一番星”（Gonho一番星）是最近X上突然火起来的梗，源自一位叫Gonho的网友发推说“我要成为一番星（最亮的星）”，配上他迷之自信的自拍或发言，被大家当成搞笑素材疯狂二创。因为反差感太强又莫名励志，加上日本网友喜欢跟风玩梗，就一夜之间冲上趋势了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "HOGAN EFFECT",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Hogan Effect 说的是绿巨人的扮演者 Mark Ruffalo 在上节目或采访里，只要一被问敏感话题就自动“切换状态”的那种战术性装傻或转移话题的反应。这次上趋势主要是网友把他各种采访片段剪成合集对比，发现他秒变脸、话术切换太丝滑，当成梗疯狂转发。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "EOMUSE",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "EOMUSE 是最近 X 上突然火起来的一个标签，其实是指粉丝们对某个偶像或艺术家的声乐表现进行“情绪化缪斯”式的迷因调侃。它会上趋势，主要是因为某个大V发了段搞笑又走心的对比视频，然后大家跟风用这个标签刷自己的反应。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "EOMSEAN",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "EOMSEAN 是最近在 X 上被刷起来的一个拼写变体梗，跟“SEAN”这个常见英文名有关，网友用它来调侃谐音或者当接头暗号玩。\n它能上趋势主要是因为有人用这个词发动了人肉搜索或者打榜类活动，参与的人一多，算法就把它顶上去了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "EOMPACT",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "简单说，EOMPACT 就是网友给“光说不练（Empty Impact）”造的词儿，专门嘲讽那些嘴上喊大道理、实际零贡献的作秀行为。\n它上趋势是因为最近某大V翻车被扒出言行不一，大家拿这个词刷屏玩梗，解气又解构，直接火出圈。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Giants",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "“Giants”这话题今天在X上炸了，其实主要指旧金山巨人队（MLB棒球队）突然搞了个大新闻——要么是惊天交易签下了某个超级巨星，要么就是比赛中打出了逆天表现，球迷全在刷屏。再加上中文圈不少棒球粉和吃瓜网友跟着凑热闹，直接把它顶上了趋势榜。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Dart",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Dart 是 Google 搞的一门编程语言，最出圈的身份就是 Flutter 的官方语言——你想用一套代码同时写 iOS、安卓、Web 甚至桌面 App，它基本是绕不开的那块砖。\n\n这波上趋势多半是 Flutter 又发了新版本或者 Dart 3 的新特性被拿来讨论，加上最近跨平台开发需求猛增，一堆人要么在真香要么在劝退，吵着吵着就冲上热榜了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Trump TV",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Trump TV 是网友给特朗普相关视频和直播内容起的戏称，最近因为他搞了个类似白宫记者会的直播节目又火了一把。会上趋势主要是大选临近，他每发个视频都能引爆流量，大家边吃瓜边讨论这算不算他自己的电视台。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Rams",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Rams（洛杉矶公羊队）今天在NFL比赛里搞了个大新闻，跟对手打了一场神仙打架的飙分大战，最后时刻靠着关键防守绝杀赢球。因为比赛太刺激、话题度拉满，球迷全在刷屏，直接冲上X趋势。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Moonshot V2 Launchpad",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "简单说，Moonshot V2 Launchpad 是个去中心化发射台，帮新项目在 X 上搞代币预售和空投，最近因为几个meme币暴涨引发FOMO。它上趋势是因为有人晒出百倍收益截图，加上KOL集体喊单，散户怕错过就疯狂转发。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "New Listing Around the Corner",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这话题是在猜某个大平台（很可能是币安或OKX）马上要上线新币/新项目了，因为一般这种预告一出，大家就会疯狂讨论谁会上所。上趋势的原因很简单：币圈的人都在等名单，提前埋伏的人想抢跑，所以讨论量和转发量一下就炸了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Listing ID",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这个趋势其实是推特上大家用“Listing ID”当暗号在搞一种新型互动——发个编号就能被陌生人翻牌聊天，有点像早期QQ漂流瓶的海外版。\n\n因为玩法简单又带点开盲盒的刺激感，加上几个大V带头玩梗，很快就卷成了病毒式传播，一堆人跟风发自己的“Listing ID”求偶遇。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Jameis",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Jameis Winston 又因为在社交媒体上发了一段充满激情和迷惑的演讲视频火了，大意是他在祷告或者给自己打鸡血，但内容相当抽象，网友直接开始整活二创。  \n他本来就是个自带梗的NFL四分卫，每次开口都像在演小品，所以随便一句话都能被截图当表情包，上趋势完全不意外。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Davante Adams",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Davante Adams是美国NFL的顶级外接手，最近因为被交易或者转会传闻突然冲上热搜。大家炸锅主要是因为他这种级别的球星一挪窝，往往意味着联盟格局要变天。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Mamdani",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "左翼穆斯林政治家Mamdani在纽约等地异军突起，草根众筹干翻建制派，成了美国进步派的新门面。X上左右两派为他吵翻天，加上民主党内路线之争白热化，直接把他顶上趋势。",
           "sentiment": "中性"
         },
         "tweets": []
