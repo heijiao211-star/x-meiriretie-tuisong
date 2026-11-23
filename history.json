@@ -1,5 +1,253 @@
 [
   {
+    "date": "2026-11-23",
+    "time": "2026-11-23 21:46",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Good Monday",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Good Monday 其实就是大家在 X 上互相打气、祝周一顺利的老梗，图个仪式感。最近它又上趋势多半是因为全球多个品牌和明星趁周一早晨集体发帖蹭热度，加上用户跟风刷屏把话题顶上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "MondayMotivation",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "#MondayMotivation 就是周一打鸡血合集，老外和国内网友都爱在这天发励志语录、健身打卡、新目标清单来对抗周一丧。它能上趋势主要是周一集体“不想上班”的情绪共鸣太强，大家靠互相喂鸡汤续命，顺便蹭个话题流量。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Victory Monday",
+        "sentiment": "玩梗",
+        "summary": {
+          "translation": "[@Commanders]：胜利星期一！！！！！\n\n[@Commanders]：胜利星期一 🕺",
+          "summary": "大家其实没在吵，就是华盛顿指挥官队官方账号在疯狂庆祝赢球，刷屏喊“胜利星期一”，配上跳舞表情包，活生生把周一变成大型狂欢现场。球迷们跟着一起嗨，气氛乐翻天，纯纯的赢球后遗症。",
+          "sentiment": "玩梗"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/Commanders/status/2104541641994567699"
+          },
+          {
+            "url": "https://x.com/Commanders/status/2122343714450477546"
+          }
+        ]
+      },
+      {
+        "trend": "MondayVibes",
+        "sentiment": "玩梗",
+        "summary": {
+          "translation": "周一的感觉：",
+          "summary": "这条帖子本身只有一句话加个表情，没啥实际内容，就是个抛砖引玉的梗。大家估计都在底下接龙吐槽周一有多丧，纯玩梗没吵架。",
+          "sentiment": "玩梗"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/bonkfun/status/2089467488224551266"
+          }
+        ]
+      },
+      {
+        "trend": "Zscaler",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Zscaler是一家做云安全的老牌公司，最近因为财报超预期加上AI安全概念火了一把，股价猛涨所以冲上趋势。简单说就是企业上云后安全需求爆发，它正好站在风口上，股民和科技圈都在讨论。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Rene Haas",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "@firstadopter：冲啊！FT：“Arm老板Rene Haas被接触接洽出任英伟达CEO一职”。\n\n@firesidealpha：*ARM CEO雷内·哈斯：我曾为黄仁勋工作。在我心里，他是个传奇 *哈斯：我显然对（人事）变动感到失望 *哈斯：我预期我们与英伟达的关系不会变，路线图方面也不会有变化 $ARM",
+          "summary": "大家在吃瓜英伟达CEO黄仁勋可能被Arm的CEO雷内·哈斯接班的传闻，一边调侃哈斯表白老东家黄仁勋是传奇。笑点在于哈斯嘴上说失望又强调关系不变，像极了打工人离职前的体面发言。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/firstadopter/status/2121285917671592237"
+          },
+          {
+            "url": "https://x.com/firesidealpha/status/2123092963982999614"
+          }
+        ]
+      },
+      {
+        "trend": "Happy Thanksgiving",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "@CraigyFerg：感恩节快乐，美国！\n@SecKennedy：感恩节快乐！",
+          "summary": "这波就是两位大V简单直接的节日祝福，一个点名美国，一个普天同庆。整体气氛轻松，属于标准的节日打卡式问候。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/CraigyFerg/status/1727725317333069984"
+          },
+          {
+            "url": "https://x.com/SecKennedy/status/1994099827861241862"
+          }
+        ]
+      },
+      {
+        "trend": "Libya",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "利比亚又上趋势了，大概率是那边武装冲突、政治僵局或者移民船难这类老问题有了新动静，毕竟这国家2011年卡扎菲倒台后就没消停过，各派系背后还有外部势力搅和。能冲上热搜通常是因为出了伤亡事件、两个政府对峙升级，或者欧盟跟利比亚海岸警卫队又闹出什么争议新闻，网友顺手就把话题刷起来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jessica Tarlov",
+        "sentiment": "争议",
+        "summary": {
+          "translation": "介于这件事和他的“中期选举惊喜”之间，现在就该准备应对他试图窃取选举了。",
+          "summary": "Jessica Tarlov这条推把某人的“中期选举惊喜”跟选举窃取联系起来，喊话大家现在就做准备；评论区吵的是这到底是在预警还是在带节奏，吃瓜群众则盯着“偷选举”这个说法看热闹。",
+          "sentiment": "争议"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/JessicaTarlov/status/2107580390894416207"
+          }
+        ]
+      },
+      {
+        "trend": "GLM-5.4",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "Z.ai 今天向所有 GLM Coding Plan 用户发布了 GLM-5.4。以下是你要知道的。Z.ai 的李子轩于 2026 年 11 月 23 日在 X 上宣布了这一消息。GLM-5.4 带来了新的视觉能力和更强的全能编码表现。它现在可以直接处理图像。该帖没有给出基准测试数据。它已在 Z.ai 官方 API 模型列表中上线。Z.ai 的中文用户群通知补充了一个英文帖子中缺失的细节：GLM-5.4 基于 Loop Transformer 构建。智谱表示，过去 3 个月一直在扩展这一方法。对于有每周配额的言用户，GLM-5.4 的配额比 GLM-5.3 多 50%。也就是同一套餐下更大的使用额度。如何在 Coding Plan 中使用它：- 在 Claude Code 中，将模型设为 glm-5.4[1m] - 在其他工具中，将模型设为 glm-5.4 - 在 Z Code 中，手动添加模型 ID GLM-5.4 - 它也可以通过 OpenCode 及类似编码工具使用 - 在中国通过智谱 BigModel 访问，海外通过 Z.ai 访问 关键数字：- 版本：GLM-5.4，GLM-5.3 的继任者 - 每周配额：比 GLM-5.3 多 50% - 上下文：Claude Code 中可用的 1M 设置 - 公告帖：数小时内 7 万+ 浏览量 目前反应：许多用户原本期待的是 GLM-5.5。一些人指出公告没有基准测试数据。一个未经证实的传言称，GLM-5.5 可能在下个月到来，总参数约 3T。其他人指出，GLM-5.4 目前仅限 Coding Plan 订阅用户使用。早期测试才刚刚开始。GLM-5.4 现已在 Z.ai API 和 Coding Plan 上线。",
+          "summary": "大家本来等着 GLM-5.5，结果先来了个 GLM-5.4，还没带跑分，吐槽和吃瓜齐飞；不过配额多给 50%、能直接看图、还用上 Loop Transformer，订阅党已经开始排队试水了。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/AGTPinsights/status/2124730231005024602"
+          }
+        ]
+      },
+      {
+        "trend": "For the Lord",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“For the Lord”这话题这两天在X上冲上趋势，说白了就是一群基督徒网友在刷这句口号，给信仰打call、互相打气，有些还绑着政治或社会议题喊口号。上趋势主要是因为宗教社群集中发力刷屏，加上一些保守派大V蹭热度带节奏，把一句普通信仰表达炒成了标签战。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Purdy",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“Purdy”这波趋势基本是NFL旧金山49人队四分卫Brock Purdy又整活了——不是带队赢球就是打出离谱数据，球迷和媒体两边疯狂刷屏。上趋势主要因为比赛日他的表现太抓眼球，加上“最不起眼先生”逆袭剧本自带流量，大家一边夸一边玩梗就把它顶上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Tia Kemp",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Tia Kemp 是网上出了名的爆料型人物，最近因为跟某位公众人物隔空对喷、甩出猛料，加上她那嘴不饶人的风格，被网友疯狂转发切片。她上趋势主要是因为吵架视频太有节目效果，两边粉丝互撕把流量顶起来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Draymond",
+        "sentiment": "争议",
+        "summary": {
+          "translation": "德雷蒙德谈最后时刻防守杰森（塔特姆）：我想让他往左走。他往左走时我们胜算大一点，往右走就麻烦些。但他是很棒的球员。所以伟大的球员总会到达他们想去的位置。他想往右走。我只知道不能让他一路杀到篮下，得逼他投一个高难度的两分。他要是投进了，那他可是杰森·塔特姆。他进是有原因的，但我接受这个结果。",
+          "summary": "大家吵的是追梦最后到底放没放塔特姆往右走，有人说这防守不算失位，有人嫌他让对手太舒服。看的是塔特姆那球有没有进、追梦赛后嘴硬不嘴硬，笑的是追梦总有办法把一次被单打讲成战术成功。",
+          "sentiment": "争议"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/ohnohedidnt24/status/2124718715308515597"
+          }
+        ]
+      },
+      {
+        "trend": "The Five",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“The Five”这次上趋势，多半是因为《The Five》这档Fox News的晚间脱口秀节目又出了爆点片段，比如某位主持人的争议言论被剪成短视频疯传。反正这节目本来就是靠几个主持人吵架式输出观点吃饭的，一有出格发言或者嘉宾翻车，立马就会被截图转发出圈。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Honorable",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "‘Honorable’这词突然上趋势，基本是因为有人发了一段争议视频或发言，网友吵它到底算不算‘体面’。大家一边倒玩梗反讽，说某些行为‘真够honorable的’，就给顶上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Merkury",
+        "sentiment": "争议",
+        "summary": {
+          "translation": "疯了，俄军舰“水星号”价值超2亿美元，昨晚在利比亚班加西港爆炸的瞬间画面流出，舰上弹药殉爆把它彻底炸毁，损失巨大。",
+          "summary": "大家主要在看那段爆炸画面是不是真的、俄军舰怎么跑到利比亚港口去了，顺便吵这2亿美元的账该算谁头上。",
+          "sentiment": "争议"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/WarMonitor3/status/2124496626936885512"
+          }
+        ]
+      },
+      {
+        "trend": "Niners",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Niners 就是旧金山49人队（San Francisco 49ers）的昵称，NFL老牌球队。这波上趋势多半是因为比赛日、交易签约、伤病消息或者季后赛争夺这类事，球迷一激动就把它刷上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Larkin",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Larkin这波上趋势大概率是因为某个叫Larkin的人或事儿突然引爆了讨论，比如新歌、转会、庭审或者一条爆款推文，具体得看当天热搜关联内容。总之就是网友集体围观、转发和玩梗，把名字刷上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Hage",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个#Hage 突然冲上趋势，大概率是某个叫 Hage 的人或梗在 X 上被疯转，可能是新晋网红、争议事件当事人，或者单纯是个谐音梗被玩坏了。\n\n一句话概括就是网友又在集体玩一个叫 Hage 的梗或瓜，具体是人是事还得点进去看实时讨论才搞得清楚。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-11-22",
     "time": "2026-11-22 20:05",
     "source": "trends24.in",
@@ -13026,224 +13274,6 @@
         "summary": {
           "translation": "",
           "summary": "Nneka Ogwumike 是 WNBA 的球星，最近因为加盟了纽约自由人队又夺冠了，球迷们在疯狂刷她的名字庆祝。简单说就是一个打篮球的姐姐太牛了，带队拿了冠军，网友集体沸腾。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      }
-    ]
-  },
-  {
-    "date": "2026-09-24",
-    "time": "2026-09-24 16:48",
-    "source": "trends24.in",
-    "items": [
-      {
-        "trend": "Hader",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Hader 指的是演员 Bill Hader，最近因为一段他在采访中聊到自己为《巴瑞》第四季疯狂减重、还自曝每天只吃一顿饭的视频在外网疯传。加上他早年 SNL 的搞笑片段被一波怀旧账号重新翻出来，连带着他跟老婆在红毯上的腻歪镜头也被做成了 meme，这一套组合拳下来就直接把它推上 X 趋势了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "ADifferentWorld",
-        "sentiment": "吃瓜",
-        "summary": {
-          "translation": "三十年前，#TheCosbyShow 的衍生剧 #ADifferentWorld 结束了它六季的播出。所以，我们整理了这部标志性剧集演员们如今的境况。",
-          "summary": "这波怀旧潮在聊一部30年前的黑人情景喜剧《A Different World》，它作为《考斯比一家》的衍生剧曾红极一时，现在大家在追踪演员们的现状。看点和笑点集中在今昔对比和回忆杀上，纯纯的怀旧吃瓜现场。",
-          "sentiment": "吃瓜"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/TVInsider/status/1678027975323729922"
-          }
-        ]
-      },
-      {
-        "trend": "Lawrence Tanter",
-        "sentiment": "正面",
-        "summary": {
-          "translation": "[@lakers]：Lawrence Tanter，作为湖人大家庭的一员，永远在我们心中💜\\n\\n[@DanWoikeSports]：湖人长期传奇现场播报员 Lawrence Tanter 即将退休。他将继续留在球队担任顾问。Tanter 去年三月遭遇健康问题，无法在赛季剩余时间继续工作。",
-          "summary": "湖人球迷正在集体致敬队史传奇播报员 Lawrence Tanter，他因健康问题退休，转任球队顾问。没什么争议可吵的，评论里全是怀念和祝福，大家更多是在感慨他的声音就是湖人主场的标配。",
-          "sentiment": "正面"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/lakers/status/2102977129147519255"
-          },
-          {
-            "url": "https://x.com/DanWoikeSports/status/2066989744765227441"
-          }
-        ]
-      },
-      {
-        "trend": "Mariners",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "“Mariners”这词最近挂在X趋势上，基本都是在聊西雅图水手队（MLB棒球队）的比赛或者交易动态，球迷一激动就把它刷上去了。赶上赛季关键战、球员爆种或者大交易传闻的时候，这词就跟过年似的反复冒头。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Survivor51",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Survivor51就是美国老牌真人秀《生存者》第51季开播了，这一季又整了新花样，赛制改动和选手抓马直接让老粉炸锅。上趋势是因为开播当晚淘汰环节爆冷，加上选手之间火药味拉满，社交媒体上全是骂战和名场面截图，自然就冲上热搜了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Astros",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Astros是美国休斯顿的一支MLB棒球队，最近因为太空人作弊丑闻又被翻旧账，加上交易截止日操作引发球迷激烈互撕。话题能上趋势主要是因为球队刚做了个争议交易，加上作弊案历史让全网都能来踩一脚，热度自然炸了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Espada",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Espada 是《死神》里的破面十刃，最近因为千年血战篇动画的新剧情或者某个角色（比如乌尔奇奥拉、葛力姆乔）的高光场面又被翻出来刷屏了。上了趋势主要是因为老粉集体“爷青回”，加上新观众补番后也开始上头，讨论度和二创量一下炸了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Timothy Kelly",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Timothy Kelly 这个所谓的\"热门话题\"，说白了就是突然冒出来的一波关于某个外国主播/内容创作者的讨论，大部分是中文网友看到切片或旧料截图后跟风转了转，真看过的没几个。它能上趋势多半靠算法推了转发互动度高的短视频或爆料帖，至于背后到底有啥大新闻，多数自媒体也就喊两句\"到底发生了什么\"，干货基本没有。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Taylor Ward",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Taylor Ward是洛杉矶天使队的外野手，最近因为交易传闻和场上表现成了棒球迷热议的焦点。简单说就是：打得好被夸，打不好被骂，加上转会流言满天飞，直接冲上了X趋势。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Elvira",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Elvira是推特上的一个热门梗，起因是网友把各种离谱搞笑的内容（比如AI生成的夸张画面或迷惑行为）都配上\"Elvira\"这个名字，慢慢变成了一个用来调侃\"抽象\"和\"发疯\"的代名词。它之所以上趋势，是因为大家发现用Elvira来概括那些\"精神状态美丽\"的瞬间特别精准，就疯狂刷屏玩起来了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Peltola",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Peltola 一般指的是美国阿拉斯加州的民主党政治人物 Mary Peltola，她2022年拿下原本共和党铁票的联邦众议员席位，成为阿拉斯加史上第一位原住民女性议员，当时全网都在刷\"爆冷\"。之所以会冲上趋势，多半是她又搞出什么大新闻——比如2024年竞选连任失利、或跟川普支持的对手佩林（Sarah Palin）又掐起来了，这群人凑一块儿话题度永远不会低。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "New Listing Around the Corner",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "简单说就是 X 上好多人在刷『附近的新房源即将上线』，通常指的是某个大家关注的东西——可能是新专辑、新游戏、新版本、新楼盘，甚至新 NFT——官方放话马上就要发布了。之所以上趋势，是因为粉丝或买家蹲了好久终于等到预告，大家一边猜一边互相通知，情绪一下子就炸了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Moonshot V2 Launchpad",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Moonshot V2 Launchpad 是加密圈最近一个叫 Moonshot 的项目搞的新版代币发射平台，简单说就是给新币提供一个“打新”和上线的流水线。它之所以上趋势，是因为大家觉得它可能带来一波新的薅羊毛和暴富机会，再加上推特上各种 KOL 和机器人拼命喊单，FOMO 一下就冲上热搜了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "AEWDynamite",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "AEW Dynamite是美国职业摔角联盟AEW的每周旗舰电视节目，通常在TNT或TBS播出，以高质量比赛和 unpredictability 著称。它上趋势多半是因为当晚有冠军赛、惊喜首秀或重大剧情转折，摔角粉丝集体刷屏讨论。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Listing ID",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Listing ID 就是币安、Coinbase 这类交易所在上新币前放出的一个预报编号，有人提前扒到编号或内部消息，就知道哪个币要上架了。因为上大所通常意味着暴涨，所以每回有点风吹草动，大家就疯狂猜编号对应哪个币，话题自然被顶上趋势。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Josh Naylor",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Josh Naylor是MLB克利夫兰守护者队的加拿大一垒手，最近因为一场比赛中跑垒时做出夸张的‘婴儿摇晃’庆祝动作，被对方投手丘上的对手嘲讽，随后两人隔空互喷，裁判给了警告。这事在X上炸了，因为球迷觉得他戏太多，也有人觉得他真性情，视频片段疯传。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Judge Kelly",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Judge Kelly 指的是美国地区法官凯莉（Kelly），最近因为连续叫停特朗普政府的几个行政命令（比如冻结联邦拨款、裁员等）而被推上风口浪尖。简单说就是，法官硬刚总统，特朗普支持者炸锅了，民主党那边拍手叫好，所以这个话题就冲上了趋势。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "AEWCollision",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "AEW Collision就是AEW（全精英摔角）每周六晚上那档摔角节目，跟WWE的SmackDown打对台的，粉丝平时就爱在网上聊比赛结果、剧情走向和谁又整活了。\n\n上趋势基本就几种情况：要么是当晚出了神级比赛或者冠军易手的爆点，要么是CM Punk这种自带流量的大佬搞出什么新闻，粉丝一激动就把它顶上去了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "teenageee",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "“teenageee”这词儿最近在X上火了，其实就是网友们拿“teenage”这个英文词（青少年）故意多加几个e来卖萌或者表达一种“青春期那种又懵又燥”的情绪，常见于发一些怀旧、emo或者自嘲的段子。它能上趋势主要是因为大家跟风拿这个拼写来配图配视频，比如翻自己中学时的黑历史、吐槽当年的中二，越玩越上头就刷起来了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Salas",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Salas这波上趋势，大概率是因为某个叫Salas的人或事突然炸了——可能是阿根廷球员的骚操作、智利总统的发言、或者一个叫Salas的网红搞了波大的，具体得看你刷到的是哪个。反正X上热度一上来，大家就开始跟风玩梗、扒背景、站队互撕，属于典型的‘一个人名加个话题就能吵一天’现场。",
           "sentiment": "中性"
         },
         "tweets": []
