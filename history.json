@@ -1,5 +1,269 @@
 [
   {
+    "date": "2026-11-24",
+    "time": "2026-11-24 22:21",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Good Tuesday",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Good Tuesday 就是老外周二爱发的“周二愉快”打招呼标签，类似咱们说“周二加油”。它能上趋势多半是因为周二本身是个普通工作日，大家借这个标签互相打气刷存在感，或者有品牌/网红带头带节奏把它推热了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "BB20",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "BB20最近在X上刷屏，其实就是《Big Brother》第20季的老梗被重新翻出来玩了，一堆人拿当年的名场面和选手金句做meme、剪视频。 它上趋势主要是因为新一季开播前老粉集体怀旧，加上几个大V转了经典剪辑，话题就被带起来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "TejRan",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "TejRan 是印度电视圈 Tejasswi Prakash 和 Karan Kundrra 这对 CP 的合称，粉丝拿它当专属标签刷。最近上趋势多半是俩人又有甜蜜互动或同框物料，CP 粉一激动就把它顶上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Taco Tuesday",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Taco Tuesday就是老外每周二吃墨西哥卷饼的传统梗，最近因为詹姆斯·约翰逊（演员）尝试把\"Taco Tuesday\"注册商标被全网群嘲，大家疯狂发自己吃taco的图来讽刺这种把公共俚语占为己有的行为。说白了就是个原本欢乐的吃货节日，被想钱想疯了的商人搞得全民玩梗反噬。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "UditiSingh",
+        "sentiment": "玩梗",
+        "summary": {
+          "translation": "[@TeamUditiSingh]：Uditi：我没有军队为我投票 🥺💔 与此同时她的推特迷弟们 😭：#UditiSingh #VoteUditiSingh #Uditians #BiggBoss20 #TeamUditiSingh #DivaOfBB20 #BB20\n\n[@uskidevotee]：我随手建了个号，发了个间接正面展示Uditi的短视频，结果爆火600万+播放，评论区几千人夸她 👁️👄👁️ #UditiSingh",
+          "summary": "粉丝们一边疯狂玩梗一边给Uditi造势：有人说她自嘲没军队投票，结果粉丝团立刻用行动打脸；还有人随手发个安利视频就爆了600万播放，评论区全是夸的。大家吵的是粉丝的战斗力到底有多强，笑的是这种“凡尔赛式”应援反而成了最佳宣传。",
+          "sentiment": "玩梗"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/TeamUditiSingh/status/2098375472291910041"
+          },
+          {
+            "url": "https://x.com/uskidevotee/status/2122926118827327733"
+          }
+        ]
+      },
+      {
+        "trend": "Ansem",
+        "sentiment": "玩梗",
+        "summary": {
+          "translation": "用推特就像在用 Claude，我就随便发点东西，然后它们就神奇地出现了",
+          "summary": "这条是在拿 AI 助手 Claude 开涮，说自己发推像跟 AI 聊天一样随手一丢就自动生效。整体氛围是轻松自嘲的玩梗，没啥真争议，就是大家图一乐。",
+          "sentiment": "玩梗"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/blknoiz06/status/2085164669900333514"
+          }
+        ]
+      },
+      {
+        "trend": "BiggBoss20",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "BiggBoss20是印度版《老大哥》真人秀第20季，最近在X上因为新一季开播、选手互撕和争议剪辑被疯狂讨论。印度网友边追边骂，吵架名场面和淘汰结果一出来就刷上趋势，跟咱们追综艺上热搜一个道理。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Victory Tuesday",
+        "sentiment": "玩梗",
+        "summary": {
+          "translation": "[@Commanders]：胜利星期二\n\n[@DallasTexasTV]：胜利星期二",
+          "summary": "两条帖子都在刷同一个词“Victory Tuesday（胜利星期二）”，看着像美式橄榄球圈的球迷在赛后狂欢或者互相嘲讽。具体吵啥看不出来，但大概率又是华盛顿指挥官队和达拉斯牛仔队这俩死对头之间的老梗。",
+          "sentiment": "玩梗"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/Commanders/status/2125212848984821881"
+          },
+          {
+            "url": "https://x.com/DallasTexasTV/status/2115059237168558473"
+          }
+        ]
+      },
+      {
+        "trend": "TuesdayVibes",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“TuesdayVibes”就是大家在周二发点轻松日常、给自己打气的话题标签，类似“周二也要有点小确幸”。它上趋势通常是因为周二最难熬、网友集体玩梗自嘲顺便互相鼓励，加上品牌和博主跟风发帖带热度。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Chris Cuomo",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "下一个目标",
+          "summary": "Chris Cuomo 就发了俩字，网友已经开始脑补他要开怼谁了。评论区大概率在猜下一个倒霉蛋是谁，纯纯互联网侦探模式。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/ChrisCuomo/status/2109464837554364639"
+          }
+        ]
+      },
+      {
+        "trend": "Pope Francis",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "教宗方济各的耶稣受难日福音反思：耶稣对门徒、也对我们每个人说：‘看，你的母亲。’玛利亚母亲，此刻疲惫而惶恐的人类正与您一同站在十字架下。",
+          "summary": "梵蒂冈官方账号发了教宗耶稣受难日的反思，核心是把圣母玛利亚和当下疲惫的人类情感连到一起。评论区基本在围绕信仰表达和战时苦难能否共鸣展开，气氛偏庄重而非玩梗。",
+          "sentiment": "中性"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/VaticanNews/status/1644241155800825857"
+          }
+        ]
+      },
+      {
+        "trend": "America&#39;s Mayor",
+        "sentiment": "争议",
+        "summary": {
+          "translation": "父母有享受儿童保育的权利。你们市政府有责任帮助确保他们能获得这项服务。——第一副市长@SheenaWrightNYC",
+          "summary": "纽约市长办公室发帖说父母有权享受托儿服务、市政府有责任保障，听起来挺正面，但网友们大概率在吐槽：说得好听，实际托儿贵得要命、名额又难抢，政客就会喊口号。大家围观的其实是'America's Mayor'这个标签下，官方承诺和老百姓现实之间的落差。",
+          "sentiment": "争议"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/NYCMayorsOffice/status/1682748605377966080"
+          }
+        ]
+      },
+      {
+        "trend": "Snopes",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Snopes是美国老牌事实核查网站，平时专门打假网络谣言和假新闻，最近在X上被推上风口浪尖多半是因为它卷进了某个热门争议事件的核查（比如政治人物的说法、突发新闻的真假），大家对它的结论吵翻了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Pearl Jam",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "“那就是在@LonBridgeStudio，我们录制第一张唱片和@templeofthedog唱片的地方。我觉得我们只是休息一下。大家在瞎闹。直到今天，如果你在Stone和Mike身边，总有些恶作剧，所以那看起来可能是Ed还没明白我们乐队里有Laurel和Hardy（喜剧双人组）之前。我们有一部分是疲惫的，但每次我们开始任何事情时，我们总是像，‘哇，我简直不敢相信我们还能做这个，真幸运。’ 探索Jeff档案馆更多内容，见《Since Forever》，他的视觉回忆录9月25日出版，更多故事在@uncutmagazine十一月刊。预购请访问 https://ament.lnk.to/sinceforeverTP”",
+          "summary": "这条其实就是Pearl Jam官方在推Jeff的视觉回忆录，顺带聊了当年在LonBridgeStudio录首专和Temple of the Dog的趣事，Stone和Mike一直在搞怪。大家看的是乐队老友记式的幕后花絮和回忆录预购，没什么争议，更多是粉丝觉得暖心又好笑，感慨他们还在做音乐真幸运。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/PearlJam/status/2099918685863346660"
+          }
+        ]
+      },
+      {
+        "trend": "Diggs",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "指挥官队签下外接手斯蒂芬·迪格斯。",
+          "summary": "大家最关心的是迪格斯离开维京人后状态能恢复几成，这笔签约到底能不能补上指挥官队的火力缺口。评论区里吐槽和玩梗齐飞，不少人调侃他就是下一个“高薪等着看戏”的话题球员。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/NFL/status/2085062825748353102"
+          }
+        ]
+      },
+      {
+        "trend": "Commanders",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "穿梭于过去与现在之间，我们正在把超级碗时代的球衣元素重新加入队服轮换中。",
+          "summary": "指挥官队宣布把当年打进超级碗时期的球衣设计元素加回轮换，球迷一半怀旧一半吐槽审美。吵的是到底哪套才代表球队黄金年代，笑的是又有人翻出旧款对比说这不还是换汤不换药。",
+          "sentiment": "中性"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/Commanders/status/1942930748060606725"
+          }
+        ]
+      },
+      {
+        "trend": "Villavicencio",
+        "sentiment": "玩梗",
+        "summary": {
+          "translation": "阿韦拉尔多多政府会不会把那些在比利亚维森西奥袭击梅塔省政府的推特账号给封了？",
+          "summary": "网友在调侃：有人攻击了梅塔省政府，大家猜新政府会不会一怒之下把涉事推特号全封了。说白了就是拿政府可能“秋后算账”来玩梗，看官方到底敢不敢动真格。",
+          "sentiment": "玩梗"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/gavercitico/status/2125085827931718019"
+          }
+        ]
+      },
+      {
+        "trend": "Mike Elias",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Mike Elias 是巴尔的摩金莺队的棒球运营总裁兼总经理，他因为球队近年从摆烂到崛起的重建操作和交易决策被球迷在 X 上热议。赶上球队战绩、交易截止日或农场新秀话题，支持者和质疑者就会一起把他顶上趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Jayden Daniels",
+        "sentiment": "玩梗",
+        "summary": {
+          "translation": "[@NFL]：Jayden Daniels ➡️ Stefon Diggs 达阵得分！费城老鹰vs华盛顿指挥官 在NBC/Peacock播出 在@NFLPlus上观看\n\n[@GrantReacts1]：Jayden Daniels 今早打开推特时的样子",
+          "summary": "大家在看的是Jayden Daniels给Stefon Diggs传出达阵的精彩配合，讨论他带队的能力和表现。另一个梗则是在调侃他刷推特看到各种热议时的心情，属于球迷在玩新星爆红的桥段。",
+          "sentiment": "玩梗"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/NFL/status/2117081043941613850"
+          },
+          {
+            "url": "https://x.com/GrantReacts1/status/2087895760692040144"
+          }
+        ]
+      },
+      {
+        "trend": "Joan Jett",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "@joanjett：查理·沃茨是摇滚乐中最优雅、最有尊严的鼓手。他打出的每一个音符都恰到好处——不多不少。他是独一无二的。",
+          "summary": "大家其实不是在吵Joan Jett本人，而是她这条悼念滚石乐队鼓手Charlie Watts的推文被推上了热门，粉丝们纷纷借机表达对这位传奇鼓手的怀念和敬意。整体氛围很平和，就是一波圈内人和乐迷的集体致敬，没啥火药味。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/joanjett/status/1430219121120141315"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-11-23",
     "time": "2026-11-23 21:46",
     "source": "trends24.in",
@@ -13067,213 +13331,6 @@
         "summary": {
           "translation": "",
           "summary": "Chris Hansen 是美国那个专门在节目里蹲点抓恋童癖的记者，靠《To Catch a Predator》里一句“Why don't you take a seat”成了互联网祖传表情包。他突然上趋势，多半是新一期抓人节目、某大V玩梗，或者又被扯进什么陈年争议里。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      }
-    ]
-  },
-  {
-    "date": "2026-09-25",
-    "time": "2026-09-25 17:09",
-    "source": "trends24.in",
-    "items": [
-      {
-        "trend": "Packers",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "“Packers”这词儿在X上冲趋势，一般不是聊绿湾包装工队（NFL）的比赛，就是NBA密尔沃基雄鹿队（Bucks）的球迷在黑“打包”某笔交易。  \n能上趋势多半是因为刚打完一场有争议的季后赛/常规赛，或者有球星突然被传要“打包走人”，球迷吵翻天就给顶上去了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Cleveland",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Cleveland（克利夫兰）突然上趋势，是因为骑士队季后赛搞了个大新闻——米切尔狂砍50分还是输球，球迷全在刷#Cleveland自嘲‘又是陪跑的一年’。另一个原因是当地一家百年老店突然关门，大家借着话题集体回忆这座‘被诅咒的城市’有多惨多可爱。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "SHUFFLE",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "最近X上SHUFFLE火了，主要是因为一段魔性舞蹈挑战——大家跟着节奏随机切换舞步，视频又土又上头，网友们纷纷跟拍玩梗。加上几个大V和明星带头发了翻跳视频，算法一推就彻底爆发了，轻松解压的内容谁不爱呢。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Taylor",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "泰勒·斯威夫特在X上又炸了，这次是因为她突然发了一首重录版老歌的片段，粉丝直接疯狂刷屏。加上她刚宣布了新的巡演日期，全网都在猜她是不是要放大招，所以直接冲上趋势。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "tinashe",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Tinashe是美国R&B女歌手，最近因为新歌/新专辑或者某个现场表演炸了，在X上被疯狂讨论。她一直有‘歌红人不红’的标签，这次终于靠实力/话题度冲上趋势，粉丝和路人都在刷她的舞台和梗。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Jordan Love",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Jordan Love是NFL绿湾包装工队的首发四分卫，最近因为刚签下4年2.2亿美元的超级大合同，成了全美体育圈的热议焦点。他上了趋势是因为球迷们都在吵这份合同到底值不值——毕竟他上赛季季后赛表现确实亮眼，但常规赛样本还不够多。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "TSTLOASTheEncore",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "TSTLOASTheEncore 是 Taylor Swift 巡演纪录片《The Eras Tour》的加长版上映话题，粉丝狂刷标签庆祝。因为突然官宣加映并新增表演片段，全球霉粉集体过年，所以直接冲上趋势。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Falcons",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Falcons是《反恐精英》里的一支职业战队，最近因为签下了超级明星选手s1mple（可能是租借或短约），直接引爆了电竞圈。大家都在讨论这个“银河战舰”到底能不能起飞，结果比赛还没打几场，各种抓马和悬念就先上了热搜。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Pink Clouding",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "“Pink Clouding”就是嗑药/醉酒上头时那种虚假的幸福感——觉得自己被爱、被懂、啥事没有，一清醒全碎了。它能上趋势是因为网上越来越多人拿它聊恋爱脑和Drugs后的假性亲密，连Taylor Swift都玩过这个梗，把“粉红泡泡”和成瘾类比串一起了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Patient Zero",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "大家最近在X上刷到的Patient Zero，其实是指COVID-19疫情初期那个被误传为「零号病人」的武汉女医生，后来被证实根本不是第一个感染者。这波上趋势是因为有博主翻出当年外媒的不实报道截图，引发大量网友吐槽西方媒体甩锅和网暴素人，外加新变种又冒头，大家就开始考古了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Babylon",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Babylon 是个比特币质押协议，能让你的 BTC 在不离开自己钱包的情况下参与 PoS 链赚收益。最近它主网上线加上空投预期，大家疯狂涌入质押，直接把它推上了趋势。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Bijan",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Bijan 是 X（原Twitter）上的热门话题，主要因为他是一个通过“晒日常”疯狂涨粉的网红，粉丝数突然爆炸式增长，大家开始好奇他到底是谁。另一个原因是网友发现他很多内容明显是买来的流量和刷数据，于是引发了一阵群嘲和扒皮，把他推上了趋势。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Drake London",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Drake London是美国NFL亚特兰大猎鹰队的接球手，最近因为交易传闻和球队操作突然冲上X趋势。大家疯传他可能被交易或伤病有变，球迷全在蹲后续。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "AHS13",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "AHS13 是《美国恐怖故事》第十三季的缩写，最近因为官方发布了首支预告和卡司阵容，突然冲上了 X 趋势。简单说就是：这部长寿恐怖剧要回归了，而且这次据说是“元恐怖”设定，加上老演员莎拉·保罗森可能回来，粉丝直接炸锅。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Matt LaFleur",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Matt LaFleur是NFL绿湾包装工队的主教练，最近因为球队战绩波动、临场指挥被球迷狂喷，尤其输给同区死敌后，#FireMattLaFleur 和辩护理性派的讨论直接对撞上车。火上浇油的是他赛后采访里对关键决策的解释被剪成短视频疯传，评论区瞬间分裂成“该炒”和“再给一年”两派，就这么闹上趋势了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Penix",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Penix是亚特兰大猎鹰队在2024年NFL选秀首轮第8顺位选中的四分卫Michael Penix Jr.，这哥们大学最后一年在华盛顿大学打得风生水起，带队杀进全国冠军赛，结果猎鹰已经给了大合同签了Kirk Cousins还选他，直接炸锅。  \n上趋势主要是球迷和媒体都在骂猎鹰管理层脑子进水，花大钱签老将又用高顺位选个可能需要养伤病史的新秀，加上Penix自己是左撇子四分卫自带话题度，讨论度直接拉",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Lucas Spence",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Lucas Spence是个在英国的小哥，因为一段他在街头被警察盘问的视频火了——视频里他因为长相或口音被警察盯上，全程冷静录影还反问警察凭什么拦他，结果警方的回应漏洞百出。上趋势是因为大家觉得这画面太典型了：无辜的人被刁难、执法者说不出正当理由，加上他社交媒体上的后续回应很刚，直接引爆了关于种族歧视和警察权力滥用的讨论。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "criticalrolespoilers",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这是《Critical Role》粉丝在刷屏剧透预警的标签，主要是新一集播出后大家讨论剧情时用的。上趋势是因为最近剧情有大转折，不少观众急着分享又怕误伤还没看的人，就集中带这个话题发帖，结果越刷越热。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Kyle Pitts",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Kyle Pitts是NFL亚特兰大猎鹰队的近端锋，最近因为交易传闻和表现低迷被球迷疯狂讨论。他当年是第四顺位天才新秀，现在却被骂水货，刚巧赶上交易截止日快到了，话题就炸了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Nneka",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Nneka Ogwumike 是 WNBA 的球星，最近因为加盟了纽约自由人队又夺冠了，球迷们在疯狂刷她的名字庆祝。简单说就是一个打篮球的姐姐太牛了，带队拿了冠军，网友集体沸腾。",
           "sentiment": "中性"
         },
         "tweets": []
