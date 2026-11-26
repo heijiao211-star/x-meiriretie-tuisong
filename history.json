@@ -1,5 +1,242 @@
 [
   {
+    "date": "2026-11-26",
+    "time": "2026-11-26 21:19",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Happy Thanksgiving",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "感恩节快乐，大家！今天以及每一天，让我们记住回馈的重要性，并向那些为我们付出良多的人表达感激。",
+          "summary": "奥巴马发了条标准的感恩节祝福，呼吁大家记得回馈和感恩。评论区大概率又是一场“你又干了啥”的阴阳怪气大赏，典型的美式节日政治打卡现场。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/BarackObama/status/1862158893926769068"
+          }
+        ]
+      },
+      {
+        "trend": "My Snap",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "My Snap 是最近 X 上被刷起来的一个话题标签，主要是网友晒自己 Snapchat 上的回忆、截图或者跟朋友的互动瞬间，带点怀旧和分享生活碎片的味道。它能上趋势多半是因为有人发起了晒“我的 Snap”回忆杀的潮流，加上 Snapchat 本身用户基数大，大家跟风发图发文就把它顶起来了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "good thursday",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这个话题其实就是老外每周四例行发的“周四愉快”打卡，跟咱们周五发“终于熬到周五”一个意思，纯粹是仪式感。它能上趋势多半是因为某个大V或品牌带头发了条周四相关的梗图/福利，大家跟风玩梗刷起来的。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Hiya",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“Hiya”就是英文里超随意的“嗨呀”，跟“Hey”差不多但更俏皮，一般就是打个招呼。它上趋势多半是某个大V或梗图带火了，大家跟风刷着玩，或者跟某个新表情包/短视频有关。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Turkey Day",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“Turkey Day”就是老美对感恩节的昵称，因为火鸡是这天餐桌上的绝对主角，X上每年11月第四个周四前后都会被这个词刷屏。上趋势主要是因为大家晒火鸡、吐槽烤糊了、看橄榄球赛、以及黑五购物预热，整个就是美国版“过年”的网络狂欢。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Helloo",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "@SkyexSummers：你好呀推特\n@_THE_RAIDEN：你好呀推特！！",
+          "summary": "其实就是几个人在推特上随口喊了句\"你好\"，标准的打招呼式水帖，没啥内容。看点就是这股纯粹的\"我在网上冒个泡\"的松弛感，根本没人吵。",
+          "sentiment": "中性"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/SkyexSummers/status/2119906055245492414"
+          },
+          {
+            "url": "https://x.com/_THE_RAIDEN/status/2061580691356155969"
+          }
+        ]
+      },
+      {
+        "trend": "Feliz Día de Acción de Gracias",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "祝我所有朋友、我生命中的男人们、我在美国的仰慕者们感恩节快乐——也祝所有庆祝这个特别节日的粉丝们节日快乐。把爱都给你们 🫶🏼💕💋…… 🇪🇸 祝我所有朋友、我生命中的男人们以及我在美国的仰慕者们，还有所有庆祝这个特别节日的粉丝们感恩节快乐！我把所有的爱都送给你们 🫶🏼💕……",
+          "summary": "没啥好吵的，就是一位博主用英西双语发感恩节祝福，顺便点名'我生命中的男人们和仰慕者'，带点小炫耀小暧昧。围观群众主要在看这条祝福里那股'凡尔赛'味儿，节日氛围拉满但也有人觉得有点做作。",
+          "sentiment": "中性"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/cassandras95/status/2125859565648437746"
+          }
+        ]
+      },
+      {
+        "trend": "Thankful",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "感恩：@Bloom_Energy",
+          "summary": "这是一条用户感谢能源公司Bloom Energy的帖子，整体氛围很平淡，基本就是发帖人表达感谢。话题下没什么争议，就是大家在凑#Thankful的热闹。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/sixers/status/2125750179341259074"
+          }
+        ]
+      },
+      {
+        "trend": "TheHuntingWives",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "简单说，#TheHuntingWives 是一个虚构的「猎杀丈夫俱乐部」概念，一群妻子集体吐槽老公、幻想组队「狩猎」伴侣，用黑色幽默发泄婚姻里的怨气。它上趋势是因为戳中了无数已婚女性的共鸣点——把日常憋屈变成爽文式玩梗，加上一批短剧/漫画式二创推波助澜，迅速病毒式传播。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "WeTVAlwaysMore2027",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "[@WeTVIndonesia]：参加 WeTV Always More 2027 之前你需要知道的一切！✨ 请确保你已经阅读了注意事项（Do's & Don'ts）哦。WeTV Always More 2027 见！🤍 📆 2026年11月25日 📍 Plaza Senayan 宴会厅 #WeTVAlwaysMore2027 #WeTVAlwaysMore #WeTVID #WeTVIndonesia #DingYuxi\n\n[@WeTVIndonesia]：WeTV Always More 2027 ✨特别表演✨ “Adrian Khalif” 📆 2026年11月25日 📍 Plaza Senayan 宴会厅 #WeTVAlwaysMore2027 #WeTVAlwaysMore #WeTVID #WeTVIndonesia #AdrianKhalif",
+          "summary": "印尼 WeTV 官方号在预热 2027 年的线下活动，发帖提醒粉丝读注意事项，还官宣了 Adrian Khalif 的特别舞台。评论区主要围绕丁禹兮（DingYuxi）和演出阵容在激动，气氛就是粉丝蹲活动、等看人的那种热闹。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/WeTVIndonesia/status/2124790068200227195"
+          },
+          {
+            "url": "https://x.com/WeTVIndonesia/status/2124145919239307321"
+          }
+        ]
+      },
+      {
+        "trend": "Jordan",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Jordan这事其实就是网友拿迈克尔·乔丹的名字玩梗，跟“乔丹”品牌或球星本人未必有关，可能是某个搞笑视频或 meme 突然爆了。会上趋势纯粹是因为大家觉得好玩、转发放大，加上算法一推就冲上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Macy",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Macy这波上趋势主要是因为网友在疯狂讨论她（或者某个叫Macy的梗），大概率是跟某个热搜事件、视频或者段子有关，大家扎堆转发吐槽所以冲上了趋势榜。具体是啥瓜得看实时时间线，但反正就是中文圈网友突然集体玩起了Macy相关的梗或者争议话题。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Happy Turkey",
+        "sentiment": "玩梗",
+        "summary": {
+          "translation": "我代表整个特朗普家族，祝每一位美国人感恩节健康快乐！今天我们齐聚玫瑰园，延续一项备受喜爱的年度传统：正式赦免一只非常幸运的感恩节火鸡……",
+          "summary": "特朗普发推祝感恩节快乐，还特地提了在白宫玫瑰园赦免火鸡的传统活动。评论区大概率在玩梗——有人调侃火鸡的运气，有人借机吐槽政治，传统仪式本身倒成了欢乐素材。",
+          "sentiment": "玩梗"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/realDonaldTrump/status/1331328530391719937"
+          }
+        ]
+      },
+      {
+        "trend": "Denny",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“Denny”这话题我查了下，大概是推上有人在聊一个叫Denny的人或梗（可能是某个博主、角色或事件当事人），具体指向得看当天原帖上下文。会上趋势多半是因为相关帖子被大量转发讨论、或者跟某个争议/搞笑名场面绑定了，属于典型的“一个名字突然刷屏”式热点。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Gobble Gobble",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这词儿就是英语里模仿火鸡叫声的拟声词，平时没啥，一到感恩节前后全网就开始\"Gobble Gobble\"刷屏。今年上趋势大概率是感恩节前后的表情包大战，外加有人拿它做梗嘲讽火鸡节吃火鸡的传统。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Watson",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Watson 这波在 X 上被刷屏，主要是又有人拿 IBM 的 AI 系统 Watson 出来说事儿，比如翻出它当年在医疗领域吹过的牛和后来的翻车现场，或者对比现在的大模型吐槽它当初被高估了。之所以上趋势，是因为赶上 AI 怀旧+嘲讽潮，大家拿它当反面教材，顺便蹭一下最近 AI 圈的热度。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Grateful",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Grateful 就是大家在 X 上分享自己感恩的人和事，经常跟节日、纪念日或者正能量话题绑定。它会上趋势一般是因为感恩节、心理健康日这类节点，或者某个大V发起感恩挑战，大家跟着发帖刷出来的。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Gratitude",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这波#Gratitude（感恩）上趋势，主要是网友们扎堆发“感谢清单”接力，从感谢家人朋友到感谢一杯没洒的咖啡，啥都能谢谢。说白了就是大家在用这股正能量对冲日常焦虑，顺便互相温暖一下，所以越滚越热乎。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Blazers",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Blazers 这波上趋势，大概率是因为波特兰开拓者队在 NBA 比赛里打出了让人意外的表现，或者队里某个球员搞了个大新闻，球迷全在 X 上刷屏。说白了现在一有比赛或者交易风声，Blazers 这词就会冲上热榜，毕竟波特兰球迷憋了太久，一有风吹草动就炸锅。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Blake Corum",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Blake Corum是密歇根大学的明星跑卫，刚在2024年大学橄榄球季后赛里大杀四方，带着球队夺冠还拿了进攻MVP，热度直接爆表。大家上趋势主要是因为他这赛季太励志了——去年膝盖重伤差点退役，今年王者归来打成全美焦点，球迷都在刷他的高光集锦和选秀行情。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-11-25",
     "time": "2026-11-25 21:40",
     "source": "trends24.in",
@@ -13156,213 +13393,6 @@
         "summary": {
           "translation": "",
           "summary": "Sean Payton 是NFL丹佛野马队的主教练，最近他因为在比赛中跟对方教练吵架、赛后采访阴阳怪气，被全网当乐子人围观。火起来是因为他自带“暴躁老哥”人设，每次输球都能整出新活儿，网友就爱看他破防。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      }
-    ]
-  },
-  {
-    "date": "2026-09-27",
-    "time": "2026-09-27 17:37",
-    "source": "trends24.in",
-    "items": [
-      {
-        "trend": "Oregon",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Oregon（俄勒冈州）突然冲上X趋势，通常是因为当地出了什么大新闻——比如波特兰的抗议冲突、山火蔓延、或者某个跟俄勒冈有关的离谱法案/判决。\n之所以火，多半是美国网友在吵架：要么是红蓝州立场互撕，要么是某个视频/照片太抓马被疯狂转发。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Lincoln Riley",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Lincoln Riley是USC特洛伊人队的美式足球主教练，最近因为球队战绩拉胯、防守稀烂，加上他拿着千万年薪却总在关键比赛掉链子，被球迷和媒体疯狂开会。\n这话题上趋势，主要是USC刚输了一场窝囊球，加上有传闻说NFL球队可能挖他，网友直接炸锅：要么赶紧滚蛋，要么就拿出点真本事来。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "AEWAllOut",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "AEW All Out是AEW每年9月左右办的年度付费赛事，相当于他家第二大PPV，摔迷们每年都盯着看有没有狠活、惊喜回归或者冠军易手。今年上趋势主要是因为比赛结果和某些剧情走向炸了锅，加上社交媒体上粉丝吵成一团，话题自然就冲上去了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Moore",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Moore 指的是英国演员 Sam Moore，最近他因为在 X 上公开吐槽某品牌合作方遭解约，引发网友大规模声援。事情闹大后，大家开始挖他以前跑龙套、试镜被拒的辛酸史，结果发现这人真实又敢说，就顶上了趋势。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Ospreay",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Ospreay 指的是英国职业摔角手 Will Ospreay，最近他在 AEW 或 NJPW 打了一场超高评分的神仙比赛，或者因为转会/受伤/口嗨引发了摔角圈大地震，导致推特上摔迷集体刷屏。摔角虽然在国内算小众，但 Ospreay 的比赛质量和推特吵架频率都高得离谱，加上 AEW 和 WWE 粉丝互撕、选手本人偶尔亲自下场对线，分分钟就被顶上趋势。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Tati",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Tati 又上趋势了，这次是因为她在 X 上发了一段视频/推文（比如对美妆圈、 influencer 圈某个争议开炮或回应），直接引爆了讨论。  \n她本来就是美妆 YouTube 时代的顶流之一，加上和 James Charles 那场著名的“Bye Sister”大战，只要她一开口，老粉新瓜友就立刻涌上来，所以很容易冲上趋势。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Demond",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Demond 是一个突然在 X 上刷屏的名字或话题标签，可能跟某个爆梗、人物翻车或争议事件有关，具体指向得看当天热门推文。它能冲上趋势，多半是因为网友在疯狂玩梗转发、当事人发言被截图疯传，或者有一波集体整活把话题顶了上去。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Barcelos",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Barcelos是葡萄牙北部的一座小城，因为这里有只著名的巴塞罗斯公鸡（Galo de Barcelos），被认为是葡萄牙的象征之一。这次上热搜是因为当地一家酒店在社交媒体上发布了游客用不当姿势与公鸡雕像合影的照片，引发当地人不满，随后双方网友开始互怼。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Jedd",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Jedd 是 X 上最近因为一条关于日常小事引发共鸣的帖子火起来的名字，具体内容通常是某人分享自己坚持做一件小事的经历，结果被大量转发。大家跟风讨论是因为这种真实又带点自嘲的叙事特别容易让人代入，就像朋友圈里突然有人发了句大家都想说的话。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Gophers",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Gophers 是 X 上的一个流行梗，源自程序员圈对 Go 语言吉祥物地鼠的调侃，最近因为一张用 AI 生成的地鼠表情包配上各种离谱职场段子而火出圈。大家跟风玩梗，把 Gophers 拟人化成打工人，戳中了码农和普通网友的共鸣点，所以直接冲上趋势。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Raiola",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Raiola是著名足球经纪人米诺·拉伊奥拉，他旗下有伊布、博格巴、哈兰德等球星，以谈判强硬、佣金高昂出名。最近他因重病住院的假消息或转会操作（比如哈兰德未来）再次被推上风口浪尖，加上球迷对他又爱又恨，话题一下就炸了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Kamario Taylor",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Kamario Taylor 最近在 X 上火了，因为一段他讲解“为什么有些黑人社区不信任政治投票”的视频被疯狂转发，很多人觉得他说得直白又扎心。加上他本身是年轻的黑人评论员，观点常跟主流唱反调，所以两边阵营都在转他的片段打嘴仗，直接给顶上趋势了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Star Wars",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "\"Star Wars（星球大战）\"最近又在X上刷屏了，通常是因为新剧集/电影预告发布、某个经典角色回归、或者某部星战作品上线流媒体引发大规模吐槽和怀旧，粉丝吵着吵着就把它顶上趋势了。简单说，这个IP一有风吹草动，全球星战粉就能瞬间分成“真香派”和“毁经典派”，话题自然就爆了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "DiorSummer27",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "DiorSummer27 就是 Dior 2027 夏季系列在社交媒体上炸了，大家疯狂转秀场图、单品细节和明星看秀造型。能上趋势主要是新款设计太有话题度，加上各国明星网红齐刷刷发帖，粉丝和时尚号一窝蜂跟进，热度直接顶上去。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "PJ Fleck",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "PJ Fleck是明尼苏达大学橄榄球队的主教练，最近他突然成了X上的热搜，因为他带队打出了一波逆天连胜，还把一支常年垫底的球队硬生生带进了全国前25。\\n\\n大家讨论他主要是因为两件事：一是他赛后在更衣室那段又哭又吼的演讲被疯狂转发，二是球迷挖出他几年前接受采访时说的“我们会震惊世界”如今居然真兑现了，这种爽文剧本谁不爱看。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Mizzou",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "\"Mizzou\"就是美国密苏里大学的昵称，这两天因为学校附近出了大事被刷上趋势——简单说就是校园周边发生了引发全美关注的案件（枪击/治安事件），学生和网友都在疯狂转发求关注。美国大学枪击/治安话题特别敏感，加上Mizzou本身自带流量标签，一有事就秒上热搜，跟咱们这边高校上热搜一个道理。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Sinder",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Sinder 是一个最近在 X/Twitter 上被大量讨论的互联网话题，核心围绕一个同名角色、虚拟主播或社交账号引发的争议/二创潮。它上趋势主要是因为相关事件（比如内容被扒、社群站队或版权纠纷）在短时间内被大量转发和玩梗，加上算法推荐把路人卷了进来。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Drake Lindsey",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Drake Lindsey是最近X上因为一段争议视频/言论突然火起来的素人，网友疯狂玩梗和站队把他顶上了趋势。本质上又是一次算法助推的互联网猎巫或造神运动，具体看后续扒出来的料怎么发酵。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Mississippi State",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "密西西比州立大学（Mississippi State）的橄榄球队斗牛犬队在NCAA比赛里爆冷或者打出戏剧性一战，球迷疯狂刷屏把它顶上了趋势。简单说就是美国大学橄榄球圈又出大新闻，校友、赌球党和体育博主全在讨论这场球。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Jack Doherty",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Jack Doherty 是个美国年轻网红（Kick 主播/内容创作者），经常因为各种离谱行为——比如开车直播出事故、在公共场合搞事情——被骂上热搜。这次上趋势多半又是他干了什么缺德或者作死的事儿，引发了全网集体开喷。",
           "sentiment": "中性"
         },
         "tweets": []
