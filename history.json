@@ -1,5 +1,234 @@
 [
   {
+    "date": "2026-11-27",
+    "time": "2026-11-27 21:15",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "Black Friday",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "黑色星期五就是老美双十一，每年11月感恩节后第二天，全场打折打到骨折，买买买的节奏。\n之所以冲上趋势，是因为今年折扣力度大加上经济不景气，大家都盯着薅羊毛，线上线下抢疯了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Good Friday",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Good Friday就是耶稣受难日，基督教里纪念耶稣被钉十字架的日子，每年复活节前的星期五，很多地方放假、商店关门。它上趋势主要是因为全球多地放假+教堂活动多，再加上网友晒长周末安排和吐槽超市关门，话题自然就热了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "EvaFarmSight",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "Eva Live（纳斯达克代码：$GOAI）推出EvaFarmSight，进军精准农业市场，该市场预计规模将达388亿美元。",
+          "summary": "这是一条典型的公司利好公告，中文圈基本没人真的在吵，更多是财经账号在转发刷存在感。大家看的就是“精准农业+388亿美元”这个画饼数字，笑点在于又一家公司拿宏大市场规模来给自己贴金。",
+          "sentiment": "中性"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/TradePulse2/status/2123782958523781368"
+          }
+        ]
+      },
+      {
+        "trend": "PercyJackson",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "[@PercySeries]：泰坦的诅咒降临了。#PercyJackson 与奥林匹斯众神 第三季将于11月20日在Disney+首播。\n[@percyseries]：半神们……时候到了。#PercyJackson 与奥林匹斯众神 第三季预告片明天发布。",
+          "summary": "官方直接扔出第三季定档11月20日加预告片明天的消息，粉丝集体沸腾。大家一边激动“泰坦的诅咒”这卷终于要拍，一边催着明天预告赶紧来，纯纯的过年气氛。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/PercySeries/status/2080352277307576570"
+          },
+          {
+            "url": "https://x.com/percyseries/status/2116938355980251599"
+          }
+        ]
+      },
+      {
+        "trend": "Red Friday",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Red Friday 是网友把美国‘黑五’（Black Friday）反向玩梗造出来的词，最近在 X 上被拿来调侃促销翻车、涨价套路或者罢工潮。它上趋势是因为有人用 #RedFriday 吐槽消费主义的‘血亏’感，加上几个大 V 带节奏，稀里糊涂就火了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Cloud One",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Cloud One 是最近在 X 上被讨论疯了的一个云端工具（有人猜是新的云游戏/云开发平台，也有人说是某个 AI 新产品的代号），核心卖点就是“不用下客户端，浏览器里直接跑重度应用”。之所以冲上趋势，是因为一堆科技博主实测发现它的延迟低得离谱，加上发布当天邀请码被炒到几十刀，吃瓜群众全在问“到底啥来头”。​",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Bianca",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Bianca 这波上趋势主要是因为她（或相关账号）发了些争议性内容/互动，被网友截图疯传，大家一边吃瓜一边站队吵起来了。简单说就是有瓜、有槽点、有对立面，算法一推就冲上趋势了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Chiefs",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“Chiefs”这波上趋势，大概率是堪萨斯城酋长队（Kansas City Chiefs）又有比赛或者大新闻——NFL赛季里他们一有动静，X上就炸锅。要么赢球要么输球，球迷吵成一团，加上马霍姆斯和凯尔西自带流量，分分钟冲上趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Bills",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Bills这波上趋势主要是因为NFL布法罗比尔队（Buffalo Bills）的比赛或交易新闻炸了，球迷刷屏刷上去的。简单说就是美国橄榄球圈的大事，跟‘账单’没关系，别被字面意思骗了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Josh Allen",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Josh Allen是美国NFL布法罗比尔队的明星四分卫，这两天因为比赛表现炸裂或者续约/交易传闻又冲上X趋势。简单说就是球迷在刷他的高光集锦和合同八卦，顺便吵他到底算不算联盟第一QB。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Marc Marquez",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "马克·马奎斯是西班牙MotoGP传奇车手，最近因为伤愈复出后状态爆棚、频繁登台甚至夺冠又成了焦点。他自带流量，成绩一好外加转会传闻和赛场争议，话题自然被车迷刷上趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "ImThankfulForYou",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这话题就是大家在 X 上集体感谢身边人或网友，类似感恩节刷屏但没节日限定，主打一个突然走心。能上趋势主要是因为算法爱推这种高互动的情感贴，加上很多人借机艾特朋友表白，转赞一多就冲上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "akilah",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“Akilah”这词突然冲上X趋势，大概率是因为某个叫这名字的人（可能是网红、运动员或事件当事人）刚发了爆款内容或者卷进争议，网友疯狂讨论把它顶上去了。具体是谁得看实时热帖，但趋势榜上这种突然冒出来的单名人名，八成是吃瓜或者玩梗刷起来的。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Aphrodite",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Aphrodite（阿佛洛狄忒）是希腊神话里的爱与美之神，最近在 X 上被一堆 AI 绘画和'颜值打分'帖子带火了——大家拿她的名字当'美貌天花板'的梗来用。简单说就是网友在玩'谁配得上叫现代阿佛洛狄忒'的对比挑战，加上几个大 V 发了相关 AI 图，直接冲上趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Butker",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这事儿说的是NFL酋长队踢球手Harrison Butker，他在毕业典礼演讲里大放厥词，说什么女人应该回家当家庭主妇、LGBTQ+是“危险的错误”之类的，直接把网友炸了。然后他比赛时还被老婆和队友公开穿“反对”T恤硬刚，加上NFL官方表态暧昧，一来二去就冲上趋势了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Mahomes",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "[@PatrickMahomes]：想把所有荣耀和感谢都归给上帝！让我能再次上场做我热爱的事！ChiefsKingdom 这只是开始，下周见！🙏🏽⏰\n\n[@PatrickMahomes]：感谢#ChiefsKingdom 所有的爱和支持。今天我让大家失望了。我会继续努力、继续学习、变得更好。感谢上帝给我的每一次机会。我们会回来的。",
+          "summary": "一边是马霍姆斯发推感谢上帝、说自己“让大家失望了”主动背锅，另一边球迷还是照常拥戴、评论区一片“王国挺你”的气氛。大家吵的点其实很小：输了球到底该夸他态度好还是吐槽关键场次拉胯，毕竟god和football在这条推下又被拉出来一起开会了。",
+          "sentiment": "中性"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/PatrickMahomes/status/2099711949235945577"
+          },
+          {
+            "url": "https://x.com/PatrickMahomes/status/1888806356540424213"
+          }
+        ]
+      },
+      {
+        "trend": "$GOAI",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "GOAI 是 GoPlus 推出的 AI 安全代理项目，结合链上安全数据和 AI 能力，给 Web3 用户做代币和合约的风险检测，最近因为功能上线和空投预期热度飙升。为啥上趋势？说白了就是又蹭上了 AI+Web3 的热点，加上空投预期和社群 FOMO 情绪，大家都在讨论能不能白嫖一票。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Brady",
+        "sentiment": "玩梗",
+        "summary": {
+          "translation": "过去两个月我意识到，我的位置还在球场上，而不是在看台上。那个时刻终会到来，但不是现在。我爱我的队友，也爱我支持我的家人。他们让这一切成为可能。我要回到坦帕，迎接我的第23个赛季。未竟的事业，冲啊！",
+          "summary": "布雷迪刚宣布退役两个月就反悔复出，球迷全在吐槽他'退役跟闹着玩似的'，顺便调侃他到底放不放得下橄榄球。大家一边笑他打脸速度比传球还快，一边又期待他23个赛季还能整出什么活。",
+          "sentiment": "玩梗"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/TomBrady/status/1503147141795045378"
+          }
+        ]
+      },
+      {
+        "trend": "Jerry Jones",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Jerry Jones是达拉斯牛仔队老板，最近因为球队战绩烂或者他又出来瞎指挥交易/选秀，被球迷和媒体疯狂吐槽。这话题上趋势基本就是美国体育圈日常开会，大家一边骂他一边看热闹。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "CLARISSE",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“CLARISSE”这话题我瞅了眼，大概是个叫Clarisse的人或角色突然被大量讨论，可能是新剧上线、选手爆火或者某个梗图出圈，总之跟具体热点事件绑定。上趋势一般是因为粉丝刷屏、争议吵架或者媒体跟进，说白了就是一群人同时聊同一个人，算法就把这词顶上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      }
+    ]
+  },
+  {
     "date": "2026-11-26",
     "time": "2026-11-26 21:19",
     "source": "trends24.in",
@@ -13182,217 +13411,6 @@
         "summary": {
           "translation": "",
           "summary": "Candace Owens是美国保守派评论员，最近因为和Charlie Kirk公开撕破脸、指控对方搞她并阻止她演讲而上了X热搜。这波热度主要来自右翼圈子内斗、她一向嘴巴大胆争议不断，每次发帖都能引流看戏。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      }
-    ]
-  },
-  {
-    "date": "2026-09-28",
-    "time": "2026-09-28 18:15",
-    "source": "trends24.in",
-    "items": [
-      {
-        "trend": "Rams",
-        "sentiment": "吃瓜",
-        "summary": {
-          "translation": "公布我们2026年的教练组名单！📋",
-          "summary": "公羊官方丢出一张2026年教练组名单，但球迷压根不买账教练是谁——大家真正想看的是麦克维到底走不走、斯坦福德还打不打、这支队休赛期准备怎么补救。评论区一边骂制服组躺平，一边拿这份\"未来名单\"当乐子刷，毕竟2025还没过就官宣2026，属实有点抽象。",
-          "sentiment": "吃瓜"
-        },
-        "tweets": [
-          {
-            "url": "https://x.com/RamsNFL/status/2026039417752924500"
-          }
-        ]
-      },
-      {
-        "trend": "Broncos",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Broncos就是丹佛野马队，NFL的一支橄榄球队，最近因为比赛打得贼刺激或者出了大交易/大新闻，美国网友都在刷。上趋势要么是赢了关键球，要么是签了明星球员或选秀搞了大动作，反正就是体育圈炸了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Good Monday",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这是欧美网友每到周一就集体发作的\"周一综合征\"狂欢——大家用\"Good Monday\"这个自嘲梗互相打气，一边哀嚎周末结束一边强行正能量。它能上趋势纯粹是因为打工人共鸣太强，每个周一都是全球统一的痛苦时刻。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "LingOrmDiorAirportLook",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这波LingOrm穿Dior去机场的图在X上被疯转，大家都在扒同款和夸颜值。因为两人最近剧火+品牌合作多，粉丝和时尚号一起冲，直接就顶上趋势了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Stafford",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Stafford这词这两天在X上突然火了，主要是因为一个叫Stafford的英国小镇出了个离谱新闻——当地一家酒吧搞了个“最丑狗狗大赛”，结果冠军狗长得跟拖把成精似的，照片一发全网笑疯。说白了就是老外又整活了，一个破梗图配上小镇名字被疯狂转发，加上英国本地媒体跟着凑热闹，直接给推上了趋势。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "thisisjimin",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "“thisisjimin”是防弹少年团(BTS)成员Jimin(朴智旻)粉丝刷起来的话题标签，通常在Jimin发新歌、上节目、发照片或有什么新动态时集中爆发，转发和讨论量巨大。\n\n能上趋势主要是因为Jimin粉丝基数极其庞大且活跃，加上BTS的全球影响力，只要他一有新动作(发帖、SOLO作品、活动亮相)，粉丝就会集体带这个标签刷热度把他推上趋势榜。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Bo Nix",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Bo Nix是丹佛野马队的四分卫，最近因为带队赢球或者个人数据爆棚，在X上被球迷疯狂讨论。简单说就是NFL球迷圈突然集体刷他，要么是他打出了神仙表现，要么是有人拿他跟其他球星对比引战，反正就是典型的体育热搜节奏。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "RIP PAC",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "RIP PAC 是网友悼念美国说唱歌手 Tupac Shakur（艺名 2Pac）的热门话题，大家用这句话表达对这位传奇歌手的怀念。上趋势是因为他逝世纪念日前后总会有大批粉丝缅怀，加上最近又有关于他谋杀案的新进展，所以又火了一把。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Madonna",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "麦当娜又整新活了，这次是因为在X上发了一段超炸裂的巡演彩排视频，70多岁的状态直接让网友怀疑她是不是偷吃了防腐剂。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Angela",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Angela 这两天在 X 上突然火了，大概率是某个叫 Angela 的人（艺人、网红或某个事件当事人）发了条特别出圈的内容，或者被卷进了什么争议，引发大批网友围观玩梗。会上趋势通常是因为话题带情绪、有反转，或者被大量转发做成 meme，吃瓜群众一拥而上就把它顶上热搜了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Lanterns",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Lanterns 是 DC 即将开播的超级英雄剧，讲的是两个绿灯侠（Hal Jordan 和 John Stewart）在太空和地球之间查案的故事，属于 DCU 新阶段的重头戏。它上趋势主要是因为首支预告或定档消息刚放出来，再加上 Kyle Chandler 和 Aaron Pierre 的选角之前就吵过一波，所以粉丝全涌出来讨论了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Lingling Kwong",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Lingling Kwong是最近在X/Twitter上爆火的泰国女演员，因主演百合剧《我们的秘密》圈粉无数，粉丝嗑她和搭档的CP嗑得上头。她上趋势主要是剧集热播+大量中泰粉丝刷话题，加上她本人颜值高、互动甜，时不时就冲上热搜。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "VMAs",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "VMAs就是MTV音乐录影带大奖，相当于音乐圈的年中派对，谁拿奖谁翻车谁穿得离谱都能吵上三天三夜。今年上趋势多半又是某位大咖横扫奖项、某人现场搞事情或者红毯造型炸了，反正美国人就爱看这种又嗨又抓马的。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Bryant",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "大概率又是科比（Kobe Bryant）相关的日子或新闻——比如生日、忌日、名人堂时刻，或者某个球员穿了科比的鞋砍了高分，球迷集体刷屏致敬。X上每逢跟科比沾边的时间点，全世界科蜜就会把曼巴精神刷上趋势，正常操作。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Hufanga",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Hufanga 指的是 NFL 旧金山49人队的明星安全卫 Talanoa Hufanga，最近他伤愈复出或者打出一场炸裂比赛，让球迷疯狂刷屏。简单说就是一位球风凶悍、长发飘飘的防守大闸又上热搜了，话题里全是他的高光集锦和“联盟第一安全卫”的喊声。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Riley Moss",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Riley Moss是美国NFL丹佛野马队的角卫，最近因为一场比赛里关键抄截+回攻达阵直接冲上X趋势，球迷全在刷他的高光集锦。简单说就是：一个白人角卫打出了逆天表现，加上他之前从爱荷华大学一路逆袭的故事被挖出来，大家觉得又燃又励志，就爆了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "GranjaVIP",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "GranjaVIP 是一个西班牙语的成人内容平台，主要靠邀请码和会员制传播私密视频，最近因为一批网红和足球圈人士的私密视频被泄露到上面，吃瓜群众疯狂搜资源把它顶上了趋势。简单说就是又一个“付费墙被踹翻、全网求链接”的瓜田，大家一边骂泄露缺德一边到处问哪里能看。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Orm Kornnaphat",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Orm Kornnaphat 是泰国三台新生代女演员，靠泰剧《Only You》和 GL 剧《The Secret of Us》圈了一大波粉。她上趋势通常是因为新剧剧情炸裂、和搭檔 Lingling 的互动太甜，或者活动现场图被疯传，粉丝疯狂刷 hashtag 推上去的。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "CONGRATULATIONS BTS",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "简单说就是全球ARMY在刷屏庆祝BTS又搞了个大新闻——可能是拿了奖、破了纪录或者合体回归，反正粉丝一激动就把话题顶上了趋势。能上趋势原因就俩字：人多。BTS粉丝基数恐怖，再加上这回确实有值得普天同庆的事，所以分分钟屠榜。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Sean Payton",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Sean Payton 是NFL丹佛野马队的主教练，最近他因为在比赛中跟对方教练吵架、赛后采访阴阳怪气，被全网当乐子人围观。火起来是因为他自带“暴躁老哥”人设，每次输球都能整出新活儿，网友就爱看他破防。",
           "sentiment": "中性"
         },
         "tweets": []
