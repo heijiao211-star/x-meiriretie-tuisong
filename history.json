@@ -1,5 +1,275 @@
 [
   {
+    "date": "2026-11-28",
+    "time": "2026-11-28 20:31",
+    "source": "trends24.in",
+    "items": [
+      {
+        "trend": "GMMTVStarlympics2026",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "简单说就是GMMTV家一年一度的运动会又来了，泰娱半壁江山集体下场踢球跑步，粉丝蹲直播嗑同框嗑到起飞。能上趋势主要是明星阵容太夸张，随便两个CP同个框就能刷爆推，加上2026这届预热物料放得早，大家已经开始提前发疯了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Luka",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Luka突然冲上趋势，大概率是因为独行侠的比赛里东契奇又搞了个大新闻——要么是逆天绝杀要么是数据爆炸，球迷和媒体集体刷屏。这种话题上趋势基本就是\"你看卢卡这球没\"的现场版，篮球圈自发传播，谁也拦不住。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Good Saturday",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "这是老外周末发帖常用的开场白，类似咱们说“周六愉快”，配个图或吐槽就能带话题。周六大家心情好、刷推多，加上品牌和博主蹭周末热度，话题就容易冲上趋势。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "PERTHSANTA DOMIIA FAMIGNITE",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "@TrendPerthSanta：📢✨ 15:00 更新 ✨📢 📝 总帖子数：69.1K 💥 互动量：100.8K 🌍 潜在触达：13.7M 👥 独立作者：1.8K PERTHSANTA DOMIIA FAMIGNITE #GMMTVStarlympics2026 #PerthSanta #เพิร์ธแซนต้า #DOMIIA  \n[@TrendforSanta]：@PSDglobalstats 朝着我们的目标冲呀 💖 PERTHSANTA DOMIIA FAMIGNITE #GMMTVStarlympics2026",
+          "summary": "粉丝们正忙着给PerthSanta和DOMIIA刷数据，目标是把话题互动量再推高，评论区全是冲目标的打气声。大家一边报数一边互催，气氛像集体打卡冲业绩，玩得挺嗨没人在吵。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/TrendPerthSanta/status/2126577551976075418"
+          },
+          {
+            "url": "https://x.com/TrendforSanta/status/2126569106342285550"
+          }
+        ]
+      },
+      {
+        "trend": "WILLIAMEST WESLEY RACE ON",
+        "sentiment": "玩梗",
+        "summary": {
+          "translation": "[@WETrendingTeam]：ᯓ𑣲 40万次转发 ☑️——请单独回复关键词+话题标签 WILLIAMEST WESLEY RACE ON #GMMTVStarlympics2026 生来就是为了竞争。准备赢。追逐金牌。天生站上领奖台。比赛开始吧。团队合作让我们更强。速度遇上决心。胜利就是目标。在场上拼尽全力。冠军从不退缩。每一秒都算数。努力拼，赢到底。奔向伟大。金牌看起来很配。让比赛来说话。\n[@starrysbb]：回头看是想确认Est没有凭空消失吗？WILLIAMEST WESLEY RACE ON #GMMTVStarlympics2026 #WilliamEst",
+          "summary": "粉丝们正在为William和Est在GMMTV运动会上的比赛造势，文案口号式刷屏“比赛开始”。另一条帖子调侃Est“回头看”像是在确认队友没消失，粉丝在不亦乐乎地玩这个小梗。",
+          "sentiment": "玩梗"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/WETrendingTeam/status/2126629045039411527"
+          },
+          {
+            "url": "https://x.com/starrysbb/status/2126591562213933361"
+          }
+        ]
+      },
+      {
+        "trend": "Lakers",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "“Lakers”就是洛杉矶湖人队，X上这波趋势基本是比赛日或交易/伤病消息一来，球迷和媒体号集体刷屏冲上去的。湖人本来就自带流量，赢球输球、老詹动向、阵容传闻都能瞬间炸话题，属于NBA里最稳的热搜体质。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "JOONG DUNK JAIDEE SPORTS DAY",
+        "sentiment": "玩梗",
+        "summary": {
+          "translation": "🔑 JOONG DUNK JAIDEE 运动日 粉丝们醒来查看推特后的样子。😭🤣 #JoongDunk #JAIDEE",
+          "summary": "粉丝一觉醒来刷到 Joong Dunk JaiDee 运动日的消息，直接笑疯/哭疯，反应过于真实。大家一边激动一边玩梗，整个首页都是粉丝的崩溃式快乐。",
+          "sentiment": "玩梗"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/houriya75881853/status/2126207894374740020"
+          }
+        ]
+      },
+      {
+        "trend": "SaturdayVibes",
+        "sentiment": "吃瓜",
+        "summary": {
+          "translation": "你喜欢它们弹跳的样子吗？/u/yourfavgirlnextdoor 确实很喜欢！🌰🌰 🤩 #周六氛围 #跑步 #胸部 #弹跳 #健身女孩",
+          "summary": "这帖子就是典型的擦边健身内容，拿跑步时胸部晃动的画面当卖点，网上老有人为这类内容算不算软色情吵翻天。围观群众一边看热闹一边调侃，说白了就是借运动的名义搞性感吸流量那套。",
+          "sentiment": "吃瓜"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/xhamstercom/status/1449458875627757571"
+          }
+        ]
+      },
+      {
+        "trend": "Spurs",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Spurs 就是马刺队，最近上趋势多半是因为文班亚马又打出了离谱数据或者球队交易流言炸了锅。反正只要马刺有点风吹草动，篮球圈就自动分成“吹爆”和“再等等”两派吵上热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "เพิร์ธแซนต้า",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "📢✨ 15:00 更新 ✨📢 📝 总帖子数：69.1K 💥 互动量：100.8K 🌍 潜在触达：13.7M 👥 独立作者：1.8K PERTHSANTA DOMIIA FAMIGNITE #GMMTVStarlympics2026 #PerthSanta #เพิร์ธแซนต้า #DOMIIA",
+          "summary": "其实就是Perth和Santa这对CP的粉丝在GMMTV运动会话题下疯狂刷数据，每小时打卡报进度，跟追星打投组似的。大家也没吵啥，就是粉丝集体营业把趋势刷上去，顺便给蒸煮撑场面。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/TrendPerthSanta/status/2126577551976075418"
+          }
+        ]
+      },
+      {
+        "trend": "Tupac",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Tupac是90年代传奇说唱歌手，最近X上突然又火起来多半是因为AI复活他或者又挖出什么未曝光作品。说白了就是老粉集体怀旧加上算法推波助澜，毕竟他身上的阴谋论和传奇故事永远有人买单。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "PPP FAMILY FIGHTING",
+        "sentiment": "玩梗",
+        "summary": {
+          "translation": "[@JzAugustt]: PPP家族大战 #GMMTVStarlympics2026 #pondphuwin #phuwintang\n\n[@ilupond]: PPP家族团结一心，总是互相支持。🫠🫠 父母俩争着抢儿子注意力，后来爸爸抱着他的小可爱……",
+          "summary": "大家在看GMMTV运动会里PPP家族（Pond、Phuwin、Tang）的互动，Phuwin像儿子一样被Pond和Tang争宠，氛围搞笑又温馨。粉丝们笑的是这种“父母争儿子”的戏码，纯属玩梗。",
+          "sentiment": "玩梗"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/JzAugustt/status/2126620768691966200"
+          },
+          {
+            "url": "https://x.com/ilupond/status/2084962337195528423"
+          }
+        ]
+      },
+      {
+        "trend": "Afghanistan",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "阿富汗又上X趋势了，大概率是跟塔利班最新政策、女性权利受限或者恐怖袭击这类突发新闻有关，每次这种事一出来全网都在转。简单说就是那地方一直不太平，隔三差五出个大新闻就冲上热搜。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "Caturday",
+        "sentiment": "中性",
+        "summary": {
+          "translation": "",
+          "summary": "Caturday 就是网友把周六拿来狂晒猫图、猫视频的固定整活日，谐音梗来自 Saturday。它上趋势一般是因为又到了周末大家集体发猫、品牌号和表情包号跟着蹭热度，互动量一高就冲上去了。",
+          "sentiment": "中性"
+        },
+        "tweets": []
+      },
+      {
+        "trend": "WLFI",
+        "sentiment": "争议",
+        "summary": {
+          "translation": "@worldlibertyfi：每一位顾问、机构、合作伙伴、创始人以及团队成员锁定的代币——总计45,238,585,647 WLFI——在自愿选择加入后，都将获得2年悬崖期加3年线性释放的归属安排，并且选择加入时需接受10%的销毁。最多将有4,523,858,565 WLFI被永久销毁。这是本提案中最不利的解锁条款，且选择加入时必须执行强制销毁。\n\n@worldlibertyfi：我们刚刚在论坛上发布了一份治理提案供社区讨论，我们认为这代表了DeFi领域最强的长期治理一致性信号之一。以下是具体内容🧵",
+          "summary": "大家主要在争论这个锁仓提案的条款是不是太狠了——5年才完全解锁还要烧掉10%，有人觉得这是项目方在表忠心，也有人吐槽这条件简直像霸王条款。看热闹的则在算账：450多亿代币锁住、45亿直接销毁，这波到底是真去中心化还是高级割韭菜，笑点在于号称‘最强治理信号’的提案其实是最不利的选项，大家只能被迫接受。",
+          "sentiment": "争议"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/worldlibertyfi/status/2044391019286831599"
+          },
+          {
+            "url": "https://x.com/worldlibertyfi/status/2044391016103322028"
+          }
+        ]
+      },
+      {
+        "trend": "GO GO JOSSGAWIN GUINZLY",
+        "sentiment": "玩梗",
+        "summary": {
+          "translation": "JGN 正在聊他们为了爱情做过的最疯狂的事，然后 Joss 就走进了房间。😭😂 你的反应是什么？：[仅 GIF] GO GO JOSSGAWIN GUINZLY #GMMTVStarlympics2026 #JossGawin",
+          "summary": "大家就在那儿嗑 JGN 讲为爱做过的疯狂事时 Joss 正好进场的这个巧合，感觉时机绝了。评论区基本全是看热闹加发 GIF 起哄，笑这个戏剧性瞬间。",
+          "sentiment": "玩梗"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/PeeWeeGILY2/status/2126487752200114214"
+          }
+        ]
+      },
+      {
+        "trend": "LingOrm1stFanconInMacao",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "【LINGORM <BORN TO FLY> 澳门首场粉丝见面会】📍 澳门伦敦人综艺馆（最大容纳人数：6000人）📆 2026年11月28日 ⏰ 中国标准时间16:00 💡 票务信息 ► 10月28日（周三）当地时间中午12:00开售 🔗金光票务、大麦、Trip 三个平台同步开卖",
+          "summary": "LingOrm澳门首场粉丝见面会定档明年11月底，场馆能坐6000人，下周就开票。粉丝现在主要是激动抢票倒计时，顺带吐槽时隔一年多才办首场见面会，还挑在工作日周四下午四点，打工人得请假才能去。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/LingOrm_BaseCN/status/2112454323749917130"
+          }
+        ]
+      },
+      {
+        "trend": "Mark Pope",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "Cliff曾是肯塔基的传奇人物，也是我们所有人的好朋友。他的遗产将永远铭刻在肯塔基篮球史册和鲁普球馆的穹顶上。我们会深深怀念他。为他的家人祈祷。",
+          "summary": "这波热议是肯塔基篮球圈在怀念一位叫Cliff的传奇人物，教练Mark Pope发文悼念，大家跟着一起缅怀。氛围主要是一边倒地致敬和追忆，没什么争论，更多人是在感慨肯塔基篮球的历史传承。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/CoachMarkPope/status/2111106640875270382"
+          }
+        ]
+      },
+      {
+        "trend": "LINGORM BORN TO FLY FANCON",
+        "sentiment": "正面",
+        "summary": {
+          "translation": "💜LingOrm x 澳门首场粉丝见面会✨ 🎤 粉丝合唱 + 来自全球31个CP粉丝站的手写祝福 💌 我们尽力了哈哈🤣😭😂🥹 你怎么能错过这部分😭😭😭 希望你们能看到那些祝福😭😭😭 @linglingsirilak @ormmormm LINGORM BORN TO FLY FANCON #LingOrm1stFanconInMacao #หลิงออม #LingOrm  |  【 LINGORM <BORN TO FLY> 澳门首场粉丝见面会 】 📌 澳门，伦敦人竞技场（最大容纳人数：6000） 📆 2026年11月28日 ⏰ 北京时间16:00 💡 票务信息 ► 10月28日（周三）中午12:00（当地时间）开售 🔗 金光票务: http://www.cotaiticketing.com 🔗 大麦: http://www.damai.cn 🔗 Trip: http://www.trip.com #LingOrm #หลิงออม",
+          "summary": "粉丝站激动晒出澳门粉丝见面会的合唱和全球31个粉丝站的手写祝福，一边喊“我们尽力了”一边哭求正主看到。另一条则是官宣2026年11月28日澳门伦敦人竞技场开唱，10月28日开票，大家一边期待一边提醒定好闹钟抢票。",
+          "sentiment": "正面"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/LingOrm_BaseCN/status/2126645874331996225"
+          },
+          {
+            "url": "https://x.com/LingOrm_BaseCN/status/2112454323749917130"
+          }
+        ]
+      },
+      {
+        "trend": "Bronson Reed",
+        "sentiment": "争议",
+        "summary": {
+          "translation": "随便你们怎么黑，你们阻挡不了愿景。",
+          "summary": "Bronson Reed 发话回怼黑粉，一副你们奈我何的架势。底下八成在吵他配不配、剧情走向如何，顺便看他这波硬刚挺带感。",
+          "sentiment": "争议"
+        },
+        "tweets": [
+          {
+            "url": "https://x.com/BRONSONISHERE/status/2074294328952824153"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-11-27",
     "time": "2026-11-27 21:15",
     "source": "trends24.in",
@@ -13204,213 +13474,6 @@
         "summary": {
           "translation": "",
           "summary": "Britt 这波上趋势，大概率是因为她（或这个账号）发了一条特别敢说、容易引爆讨论的内容，比如怼人、爆料或者立场鲜明的观点，让大家忍不住转发和站队。也有可能是某个突发事件或者圈内玩梗把她带火了，总之就是吃瓜群众和粉丝一起把热度顶上去的。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      }
-    ]
-  },
-  {
-    "date": "2026-09-29",
-    "time": "2026-09-29 18:11",
-    "source": "trends24.in",
-    "items": [
-      {
-        "trend": "Keenum",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Keenum 指的是 NFL 四分卫 Case Keenum，通常是他打出某场戏剧性比赛或传出争议/高光操作时被推上趋势。会上热搜多半是因为比赛关键时刻他绝杀、失误或成了球迷玩梗的对象，NFL 比赛日一有话题人物就容易爆。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Eagles",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Eagles乐队最近上了X趋势，是因为他们刚宣布了2025年拉斯维加斯Sphere驻场演唱会，加上经典成员Don Henley和Joe Walsh还在，粉丝集体沸腾。说白了就是老牌摇滚乐队搞大动作，情怀党+老歌迷瞬间炸锅，自然上热搜。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Jalen",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Jalen 突然上趋势，通常是因为某个叫 Jalen 的球员（比如杰伦·格林、杰伦·布朗）打了一场炸裂比赛，或者被交易、绝杀、爆发冲突，球迷瞬间刷屏。\n大家刷 Jalen 其实就是在喊“杰伦牛逼”或“杰伦又拉了”，属于NBA球迷的日常团建，跟着比赛节奏集体上头。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Bears",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "“Bears”这话题说白了就是网友们在聊熊——有发野生熊视频的、有玩“熊市”梗的、也有芝加哥熊队球迷在嚎，混在一起就炸了。上趋势多半是因为某条熊摊上事的视频突然爆火，比如熊闯进人类地盘或者熊搞笑的画面被疯转。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Ben Johnson",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Ben Johnson 是加拿大短跑名将，1988年汉城奥运会百米跑出9秒79破世界纪录夺冠，但赛后药检阳性被剥夺金牌并禁赛，成了奥运史上最著名的兴奋剂丑闻之一。这话题隔三差五就上热搜，因为总有人拿他当“嗑药骗子”的反面教材，讨论体育诚信、药物作弊和媒体双标，当然也有不少人同情他。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Good Tuesday",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "“Good Tuesday”其实就是英文里“周二快乐”的日常问候，最近在 X 上被当成梗刷屏，大家用它来调侃“离周末还远但也要硬乐观”的打工心态。它会趋势主要是因为配合各种沙雕表情包和反讽用法（比如明明是糟糕的周二），一传十传百就火了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Mr. Belding",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Mr. Belding 是美国90年代情景喜剧《Saved by the Bell》里的校长角色，最近因为演员 Dennis Haskins 去世的消息被网友集体怀念，冲上了 X 趋势。简单说就是一代人的青春回忆突然被点亮，大家纷纷发经典片段和表情包刷屏致敬。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Saved by the Bell",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这是美国90年代超火校园情景喜剧《救命下课铃》突然冲上X趋势，通常是因为某位主演去世、剧组重聚、重启消息或者主创爆出争议言论。简单说就是一代人的青春回忆突然被翻出来集体怀旧，大家在推特上刷台词截图和角色表情包。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Dennis Haskins",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Dennis Haskins 就是美剧《救命下课铃》里那个经典的 Bayside 高中校长 Mr. Belding，最近他去世了，所以全网都在怀念他。\\n因为他是 90 年代美国校园喜剧的标志性面孔，很多人的青春回忆，加上剧组成员和网友纷纷发文悼念，直接冲上了趋势。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "WWERaw",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "WWE Raw是WWE旗下的王牌摔角节目，最近因为剧情大反转或巨星回归炸了锅，摔迷全在疯狂讨论。它上趋势多半是因为一场争议比赛结果或者某人突然亮相，直接把话题度拉满。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Andy Dalton",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Andy Dalton是NFL老将四分卫，常年被网友当“守住下限型首发”的梗来念叨，这波上趋势是因为他又接了一支球队的首发位置，加上球迷对“红发杀手”这个外号的二次创作。说白了就是：一个大家以为早该淡出联盟的老哥，又一次用实际行动证明扛过枪的人到哪儿都有人要。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Naomi",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Naomi在X上突然火了，是因为一位叫Naomi的网友发了一条关于“如何用一句话让AI破防”的实测帖，结果被大量转发玩梗。大家跟着测试各种AI，发现有些模型真会被一句简单的“我不需要你”整出道歉小作文，于是话题就冲上趋势了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Sirianni",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "费城老鹰队主帅 Nick Sirianni 又成推特热搜了，这次是因为他在场边跟自家球迷激情对喷，还被拍到赛后离场时一脸不服。简单说就是：赢球教练嘴硬，输球教练跟粉丝互怼，大家就爱看这种抓马。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Grand National",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Grand National（英国国家障碍赛马大赛）是每年4月在利物浦安特里赛马场举行的一场顶级障碍赛马，全球赌马和体育圈都会盯着看。这次上趋势大概率是因为今年比赛出现爆冷结果、马匹摔倒或骑师受伤等戏剧性事件，或者比赛中出现了争议判罚，让网友炸锅讨论。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Moonshot V2 Launchpad",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Moonshot V2 Launchpad 是一个帮助新项目在 Solana 上发币并拉盘的新平台，主打更公平的启动和防科学家机制。它之所以上趋势，是因为最近几个在上面发射的项目暴涨，大家都想蹲下一个百倍币。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "New Listing Around the Corner",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "这个标签一般是有人在预告某个楼盘或商品即将上线，或者是近期会有一个大新闻/新产品要官宣，大家提前在社交媒体上刷屏等消息。它会上趋势通常是因为有博主或官方账号放了预告，粉丝们跟着转发讨论，加上算法推波助澜，就热起来了。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "BearDown",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "BearDown 是亚利桑那大学（University of Arizona）的官方助威口号，源自该校吉祥物野猫队的经典喊声，常被学生、校友和球迷用来为校队加油打气。它上趋势通常是因为学校有重大比赛（尤其是篮球赛事）或者相关热点事件，大量球迷集体刷屏把它顶上热搜。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Listing ID",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "简单说，Listing ID 就是某个东西在交易所或平台挂牌后的唯一编号，比如币安上新币会给你一个交易对编号。它上趋势多半是因为哪个热门项目刚上线，大家到处问“Listing ID 是多少”想去抢筹码。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Jaida",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Jaida Parker是WWE NXT的一位摔角选手，最近因为一场比赛或剧情片段在X上被大量讨论。她上趋势多半是因为某个出场、台词或比赛结果引发了摔角圈的热议和玩梗。",
-          "sentiment": "中性"
-        },
-        "tweets": []
-      },
-      {
-        "trend": "Candace Owens",
-        "sentiment": "中性",
-        "summary": {
-          "translation": "",
-          "summary": "Candace Owens是美国保守派评论员，最近因为和Charlie Kirk公开撕破脸、指控对方搞她并阻止她演讲而上了X热搜。这波热度主要来自右翼圈子内斗、她一向嘴巴大胆争议不断，每次发帖都能引流看戏。",
           "sentiment": "中性"
         },
         "tweets": []
